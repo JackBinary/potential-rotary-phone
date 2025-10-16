@@ -1,166 +1,113 @@
-// Upsert compendium documents from a JSON URL WITHOUT deleting existing docs.
-// - If _id exists in the target compendium: update it (in place).
-// - If _id does not exist: import it (keepId:true).
-// Nothing is deleted, so sheet references remain intact.
+// batchUpsertL5R5E.js
+// Legend of the Five Rings (L5R5e) Compendium batch UPSERT importer.
+// Updates existing docs in place, adds new ones, never deletes (so Actor links stay intact).
 
-(async () => {
-  // ========= CONFIG =========
-  const FILE_URL = "https://raw.githubusercontent.com/JackBinary/potential-rotary-phone/refs/heads/main/l5r5e.core-bonds_Bonds.json";
+(() => {
+  const VERSION = "1.0-upsert";
 
-  // Update mode:
-  const PATCH_ONLY = true;  // true = update only specific fields below; false = replace whole doc
-  const PATCH_PATHS = ["system.description"]; // fields to update when PATCH_ONLY=true
+  if (window.__L5R5E_BATCH_RUNNING__) {
+    console.warn("[L5R5E] batch upsert already running");
+    return;
+  }
+  window.__L5R5E_BATCH_RUNNING__ = true;
 
-  const CHUNK = 25;
-  const SHOW_TOASTS = true;
-  const UNLOCK_IF_LOCKED = true;
-  // ==========================
+  window.L5R5E = window.L5R5E || {};
 
-  const toast = (m, t="info") => SHOW_TOASTS && ui.notifications[t]?.(m);
-
-  const getByPath = (obj, path) => {
-    const parts = path.split(".");
-    let cur = obj;
-    for (const p of parts) {
-      if (cur == null || typeof cur !== "object") return undefined;
-      cur = cur[p];
-    }
-    return cur;
+  const DEFAULTS = {
+    BASE_URL: "https://raw.githubusercontent.com/JackBinary/potential-rotary-phone/refs/heads/main/",
+    FILES: [
+      "l5r5e.core-bonds_Bonds.json",
+      "l5r5e.core-peculiarities-adversities_Adversities.json",
+      "l5r5e.core-peculiarities-anxieties_Anxieties.json",
+      "l5r5e.core-peculiarities-distinctions_Distinctions.json",
+      "l5r5e.core-peculiarities-passions_Passions.json",
+      "l5r5e.core-techniques-inversions_Techniques_Inversions.json",
+      "l5r5e.core-techniques-invocations_Techniques_Invocations.json",
+      "l5r5e.core-techniques-kata_Techniques_Kata.json",
+      "l5r5e.core-techniques-kiho_Techniques_Kih_.json",
+      "l5r5e.core-techniques-maho_Techniques_Mah_.json",
+      "l5r5e.core-techniques-mantra_Techniques_Mantra.json",
+      "l5r5e.core-techniques-mastery_Mastery_Abilities.json",
+      "l5r5e.core-techniques-ninjutsu_Techniques_Ninjutsu.json",
+      "l5r5e.core-techniques-rituals_Techniques_Rituals.json",
+      "l5r5e.core-techniques-school_School_Abilities.json",
+      "l5r5e.core-techniques-shuji_Techniques_Shuji.json",
+      "l5r5e.core-titles_Titles.json",
+    ],
+    PATCH_ONLY: true,
+    PATCH_PATHS: ["system.description"],
+    CHUNK: 25,
+    UNLOCK_IF_LOCKED: true,
+    SHOW_TOASTS: true,
+    SLEEP_BETWEEN_FILES: 300
   };
 
-  const setByPath = (obj, path, value) => {
-    const parts = path.split(".");
-    let cur = obj;
-    for (let i = 0; i < parts.length - 1; i++) {
-      const p = parts[i];
-      if (cur[p] == null || typeof cur[p] !== "object") cur[p] = {};
-      cur = cur[p];
-    }
-    cur[parts[parts.length - 1]] = value;
-  };
+  const toast = (m,t="info",cfg=DEFAULTS)=>cfg.SHOW_TOASTS&&ui.notifications[t]?.(m);
+  const sleep = ms => new Promise(r=>setTimeout(r,ms));
 
-  // Build a minimal patch object that only contains PATCH_PATHS from source
-  const buildPatch = (source, paths) => {
-    const patch = {};
-    for (const p of paths) {
-      const v = getByPath(source, p);
-      if (v !== undefined) setByPath(patch, p, v);
-    }
-    return patch;
-  };
+  const getByPath=(obj,p)=>p.split(".").reduce((a,c)=>a?.[c],obj);
+  const setByPath=(obj,p,v)=>p.split(".").reduce((a,c,i,arr)=>(i===arr.length-1?a[c]=v:(a[c]??={}),a[c]),obj);
+  const buildPatch=(src,paths)=>{const o={};for(const p of paths){const v=getByPath(src,p);if(v!==undefined)setByPath(o,p,v);}return o;};
 
-  // Fetch JSON
-  let payload;
-  try {
-    const resp = await fetch(FILE_URL, { cache: "no-store" });
-    if (!resp.ok) throw new Error(`${resp.status} ${resp.statusText}`);
-    payload = await resp.json();
-  } catch (e) {
-    console.error("Fetch/parse failed", e);
-    return toast(`Failed to fetch/parse JSON: ${e.message}`, "error");
-  }
+  async function processFile(fname,cfg){
+    const url=cfg.BASE_URL+fname;
+    toast(`Fetching ${fname}…`,"info",cfg);
+    let payload;
+    try{
+      const r=await fetch(url,{cache:"no-store"});
+      if(!r.ok)throw new Error(`${r.status} ${r.statusText}`);
+      payload=await r.json();
+    }catch(e){console.error("[L5R5E] Fetch fail",e);toast(`Fetch failed: ${fname}`,"error",cfg);return {file:fname,status:"fetch-failed"};}
 
-  if (!payload?.documents || !payload?.pack?.collection) {
-    return toast("JSON missing 'documents' or 'pack.collection'.", "error");
-  }
+    if(!payload?.documents||!payload?.pack?.collection){toast(`Invalid JSON in ${fname}`,"error",cfg);return {file:fname,status:"bad-json"};}
+    const collection=payload.pack.collection;
+    const pack=game.packs.get(collection);
+    if(!pack){toast(`Pack missing: ${collection}`,"error",cfg);return {file:fname,status:"no-pack"};}
 
-  const collection = payload.pack.collection;
-  const pack = game.packs.get(collection);
-  if (!pack) return toast(`Compendium not found: ${collection}`, "error");
+    if(pack.locked&&cfg.UNLOCK_IF_LOCKED){try{await pack.configure({locked:false});toast(`Unlocked ${pack.metadata.label}`,"info",cfg);}catch(e){console.warn("Unlock failed",e);}}
 
-  // Warnings only
-  if (payload.pack.type && pack.documentName !== payload.pack.type) {
-    console.warn(`Type mismatch: JSON=${payload.pack.type} vs Pack=${pack.documentName}`);
-  }
-  if (payload.pack.system && pack.metadata.system !== payload.pack.system) {
-    console.warn(`System mismatch: JSON=${payload.pack.system} vs Pack=${pack.metadata.system}`);
-  }
+    const index=await pack.getIndex();const existing=new Set(index.map(e=>e._id));
+    let updated=0,created=0,failed=0;
 
-  if (pack.locked && UNLOCK_IF_LOCKED) {
-    try {
-      await pack.configure({ locked: false });
-      toast(`Unlocked "${pack.metadata.label}" for updates.`);
-    } catch (e) {
-      console.warn("Could not unlock pack:", e);
-    }
-  }
+    const buildTemp=async d=>pack.documentClass.create(foundry.utils.duplicate(d),{temporary:true});
 
-  // Build an index of existing IDs for quick membership checks
-  const index = await pack.getIndex();
-  const existingIds = new Set(index.map(e => e._id));
-
-  toast(`Upserting ${payload.documents.length} docs into "${pack.metadata.label}"...`);
-
-  let updated = 0, created = 0, failed = 0;
-
-  // Helper: create temp correct-class doc for import (when creating)
-  async function buildTemp(raw) {
-    const data = foundry.utils.duplicate(raw);
-    return await pack.documentClass.create(data, { temporary: true });
-  }
-
-  // Process in batches
-  for (let i = 0; i < payload.documents.length; i += CHUNK) {
-    const slice = payload.documents.slice(i, i + CHUNK);
-
-    // Split into updates vs creates
-    const toUpdate = slice.filter(d => existingIds.has(d._id));
-    const toCreate = slice.filter(d => !existingIds.has(d._id));
-
-    // --- Updates (in-place) ---
-    for (const d of toUpdate) {
-      try {
-        const doc = await pack.getDocument(d._id);
-        if (!doc) {
-          // Shouldn't happen since _id is in index, but guard anyway
-          toCreate.push(d);
-          continue;
-        }
-        if (PATCH_ONLY) {
-          const patch = buildPatch(d, PATCH_PATHS);
-          // Ensure we always send an _id for update
-          patch._id = d._id;
-          await doc.update(patch, { pack: pack.collection });
-        } else {
-          // Replace entire document data with the new content (keeping _id)
-          // Avoid changing _id; Foundry ignores _id in the payload except to target the doc.
-          await doc.update(d, { pack: pack.collection });
-        }
-        updated++;
-      } catch (e) {
-        failed++;
-        console.error(`Update failed for ${d?.name ?? d?._id}`, e, d);
-        toast(`Update failed: ${d?.name ?? d?._id}`, "warn");
+    for(let i=0;i<payload.documents.length;i+=cfg.CHUNK){
+      const slice=payload.documents.slice(i,i+cfg.CHUNK);
+      for(const d of slice){
+        try{
+          if(existing.has(d._id)){
+            const doc=await pack.getDocument(d._id);
+            if(!doc)continue;
+            if(cfg.PATCH_ONLY){const patch=buildPatch(d,cfg.PATCH_PATHS);patch._id=d._id;await doc.update(patch,{pack:pack.collection});}
+            else await doc.update(d,{pack:pack.collection});
+            updated++;
+          }else{
+            const tmp=await buildTemp(d);
+            await pack.importDocument(tmp,{keepId:true});
+            created++;
+          }
+        }catch(e){failed++;console.error(`[L5R5E] Upsert fail for ${d?.name}`,e);toast(`Fail: ${d?.name}`,"warn",cfg);}
       }
     }
-
-    // --- Creates (no deletion) ---
-    // Build temp docs first so Foundry uses correct class (e.g., ItemL5r5e)
-    const temps = [];
-    for (const d of toCreate) {
-      try {
-        const t = await buildTemp(d);
-        temps.push(t);
-      } catch (e) {
-        failed++;
-        console.error(`Temp create failed for "${d?.name ?? d?._id}"`, e, d);
-        toast(`Temp create failed: ${d?.name ?? d?._id}`, "warn");
-      }
-    }
-    for (const t of temps) {
-      try {
-        await pack.importDocument(t, { keepId: true });
-        created++;
-      } catch (e) {
-        failed++;
-        console.error(`Import failed for "${t?.name ?? t?.id}"`, e, t);
-        toast(`Import failed: ${t?.name ?? t?.id}`, "warn");
-      }
-    }
+    await pack.getIndex({reload:true});
+    toast(`${pack.metadata.label}: ${updated} updated, ${created} created, ${failed} failed`,"info",cfg);
+    return {file:fname,updated,created,failed};
   }
 
-  await pack.getIndex({ reload: true });
+  async function main(opts={}){
+    const cfg=Object.assign({},DEFAULTS,opts);
+    const results=[];
+    console.info(`[L5R5E] Batch UPSERT v${VERSION} starting…`);
+    for(const f of cfg.FILES){
+      results.push(await processFile(f,cfg));
+      await sleep(cfg.SLEEP_BETWEEN_FILES);
+    }
+    console.table(results);
+    toast("Batch upsert done — see console for summary","info",cfg);
+    window.__L5R5E_BATCH_RUNNING__=false;
+    return results;
+  }
 
-  toast(`Upsert complete: ${updated} updated, ${created} created, ${failed} failed.`);
-  console.log(`Upsert summary for ${collection}:`, { updated, created, failed });
+  window.L5R5E.batchUpsert=main;
+  main();
 })();
