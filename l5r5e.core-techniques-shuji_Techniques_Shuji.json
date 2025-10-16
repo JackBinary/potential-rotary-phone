@@ -1,0 +1,3622 @@
+{
+  "exportedAt": "2025-10-16T22:34:08.107Z",
+  "foundryVersion": "12.331",
+  "systemId": "l5r5e",
+  "pack": {
+    "label": "Techniques Shuji",
+    "collection": "l5r5e.core-techniques-shuji",
+    "type": "Item",
+    "system": "l5r5e"
+  },
+  "count": 88,
+  "documents": [
+    {
+      "_id": "L5RCoreShu000001",
+      "name": "Rustling of Leaves",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "215"
+        },
+        "description": "<h2>Rustling of Leaves</h2>\n<h3>Rank 1</h3>\n<p>If everyone has heard a scandalous story, but it has no clear source, what can it be but true? The courtier cleverly spreads stories so none see them as the source.</p>\n<ul>\n<li>Activation: When you make a Social skill (Air) check to spread a rumor, you may spend (op) in the following way:</li>\n<li>Air (op)+: Increase the TN of any check to trace the rumor back to you by 2 per (op) spent this way.</li>\n</ul>\n<p><strong>New Opportunities</strong></p>\n<ul>\n<li>Air (op): Learn one other rumor that is spreading in the current scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000002",
+      "name": "Cadence",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "214"
+        },
+        "description": "<h2>Cadence</h2>\n<ul>\n<li>Rank 1<br>In courtly situations, it can be advantageous for courtiers of the same clan to be able to communicate wordlessly.<br>Activation: When you make a Social skill (Air) check, you may spend (op) in the following ways:<br>• Air (op): Convey a secret message that alters the meaning of what you are saying outwardly (or has nothing to do with it at all) to one character observing you who possesses this technique.<br>• Air (op) (op): Convey a secret message that alters the meaning of what you are saying outwardly (or has nothing to do with it at all) to one character observing you who does not possess this technique.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000003",
+      "name": "Artisan’s Appraisal",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "214"
+        },
+        "description": "<h2>Artisan’s Appraisal</h2>\n<ul>\n<li>Rank 2<br>The courtier looks at an object but sees its maker. Each thumbprint tells a story about the hand that crafted the piece; every subtle choice reveals something about the desires that linger in the artist’s mind.<br>Activation: When assessing an object or performance with an Artisan skill (Air), Performance (Air), or Games (Air) check, you may spend (op) in the following ways:<br>• Air (op): Choose a ring; learn the value of that ring for the creator or performer and all advantages and disadvantages attached to that ring that are not of the curse type.<br>• Air (op): If the creator or performer is an NPC, learn their demeanor.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000004",
+      "name": "Bend with the Storm",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "214"
+        },
+        "description": "<h2>Bend with the Storm</h2>\n<ul>\n<li>When faced with a much more powerful foe, a cunning courtier often feigns a position of weakness. In this way, they can lead the opponent where they desire by offering chances the foe cannot pass up.</li>\n<li>Activation: When you make a Social skill (Air) check targeting another character, you may spend (op) in the following way:</li>\n<li>Air (op): Choose an advantage or disadvantage. The target comes to believe that you possess that advantage or disadvantage without your having to expend noticeable effort or state it directly. Further, the target believes that you do not know you have given this advantage or disadvantage away. If you do anything that could call this misconception into question, any character may resist with a TN 5 Sentiment check (Earth 6, Fire 3) to discern that the advantage or disadvantage is not real. This effect persists until the target is faced with incontrovertible evidence or succeeds on the check to resist in the face of cracks in your façade.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000005",
+      "name": "The Wind Blows Both Ways",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "215"
+        },
+        "description": "<h2>The Wind Blows Both Ways</h2>\n<h3>Rank 3</h3>\n<p>A word in the right ear at the right time can enhance the accomplishment of another, or a cutting slight can diminish their success in the eyes of those who matter.</p>\n<p><strong>Activation:</strong> When you make a Courtesy or Performance (Air) check targeting another character, you may spend (op) in the following ways:</p>\n<ul>\n<li>Air (op)+: The next time the target receives a glory award, increase the glory they gain by 1 per (op) spent this way. This effect persists until the end of the scene.</li>\n<li>Air (op)+: The next time the target forfeits or stakes glory, increase the glory they must forfeit or stake by 1 per (op) spent this way. This effect persists until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000006",
+      "name": "Prey on the Weak",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "215"
+        },
+        "description": "<h2>Prey on the Weak</h2>\n<ul>\n<li>Activation: As a Scheme action, you may make a TN 1 Courtesy (Air) check targeting a Compromised character.</li>\n<li>Effects: If you succeed, your target must choose one of the following:</li>\n<li>Immediately unmask in a manner of their choosing based on the circumstances.</li>\n<li>Forfeit glory equal to your Air Ring plus your bonus successes to leave the scene.</li>\n<ul>\n<li>New Opportunities</li>\n<li>Air (op)+: If the target chooses to unmask, you learn one of their disadvantages of their choice per (op) spent this way.</li>\n<li>Air (op) (op): If the target chooses to leave the scene, you notice their destination from the direction of their departure or overhear from the crowd where they will retreat.</li>\n</ul>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "courtesy",
+        "difficulty": "1",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000007",
+      "name": "Whispers of Court",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "215"
+        },
+        "description": "<h2>Whispers of Court</h2>\n<h3>Rank 1</h3>\n<p>Rumors are the currency of court, and when such news is in short supply, many courtiers simply spin it themselves. They use cunning schemes and plausible half-truths to bait their webs of intrigue.</p>\n<p><strong>Activation:</strong> As a Scheme action, you may make a Courtesy (Air) check targeting each character in the scene. The TN of this check is equal to the lowest vigilance among your targets.</p>\n<p><strong>Effects:</strong> If you succeed, you create a rumor that sweeps across the room like a storm. Everyone in the scene hears it, and characters with vigilance lower than your bonus successes even come to give it some credence. If spreading a rumor is your social objective in an intrigue, you score rhetorical points equal to your Air Ring plus your bonus successes.</p>\n<ul>\n<li><strong>New Opportunities:</strong> Air (op): Learn one other rumor that is spreading in the current scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "courtesy",
+        "difficulty": "@T:vigilance|min",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000008",
+      "name": "Feigned Opening",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "214"
+        },
+        "description": "<h2>Feigned Opening</h2>\n<ul>\n<li>A wise leader creates the impression of weakness to disguise strength, or strength to conceal weakness.</li>\n<li>Activation: As a Movement and Scheme action, you may make a Performance (Air) check targeting one character in the scene who is observing you. The TN is equal to the target’s vigilance. This technique can only be used during skirmish and mass battle conflicts.</li>\n<li>Effects: If you succeed, reduce the TN of the next Attack checks against each target (or their cohort, in a mass battle) by 1 plus your bonus successes. This effect persists until the end of your next turn.</li>\n<li>New Opportunities:<br>\n<ul>\n<li>Air (op)+: Choose one additional target with vigilance lower than or equal to the original target’s per (op) spent this way.</li>\n<li>Air (op)+: In a mass battle, increase the TN of Attack checks targeting your cohort by 1, plus 1 per additional (op) (op) spent this way.</li>\n</ul>\n</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "performance",
+        "difficulty": "@T:vigilance",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000009",
+      "name": "Wolf’s Proposal",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "215"
+        },
+        "description": "<h2>Wolf’s Proposal</h2>\n<h3>Rank 4</h3>\n<p>Being honorable is of the same value to a courtier as appearing honorable. True honor cannot be faked, but fortunately for many, the appearance of respectability can be fabricated.</p>\n<ul>\n<li><strong>Activation:</strong> As a Scheme action, you may make a Courtesy or Performance (Air) check targeting any number of characters in the scene. The TN of this check is equal to the highest vigilance among your targets.</li>\n<li><strong>Effects:</strong> If you succeed, each target behaves as though your honor is 10 higher or lower than its actual value, plus or minus an additional 10 for each bonus success (to a maximum honor value of 100 or a minimum honor value of 0). If you do anything that could call your perceived honor into question, any target may resist with a TN 4 Sentiment check (Earth 5, Fire 2) to determine your actual honor attribute. This effect persists until the end of the scene.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities:</strong></li>\n<li>Air (op): Choose a character in the scene. Learn if their honor is higher or lower than yours (the actual value).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "courtesy,performance",
+        "difficulty": "@T:vigilance|max",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000010",
+      "name": "Ancestry Unearthed",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "216"
+        },
+        "description": "<h2>Ancestry Unearthed</h2>\n<ul>\n<li><strong>Rank 1</strong>: A samurai’s ancestry often reveals a great deal about their political opportunities, assets, and probable allies in the Emerald Empire, for the rigid social strata allow little divergence. Any courtier can likely dredge up another samurai’s lineage from the dark corners of their mind, but some can recall it in an instant.<br>Activation: When you make a Scholar skill (Earth) or Social skill (Earth) check targeting a character, you may spend (op) as follows:<br>• Earth (op): You know one sworn oath the character’s family took in the past, and whether or not they have broken or bent it.<br>• Earth (op) (op): You know one secret of the character’s family that they would prefer be forgotten, and have perhaps even worked to bury.<br>• Earth (op) (op) (op): You know something the character does not even know about their own ancestry.</li>\n<li><strong>Civility Foremost</strong> (Rank 2): Samurai are warriors, but there are many contexts in which violence is inappropriate. Many strictures exist around the times weapons can and cannot be drawn. A courtier who has memorized the rules of such engagements can articulate why fighting would be improper or profane in nearly any situation.<br>Activation: As a Scheme action, you may make a Command or Courtesy (Earth) check targeting one character to claim protection for an individual of your choice by rights of honor. The TN of the check is equal to the target’s vigilance.<br>Effects: If you succeed, the target must forfeit honor equal to your Earth Ring plus your bonus successes and suffer that much strife to perform an Attack or Scheme action targeting the chosen individual. This effect persists until the end of the scene, or until the target performs an Attack or Scheme action.<br>New Opportunities: Earth (op)+: Choose one additional target with vigilance lower than or equal to your first target’s vigilance per (op) spent this way.</li>\n<li><strong>Honest Assessment</strong> (Rank 1): Honesty is a virtue of Bushidō, but direct honesty is often seen as rudeness among the samurai—instead, one is expected to find a polite way to imply one’s meaning to spare the feelings of the other involved. As a result, directness can be something of a rare and valuable commodity.<br>Activation: As a Support action, you may make a TN 2 Courtesy (Earth) check to appraise the weaknesses of a character.<br>Effects: If you succeed, choose one of the target’s known disadvantages. The target does not apply that disadvantage to their checks until the end of the scene.<br>New Opportunities: Earth (op)+: Choose one additional disadvantage per (op) spent this way.<br>Earth (op) (op): Reduce the TN of the target’s next skill check using the ring the disadvantage is attached to by 2.</li>\n<li><strong>Pillar of Calm</strong> (Rank 4): The character calls for reason to prevail and swords to be sheathed, appealing to a common ideal or greater threat that stands before the belligerent parties.<br>Activation: As a Scheme and Support action, you may make a Command (Earth) check targeting a number of characters up to your Earth Ring times your school rank. The TN of this check is equal to the highest strife among the targets.<br>Effects: If you succeed while targeting all of the leaders involved in a conflict, you may de-escalate the conflict one level (from a mass battle to a skirmish, a skirmish to a duel, or a duel to an intrigue).<br>New Opportunities: Earth (op) (op)+: You may de-escalate the conflict by one additional level per (op) (op) spent this way.</li>\n<li><strong>Stonewall Tactics</strong> (Rank 1): The courtier makes themself impossible for the target to ignore, raising a pressing concern that must be addressed first or even physically planting themself between a rival and their allies.<br>Activation: When making a Social skill (Earth) or Martial skill (Earth) check targeting a character, you may",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000011",
+      "name": "Touchstone of Courage",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "217"
+        },
+        "description": "<h2>Touchstone of Courage</h2>\n<ul>\n<li>Rank 3<br>Armies are rarely routed in the field; instead, most collapse when morale becomes impossible to maintain. As panic rises in the ranks, soldiers look to leaders to set an example. The character does just this, speaking to the importance of duty to bring their troops back from the edge of chaos.</li>\n<li>Activation: As a Support action, you may make a TN 4 Command (Earth) check targeting any number of characters (or your cohort during a mass battle).</li>\n<li>Effects: If you succeed during an intrigue, duel, or skirmish conflict, each target increases their composure by your Earth Ring. This effect persists until the end of the scene. If you succeed during a mass battle, increase your army’s discipline by your Earth Ring plus your bonus successes. This effect persists until the end of the scene.</li>\n<li>New Opportunities<br>Earth (op) (op): During an intrigue, duel, or skirmish, each target removes strife equal to your Earth Ring.<br>Earth (op) (op): During a mass battle, your army removes panic equal to your Earth Ring.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "command",
+        "difficulty": "4",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000012",
+      "name": "Honest Assessment",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "216"
+        },
+        "description": "<h2>Honest Assessment</h2>\n<ul>\n<li>Honesty is a virtue of Bushidō, but direct honesty is often seen as rudeness among the samurai—instead, one is expected to find a polite way to imply one’s meaning to spare the feelings of the other involved. As a result, directness can be something of a rare and valuable commodity.</li>\n<li>Activation: As a Support action, you may make a TN 2 Courtesy (Earth) check to appraise the weaknesses of a character.</li>\n<li>If you succeed, choose one of the target’s known disadvantages. The target does not apply that disadvantage to their checks until the end of the scene.</li>\n</ul>\n<ul>\n<li>New Opportunities</li>\n<li>Earth (op)+: Choose one additional disadvantage per (op) spent this way.</li>\n<li>Earth (op) (op): Reduce the TN of the target’s next skill check using the ring the disadvantage is attached to by 2.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "courtesy",
+        "difficulty": "2",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000013",
+      "name": "The Immovable Hand of Peace",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "217"
+        },
+        "description": "<h2>The Immovable Hand of Peace</h2>\n<h3>Rank 5</h3>\n<p>The courtier calls for the warriors in the field to lay down their arms and withdraw with such unquestionable conviction that even the fires of hate are temporarily smothered.</p>\n<ul>\n<li><strong>Activation:</strong> Once per game session as a Scheme action, during a duel or skirmish, you may make a TN 5 Command (Earth) check targeting every character in the scene.</li>\n<li><strong>Effects:</strong> If you succeed, the scene becomes an intrigue between you and the other principal characters. This effect persists for one round, plus additional rounds equal to your bonus successes. If you have not achieved a peaceful resolution by the time this effect ends, the scene returns to its previous state.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities:</strong> Earth (op): You may also perform this action during a mass battle or other form of conflict (other than an intrigue).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "command",
+        "difficulty": "5",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000014",
+      "name": "Civility Foremost",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "216"
+        },
+        "description": "<h2>Civility Foremost</h2>\n<h3>Rank 2</h3>\n<p>Samurai are warriors, but there are many contexts in which violence is inappropriate. Many strictures exist around the times weapons can and cannot be drawn. A courtier who has memorized the rules of such engagements can articulate why fighting would be improper or profane in nearly any situation.</p>\n<ul>\n<li>As a Scheme action, you may make a Command or Courtesy (Earth) check targeting one character to claim protection for an individual of your choice by rights of honor. The TN of the check is equal to the target’s vigilance.</li>\n<li>If you succeed, the target must forfeit honor equal to your Earth Ring plus your bonus successes and suffer that much strife to perform an Attack or Scheme action targeting the chosen individual. This effect persists until the end of the scene, or until the target performs an Attack or Scheme action.</li>\n</ul>\n<h4>New Opportunities</h4>\n<ul>\n<li>Earth (op)+: Choose one additional target with vigilance lower than or equal to your first target’s vigilance per (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "command,courtesy",
+        "difficulty": "@T:vigilance",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000015",
+      "name": "Weight of Duty",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "217"
+        },
+        "description": "<h2>Weight of Duty</h2>\n<h3>Rank 1</h3>\n<p>All samurai know the pressure of expectation in countless forms. An observant courtier can read this when engaging with another character, learning their beliefs and in what ways they fear they might not live up to their own expectations.</p>\n<ul>\n<li>When you make a Social skill (Earth) check targeting a character, you may spend (op) as follows:</li>\n<li>Earth (op): Learn one way the target fears failing as a samurai.</li>\n<li>Earth (op) (op): Learn the target’s giri (see page 39).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000016",
+      "name": "Pillar of Calm",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "216"
+        },
+        "description": "<h2>Pillar of Calm</h2>\n<h3>Rank 4</h3>\n<ul>\n<li>Activation: As a Scheme and Support action, you may make a Command (Earth) check targeting a number of characters up to your Earth Ring times your school rank. The TN of this check is equal to the highest strife among the targets.</li>\n<li>Effects: If you succeed while targeting all of the leaders involved in a conflict, you may de-escalate the conflict one level (from a mass battle to a skirmish, a skirmish to a duel, or a duel to an intrigue).</li>\n</ul>\n<ul>\n<li>New Opportunities: Earth (op) (op)+: You may de-escalate the conflict by one additional level per (op) (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "command",
+        "difficulty": "@T:strife.value|max",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000017",
+      "name": "Stonewall Tactics",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "216"
+        },
+        "description": "<h2>Stonewall Tactics</h2>\n<h3>Rank 1</h3>\n<ul>\n<li>When making a Social skill (Earth) or Martial skill (Earth) check targeting a character, you may spend (op) in the following way:</li>\n<li>Earth (op)+: Increase the TN of any check the target makes that does not target you by 1 per (op) spent this way. This effect persists until the beginning of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000018",
+      "name": "Fanning the Flames",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "218"
+        },
+        "description": "<h2>Fanning the Flames</h2>\n<h3>Rank 2</h3>\n<p>Inciting people to act foolishly or to flinch at the crucial moment is a key skill of a courtier, for words are their weapons. Inducing unchecked emotion is another tool in the courtier’s arsenal, and most become quite adept in the art of manipulating people into feeling certain things that are advantageous for the courtier. The courtier stings their target’s pride with needling comments or makes a flirtatious remark to draw their attention, pulling the target’s emotions to the surface and making them easier to predict.</p>\n<ul>\n<li><strong>Activation:</strong> When making a Social skill (Fire) check targeting one or more characters, you may spend (op) in the following way:</li>\n<li><strong>Fire (op)+:</strong> One target gains the Dazed condition per (op) spent this way.</li>\n<li><strong>Fire (op) (op)+:</strong> One target gains the Enraged condition per (op) (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000019",
+      "name": "Bravado",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "218"
+        },
+        "description": "<h2>Bravado</h2>\n<p>Rank 4</p>\n<p>Glory is half reputation and half poise. The courtier displays a confident mien, speaking more informally than propriety should allow. Their words and posture carry a tinge of arrogance, making them harder to ignore.</p>\n<ul>\n<li>Activation: As a Scheme action, you may make a Games (Fire) or Performance (Fire) check targeting any number of characters in the scene. The TN of this check is equal to the highest vigilance among your targets.</li>\n<li>Effects: If you succeed, each target behaves as though your glory is 10 higher or lower than its actual value, plus or minus an additional 10 for each bonus success (to a maximum glory value of 100 or a minimum glory value of 0). If you do anything that could call your glory into question, any character may resist with a TN 4 Sentiment check (Air 5, Water 2) to determine your actual glory attribute. This effect persists until the end of the scene.</li>\n</ul>\n<h3>New Opportunities</h3>\n<ul>\n<li>Fire (op): Choose a character in the scene. Learn if their glory is higher or lower than yours (the actual value).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "games,performance",
+        "difficulty": "@T:vigilance|max",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000020",
+      "name": "Rallying Cry",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "219"
+        },
+        "description": "<h2>Rallying Cry</h2>\n<h3>Rank 3</h3>\n<p>The leader roars, calling their troops to battle, and the voice of an army echoes around them as the single cry is joined by many. As one, the troops surge forward to claim victory or perish in the attempt.</p>\n<ul>\n<li><strong>Activation:</strong> As a Support action, you may make a TN 2 Command (Fire) or Performance (Fire) check targeting any number of characters in the scene (or one cohort in a mass battle).</li>\n<li><strong>Effects:</strong> If you succeed, the targets are energized and excited by your rhetoric. After Step 5: Choose Kept Dice, each target adds a kept <span class=\"symbol\"></span> set to an (op) <span class=\"symbol\"></span> result. This effect persists until the end of your next turn.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities:</strong></li>\n<li>Fire (op)+: In a skirmish, each enemy in the scene suffers 1 strife per (op) spent this way.</li>\n<li>Fire (op)+: In a mass battle, the enemy army suffers 1 panic per (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "command,performance",
+        "difficulty": "2",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000021",
+      "name": "Sensational Distraction",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "219"
+        },
+        "description": "<h2>Sensational Distraction</h2>\n<h3>Rank 1</h3>\n<p>Standing out in court requires a great deal of both cunning and flair, and standing out on purpose can be even harder. Courtiers train for much of their lives to learn to control the perceptions of others at court. The best courtiers know when to draw attention to themselves with a display of rhetorical prowess or another social feat and when to avoid attention. Drawing attention to oneself can give collaborators the chance to work unnoticed as well, and thus it is an extremely valuable tool in the courtier's arsenal.</p>\n<ul>\n<li>Activation: When making a Social skill (Fire) check targeting one or more characters, you may spend (op) in the following way:</li>\n<li>Fire (op)+: When interacting with other characters, the target treats their vigilance as 1 lower per (op) spent this way; when interacting with you, the target treats their vigilance as 1 higher per (op) spent this way. This effect persists until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000022",
+      "name": "Dazzling Performance",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "218"
+        },
+        "description": "<h2>Dazzling Performance</h2>\n<h3>Rank 3</h3>\n<p>Performing a great feat can win a character renown, but performing a great feat and then telling the story of it draws far greater accolades. A courtier building a reputation in the competitive courts of Rokugan must master not just excellence, but also capture the imagination.</p>\n<ul>\n<li><strong>Activation:</strong> When making an Artisan skill (Fire), Games (Fire), or Performance (Fire) check, you may spend (op) in the following way:</li>\n<li><strong>Fire (op)+:</strong> The next time you receive a glory award this scene, increase the amount you receive by 1. If there is a character of higher status in the scene, increase it by 1 per (op) spent this way instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000023",
+      "name": "Truth Burns through Lies",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "219"
+        },
+        "description": "<h2>Truth Burns through Lies</h2>\n<h3>Rank 1</h3>\n<p>The courtier rapidly extrapolates, imagining the ramifications of a story and conjecturing what might have gone unsaid. If a loose thread exists in the account, they can find it, and that first thread can become the unraveling of the most cunning duplicity.</p>\n<ul>\n<li>Activation: When making a Scholar skill (Fire) check to assess a character’s story, you may spend (op) in the following way:</li>\n<li>Fire (op): If there is a single statement upon which the character’s story hinges, you determine what it is and what you would need to do to verify or disprove it.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000024",
+      "name": "Sear the Wound",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "219"
+        },
+        "description": "<h2>Sear the Wound</h2>\n<h3>Rank 5</h3>\n<p>Many courtiers cannot resist the opportunity to twist the knife after delivering a stabbing remark, but the wise use this power judiciously. Though somewhat cruel, the technique of bringing a rival’s weakness to the forefront of their mind to burn away at their resolve is often effective.</p>\n<ul>\n<li><strong>Activation:</strong> When making a Social skill (Fire) check targeting one or more characters, you may spend (op) in the following way:</li>\n<li><strong>Fire (op)+:</strong> Choose a known disadvantage of one of your targets per (op) spent this way. That disadvantage applies to all of the target’s checks until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000025",
+      "name": "Lightning Raid",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "218"
+        },
+        "description": "<h2>Lightning Raid</h2>\n<h3>Rank 2</h3>\n<ul>\n<li><strong>Activation:</strong> Once per scene, as an Attack and Movement action, you may make a TN 3 Command (Fire) check targeting any number of characters in the scene (or one cohort in a mass battle).</li>\n<li><strong>Effects:</strong> If you succeed during a skirmish, each character increases their initiative by your Fire Ring plus your bonus successes at the beginning of the next round. If you succeed during a mass battle, one enemy leader’s cohort suffers panic equal to your Fire Ring plus your bonus successes.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities</strong></li>\n<li>Fire (op): During a skirmish, immediately perform a Strike action (see page 260).</li>\n<li>Fire (op): During a mass battle, immediately perform an Assault action (see page 278) against the chosen enemy cohort’s leader.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "command,performance",
+        "difficulty": "3",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000026",
+      "name": "Stirring the Embers",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "219"
+        },
+        "description": "<h2>Stirring the Embers</h2>\n<h3>Rank 1</h3>\n<p>A good leader does not just compensate for the weaknesses of comrades, but also fosters their innate strengths. The courtier reminds an ally of one of their finer qualities, sparking their pride to get them to fight more fiercely or speak with greater conviction.</p>\n<ul>\n<li>Activation: When making a Social skill (Fire) check targeting one or more characters, you may spend (op) in the following way:</li>\n<li>Fire (op)+: Choose a target and one of their known distinctions per (op) spent this way. Until the end of the scene, when that advantage applies to a check, the target may reroll up to three dice (instead of two).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000027",
+      "name": "Tributaries of Trade",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "221"
+        },
+        "description": "<h2>Tributaries of Trade</h2>\n<h3>Rank 2</h3>\n<p>Gift giving is an important cultural practice in Rokugan (as is the art of gift refusal, which any potential recipient must repeat at least twice before accepting the third offer). While some courtiers have a gift prepared for any possible contingency, many simply get acquainted with the art of explaining why a gift could only have been intended for its current recipient (even if they originally procured it for a different purpose). The ability to quickly acquire an item is valued among all courtiers, as a gift demands reciprocity in some kind, whether that be in favors, esteem, or subsequent gifts.</p>\n<ul>\n<li><strong>Activation:</strong> Once per scene as a Scheme and Support action, you may make a TN 1 Commerce (Water) skill check to establish that you acquired a chosen item earlier. From a narrative standpoint, you procured this gift during your last opportunity (or sent an attendant to retrieve it) but are only revealing it now.</li>\n<li><strong>Effects:</strong> If you succeed, you produce an item with a rarity less than or equal to 1 plus your bonus successes. You must still pay the price of the item.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities:</strong> Water (op)+: Reduce the price you must pay for the item by one-quarter per (op) spent this way (to a minimum of one-quarter of the original price).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "commerce",
+        "difficulty": "1",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000028",
+      "name": "All in Jest",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "220"
+        },
+        "description": "<h2>All in Jest</h2>\n<ul>\n<li><strong>Rank 1</strong>: Veteran courtiers sometimes play off missteps as jokes. This underhanded but effective tactic puts the other person in a difficult position: press the issue and seem stubborn, or let it slide and give the courtier a pass.<br>Activation: When you make a Commerce (Water), Courtesy (Water), or Performance (Water) check, you may spend (op) in the following way:<br>Water (op)+: If you forfeited honor as part of the check in order to say something rude or appeal to your target’s base desires (greed, lust, laziness, etc.), regain 1 honor per (op) spent this way (see Forfeiting Social Attributes, on page 37).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "commerce,courtesy,performance",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000029",
+      "name": "Buoyant Arrival",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "220"
+        },
+        "description": "<h2>Buoyant Arrival</h2>\n<ul>\n<li>Some people have the ability to blend in with any social environment, fluidly adapting to the rough atmosphere of the humblest tavern one day, while walking among the rulers of the Empire the next.</li>\n<li>Activation: As a Scheme action, you may make a Courtesy (Water) check targeting a number of characters up to your Water Ring. The TN of the check is equal to the vigilance of the character with the highest status among your targets.</li>\n<li>Effects: If you succeed, you may enter or leave the conversation gracefully. You need not forfeit honor or glory for interrupting, suddenly departing, or preempting someone else, regardless of the respective status of the participants.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "courtesy",
+        "difficulty": "@T:vigilance|max(statusRank)",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000030",
+      "name": "Ebb and Flow",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "220"
+        },
+        "description": "<h2>Ebb and Flow</h2>\n<ul>\n<li>Just as hardest ice and the gentlest mist are composed of the same water, seasoned courtiers know that all it takes is time and work to transform strength into weakness and weakness into strength. The courtier manipulates a person's perceptions with ease, keeping their allies confident and their foes uneasy.</li>\n<li>Activation: As a Scheme or Support action, you may make a Courtesy (Water), Command (Water), or Games (Water) check targeting one character. The TN of this check is equal to the target’s vigilance.</li>\n<li>Effects: If you succeed (and chose Scheme action), choose one of the target’s advantages that you know; whenever it applies, invert it. This effect persists until the end of the scene.</li>\n<li>If you succeed (and chose Support action), choose one of the target’s disadvantages you know; whenever it applies, invert it. This effect persists until the end of the scene.</li>\n<li>New Opportunities<br>Water (op): Choose one additional advantage or disadvantage and apply the effect to it.</li>\n<li>Water (op) (op)+: Choose one additional target with vigilance lower than or equal to your first target’s vigilance per (op) (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "courtesy,command,games",
+        "difficulty": "@T:vigilance",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000031",
+      "name": "Slippery Maneuvers",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "221"
+        },
+        "description": "<h2>Slippery Maneuvers</h2>\n<h3>Rank 2</h3>\n<p>The leader makes several signals and calls out a command—often a code word—to their troops; suddenly, the formation shifts in unison to take advantage of the terrain around them.</p>\n<ul>\n<li><strong>Activation:</strong> As a Movement and Support action, you may make a TN 2 Command (Water) check targeting any number of friendly characters in the scene (or your cohort during a mass battle). This technique can only be used during a skirmish or mass battle.</li>\n<li><strong>Effects:</strong> If you succeed during a skirmish, choose a position containing terrain that you can see. Each target may immediately move 1 range band toward it. Attack checks targeting any of your targets inside the terrain treat the terrain as having the Obscuring terrain quality. This effect persists until the end of the scene.</li>\n<li>If you succeed during a mass battle, choose a piece of terrain you can see. You and your cohort may immediately move to occupy it if it is unoccupied. Attack action checks targeting you and your cohort while you are inside the terrain treat the terrain as having the Obscuring terrain quality. This effect persists until the end of the scene.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities:</strong> Water (op): Each target is able to leverage Obscuring terrain to better effect; Attack action checks targeting them have their TN increased by 2 instead of 1. This effect persists until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "command",
+        "difficulty": "2",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000032",
+      "name": "Regal Bearing",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "220"
+        },
+        "description": "<h2>Regal Bearing</h2>\n<h3>Rank 4</h3>\n<ul>\n<li>Courtiers train in the art of carrying themselves no matter what clothing they wear, gaining impeccable control over their posture, tone, and choice of words to project exactly the social standing they desire others to see.</li>\n<li>Activation: As a Scheme action, you may make a Command (Water) or Performance (Water) check targeting any number of characters in the scene. The TN of this check is equal to the highest vigilance among your targets.</li>\n<li>Effects: If you succeed, each target treats your status as being 10 higher or lower (to a maximum status of 100 or a minimum status of 0), plus or minus an additional 10 per bonus success. If you do anything that could call your status into question, any character may resist with a TN 4 Sentiment check (Earth 2, Fire 5) to determine your actual status attribute. This effect persists until the end of the scene.</li>\n</ul>\n<h4>New Opportunities</h4>\n<ul>\n<li>Water (op): Choose a character in the scene. Learn if their status is higher or lower than yours (the actual value).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "command,performance",
+        "difficulty": "@T:vigilance|max",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000033",
+      "name": "Well of Desire",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "221"
+        },
+        "description": "<h2>Well of Desire</h2>\n<h3>Rank 1</h3>\n<ul>\n<li>Bribery is considered to be corruption in Rokugan, yet gift exchanges and gift giving is a time-honored tradition. The shrewdest courtiers can engineer scenarios in which their targets cannot refuse their gifts without tarnishing their reputations. Thus, the recipient of such a poisoned gift might find it preferable to owe the courtier a favor than to be shamed in public.</li>\n<li>Activation: When you make a Courtesy (Water) check to present a gift to a target, you may spend (op) as follows:</li>\n<li>Water (op): To refuse your gift, your target must forfeit glory equal to your Water Ring. Additionally, if the gift is something that the target desires, the target also must suffer strife equal to its rarity to refuse it. If your target accepts the gift, reduce the TN of your next Social skill check targeting them by the rarity of the item (to a minimum of 1).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000034",
+      "name": "Shallow Waters",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "220"
+        },
+        "description": "<h2>Shallow Waters</h2>\n<h3>Rank 1</h3>\n<ul>\n<li>When you make a Social skill (Water) check targeting a character, you may spend (op) as follows:</li>\n<li>Water (op): Learn of one material item or worldly experience the target desires.</li>\n<li>Water (op) (op): Learn the target’s ninjō (see page 38).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000035",
+      "name": "Lady Shinjo’s Speed (Unicorn)",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/unicorn.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "222"
+        },
+        "description": "<h2>Lady Shinjo’s Speed (Unicorn)</h2>\n<h3>Rank 2</h3>\n<p>The Kami Shinjo carried within her a curiosity that could never be fully satisfied. Her passion extends to her clan, who still feel the call of the unexplored. Peerless riders, the Unicorn Clan finds their way across unfamiliar terrain with ease, as Shinjo taught them centuries ago.</p>\n<ul>\n<li><strong>Activation:</strong> As a downtime activity, if you have a steed available, you may make a TN 2 Survival (Void) check to reach a destination with extreme swiftness.</li>\n<li><strong>Effects:</strong> If you succeed, you reach the destination in half the time it would normally require. If you so desire, one character may ride along with you.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities</strong></li>\n<li>Void (op): You may lead a number of willing characters with mounts of their own up to your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "survival",
+        "difficulty": "2",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000036",
+      "name": "Lady Doji’s Decree (Crane)",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crane.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "222"
+        },
+        "description": "<h2>Lady Doji’s Decree (Crane)</h2>\n<h3>Rank 2</h3>\n<ul>\n<li>Activation: Once per game session as an action, you may make a Courtesy (Void) check targeting a number of characters up to your school rank. The TN of this check is equal to the vigilance of the character with the highest status among your targets.</li>\n<li>Effects: If you succeed, your targets cannot perform Attack actions targeting you. This effect persists for one round, plus additional rounds equal to your bonus successes, or until you perform an Attack action.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities</strong></li>\n<li>Void (op)+: Choose one additional target with status lower than your first target per (op) spent this way.</li>\n<li>Void (op) (op): Your targets also cannot perform Scheme actions targeting you.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "courtesy",
+        "difficulty": "@T:vigilance|max(statusRank)",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000037",
+      "name": "Courtier’s Resolve",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "222"
+        },
+        "description": "<h2>Courtier’s Resolve</h2>\n<h3>Rank 1</h3>\n<p>Warriors do battle with their bodies, and courtiers do battle with their minds. To maintain one’s composure while surrounded by the challenges of court, one must be able to clear and organize one’s mind, returning focus to the most vital tasks.</p>\n<ul>\n<li>Activation: Once per scene as a Support action, you may spend 1 Void point to recover from strife.</li>\n<li>Effects: Remove strife equal to your glory rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000038",
+      "name": "A Samurai’s Fate",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "222"
+        },
+        "description": "<h2>A Samurai’s Fate</h2>\n<h3>Rank 4</h3>\n<ul>\n<li>Activation: As an action, you make a TN 5 Command (Void) check targeting any number of characters (or your cohort, during a mass battle).</li>\n<li>Effects: If you succeed during a skirmish, each target ignores any critical strikes with severity lower than your Void Ring plus your bonus successes. This effect persists until the end of the scene (at which point the injuries take effect).</li>\n<li>If you succeed during a mass battle, your army counts as having the Fearless Army ability, below:</li>\n<li>Fearless Army: At the end of each round, your army removes panic equal to your glory rank. This effect persists until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "command",
+        "difficulty": "5",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000039",
+      "name": "Lord Bayushi’s Whispers (Scorpion)",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/scorpion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "223"
+        },
+        "description": "<h2>Lord Bayushi’s Whispers (Scorpion)</h2>\n<h3>Rank 2</h3>\n<p>The Kami Bayushi, self-appointed villain of the Emperor Hantei and master of duplicity, founded the Scorpion Clan with a simple purpose: to dishonor themselves so that others could live honorably. Bayushi maintained vast networks of spies and informants, and he was extremely skilled at turning assets others used to try to spy on him. The Scorpion Clan has carried on this tradition with an efficiency that would surely make Bayushi proud. Hardly a town exists in the Empire without an agent of the Scorpion.</p>\n<ul>\n<li><strong>Activation:</strong> Once per game session, during a narrative scene or as a downtime activity, you may make a TN 2 Skulduggery (Void) check to uncover an informant who can give you information about a subject.</li>\n<li><strong>Effects:</strong> If you succeed, you reveal one informant who can give you information about a topic of your choice. If the informant’s profile is required, use an appropriate NPC of the GM’s choice (see Chapter 8: Non-Player Characters).</li>\n</ul>\n<ul>\n<li><strong>New Opportunities</strong></li>\n<li>Void (op): If you succeed, choose one skill. The informant has a number of ranks in that skill equal to your school rank and can perform checks with that skill to assist you until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "skulduggery",
+        "difficulty": "2",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000040",
+      "name": "Lord Togashi’s Insight (Dragon)",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/dragon.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "223"
+        },
+        "description": "<h2>Lord Togashi’s Insight (Dragon)</h2>\n<ul>\n<li>Activation: Once per game session as an action, you may make a TN 2 Meditation (Void) check to seek cosmic wisdom regarding a quandary in front of you.</li>\n<li>Effects: If you succeed, you receive a brief vision or hear the voice of Togashi providing a hint regarding one way you might proceed (which the GM should furnish). This hint should not be the full answer, but it should help you move forward toward a solution or at least formulate a plan of action.</li>\n<li>New Opportunities<br>Void (op): Reduce the TN of your first check to overcome the problem you are facing by your school rank (to a minimum of 1).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "meditation",
+        "difficulty": "2",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000041",
+      "name": "Rouse the Soul",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "223"
+        },
+        "description": "<h2>Rouse the Soul</h2>\n<h3>Rank 5</h3>\n<p>Many things can cloud the soul, but words can awaken it. The courtier speaks honestly and without pretension, calling upon their allies to overcome earthly circumstances and reach a mutual goal.</p>\n<ul>\n<li>Activation: When making a Social skill (Void) or Theology (Void) check targeting one or more characters, you may spend (op) in the following way:</li>\n<li>Void (op)+: Remove one of the following conditions from one target per (op) spent this way: Afflicted, Enraged, Exhausted, Intoxicated, or Unconscious.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000042",
+      "name": "Lord Akodo’s Roar (Lion)",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/lion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "223"
+        },
+        "description": "<h2>Lord Akodo’s Roar (Lion)</h2>\n<h3>Rank 2</h3>\n<p>The Kami Akodo One-Eye, who founded the Lion Clan, was the greatest tactician in the Empire. His victories rested not upon the strength of his arm, but upon his keen mind and his faith in the people he rallied behind him. The true general never stands alone, for they are always bolstered by the united will of their followers. With a roar that echoes through the ranks, chilling their foes and heartening their comrades, the leader charges as Akodo himself once did.</p>\n<ul>\n<li><strong>Activation:</strong> Once per game session as an action, you may make a TN 1 Command (Void) check targeting each hostile character within a number of range bands equal to your school rank.</li>\n<li><strong>Effects:</strong> If you succeed, each target suffers the Dazed condition.</li>\n</ul>\n<h3>New Opportunities</h3>\n<ul>\n<li><strong>Void (op) (op)+:</strong> After you perform this action, one other friendly character per (op) (op) spent this way at range 0–3 may immediately perform a Strike action targeting a Dazed character.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "command",
+        "difficulty": "1",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000043",
+      "name": "All Arts Are One",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "222"
+        },
+        "description": "<h2>All Arts Are One</h2>\n<ul>\n<li>Rank 3</li>\n<li>Just as the four elements are bound together by Void, certain underlying principles, including aesthetics, logic, and discipline, unite all forms of art. By meditating on these similarities, a courtier is able to more easily grasp the fundamentals of any subject.</li>\n<li>Activation: As a Support action, you may make a TN 4 Martial skill (Void), Games (Void), or Performance (Void) check to rapidly absorb information on a new activity covered by that skill.</li>\n<li>Effects: If you succeed, you immediately intuit how to wield a new weapon, play a new game, use a new instrument, or perform a new song, dance, or other task. You do not apply any TN increase that might be associated with dealing with something new to you.</li>\n<li>New Opportunities</li>\n<li>Void (op): Choose a ring. Reduce the TN of your next check using that ring for the chosen skill by 1. This effect persists until the end of your next turn (or until the end of the scene during a narrative scene).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "martial,games,performance",
+        "difficulty": "4",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000044",
+      "name": "Hidden in Smoke",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "117"
+        },
+        "description": "<h2>Hidden in Smoke</h2>\n<ul>\n<li>The stratagem used in games such as Go has been debated and studied for centuries in Rokugan, and masters of such games know how to distract opponents with their words and movements to hide their true intent in a variety of social settings.</li>\n<li>Activation: Once per scene as a Scheme action, you may make a Social (Air) check targeting one other character. The TN of this check is equal to the target’s vigilance.</li>\n<li>Effects: If you succeed, you hide your true goal or objective from your opponent. Any action or ability that would reveal your true intentions or objective to the target instead reveals a false, narratively appropriate goal, subject to the GM’s approval. This effect persists until the end of the scene. If you succeed, during an intrigue scene, you gain 1 momentum point toward a relevant goal.</li>\n</ul>\n<ul>\n<li>Air (op) (op)+: Choose one additional target with vigilance lower than the original target per (op) (op) spent this way.</li>\n<li>Air (op) (op)+: If you succeed, you gain 1 additional momentum point per (op) (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "social",
+        "difficulty": "@T:vigilance",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000045",
+      "name": "Assess Strengths",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "117"
+        },
+        "description": "<h2>Assess Strengths</h2>\n<ul>\n<li>A skilled courtier can deduce a lot about their opponent over the course of playing a game. Evaluating an opponent’s strategy, moves, and demeanor can let them evaluate the opponent’s character in turn.</li>\n<li>Activation: As a Scheme action, you may make a Games (Air) check targeting one opponent in a game that you are playing. The TN of this check is equal to the target’s vigilance.</li>\n<li>Effects: If you succeed, you learn your target's ranks in Games, Tactics, or any one Martial Arts skill. Choose one additional skill to learn for each bonus success on the check.</li>\n<li>New Opportunities: Air (op) (op): You learn all your target’s Mental advantages and disadvantages.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "games",
+        "difficulty": "@T:vigilance",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000046",
+      "name": "Unyielding Terms",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "117"
+        },
+        "description": "<h2>Unyielding Terms</h2>\n<h3>Rank 2</h3>\n<ul>\n<li>Activation: Once per scene as a Scheme action, you may make a TN 4 Culture (Earth) check when you are determining the method of battle and stakes for victory in a duel (as a participant or adjudicator).</li>\n<li>Effects: You select either the method of battle, or the stakes for victory.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "culture",
+        "difficulty": "4",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000047",
+      "name": "Offend the Sensibilities",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "118"
+        },
+        "description": "<h2>Offend the Sensibilities</h2>\n<h3>Rank 2</h3>\n<p>Art can soothe the spirit and calm the mind, or it can leave one seeing red. A clever artisan can craft a piece so that it will offend the sensibilities of a particular person, while leaving most observers a bit perplexed but unbothered.</p>\n<ul>\n<li>Activation: When you make an Artisan (Fire) check to craft an item, you can spend (op) in the following way:</li>\n<li>Fire (op) (op): Choose one individual known to you. When that individual first sees the item you created, they receive 2 strife. If this causes them to suffer the Compromised condition, the target also suffers the Dazed, Enraged, or Silenced condition (your choice). Anyone else seeing the item knows it could be very offensive.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000048",
+      "name": "Crackling Laughter",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "118"
+        },
+        "description": "<h2>Crackling Laughter</h2>\n<h3>Rank 3</h3>\n<p>Humor, when used with proficiency, can be a powerful weapon when trying to advance one’s status, particularly when trying to make a fool of someone else.</p>\n<ul>\n<li><strong>Activation:</strong> Once per game session, as a Scheme action, you may make a TN 3 Performance (Fire) check targeting a number of characters up to your Fire Ring.</li>\n<li><strong>Effects:</strong> If you succeed, each target receives 2 strife, and must make a TN 5 Meditation (Air 6, Water 3) check or receive additional strife equal to the shortfall. If you fail, you receive 3 strife.</li>\n<li><strong>New Opportunities:</strong> For each character who suffers Compromised condition, gain 1 glory.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "performance",
+        "difficulty": "3",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000049",
+      "name": "All Shall Fear Me",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "118"
+        },
+        "description": "<h2>All Shall Fear Me</h2>\n<ul>\n<li>Rank 3</li>\n<li>If a courtier can pull it off, dominating a gathering through the sheer force of their personality is a good way to ensure everyone will treat them with trepidation and respect. Of course, just being noticed is only half the battle; the courtier must also appear fearsome and even a bit dangerous, but not overdo their act. If they come off as a Kabuki villain, all they’ll get from their audience is a few muffled giggles.</li>\n<li>Activation: As a Scheme action, you may make a TN 4 Command or Performance (Fire) check targeting any number of characters in the scene.</li>\n<li>Effects: If you succeed, each target receives 2 strife when they choose you as a target for a Social skill check. This effect persists until the end of the scene. If you fail, you receive 4 strife.</li>\n<li>New Opportunities: Fire (op) (op)+: If you succeed, all characters targeted by you suffer 1 additional strife per (op) (op) spent this way whenever they target you with a Social skill check.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "command,performance",
+        "difficulty": "4",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000050",
+      "name": "Spiteful Loss",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "118"
+        },
+        "description": "<h2>Spiteful Loss</h2>\n<h3>Rank 1</h3>\n<ul>\n<li>Activation: When you make a Games (Fire) check while playing a game, you may spend opportunity in the following way:</li>\n<li>Fire (op): If you fail, forfeit 1 glory. Then each participant receives strife equal to 1 plus the shortfall of the check on all participants in the game.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000051",
+      "name": "Beware The Smallest Mouse",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "118"
+        },
+        "description": "<h2>Beware The Smallest Mouse</h2>\n<h3>Rank 1</h3>\n<ul>\n<li>Often, minor functionaries at court find themselves able to successfully complete their tasks because they are so unimportant that nobody bothers to impede them (or even notices their existence). Some courtiers quickly learn to play up this appearance when need be.</li>\n<li>Activation: When you make a Social skill (Water) check targeting one or more characters, you may spend (op) in the following way:</li>\n<li>Water (op) (op)+: While interacting with you, the target treats their vigilance as 1 lower per (op) (op) spent this way and decreases the TN of their social checks targeting you by 1. This effect persists until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000052",
+      "name": "Fun and Games",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "119"
+        },
+        "description": "<h2>Fun and Games</h2>\n<ul>\n<li><strong>Rank 1</strong>: Games can be fun to play or observe. They can be even more fun when one of the participants is a good sport who knows how to lose and win with grace, and how to entertain their fellow participants and the audience in the process.<br>Activation: When you make a Games (Water) check, you may spend (op) in the following ways:<br>• Water (op)+: Choose one participant in the game or an observer. Remove 1 strife per opportunity spent from that participant.<br>• Water (op) (op) (op): Remove 1 strife from each participant and observer instead.</li>\n<li><strong>Void Shūji</strong>: The following shūji may only be used by a courtier with an almost supernatural ability to anticipate the future.<br><strong>Foreseen Need</strong></li>\n<li><strong>Rank 4</strong>: Artisans with an open mind and an eye to the future are always working on things they may need one day. A little preparation and anticipation can pay off greatly at the right moment.<br>Activation: As a Support action, you may make a TN 1 Artisan (Void) check.<br>Effects: If you succeed, you recall that you had foreseen the need for an item with a rarity equal to 1 plus your bonus successes on the check. Spend one Void point to instantly reveal one item you could have crafted, as long as it is reasonable (e.g., you could be carrying it on your person or have it in your quarters, you had access to the resources to craft it over the past month).<br><strong>New Opportunities</strong>: Void (op): Double the rarity of the target item, but the item must be of a perishable nature or one with only sentimental value.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000053",
+      "name": "Foreseen Need",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "119"
+        },
+        "description": "<h2>Foreseen Need</h2>\n<h3>Rank 4</h3>\n<p>Artisans with an open mind and an eye to the future are always working on things they may need one day. A little preparation and anticipation can pay off greatly at the right moment.</p>\n<ul>\n<li>Activation: As a Support action, you may make a TN 1 Artisan (Void) check.</li>\n<li>Effects: If you succeed, you recall that you had foreseen the need for an item with a rarity equal to 1 plus your bonus successes on the check. Spend one Void point to instantly reveal one item you could have crafted, as long as it is reasonable (e.g., you could be carrying it on your person or have it in your quarters, you had access to the resources to craft it over the past month).</li>\n<li>New Opportunities: Void (op): Double the rarity of the target item, but the item must be of a perishable nature or one with only sentimental value.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "artisan",
+        "difficulty": "1",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000054",
+      "name": "Spin the Web (Kolat)",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "248"
+        },
+        "description": "<h2>Spin the Web (Kolat)</h2>\n<ul>\n<li>When you make a Social skill check to influence or manipulate a target, you may spend (op) to allow the target to roll a  equal to their own ranks in that skill instead of their normal roll.</li>\n<li>When you complete the title, you gain the ability to reroll one die on any Social skill check made to gain information from a target who is already under your influence.</li>\n<li>As a bonus action, you may spend (op) to temporarily increase the target's resistance to persuasion by one rank for the duration of the interaction.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "skulduggery",
+        "difficulty": "2",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000055",
+      "name": "Awe of Heaven (Imperial)",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/imperial.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "248"
+        },
+        "description": "<h2>Awe of Heaven (Imperial)</h2>\n<ul>\n<li>There is no entry for \"Awe of Heaven (Imperial)\" in the provided text.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "command",
+        "difficulty": "@T:statusRank|max",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000056",
+      "name": "Look Out",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "92"
+        },
+        "description": "<h2>Look Out! </h2>\n<h3>Rank 3</h3>\n<p>When the first arrow falls, a word of warning can save dozens of lives.</p>\n<ul>\n<li>When you make a check to resist an effect, you may spend <span class=\"symbol\">\u0002</span> in the following way:</li>\n<li>Earth <span class=\"symbol\">\u0002+</span>: One character per <span class=\"symbol\">\u0002</span> spent this way may immediately switch to a stance of their choice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000057",
+      "name": "Bellow of Resolve",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "92"
+        },
+        "description": "<h2>Bellow of Resolve</h2>\n<h3>Rank 1</h3>\n<p>A well-timed word of encouragement or shout of warning can get a fighter back on their feet at a crucial moment, which can mean the difference between life and death on the battlefield.</p>\n<ul>\n<li>Activation: Once per scene as a Support action, you may make a TN 2 Command (Earth) check targeting one Compromised or Incapacitated character.</li>\n<li>Effects: If you succeed and your target is Compromised, they remove strife until their strife is equal to their composure minus 1. If you succeed and your target is Incapacitated, they remove fatigue until their fatigue is equal to their endurance minus 1.</li>\n</ul>\n<h3>New Opportunities</h3>\n<ul>\n<li>Earth \u0002 \u0002: You may use this technique one additional time this scene.</li>\n<li>Earth \u0002 \u0002 \u0002: This technique instead targets any number of Compromised and Incapacitated characters of your choice in the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "command",
+        "difficulty": "2",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000058",
+      "name": "Ruse of the Moon's Reflection",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "93"
+        },
+        "description": "<h2>Ruse of the Moon’s Reflection</h2>\n<h3>Rank 5</h3>\n<ul>\n<li><strong>Activation:</strong> As a Scheme action, you may make a Command (Air) check targeting any number of characters in the scene who are not hostile to each other. The TN is equal to the highest vigilance among your targets. In a mass battle, you must target all commanders (other than yourself, if applicable).</li>\n<li><strong>Effects:</strong> If you succeed on that check during an intrigue, skirmish, or duel, you may exchange the initiative values of any number of the targets. If you succeed on that check during a mass battle, you may reveal that two leaders of the same army have exchanged cohorts and positions.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "command",
+        "difficulty": "@T:vigilance|max",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000059",
+      "name": "Eyes Up!",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "93"
+        },
+        "description": "<h2>Eyes Up!</h2>\n<ul>\n<li>Activation: Once per game session at the start of a scene, or as a Support action, you may make a TN 2 Scholar skill (Water) check targeting one character.</li>\n<li>If you succeed, that character treats their focus as 2 lower (to a minimum of 1) and their vigilance as 2 higher. This effect persists until the end of the scene.</li>\n</ul>\n<ol>\n<li>Water (op)+: Choose one additional target per (op) spent this way.</li>\n<li>Water (op): This effect persists until the end of the next scene instead.</li>\n</ol>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "scholar",
+        "difficulty": "2",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000060",
+      "name": "Pack Gambit",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "93"
+        },
+        "description": "<h2>Pack Gambit</h2>\n<h3>Rank 3</h3>\n<ul>\n<li>Activation: As a Scheme action, you may make a TN 3 Social skill (Air) check targeting one character.</li>\n<li>Effects: If you succeed, each character who performs an Attack or Scheme action targeting that character counts as having your assistance (see Assistance, on page 26 of the core rulebook). This effect persists until the end of your next turn.</li>\n</ul>\n<h4>New Opportunities</h4>\n<ul>\n<li>Air \u0002 \u0002: Choose one of the target’s disadvantages you know. Each character who performs an Attack or Scheme action targeting that character may exploit that disadvantage without spending a Void point (see Exploiting a Target’s Disadvantage, on page 101 of the core rulebook).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "social",
+        "difficulty": "3",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000061",
+      "name": "Mentor's Guidance",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "93"
+        },
+        "description": "<h2>Mentor's Guidance</h2>\n<ul>\n<li><strong>Rank 5</strong>: Age tend to be considered especially wise. Many consider it their duty to explain the tricks they have used to stay alive to their younger compatriots.</li>\n<li><strong>Activation</strong>: Once per scene as a Support action, you may make a TN 4 Command (Earth) or TN 4 Performance (Earth) check targeting one character.</li>\n<li><strong>Effects</strong>: If you succeed, choose one of your kata, ninjutsu, or shūji techniques. Your target may use that technique as if they knew it. This effect persists until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "command,performance",
+        "difficulty": "4",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000062",
+      "name": "Malleable Formation",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "94"
+        },
+        "description": "<h2>Malleable Formation</h2>\n<h3>Rank 3</h3>\n<p>Picking the right person for the job is a key skill for any leader, whether they are an experienced carpenter building a house or a great general commanding an army. So too is knowing when to change tactics—or opponents—even in the midst of a conflict.</p>\n<ul>\n<li><strong>Activation:</strong> Once per scene as a Movement and Support action, you may make a TN 2 Command (Water) check targeting two willing characters at range 0–2 of you who could reasonably reach one another’s positions.</li>\n<li><strong>Effects:</strong> If you succeed, your targets immediately move the range bands to switch places. If they do, each target may select a new stance.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities:</strong> Water (op) (op): You can use this technique one additional time this scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "command",
+        "difficulty": "2",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000063",
+      "name": "Goading Taunt",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "94"
+        },
+        "description": "<h2>Goading Taunt</h2>\n<h3>Rank 3</h3>\n<p>Ikoma Bards are known for their scathing insults—but for foulness of tongue and raising ire, even these masters of provocation are put to shame by some rōnin.</p>\n<ul>\n<li>Activation: Once per scene as a Scheme action, you may make a Performance (Fire) or Tactics (Fire) check targeting one character. The TN of the check is equal to your target’s vigilance.</li>\n<li>Effects: If you succeed during an intrigue encounter or a duel, your target receives strife equal to their honor rank unless they forfeit that much honor.</li>\n<li>If you succeed on the check during a skirmish, that character must immediately move 2 range bands toward you unless they choose to receive 3 strife, plus 1 additional strife for every 2 bonus successes.</li>\n<li>If you succeed on the check during a mass battle, that character must target your cohort with an Assault or Challenge action next turn, unless they choose to receive 3 strife, plus 1 additional strife for every 2 bonus successes.</li>\n<li>If you succeed or fail, reduce the TN of your target’s next check by 1.</li>\n</ul>\n<p>New Opportunities</p>\n<ul>\n<li>Fire (op) (op): You may use this technique one additional time this scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "performance,tactics",
+        "difficulty": "@T:vigilance",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000064",
+      "name": "Watch My Back",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "94"
+        },
+        "description": "<h2>Watch My Back</h2>\n<h3>Rank 5</h3>\n<p>Putting your full faith in someone else is the greatest risk a warrior can take. By fighting together without reservation, two can accomplish the deeds that a dozen could not undertake if each operates individually.</p>\n<ul>\n<li>Activation: Once per scene as a Movement and Support action, if you are in a Water stance, you may call for a character at range 0–2 to cover you while you rush to complete an important task.</li>\n<li>Effects: The character you chose may immediately perform a Guard action (see page 265 of the core rulebook) targeting you, ignoring range restrictions.</li>\n<li>If they succeed, you may move up to 2 range bands.</li>\n<li>Reduce the TN of the next action check you perform this turn by 1.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000065",
+      "name": "Illuminate the Way",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "94"
+        },
+        "description": "<h2>Illuminate the Way</h2>\n<h3>Rank 1</h3>\n<ul>\n<li>Activation: Once per session at the start of a scene, or as a Support action, you may make a TN 2 Scholar skill (Fire) check targeting one character.</li>\n<li>Effects: If you succeed, that character treats their vigilance as 2 lower (to a minimum of 1) and their focus as 2 higher. This effect persists until the end of the scene.</li>\n</ul>\n<ul>\n<li>New Opportunities</li>\n<li>Fire (op)+: Choose one additional target per (op) spent this way.</li>\n<li>Fire (op): This effect persists until the end of the next scene instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "scholar",
+        "difficulty": "2",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000066",
+      "name": "Fluent Bargaining",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "94"
+        },
+        "description": "<h2>Fluent Bargaining</h2>\n<h3>Rank 2</h3>\n<p>“And, of course, our fee will need to cover various expenses…”</p>\n<ul>\n<li>Activation: When you make a Commerce (Water) check to negotiate payment for a job, you may spend (op) in the following way:</li>\n<li>Water (op)+: If you succeed, you also convince the client to pay 10% of the fee up front per (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000067",
+      "name": "Bond of Heroes",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "95"
+        },
+        "description": "<h2>Bond of Heroes</h2>\n<ul>\n<li>Whenever heroes arise—whether they are the Seven Guardians (or a rōnin defending a backwater village from bandits)—it’s not just their force of arms that makes them legends. Their bonds, their feelings for one another: these are what drive them to great deeds, and why people tell their tales time and again across the ages.</li>\n<li>Activation: Once per game session as a Support action, you may make a TN 5 Performance (Void) check targeting each character who shares a bond with you in the scene.</li>\n<li>Effects: If you succeed, each target removes 5 strife and 5 fatigue, plus 1 for every two bonus successes (see Bonds, on page 187).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "performance",
+        "difficulty": "5",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000068",
+      "name": "Tonight, I Am Your Opponent",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "95"
+        },
+        "description": "<h2>Tonight, I Am Your Opponent</h2>\n<h3>Rank 3</h3>\n<ul>\n<li>Normally, interrupting someone else’s duel of honor or battlefield clash is an act of substantial dishonor affecting all involved. However, sometimes a dueling warrior will swallow their pride and let someone else step in. By making an impassioned plea to a friend, speaking nobly to an old rival, explaining why it would be improper for the pair to fight, or simply having such conviction that no others can question their honor, a speaker can attempt to cut into a one-on-one fight between two other warriors.</li>\n<li>Activation: Once per game session as a Scheme and Support action, you may make a TN 3 Social skill (Void) check targeting one character who is currently fighting in a duel or clash.</li>\n<li>If you succeed, you immediately replace your target in the duel or clash, staking your own honor and glory as usual. Your target forfeits half the honor and glory they staked upon fighting uninterrupted.</li>\n<li>If you share a bond with the character you are replacing or with their adversary (see Bonds, on page 187), no character must forfeit honor or glory for your interruption.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "social",
+        "difficulty": "3",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000069",
+      "name": "Wanderer's Resolve",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "95"
+        },
+        "description": "<h2>Wanderer’s Resolve</h2>\n<h3>Rank 1</h3>\n<ul>\n<li>A samurai with a lord can find resolve in the loyalty they feel, but a samurai with no lord has no easy well-spring from which to draw resolve. This hardship and uncertainty all their own, for if they do not act, no one else will. The lives of their friends—of those who depend on them—rest solely in their hands.</li>\n<li>Activation: Once per scene as a Support action, if you are in a Void stance, you may focus on protecting what is important to you.</li>\n<li>Effects: You remove 3 fatigue and 3 strife, plus 3 fatigue and 3 strife for each Compromised or Incapacitated character in the scene with whom you share a bond (see Bonds, on page 187).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000070",
+      "name": "Roar of Encouragement",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "95"
+        },
+        "description": "<h2>Roar of Encouragement</h2>\n<h3>Rank 5</h3>\n<p>A shout of triumph or desperation can pierce the fog of exhaustion, drawing a warrior back to the now and focusing their energies. A skilled commander knows exactly when to raise their voice and drive their forces on to the final push, eliminating a key foe or turning the tide of the battle with renewed vigor.</p>\n<ul>\n<li><strong>Activation:</strong> Once per scene as a Support action, you may make a TN 3 Command (Fire) check targeting a friendly character.</li>\n<li><strong>Effects:</strong> If you succeed during a skirmish, your target may immediately perform a Strike action with your assistance (see Assistance, on page 26 of the core rulebook). If you succeed on the check during a mass battle, your target’s cohort may immediately perform an Assault action (see page 278 of the core rulebook) with your assistance on the check.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities:</strong> Fire +1: Choose one additional target to immediately perform a Strike (or Assault) action per 1 Fire spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "command",
+        "difficulty": "3",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000071",
+      "name": "Osano-wo’s Boast (Mantis)",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/mantis.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "the_mantis_clan",
+          "page": "7"
+        },
+        "description": "<h2>Osano-wo’s Boast (Mantis)</h2>\n<ul>\n<li>As a Movement and Support action, if you have a rochin readied, you may increase the TN of the next Attack action check targeting you by 1 and decrease the TN of your next Attack action check using a tinbe by 1. This effect persists until the end of your next turn.</li>\n<li>As a Movement and Support action, if you have a tonfa readied, you may increase the TN of the next Attack action check targeting you by 1 and decrease the TN of your next Attack action check using a tonfa by 1. This effect persists until the end of your next turn.</li>\n<li>When you succeed at a check to resist a critical strike while wearing Shark Leather Armor, add two bonus successes.</li>\n<li>Reduce the TN of checks to repair or maintain sailor’s garb by 1.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "command,performance",
+        "difficulty": "2",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000072",
+      "name": "Borrowed Courage",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "99"
+        },
+        "description": "<h2>Borrowed Courage</h2>\n<ul>\n<li>Rank 1<br>\nA skilled leader's task is to guide their forces to victory, and sometimes, this means misleading them away from defeat. When an army is demoralized, when the odds are harsh, when the foe truly is stronger—these are the times a leader may need to spin a tale of the enemy's weakness, of coming allies, or of a secret plan to guarantee success. The line between falsehood and truth may be dim or bright; regardless, sometimes warriors need hope to struggle on, even if that hope is forlorn.</li>\n<li>Activation: As a downtime activity, you may make a TN 4 Performance (Air) check targeting an army or a number of characters who can hear you up to your ranks in Sentiment. You may stake up to 3 honor to reduce the TN by that amount (to a minimum of 1) to embellish the truth.</li>\n<li>Effects: If you succeed, you spread a powerful rumor of your foe's weakness, of allies certain to arrive, or of some other hidden advantage that should ensure victory. The first time your target receives panic or strife during the next scene, they reduce the amount they receive by your ranks in Performance, to a minimum of 0.</li>\n<li>Whether you succeed or fail, if your side loses the battle, you lose your staked honor (as your boasts proved false). Additionally, there might be narrative social ramifications should individuals remember the lies you told.</li>\n</ul>\n<ul>\n<li>New Opportunities</li>\n<li>Air *: If you fail, nobody remembers exactly what you said, so there are no narrative social consequences for your fabrication.</li>\n<li>Air *: Add 1 kept success to the first Scheme action check you make during the next mass battle your army fights.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "performance",
+        "difficulty": "4",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000073",
+      "name": "Clouds Parted by Steel",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "99"
+        },
+        "description": "<h2>Clouds Parted by Steel</h2>\n<h3>Rank 2</h3>\n<p>Warriors often claim a certain kinship with one another and speak of how no one can hide their true nature in a life-or-death battle; thus, they say, bitter foes might know each other as well as sworn comrades, or even better. While the truth of the matter is perhaps more complicated, a skilled observer can indisputably learn a great deal about someone by crossing swords with them enough times, seeing how they react to fear, frustration, success, and relief as a battle rages on.</p>\n<ul>\n<li><strong>Activation:</strong> When you make a check to perform a Strike action (see page 264 of the core rulebook) or an Assault action (see page 278 of the core rulebook), you may spend * as follows:</li>\n<li><strong>Air *+:</strong> If your target's vigilance is lower than your ranks in Sentiment plus * spent this way, choose one of the advantage/disadvantage types: interpersonal, mental, or physical. If your target has one or more advantages or disadvantages of that type, you learn what they are.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000074",
+      "name": "Entice with Falsehoods",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "99"
+        },
+        "description": "<h2>Entice with Falsehoods</h2>\n<h3>Rank 4</h3>\n<p>In general, there is no victory to be had if the enemy can easily see through a strategy. To deceive the enemy, however, a commander must sometimes deceive their subordinates and allies, only revealing the true plan at the moment to strike. A leader who believes they have seen through their own commander's strategy might attempt to anticipate this plan. This is simpler when there is terrain to conceal your actions from vigilant observation, and risky if your venture fails and disrupts the strategy of your superiors.</p>\n<ul>\n<li>Activation: Once per scene during a mass battle as a Scheme action targeting the commander of the enemy army, you may make a Tactics (Air) check. The TN is equal to the target's vigilance. If you are not your army's commander, you must stake 5 honor and 5 glory on your success. If your cohort is in Obscuring terrain, reduce the TN by 2.</li>\n<li>Effects: If you succeed, you immediately change your army's current strategic goal to a new goal of your choice. Any momentum points your army had accrued toward the previous goal are applied to this new goal. If you fail and you are not the commander, your commander's scorn falls upon you for overstepping your position. You lose your staked honor and glory.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities</strong>:</li>\n<li>Air*: Your target remains unaware of your machinations.</li>\n<li>Air *= Gain 1 momentum point toward your army's current strategic objective.</li>\n<li>Air :-;ĝ+: All characters in the scene with vigilance lower than or equal to :-;ĝ spent this way are unaware of your machinations.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "tactics",
+        "difficulty": "@T:vigilance",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000075",
+      "name": "Fortress of Necessity",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "100"
+        },
+        "description": "<h2>Fortress of Necessity</h2>\n<h3>Rank 1</h3>\n<ul>\n<li>Activation: As a downtime activity or a Support action during a mass battle, using adequate supplies and a suitable area, you may make a TN 3 Command (Earth) check targeting a position you can reach.</li>\n<li>Effects: If you succeed, you erect a defensive structure of trenches or short barricades in the area. In a mass battle, this structure is treated as a fortification with difficulty value equal to your ranks in Labor plus your bonus successes, which reduces attrition suffered by the cohort occupying it by 2. In a skirmish, this structure is treated as Obscuring terrain by anyone attacking those inside from outside. This structure is temporary, and degrades completely if left to the elements for more than a few days. It can be maintained with a TN 2 Labor (Earth) check as a downtime activity, which might need to be made more frequently in harsh weather conditions such as rain or snow.</li>\n</ul>\n<h3>New Opportunities</h3>\n<ul>\n<li>Earth *= When you perform the Reinforce action in this fortification during a mass battle, treat the TN as reduced by 1 (to a minimum of 1).</li>\n<li>Earth * *+: Add one of the following terrain qualities per :-;ĝ * spent this way to the area extending from range 1 -3 around the building: Dangerous, Entangling, Obscuring, or Recessed. During a mass battle, enemies attacking a cohort in the fortification are treated as being in terrain with the added qualities.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "command",
+        "difficulty": "3",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000076",
+      "name": "Great Anvil's Measure",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "100"
+        },
+        "description": "<h2>Great Anvil's Measure</h2>\n<h3>Rank 2</h3>\n<p>A proud leader often draws attention to themselves in battle, and a leader both proud and skilled does so to draw their enemy into attacking them—especially when the enemy would rather attack elsewhere. When the leader's troops are properly readied, and especially when they are in a highly defensible location, such an attack against them is doomed to fail.</p>\n<ul>\n<li><strong>Activation:</strong> When you make a check to perform a Guard action in a skirmish (see page 264 of the core rulebook) or a Reinforce action in a mass battle (see page 279 of the core rulebook), you may spend * as follows:</li>\n<li><strong>Earth :-;ȷ+ (Guard):</strong> Choose any number of characters in the scene with focus lower than or equal to your ranks in Performance plus 2 per * spent this way. Each chosen character must receive strife equal to your ranks in Performance to perform an Attack or Scheme action targeting any character other than you. This effect persists until the end of your next turn.</li>\n<li><strong>Earth *+ (Reinforce):</strong> Choose any number of leaders in the enemy army with focus lower than or equal to your ranks in Performance plus 2 per * spent this way. The enemy army receives panic equal to your ranks in Performance each time any of those leaders performs an Attack or Scheme action targeting any cohort other than yours. This effect persists until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000077",
+      "name": "Steady Hammer",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "100"
+        },
+        "description": "<h2>Steady the Hammer</h2>\n<h3>Rank 4</h3>\n<p>Even under fierce attack, the clever general sees opportunities to outwit their opponent. When a staunch counterattack is not possible, the general lures the enemy into a position where they become vulnerable to attacks from the general's allied forces. Such an act not only achieves victory, but also displays to all the general's superior tactical skills.</p>\n<ul>\n<li>Activation: As an Attack and Support action during a mass battle, you may make a TN 5 Tactics (Earth) check targeting one enemy leader's cohort that performed an Attack action check targeting your cohort this round. If that enemy cohort is in Confining, Entangling, or Recessed terrain, reduce the TN to 2.</li>\n<li>Effects: If you succeed, decrease the TN of the next Attack action check made by a friendly leader that targets that cohort by 1 plus your bonus successes (to a minimum of 1). If that check succeeds, add additional bonus successes equal to your ranks in Command. This effect persists until the end of the round.</li>\n</ul>\n<ul>\n<li>New Opportunities</li>\n<li>Earth *+: This effect applies to one additional Attack action check made by a friendly cohort before the end of the round per * spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "tactics",
+        "difficulty": "5",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000078",
+      "name": "Call the Wild",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "101"
+        },
+        "description": "<h2>Call the Wild</h2>\n<h3>Rank 3</h3>\n<ul>\n<li><strong>Activation:</strong> As a Support action, you may make a Survival (Fire) check targeting one friendly animal or manifest kami at range 0-2. The TN of the check is equal to the animal or kami's f.l conflict rank.</li>\n<li><strong>Effects:</strong> If you succeed, increase the damage and deadliness of the animal or kami's weapon profiles by 1, plus 1 for every two bonus successes beyond the first. This effect persists until the end of the scene.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities:</strong></li>\n<li>*+: You may target one additional friendly animal or manifest kami per * spent this way.</li>\n<li>Į>+: The target animal or kami removes 1 fatigue per Į' spent this way.</li>\n<li>*= The animal gains the Enraged condition, then removes all strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "survival",
+        "difficulty": "@T:martialRank",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000079",
+      "name": "Righteous Example",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "101"
+        },
+        "description": "<h2>Righteous Example</h2>\n<h3>Rank 1</h3>\n<ul>\n<li>A leader's power exists only in the minds of their followers, yet none can deny the power of an army. In Rokugani warfare, leaders and even commanders often take the field themselves at the start of battle, showing that they shoulder a portion of the risk alongside their warriors. This helps spur their forces on to great victories no warrior alone could achieve.</li>\n<li>Activation: As an Attack and Support action during a mass battle, you may make a TN 3 Martial Arts (Fire) check targeting an enemy leader's cohort.</li>\n<li>Effects: If you succeed, the enemy army suffers attrition and panic equal to 1 plus your bonus successes. If you succeed, other leaders in your army reduce the TN of their Attack action checks by 1. This effect persists until the end of your next turn. If you fail, reduce the TN of Attack and Scheme action checks targeting your cohort by 1. This effect persists until the end of your next turn.</li>\n<li>New Opportunities: Fire v, *= If you are both the commander and a leader, your army gains 1 momentum point toward its current strategic objective.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "martial",
+        "difficulty": "3",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000080",
+      "name": "Sting of Warrior's Pride",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "101"
+        },
+        "description": "<h2>Sting of Warrior's Pride</h2>\n<h3>Rank 2</h3>\n<p>Courage and shame sometimes exist as two sides of the same coin in Rokugani society. To face death with courage is the measure of a samurai, and one who devotes sincerely to the Code of Bushido is unlikely to break even in the face of death. Still, not all samurai can attain such lofty stoicism. When philosophy alone is not enough to bolster a samurai against fearful odds, the spur of shame can keep a sword arm firm and feet planted in rank.</p>\n<h4>Activation</h4>\n<p>As a downtime activity, you may make a TN 4 Performance (Fire) check targeting an army or one character who can hear you. You may stake up to 3 glory to reduce the TN by that amount (to a minimum of 1).</p>\n<h4>Effects</h4>\n<ul>\n<li>If you succeed, you spur your target to greater courage in the face of death. The first time your target is dealt attrition or damage during the next scene, they reduce the amount by your ranks in Performance, to a minimum of 0.</li>\n<li>Whether you succeed or fail, if you are observed acting in a cowardly manner by your target during the scene, you lose any glory you staked on this technique.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "performance",
+        "difficulty": "4",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000081",
+      "name": "To Smash the Heart",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "102"
+        },
+        "description": "<h2>To Smash the Heart</h2>\n<p>Rank 4</p>\n<p>Like a case of fireworks, a battle is a volatile thing. A single spark in the right place can blast apart all semblance of order within even an experienced army. A moment of hesitation by a commander, the death of a trusted leader—these can ignite countless sparks at once, sending an army's cohorts spiraling in all directions.</p>\n<h3>Activation:</h3>\n<p>Once per scene, after a character in the scene (or enemy leader, in a mass battle) becomes Compromised or is killed, you may immediately make a TN 4 Tactics (Fire) check targeting that character.</p>\n<h3>Effects:</h3>\n<ul>\n<li>If you succeed in an intrigue, skirmish, or duel, each character in the scene allied with your target who has lower status than your target receives strife equal to your bonus successes plus your ranks in Sentiment.</li>\n<li>If you succeed in a mass battle, the enemy army receives panic equal to your bonus successes plus your ranks in Sentiment.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "tactics",
+        "difficulty": "4",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000082",
+      "name": "Coursing March Chant",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "102"
+        },
+        "description": "<h2>Coursing March Chant</h2>\n<h3>Rank 1</h3>\n<p>Marching is as old as armies, and some methods have changed little across the thousand years of Rokugan's history as an Empire. An army marching on extra rations, with a rousing chant or musicians to keep its pace, will fare far better in the long run than one that marches in silence on empty stomachs.</p>\n<ul>\n<li>Activation: As a downtime activity, you may make a TN 4 Performance (Water) check targeting an army or targeting a number of characters traveling with you up to your ranks in Command. You may expend an additional day's rations (army rations for an army, individual rations for an individual) to reduce the TN by 2 (to a minimum of 1).</li>\n<li>Effects: If you succeed, you and your targets can march twice the distance they normally could in that time.</li>\n</ul>\n<h3>New Opportunities:</h3>\n<ul>\n<li>Water ҡ: If your target is an army, it removes attrition up to your ranks in Medicine.</li>\n<li>Water v-: If your target is an army, it removes panic up to your ranks in Culture.</li>\n<li>Water v.+: One individual target per ҡ- spent this way removes fatigue up to your ranks in Medicine.</li>\n<li>Water v-+: One individual target per v- spent this way removes strife up to your ranks in Culture.</li>\n<li>Water **+: Choose one mundane terrain quality that would normally affect the targets on the march per ** spent this way. Each target ignores that terrain quality during the march.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "performance",
+        "difficulty": "4",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000083",
+      "name": "Preserve Strength",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "102"
+        },
+        "description": "<h2>Preserve Strength</h2>\n<h3>Rank 2</h3>\n<p>A general who wins a battle but loses a war is a failure, and the fewer casualties that become fatalities, the better their army will fare over the course of a campaign. Thus, wise generals always find skilled healers, charging them with keeping their forces in fighting shape and preserving throughout the course of the war the core of experienced warriors necessary for winning battles.</p>\n<ul>\n<li>Activation: Once per scene as a Support action or as a downtime activity, you may direct triage by making a TN 3 Medicine (Water) check targeting a friendly army or a number of characters at range 0-3 up to your ranks in Command.</li>\n<li>Effects: If you succeed during a mass battle, your target removes 5 casualties, plus 1 for every two bonus successes. If you succeed during a skirmish, each of your targets reduces the TN of their next Medicine check by 2, plus 1 for every two bonus successes (to a minimum of 1).</li>\n</ul>\n<h4>New Opportunities</h4>\n<ul>\n<li>Water £, £, (Mass Battle): If you succeed, choose a friendly leader in the target army. Remove one of the following conditions from that character: Bleeding, Burning, Dying.</li>\n<li>Water ** (Skirmish): If you succeed, each of your targets may immediately move 1 range band, or 2 range bands toward a character who is suffering the Bleeding, Burning, or Dying condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "medicine",
+        "difficulty": "3",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000084",
+      "name": "Your Enemy's Arrows",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "103"
+        },
+        "description": "<h2>Your Enemy's Arrows</h2>\n<h3>Rank 4</h3>\n<p>A skilled commander sees the enemy's troops as if they were under their command, then issues orders to their own army such that the enemy will fall into place for their destruction. By erasing the distinction between the foe's assets and one's own in their mind, a general can see the battlefield as a whole, and maneuver the pieces to the endgame of their choosing.</p>\n<ul>\n<li><strong>Activation:</strong> Once per scene as a Scheme action targeting another character who can perceive you or your cohort, you may make a Tactics (Water) check. The TN is equal to the target's focus. You may stake up to 3 glory on your success to reduce the TN by that amount.</li>\n<li><strong>Effects:</strong> If you succeed, the next time your target accrues momentum points toward an objective, add those momentum points to your objective instead. If you fail, you lose the glory you staked upon your success.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities:</strong></li>\n<li>Water )£,: Your target remains unaware of your machinations. If you failed, regain your staked glory.</li>\n<li>Water )£,: Gain 1 momentum point toward your current goal.</li>\n<li>Water *+: All characters in the scene with vigilance lower than or equal to )£, spent this way are unaware of your machinations.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "tactics",
+        "difficulty": "@T:focus",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000085",
+      "name": "Battle of No Escape",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "103"
+        },
+        "description": "<h2>Battle of No Escape</h2>\n<h3>Rank 2</h3>\n<p>There are no conditions of battle simpler or more motivating than \"win or die.\" A warrior surrounded, with no hope of surrender, is far more likely to be willing to fight to the death, clinging to the feeble chance of survival presented: seize victory or pay the ultimate price. An outnumbered or outmatched commander might intentionally place their troops such that retreat is difficult or impossible, keeping them fighting to the last despite the terrible odds against them.</p>\n<ul>\n<li>Activation: Once per scene as a Support action, you may make a TN 5 Command (Void) check targeting your cohort or a number of characters who can hear you up to your ranks in Meditation. Reduce the TN of this check to 2 if all targets are in Confining or Entangling terrain.</li>\n<li>Effects: If you succeed during a mass battle, your army does not suffer morale collapse if its panic exceeds its discipline, and continues to function normally. This effect persists for one round, plus one round for every three bonus successes.</li>\n<li>If you succeed during an intrigue, duel, or skirmish, each target ignores the effects of the Compromised condition. This effect persists for one round, plus one round for every two bonus successes.</li>\n</ul>\n<ul>\n<li><strong>Void *+ (Intrigue, Duel, or Skirmish):</strong> Choose one additional target per )£, spent this way.</li>\n<li><strong>Void *'' (Intrigue, Duel, or Skirmish):</strong> If you succeed, each target also ignores the effects of the Incapacitated condition for one round, plus one round for every two bonus successes.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "command",
+        "difficulty": "5",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000086",
+      "name": "Moment of Glory",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "104"
+        },
+        "description": "<h2>Moment of Glory</h2>\n<h3>Rank 3</h3>\n<p>Sometimes, an army's survival falls to a single individual. When defending a bridge, a narrow pass, or a castle gate, a single warrior might find themselves facing the brunt of an entire army's attack. Many tales tell of heroic samurai holding back the full wrath of the enemy for some time in such a circumstance, sometimes even driving the foe back before succumbing to their wounds. While these occurrences have been few and far between, and many are shrouded in myth, they have nonetheless left an indelible mark on history, and the names of these samurai have been enshrined forever as Lesser Fortunes of war, courage, and self-sacrifice.</p>\n<ul>\n<li><strong>Activation:</strong> Once per scene as a Movement and Support action during a mass battle, you may make a TN 4 Meditation (Void) check. Reduce the TN of this check to 2 if your cohort is in Confining or Obscuring terrain.</li>\n<li><strong>Effects:</strong> If you succeed, whenever your cohort is targeted with an Attack action check, reduce any attrition it inflicts on your army to 0, and receive that much fatigue yourself instead. If fatigue you receive this way causes you to suffer a critical strike, the severity is 16. This effect persists until the start of your next turn.</li>\n<li><strong>New Opportunities:</strong>\n<ul>\n<li><em>Void *+</em>: If you succeed, while this effect persists, reduce any fatigue you receive by 1 per * spent this way (to a minimum of 0).</li>\n<li><em>Void ::&, ::&,:</em> If you succeed, if you suffer a critical strike this way, it is not applied until the end of the scene, at which point you receive any critical strike results you deferred this way.</li>\n<li><em>Void *=</em> If you succeed and you survive, double any glory you are awarded from your action.</li>\n</ul>\n</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "meditation",
+        "difficulty": "4",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000087",
+      "name": "Victory Without a Sword",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "104"
+        },
+        "description": "<h2>Victory Without a Sword</h2>\n<h3>Rank 6</h3>\n<p>To win without conflict, to conquer without destroying, to unite with prowess rather than merely subjugating—this is the ideal Akodo is said to have reached by the end of his long and violent life. Though he never put it to words himself, several of his students from his later years did. His lessons were simple. Any battle should be as swiftly won as possible, and the greatest general would be the one who never needed to fight, their superiority clear to all who could see it. To fight at all was its own sort of failure, a lesson he had learned all too well across ceaseless campaigns to unite Rokugan for his Emperor. Of course, up to the end, Akodo found it necessary to fight, so perhaps this ideal was beyond even the Kami of the Lion Clan, a dream image of a world barely visible through one tired eye.</p>\n<ul>\n<li><strong>Activation:</strong> As an Attack, Movement, Scheme, and Support action during a mass battle, you may make a TN 6 Tactics (Void) check targeting the enemy commander. Reduce the TN of this check to 4 if all cohorts of the enemy army are in Dangerous, Entangling, or Obscuring terrain. This technique can only be attempted once per army per scene.</li>\n<li><strong>Effects:</strong> If you succeed, the enemy commander immediately resists with a TN 5 Command check (Void 3), adding 1 to the TN for every 10 strength your army has in excess of the enemy army's strength. If the enemy commander succeeds, their army suffers no ill effects. If the enemy commander fails, the enemy army suffers 10 panic for each point of their shortfall. If the enemy army collapses this way, its forces surrender. Individual leaders may choose whether they wish to withdraw or hold the line as their troops surrender.</li>\n<li>If you fail, reduce the TN of Attack action checks targeting the cohorts of leaders in your army by 2 (to a minimum of 1). This effect persists until the end of the scene.</li>\n</ul>\n<p><strong>New Opportunities</strong></p>\n<ul>\n<li><strong>Void *+:</strong> If you succeed, while this effect persists, reduce any fatigue you receive by 1 per * spent this way (to a minimum of 0).</li>\n<li><strong>Void ::&, ::&,:</strong> If you succeed, if you suffer a critical strike this way, it is not applied until the end of the scene, at which point you receive any critical strike results you deferred this way.</li>\n<li><strong>Void *=:</strong> If you succeed and you survive, double any glory you are awarded from your action.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "tactics",
+        "difficulty": "6",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreShu000088",
+      "name": "Flowering Deceptions",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/shuji.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "93"
+        },
+        "description": "<h2>Flowering Deceptions</h2>\n<ul>\n<li>With a few well-chosen words, a skilled leader can create an opening for one person while impeding another. Allowing one opponent to have an edge can cause them to inadvertently trip up one of their allies. Alternatively, exposing one’s own ally to adversity can give another a key opportunity to strike unhindered.</li>\n<li>Activation: Once per scene, as a Scheme and Support action, you may make a Courtesy (Air) or Tactics (Air) check targeting two other characters who are not hostile to each other. The TN of the check is equal to the highest vigilance among your targets.</li>\n<li>Effects: If you succeed, choose one target and increase the TN of their next check by 2. Decrease the TN of the other target’s next check by 2. This effect persists until the end of your next turn.</li>\n<li>New Opportunities<br>Air \u0002: Neither of your targets realizes your duplicity in hindering one to help the other.<br>Air \u0002 \u0002: You can use this technique one additional time this scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "courtesy,tactics",
+        "difficulty": "@T:vigilance|max",
+        "technique_type": "shuji"
+      },
+      "folder": null
+    }
+  ]
+}

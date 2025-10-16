@@ -1,0 +1,365 @@
+{
+  "exportedAt": "2025-10-16T22:29:49.071Z",
+  "foundryVersion": "12.331",
+  "systemId": "l5r5e",
+  "pack": {
+    "label": "Bonds",
+    "collection": "l5r5e.core-bonds",
+    "type": "Item",
+    "system": "l5r5e"
+  },
+  "count": 9,
+  "documents": [
+    {
+      "_id": "L5RCoreBon000001",
+      "name": "Family",
+      "type": "bond",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/bond.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "136"
+        },
+        "description": "<h2>Family</h2>\n<ul>\n<li>Family generally watch out for your reputation and help with modest favors that promote your well-being (providing you with hospitality, giving you a good character reference, assisting in your training), even if you did not ask for these things. They expect the same from you, and they expect you to uphold the family name.</li>\n<li>Allies of your close family members are likely to know all about your most notable successes (but they have suspiciously never heard of your less auspicious endeavors), and they are favorably disposed toward you. Enemies of your family view you as an enemy.</li>\n<li>If your bond rank is 3 or higher, a family member can be expected to also watch out for your personal happiness. They are willing to take more notable risks on your behalf (such asstaking significant amounts of honor or glory on your choices, lending you heirlooms, or trusting you to handle important tasks in their name), and they might ask the same from you.</li>\n</ul>\n<p>“Strong Roots Grow Deep” (Bond Ability): Once per scene, you may call upon your bond to treat your composure as increased by your bond rank until the end of the scene.</p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "bond_type": "Family"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreBon000002",
+      "name": "Comrade",
+      "type": "bond",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/bond.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "137"
+        },
+        "description": "<h2>Comrade</h2>\n<ul>\n<li>A comrade generally watches out for your interests and is willing to do modest favors for you (helping you with a task for a few days, getting you home without embarrassing yourself after a night of revelry, lying about your whereabouts to your enemies), and they might ask the same from you.</li>\n<li>Allies of a comrade treat you as an ally, and they are favorably disposed toward you unless you give them reason not to be. They might even do you significant favors, especially if the two of you are working together in a deceased comrade’s memory. Enemies of your comrades tend to steer clear of you, or view you as an enemy.</li>\n<li>If your bond rank is 3 or higher, a comrade can be expected to undertake major tasks in your name (such as staking significant amounts of honor or glory on your choices, risking their life on your behalf, or adopting your dependents should you perish), and they might ask the same from you.</li>\n</ul>\n<p>“Just Like Old Times” (Bond Ability): When you perform a check using a skill for which the bonded character has 1 or more skill ranks (or if they are an NPC, for which they have 1 or more ranks in the relevant skill group), you may call upon your bond to negate a number of  results up to your bond rank.</p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "bond_type": "Comrade"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreBon000003",
+      "name": "Lover",
+      "type": "bond",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/bond.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "137"
+        },
+        "description": "<h2>Lover</h2>\n<ul>\n<li>A lover seeks to spend time with you, writes letters to you, and is willing to assist you in ways that do not require publicly acknowledging your bond (giving you information key to pursuing a desired goal, encouraging you to pursue your personal interests, helping you to deal with emotions you usually must keep to yourself), and they expect you to do the same.</li>\n<li>Generally, your lover’s allies do not acknowledge your relationship. Some might be favorably disposed to you covertly if you make their ally happy (and unfavorably disposed if you make them unhappy), while others might be jealous of the attention you receive. Your lover’s enemies might target you to attempt to gain leverage over your lover.</li>\n<li>If your bond rank is 3 or higher, a lover is more overt about your relationship, allowing them to assist you more publicly (such as giving you letters of introduction to officials above your status, allowing you to use their name to pursue your goals, and even helping you directly), and they expect the same from you.</li>\n</ul>\n<p>“With You, the Storm Subsides” (Bond Ability): At the end of a scene involving your lover or reminders of them, you may call upon your bond to remove additional strife equal to your bond rank.</p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "bond_type": "Lover"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreBon000004",
+      "name": "Rival",
+      "type": "bond",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/bond.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "138"
+        },
+        "description": "<h2>Rival</h2>\n<ul>\n<li>A rival generally seeks to oppose you when the opportunity presents itself and is unfavorably disposed toward you. However, their enmity toward you lends gravity to your position, and it makes those outside of your conflict more convinced of your importance.</li>\n<li>Allies of your rival treat you with grudging respect and suspicion. Your rival’s enemies might seek your aid when they face your rival, or might offer you aid in doing so (such as advice for defeating your rival, quiet political backing, or medical attention after fighting the rival).</li>\n<li>If your bond rank is 3 or higher, your rival views themselves as your true foe, and they look dimly upon anyone else who acts against you. They can be relied upon to attempt to keep other people from harming you (so that they can defeat you on their own terms someday).</li>\n<li>“I Will Surpass You!” (Bond Ability): While making a check, you may call upon your bond. Receive strife equal to your bond rank; you may reroll up to that many dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "bond_type": "Rival"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreBon000005",
+      "name": "Nemesis",
+      "type": "bond",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/bond.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "138"
+        },
+        "description": "<h2>Nemesis</h2>\n<ul>\n<li>A nemesis tries to undermine your actions, sabotage your works, and destroy you at every turn. If your nemesis is the cunning sort, they might be willing to bide their time, patiently sowing the seeds of your destruction in the weeks, months, or years to come. If your nemesis is more direct, they might oppose you with brute force whenever the opportunity presents itself. Not all nemesis bonds must result in death; forcing a hated political enemy to retire to monastic life, or disproving an intellectual opponent’s unifying theory of the cosmos might be enough for some. However, in many cases, the bond can only be resolved by death.</li>\n<li>Allies of your nemesis treat you as an enemy. Enemies of your nemesis are likely to assist you as best they can (such as by saving your life after you are grievously wounded in battle with your nemesis, by explaining your nemesis’s dark secrets and hidden vulnerabilities to you, and by lying about your whereabouts to your nemesis), or they may try to use your mutual foe to persuade you to assist them in their causes.</li>\n<li>If your bond rank is 3 or higher, allies of your nemesis steer clear of you or spare you even if given the chance to vanquish you, as your nemesis has laid claim to your destruction. Additionally, your nemesis feels a greater need to not just beat you, but completely crush you, whether this takes the form of mocking hints left behind after they act against you, grandiose speeches while you are at their mercy that give you a chance to catch your breath, or eliminating others who threaten you.</li>\n</ul>\n<p>“They Were Responsible!” (Bond Ability): You may call upon your bond to determine if your nemesis was involved in a new situation you encounter, a new challenge you face, or new problem that presents itself. You ask the GM, and they should provide you with a clear answer, along with the clue or signature style you can use to determine their involvement. If the GM confirms that your nemesis was behind it, reduce the TN of your next check to address the problem by your bond rank.</p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "bond_type": "Nemesis"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreBon000006",
+      "name": "Old Flame",
+      "type": "bond",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/bond.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "188"
+        },
+        "description": "<h2>Old Flame</h2>\n<ul>\n<li>Rōnin are given to wandering, and sometimes their romances are short-lived by necessity, as work springs up in another town, societal circumstances make the relationship impossible, or the relationship dissolves of its own accord. But as circumstances can fling people apart, so too can they bring them back together. Two rōnin might cross paths again years later only to find themselves employed by rivals, or a rōnin might return to town to discover that their lover of old is now the magistrate whom they must petition for work. Or those who parted on ill terms might discover they must now work together again. Regardless of the particulars of their dissolution and reunion, this bond represents people with a romantic history who find themselves crossing paths frequently, thrown together once again, or otherwise entangled in one another’s circumstances.</li>\n<li>An old flame knows your best and worst qualities — and any advantages or disadvantages you possessed at the time you were together — and you know theirs), and is likely willing to use these to achieve their own goals as long as it does not significantly harm you. However, some fondness lingers, and they will do you small favors, such as giving you hints about opportunities you might pursue, warning you of oncoming danger, or pointing you in the direction of someone who has something you are seeking. This help most often arrives when it has not been requested.</li>\n<li>Your old flame’s allies are cautious to hostile when dealing with you, depending on how the relationship dissolved, and are generally unwilling to help you unless you offer another incentive. Your old flame’s enemies are likely unaware of you, though if they become aware of your past involvement, they might attempt to use you against your old flame — or vice versa).</li>\n<li>If your bond rank is Î or higher, your old flame will take more significant steps on your behalf, although still usually without your request. They might pay off a significant debt of yours without asking for compensation, arrive to rescue you from a bad situation, or put your name into the ear of someone wealthy or powerful who is seeking a rōnin with your particular skills.</li>\n<li>At the end of a scene involving your old flame or reminders of them, after removing strife and fatigue, you may call upon your bond to remove additional fatigue equal to your bond rank, then gain that much strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "bond_type": "Old Flame"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreBon000007",
+      "name": "Partner",
+      "type": "bond",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/bond.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "189"
+        },
+        "description": "<h2>Partner</h2>\n<ul>\n<li>To rely on another person completely is an act of great vulnerability, and for many rōnin and outsiders, such vulnerability can seem a fatal flaw others will exploit. Even so, sometimes individuals make long, lasting bonds that build into a true and unconditional trust. Whether partners are close friends, spouses, lovers, fellow soldiers, or simply other survivors of the outskirts of society who rely on each other’s helping hands to get by, this bond represents a group that has come to work almost perfectly as a unit, without hesitation or fear that they stand alone.</li>\n<li>A partner trusts you implicitly, and is willing to assist you with nearly anything so long as you can offer a rational explanation of why it is necessary or important. However, they will also intervene to stop you from doing things that they think will be harmful to you.</li>\n<li>Friends and allies of your partner at least tolerate you, will generally give you the benefit of the doubt, and will at least hear you out if you need something, though they generally will not do favors for you unless the favor also benefits your partner directly. Enemies of your partner view you as an enemy, and will seek to remove you from the equation if they think you will impede their schemes against your partner.</li>\n<li>If your bond rank is Î or higher, your partner will more proactively intervene on your behalf instead of being asked for assistance, and may be more assertive in insisting that you grow beyond tendencies that are harmful to you, such as recklessness. However, if you insist that something is important, your partner will back you with the full means at their disposal, even if you do not explain why it is important to you.</li>\n<li>Once per scene, you may call upon your bond to know exactly what your partner is thinking — or was thinking at a previous time), or to have your partner know exactly what you are thinking, without any direct communication between the two of you. You — or your partner) must express this idea in five words or fewer, plus additional words equal to your bond rank. When you use this ability, you and your partner may remove strife up to your bond rank, divided between the two of you as you choose.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "bond_type": "Partner"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreBon000008",
+      "name": "Protector and Ward",
+      "type": "bond",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/bond.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "189"
+        },
+        "description": "<h2>Protector and Ward</h2>\n<p>Most rōnin are responsible only for themselves, but some take up the life of a wanderer for the sake of another. A rōnin might have forsworn their rank and stature to protect the lost heir of their lord, hiding the child from those who see them as an inconvenient loose end—or they might have been the one to refuse such an order, and fled to protect someone their own lord desired to see dead. Or perhaps they simply encountered someone who needed them and their compassion forced its way through the rōnin’s world-weary exterior. Whatever the case, a character with this bond has someone who is dependent on them, and looks to them both for guidance and protection in a harsh world.</p>\n<ul>\n<li>If you are the protector, your ward is reliant on you, and cannot fully fend for themselves in the world, either due to their age, health, or circumstances. However, they are generally eager to help you to the best of their abilities.</li>\n<li>If you are the ward, your protector generally seeks to act in your best interests and keep you safe.</li>\n</ul>\n<ul>\n<li>Enemies of your ward view you as an impediment, and likely target you even before they target your ward, knowing that you will interfere with their plans anyway. Allies of your ward view you positively, and may even feel a great debt to you, assisting you in your quest to protect your ward with significant favors (such as hiding you from your enemies, helping you acquire equipment, or giving you contacts in new places), within their means.</li>\n</ul>\n<ul>\n<li>If your bond rank is Î or higher and you are the protector, you can always instinctively sense if your ward is in danger. Additionally, your ward begins to learn some skills from you more readily—if they are an NPC, they acquire £ rank in Ó skill groups in which you possess Î or more skill ranks. Your ward also starts to act on their own initiative to help you, and might even start to get you out of trouble!</li>\n</ul>\n<ul>\n<li>If your bond rank is Î or higher and you are the ward, your protector can instinctively sense if you are in danger. Additionally, your protector begins to take an interest not just in your safety, but in the things you do for fun—if they are an NPC, they acquire £ rank in Ó skill groups in which you possess Î or more skill ranks, and go out of their way to look out for your happiness in addition to your safety.</li>\n</ul>\n<ul>\n<li><strong>Under /y Protection</strong> (Protector Bond #Dility): Once per scene when you are protecting your ward, their interests, or their memory, you may call upon your bond to treat your endurance as increased by your bond rank until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "bond_type": "Protector and Ward"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreBon000009",
+      "name": "Wanderers Fellowship",
+      "type": "bond",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/bond.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "191"
+        },
+        "description": "<h2>Wanderers’ Fellowship</h2>\n<ul>\n<li>Other members of your fellowship watch out for your safety (if not always your dignity, especially when it comes to telling embarrassing stories). They help you with modest favors (offering you a cut in on a job they have taken on, giving you an introduction to someone hiring rōnin, buying your sake when your purse is empty and theirs is less empty), and generally expect you to reciprocate such favors.</li>\n<li>Those with whom your fellowship has worked before are generally inclined to regard you in the same way they do your fellows—if they are rowdy or well-behaved, they will assume the same of you. Your actions also reflect upon members of your fellowship, and if you step out of line such that it endangers the group’s reputation, they intervene to set you on the right path—or to remove you from the group, if you will not repent.</li>\n<li>If your bond rank is 3 or higher, your fellowship’s bonds of loyalty are extremely deep, and other members will accept dangerous jobs with you without question, join your side in battles that do not pay, and perhaps even buy your sake without reminding you about it three times in the next week.</li>\n</ul>\n<h3>“Sworn to Duty and to Death” (Bond Ability):</h3>\n<p>At the start of your turn, if you are Compromised or Incapacitated, you may call upon your bond to remove fatigue and strife equal to your bond rank.</p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "bond_type": "Wanderers Fellowship"
+      },
+      "folder": null
+    }
+  ]
+}

@@ -1,0 +1,3414 @@
+{
+  "exportedAt": "2025-10-16T22:29:12.649Z",
+  "foundryVersion": "12.331",
+  "systemId": "l5r5e",
+  "pack": {
+    "label": "Adversities",
+    "collection": "l5r5e.core-peculiarities-adversities",
+    "type": "Item",
+    "system": "l5r5e"
+  },
+  "count": 85,
+  "documents": [
+    {
+      "_id": "L5RCoreAdv000001",
+      "name": "Benten’s Curse",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "116"
+        },
+        "description": "<h2>Benten’s Curse (Air)</h2>\n<ul>\n<li>Your romantic efforts are always stymied by circumstances, and your gestures to get the romantic attention of others are usually misinterpreted.</li>\n<li>When you make a check to express your admiration to someone (such as an Aesthetics [Air] check to find the right poem to read to express your feelings or a Courtesy [Air] check to tell someone your feelings without exceeding propriety), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000002",
+      "name": "Bishamon’s Curse",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "117"
+        },
+        "description": "<h2>Bishamon’s Curse (Water)</h2>\n<p>“A straightforward samurai is a well-honed blade, valued for its purity of purpose and dependability when called upon. A blunt samurai, however, is like a blunt blade: valued by none, and never called upon; left as only a reminder of its former utility.” –Akodo’s Leadership</p>\n<ul>\n<li>Types: Physical, Spiritual</li>\n<li>You find it very difficult to lift heavy objects, and it takes you twice as long as others to regain your stamina after hard labor.</li>\n<li>When you make a check that relies on recovering quickly (such as a Fitness [Water] check to recover from exhaustion or the Gravely Wounded condition or a Martial Arts [Unarmed] [Water] check to train for an extended period of time), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "adversity",
+        "types": "Physical, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000003",
+      "name": "Bitter Betrothal",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "117"
+        },
+        "description": "<h2>Bitter Betrothal (Water)</h2>\n<h3>Types: Interpersonal</h3>\n<h3>Effects: The following apply to a character with the Bitter Betrothal adversity:</h3>\n<ul>\n<li>Something significantly complicates your relationship with your betrothed or spouse. As a result, they often undermine your efforts, whether out of malice, negligence, or an incompatible set of goals.</li>\n<li>When you make a check that requires the collaboration of your betrothed or spouse (such as a Courtesy [Water] check to make a polite request to their family for political backing or a Culture [Water] check to know the proper thing to do at a social function involving their relatives), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000004",
+      "name": "Blackmailed by [Character’s Name]",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "117"
+        },
+        "description": "<h2>Blackmailed by [Character’s Name] (Air)</h2>\n<ul>\n<li>Someone has incriminating information on you, which they use to try and force you to help them even when doing so may damage your reputation. You must share with them what knowledge you have about a given person, item, location, or situation, whether through a face-to-face meeting or through written correspondence. You must also arrange for introductions on their behalf with exclusive members of society or places of business.</li>\n<li>When performing a check to evade complying with the character who is blackmailing you (such as a Courtesy [Air] check to nominally tell them what they want without giving away key pieces of information or a Performance [Air] check to pretend as though you will go through with something they have demanded of you), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000005",
+      "name": "Blindness",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "118"
+        },
+        "description": "<h2>Blindness (Water)</h2>\n<ul>\n<li>You are unable to see out of either eye. Your lack of sight does not mean you cannot perceive your surroundings (using your other senses), but you cannot observe things that can be perceived only by sight.</li>\n<li>When you make a check for which sight is an asset that cannot easily be replaced by other senses (such as a Sentiment [Water] check to identify someone’s hostile intentions from across a noisy room or a Martial Arts [Ranged] [Water] check to hit a moving target with an arrow), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "adversity",
+        "types": "Physical, Scar"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000006",
+      "name": "Bluntness",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "118"
+        },
+        "description": "<h2>Bluntness (Air)</h2>\n<ul>\n<li>You have difficulty expressing things indirectly, and you overlook insinuations and implications in the statements of others unless they are pointed out to you directly.</li>\n<li>When you make a check to create or interpret subtext (such as a Design [Air] check to select a wardrobe that conveys the proper subtle message to your intended recipient or a Sentiment [Air] check to read someone’s unstated feelings), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000007",
+      "name": "Clumsiness",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "118"
+        },
+        "description": "<h2>Clumsiness (Fire)</h2>\n<ul>\n<li>You are physically imprecise when dealing with tasks that require notable dexterity (or any physical task, really). At the GM’s discretion, you periodically drop items, make a mess of precise crafting efforts, or slip and fall onto people.</li>\n<li>When you make a check that requires precise motor skills (such as a Fitness [Fire] check to vault over an obstacle or a Design [Fire] check to create an intricate piece of jewelry), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "adversity",
+        "types": "Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000008",
+      "name": "Cognitive Lapses",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "118"
+        },
+        "description": "<h2>Cognitive Lapses (Void)</h2>\n<ul>\n<li>At the GM’s discretion, you sometimes lose your ability to focus or think consciously. Your body continues to act during these times according to your general instincts, and it does not undertake actions you would not consciously perform, but you do not form coherent memories of these times. After you suffer such a lapse that lasts for more than a few brief moments at the GM’s choice, you gain 1 Void point.</li>\n<li>When you make a check for which you must recall anything that happened during a period of cognitive lapse (such as a Meditation [Void] check to understand your past decisions or a Sentiment [Void] check to guess what you might have said to someone based on their reaction to you), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "adversity",
+        "types": "Mental, Scar"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000009",
+      "name": "Daikoku’s Curse",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "119"
+        },
+        "description": "<h2>Daikoku’s Curse (Water)</h2>\n<ul>\n<li>Types: Interpersonal</li>\n<li>Effects: The following apply to a character with the Daikoku’s Curse adversity:</li>\n<li>When you gamble or speculate on the value of goods, even if you receive short-term gains, events conspire such that you always end up as poor (if not poorer) as when you started.</li>\n<li>When you make a check to gain or preserve wealth (such as a Commerce [Water] check to haggle for a good price on an item or a Skulduggery [Water] check to find a fence for stolen items), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000010",
+      "name": "Damaged Heart or Organ",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "119"
+        },
+        "description": "<h2>Damaged Heart or Organ (Earth)</h2>\n<ul>\n<li>Your heart or another vital organ is weak due to physical trauma or illness, and you can only engage in strenuous activity for half as long as other characters before needing to rest.</li>\n<li>When you make a check to undertake strenuous activity over a long period of time (such as a Fitness [Earth] check to march for a long time or a Smithing [Earth] check to hammer plates back onto a damaged piece of armor), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "adversity",
+        "types": "Physical, Scar"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000011",
+      "name": "Deafness",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "119"
+        },
+        "description": "<h2>Deafness (Air)</h2>\n<ul>\n<li>You are unable to hear, although you can perceive your surroundings through other senses.</li>\n<li>When you make a check for which auditory cues are very useful (such as a Sentiment [Air] check to discern if someone is being sincere or a Courtesy [Air] check to pick up rumors via eavesdropping on someone’s faraway conversation), you must choose and reroll two dice containing (su) or (ex). After resolving the check, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "adversity",
+        "types": "Physical, Scar"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000012",
+      "name": "Discomfiting Countenance",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "120"
+        },
+        "description": "<h2>Discomfiting Countenance (Air)</h2>\n<ul>\n<li>Characters of lower status must generally be respectful of you to your face, but characters of higher status might try to use your looks as a way of attacking your character. Additionally, you are extremely memorable, and you find it difficult to act subtly without being remembered.</li>\n<li>When you make a check to get someone to trust your word (such as a Courtesy [Air] check to make someone believe a lie or a Performance [Air] check to present a story as genuine), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000013",
+      "name": "Disdain for Compassion",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "120"
+        },
+        "description": "<h2>Disdain for Compassion (Water)</h2>\n<ul>\n<li>You no longer believe in compassion as a virtue, though you still lose honor for acting against it. When you act in accordance with compassion, others can sometimes sense your insincerity.</li>\n<li>When you make a check to pay lip service to compassion or to uphold it (such as a Courtesy [Water] check to express its importance or a Meditation [Water] check to use a belief in compassion to your advantage), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "adversity",
+        "types": "Flaw, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000014",
+      "name": "Disdain for Courage",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "120"
+        },
+        "description": "<h2>Disdain for Courage</h2>\n<ul>\n<li>You no longer believe in the tenet of Courage as a valid virtue, though you still lose honor for acting against it. When you act in accordance with the tenet of Courage, others can sometimes sense your insincerity.</li>\n<li>When you make a check to pay lip service to the tenet of Courage or to uphold it (such as a Courtesy [Fire] check to express its importance or a Meditation [Fire] check to use a belief in Courage to your advantage), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "adversity",
+        "types": "Flaw, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000015",
+      "name": "Disdain for Courtesy",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "120"
+        },
+        "description": "<h2>Disdain for Courtesy</h2>\n<ul>\n<li>You no longer believe in the tenet of Courtesy as part of Bushidō, though you still lose honor for disobeying it. When you act in accordance with this tenet of Bushidō, others can sometimes sense your insincerity.</li>\n<li>When you make a check to pay lip service to this tenet of Bushidō or to uphold it (such as a Courtesy check to express its importance or a Meditation check to use a belief in this tenet to your advantage), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "adversity",
+        "types": "Flaw, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000016",
+      "name": "Disdain for Duty and Loyalty",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "120"
+        },
+        "description": "<h2>Disdain for Duty and Loyalty</h2>\n<ul>\n<li>You no longer believe in the tenet of Duty and Loyalty within Bushidō, though you still lose honor for disobeying it. When you act in accordance with this tenet of Bushidō, others can sometimes sense your insincerity.</li>\n<li>When you make a check to pay lip service to this tenet of Bushidō or to uphold it (such as a Courtesy check to express its importance or a Meditation check to use a belief in this tenet to your advantage), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "adversity",
+        "types": "Flaw, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000017",
+      "name": "Disdain for Honor",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "120"
+        },
+        "description": "<h2>Disdain for a Bushidō Tenet</h2>\n<ul>\n<li>You no longer believe in the chosen tenet of Bushidō, though you still lose honor for disobeying it. When you act in accordance with this tenet of Bushidō, others can sometimes sense your insincerity.</li>\n<li>When you make a check to pay lip service to this tenet of Bushidō or to uphold it (such as a Courtesy check to express its importance or a Meditation check to use a belief in this tenet to your advantage), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "adversity",
+        "types": "Flaw, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000018",
+      "name": "Disdain for Righteousness",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "120"
+        },
+        "description": "<h2>Disdain for a Bushidō Tenet (Various)</h2>\n<ul>\n<li>You no longer believe in the chosen tenet of Bushidō, though you still lose honor for disobeying it. When you act in accordance with this tenet of Bushidō, others can sometimes sense your insincerity.</li>\n<li>When you make a check to pay lip service to this tenet of Bushidō or to uphold it (such as a Courtesy check to express its importance or a Meditation check to use a belief in this tenet to your advantage), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "adversity",
+        "types": "Flaw, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000019",
+      "name": "Disdain for Sincerity",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "120"
+        },
+        "description": "<h2>Disdain for Sincerity</h2>\n<ul>\n<li>You no longer believe in Sincerity as a virtue, though you still lose honor for disobeying it. When you act in accordance with Sincerity, others can sometimes sense your insincerity.</li>\n<li>When you make a check to pay lip service to Sincerity or to uphold it (such as a Courtesy check to express its importance or a Meditation check to use a belief in Sincerity to your advantage), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "adversity",
+        "types": "Flaw, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000020",
+      "name": "Ebisu’s Curse",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "120"
+        },
+        "description": "<h2>Ebisu’s Curse (Earth)</h2>\n<ul>\n<li>Characters of lower status automatically distrust you, viewing you as a distant overlord who cannot possibly be competent at practical labor or understand their daily struggles (whether or not either of these is a fair assessment).</li>\n<li>When you make a check to interact with laborers or partake in their work (such as a Commerce [Earth] check to mass produce items or a Labor [Earth] check to dig a ditch), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "adversity",
+        "types": "Physical, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000021",
+      "name": "Fractured Spine",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "120"
+        },
+        "description": "<h2>Fractured Spine (Earth)</h2>\n<ul>\n<li>You have suffered major trauma to the spine, and harsh impacts cause you to be shot through with agonizing pain. You can lift and carry only half the weight that someone of your strength normally could.</li>\n<li>When you make a check to resist harm or exhaustion (such as a Fitness [Earth] check to shrug off further injury or a Labor [Earth] check to carry heavy objects as part of building a structure), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "adversity",
+        "types": "Physical, Scar"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000022",
+      "name": "Fukurokujin’s Curse",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "121"
+        },
+        "description": "<h2>Fukurokujin’s Curse (Fire)</h2>\n<h3>Types: Mental, Spiritual</h3>\n<ul>\n<li>It takes you twice as long to gain a grasp of an academic field of study as it does another character.</li>\n<li>When you make a check to extrapolate how to do something in a field of study (such as a Medicine [Fire] check to guess how to treat an unfamiliar aliment based on its symptoms or a Survival [Fire] check to guess an unknown creature’s qualities based on its physiology), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "adversity",
+        "types": "Mental, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000023",
+      "name": "Gaijin Name, Culture, or Appearance",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "121"
+        },
+        "description": "<h2>Gaijin Name, Culture, or Appearance (Fire)</h2>\n<ul>\n<li>People of higher and equal status tend to assume that you are uneducated at best and a barbarian at worst, while people of lower status respond to you with fear.</li>\n<li>When you make a check to inspire others who do not share your culture or background (such as a Command [Fire] check to rally troops or a Commerce [Fire] check to create a product that people desire), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal (Culture) or Physical (Appearance), Interpersonal (Name), Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000024",
+      "name": "Haunting",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "122"
+        },
+        "description": "<h2>Haunting (Void)</h2>\n<ul>\n<li>The spirit has their own agenda (determined by the GM), which interferes with yours at inopportune times.</li>\n<li>When you make a check to defy the will of the spirit haunting you (such as a Meditation [Void] check to find solace in meditation or a Skulduggery [Void] check to perform disreputable acts to survive), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000025",
+      "name": "Incurable Illness",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "122"
+        },
+        "description": "<h2>Incurable Illness (Earth)</h2>\n<ul>\n<li>Periodically, if you push yourself too hard, you are afflicted by especially violent fits that significantly restrict your activity for a brief period of time.</li>\n<li>When you make a check to remain active for long periods of time (such as a Labor [Earth] check to plow a field or a Survival [Earth] check to build a shelter), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "adversity",
+        "types": "Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000026",
+      "name": "Jurōjin’s Curse",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "123"
+        },
+        "description": "<h2>Jurōjin’s Curse (Void)</h2>\n<h3>Types:</h3>\n<ul>\n<li>Physical</li>\n<li>Spiritual</li>\n</ul>\n<h3>Effects:</h3>\n<ul>\n<li>Poison and disease seem to strike you more easily, and it takes you twice as long as normal to recover from disease and injury.</li>\n<li>When you make a check to sustain yourself (such as a Fitness [Void] check to resist a critical injury or a Survival [Void] check to live in harmony with a natural environment), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "adversity",
+        "types": "Physical, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000027",
+      "name": "Kisshōten’s Curse",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "123"
+        },
+        "description": "<h2>Kisshōten’s Curse (Water)</h2>\n<p>“Children are but a reflection of their parents.” – Tao of Shinsei</p>\n<ul>\n<li>Children instinctively dislike you and are obstinate in the face of your demands. Your own children (if you have any) are unlucky in matters of health, beauty, and happiness.</li>\n<li>When performing a check for which you need to communicate with children (such as a Command [Water] check to order them around or a Performance [Water] check to entertain them), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "adversity",
+        "types": "Physical, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000028",
+      "name": "Lost Arm or Lost Hand",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "123"
+        },
+        "description": "<h2>Lost Arm or Lost Hand (Fire)</h2>\n<ul>\n<li>You have only one usable hand or arm. You cannot wield weapons in a two-handed grip or hold anything in your missing hand. If you are missing only the hand, you can strap items to the arm for use.</li>\n<li>When you make a check for which having two hands is very valuable (such as a Martial Arts [Unarmed] [Fire] check to grapple a foe into submission or a Survival [Fire] check to leap onto a galloping horse’s back), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "adversity",
+        "types": "Physical, Scar"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000029",
+      "name": "Lost Eye",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "124"
+        },
+        "description": "<h2>Lost Eye (Water)</h2>\n<ul>\n<li>You have only one eye. Your field of vision is narrower, and your depth perception is somewhat diminished.</li>\n<li>When you make a check for which your reduced ability to observe a wide field or discern the exact distance to faraway objects would cause difficulties (such as a Tactics [Water] check to spot incoming threats or a Martial Arts [Ranged] [Water] check to hit targets while moving), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "adversity",
+        "types": "Physical, Scar"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000030",
+      "name": "Lost Fingers",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "124"
+        },
+        "description": "<h2>Lost Fingers (Fire)</h2>\n<ul>\n<li>You have fewer functional digits on one of your hands than most people. Checks to craft new items take you twice as long as they would take a character with their full complement of fingers.</li>\n<li>When you make a check for which you must maintain a precise grip with both hands at once (such as a Design [Fire] check to weave cloth or a Martial Arts [Fire] check to draw your blade quickly), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "adversity",
+        "types": "Physical, Scar"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000031",
+      "name": "Lost Leg",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "124"
+        },
+        "description": "<h2>Lost Leg (Water)</h2>\n<ul>\n<li>You have one fewer leg than most people. You use a crutch, cane, or other support to walk, and standing takes more effort than it does for people with two legs. Traveling by walking takes you twice as long as it does others without some form of compensatory tool.</li>\n<li>When you make a check for which you must reposition yourself quickly or maintain your balance (such as a Fitness [Water] check to move across difficult ground quickly or a Seafaring [Water] check to operate a boat in difficult conditions such as a storm), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "adversity",
+        "types": "Physical, Scar"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000032",
+      "name": "Lost Memories",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "124"
+        },
+        "description": "<h2>The following apply to a character with the Lost Memories adversity:</h2>\n<ul>\n<li>There is a period of your life that you cannot remember at all. The less important this period is to your identity, the longer it should be (for example, a single day lost might be sufficient if the character committed a terrible act during that time and struggles to understand how or why, whereas a full decade of lost memories might be insufficient if they are not especially foundational to who the character is). The player and GM should work together to determine the amount and importance of memories lost. Skills and abilities acquired during the lost time are largely retained, even if the character does not remember the act of developing them.</li>\n<li>When you make a check for which you must recall information you learned during the period of lost memories (such as a Culture [Void] check to intuit how to behave in a particular situation similar or related to one you encountered during that time or a Meditation [Void] check to understand your past decisions), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "adversity",
+        "types": "Mental, Scar"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000033",
+      "name": "Maimed Arm",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "125"
+        },
+        "description": "<h2>Maimed Arm (Fire)</h2>\n<ul>\n<li>Types: Physical, Scar</li>\n<li>Effects: The following apply to a character with the Maimed Arm adversity:</li>\n<li>Your right or left arm is injured (your choice at the time the disadvantage is assigned), making it much harder to perform activities that involve use of that arm. You can use the arm, but gripping anything tightly causes you pain, and you might need a sling to help the arm heal properly.</li>\n<li>When you make a check for which you need to use two hands at once (such as a Design [Fire] check to sew a new kimono or a Martial Arts [Melee] [Fire] check to overwhelm a foe with a powerful overhead slice), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "adversity",
+        "types": "Physical, Scar"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000034",
+      "name": "Maimed Visage",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "125"
+        },
+        "description": "<h2>Maimed Visage (Air)</h2>\n<p>“You have a villain’s look about you. Why should we believe you’re a magistrate of the Emperor’s justice?”</p>\n<p>The magistrate sighed. “You’re right. These scars do tell a story about me, and one you should heed. But you haven’t asked what the story is, have you?<br>When I was young, I served my lord as a yōjimbō. In my first battle, I took a slash meant for his throat. You can read the degree of my loyalty in these scars. Now, if I would suffer such a wound without complaint, do you really think I’d allow your foolishness to stand in the way of justice?”</p>\n<ul>\n<li>Types: Physical, Interpersonal, Scar</li>\n<li>Effects: The following apply to a character with the Maimed Visage adversity:</li>\n<li>You have been struck in the face, causing a very noticeable and difficult-to-disguise sign of your altercation. Your injury is disquieting to many, and speaking causes you some pain, hampering your social endeavors that hinge on subtle implication and manipulation.</li>\n<li>When you make a check to subtly convince others of something or speak an implication (such as a Commerce [Air] check to sell an item at a higher price than usual or a Courtesy [Air] check to insult someone by implication), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal, Physical, Scar"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000035",
+      "name": "Momoku",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "126"
+        },
+        "description": "<h2>Momoku (Void)</h2>\n<h3>Types:</h3>\n<p>Spiritual</p>\n<h3>Effects:</h3>\n<ul>\n<li>You do not detect supernatural presences even when they make themselves evident to everyone else, and you are blissfully unaware of the ripples in reality such entities and phenomena create. You can still discern effects they have on the physical world, but only when they become quite obvious.</li>\n<li>When you make a check to understand or appeal to otherworldly powers (such as a Games [Void] check to put your faith in the power of the universe or a Theology [Void] check to call upon the cosmic energy around you), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "adversity",
+        "types": "Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000036",
+      "name": "Muteness",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "126"
+        },
+        "description": "<h2>Muteness (Air)</h2>\n<ul>\n<li>You are physically or psychologically unable to produce intelligible spoken words. You can still make yourself understood through signing, gestures, and meaningful looks.</li>\n<li>When you make a check for which you must make your tone of voice understood by others (such as a Command [Air] check to convey nuanced information to others or a Performance [Air] check to impersonate someone convincingly), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal, Physical or Mental, Scar"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000037",
+      "name": "Nerve Damage",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "126"
+        },
+        "description": "<h2>Nerve Damage (Air)</h2>\n<ul>\n<li>You have no feeling in certain parts of your body.</li>\n<li>When you make a check for which physical sensitivity is helpful (such as an Aesthetics [Air] check to delicately paint glaze onto a ceramic piece or a Fitness [Air] check to maintain your posture exactly while moving), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "adversity",
+        "types": "Physical, Scar"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000038",
+      "name": "Scorn of [One Group]",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "127"
+        },
+        "description": "<h2>Scorn of [One Group] (Water)</h2>\n<ul>\n<li>You have earned the ire of a particular group, which has seriously damaged your ability to work with its members or enlist their help. You have been barred from entering their facilities, and they refuse to meet or communicate with you directly. Confer with the GM to select a campaign-appropriate group when choosing this disadvantage.</li>\n<li>When performing a check to interact with the chosen group that relies on your rapport with its members (such as a Courtesy [Water] check to persuade them to do something or a Performance [Water] check to impress a group of them), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000039",
+      "name": "Shadowlands Taint (Air)",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "127"
+        },
+        "description": "<h2>Shadowlands Taint (Air)</h2>\n<ul>\n<li>You are a Tainted being. You have trouble sympathizing with other humans, but you can understand the emotions of corrupted beings easily.</li>\n<li>When you make a check to show compassion for other human beings (such as a Composition [Air] check to edit a work for emotional refinement or a Courtesy [Air] check to say something difficult without harming the recipient’s feelings), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "adversity",
+        "types": "Curse, Interpersonal, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000040",
+      "name": "Shadowlands Taint (Earth)",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "127"
+        },
+        "description": "<h2>Shadowlands Taint (Earth)</h2>\n<ul>\n<li>You are a Tainted being. Your ability to feel physical sensations is significantly diminished, and when you perish, your body rises as a Zombie Peasant (see page 321), which pursues your last goal with bestial purpose before turning on anyone else nearby.</li>\n<li>When you make a check that relies upon physical sensitivity (such as a Design [Earth] check to repair a damaged item or a Martial Arts [Unarmed] [Earth] check to grapple with a foe), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "adversity",
+        "types": "Curse, Physical, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000041",
+      "name": "Shadowlands Taint (Fire)",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "128"
+        },
+        "description": "<h2>Shadowlands Taint (Fire)</h2>\n<ul>\n<li>You are a Tainted being. You can identify Shadowlands creatures and forces, you know how to turn them to destructive ends, and you are drawn inexorably to such forbidden powers.</li>\n<li>When you make a check to foresee possible negative outcomes of your actions (such as a Government [Fire] check to extrapolate whether your actions could lead to great destruction or a Theology [Fire] check to know whether the powers you are dealing with are likely to destroy you in the end), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "adversity",
+        "types": "Curse, Mental, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000042",
+      "name": "Shadowlands Taint (Void)",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "128"
+        },
+        "description": "<h2>Shadowlands Taint (Void)</h2>\n<ul>\n<li>You are a Tainted being. Each time you spend your last Void point, someone near you suffers a misfortune as the woven cord of fate frays.</li>\n<li>When you make a check to discern your future (such as a Government [Void] check to know whether a course of action is likely to end in tragedy or a Seafaring [Void] check to detect the arrival of a storm before it hits), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "adversity",
+        "types": "Curse, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000043",
+      "name": "Shadowlands Taint (Water)",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "128"
+        },
+        "description": "<h2>Shadowlands Taint (Water)</h2>\n<ul>\n<li>You are a Tainted being. When your blood is spilled (such as after you suffer the Bleeding condition), foulness spills forth. Anyone who touches it suffers the Afflicted condition.</li>\n<li>When you make a check to heal others or deal with food (such as a Medicine [Water] check to prepare treatments for a disease or a Survival [Water] check to forage for food), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "adversity",
+        "types": "Curse, Physical, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000044",
+      "name": "Sworn Enemy",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "129"
+        },
+        "description": "<h2>Sworn Enemy (Earth)</h2>\n<ul>\n<li>“As soon as a person leaves their house, they have seven enemies.” – Tao of Shinsei</li>\n<li>Types: Interpersonal</li>\n<li>Effects: The following apply to a character with the Sworn Enemy adversity:</li>\n<li>You and the GM should select or create a character to be your sworn enemy. Your sworn enemy exists within the world and periodically meddles in your affairs, directly or indirectly, at the GM’s discretion. If your sworn enemy perishes, you must either remove this disadvantage, acquire a new sworn enemy (perhaps someone who hates you because of your role in the demise of the previous one), or find a way for your deceased foe to continue playing a role in your life.</li>\n<li>When you make a check to remain rational in the presence of this person you hate (such as a Courtesy [Earth] check to interact with this person without being provocative or a Meditation [Earth] check to stay stoic in the face of their insults), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000045",
+      "name": "Whispers of Cruelty",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "129"
+        },
+        "description": "<h2>Whispers of Cruelty (Earth)</h2>\n<p>“The Peace of the Unicorn is restored to these lands!” The commander’s voice boomed from within his golden mask. Standing on his stirrups, he was as tall as the thatch-roofed houses around him. The peasants of the village fell to their knees. <br>“Please, Moto-sama!” begged the village head. “Spare us your terrible wrath! We are but heimin; we did not mean to offer succor to the Lion, but we had no choice.” <br>Juro sat in his saddle once more, his jaw clenching beneath his mask. No matter how often I try, he thought, they still only see the terrible warlord.</p>\n<p>Types: Interpersonal, Infamy</p>\n<ul>\n<li>You are well-known, but not for the right reasons. Characters who do not know you personally always assume that you will act in a ruthless and destructive manner, and they act accordingly.</li>\n<li>When you make a check to attempt to calm others (such as a Courtesy [Earth] check to convince someone to cooperate with you or a Command [Earth] check to get someone to accept your authority calmly), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "adversity",
+        "types": "Infamy, Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000046",
+      "name": "Whispers of Doom",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "129"
+        },
+        "description": "<h2>Whispers of Doom (Void)</h2>\n<p>Orphaned by the time she was six, Doji Hatsuhina was raised by her bachelor uncle, who also died when the girl was twelve. Finishing her schooling at the academies of Shizuka Toshi, Hatsuhina was betrothed to Seppun Hakemoto, a captain in the Imperial Guard, who died later that year. She was betrothed again, this time to a young Bayushi son of the Scorpion Champion, who was murdered as part of the often-lethal politics of his clan. She was not betrothed a third time.</p>\n<p>Types: Interpersonal, Infamy</p>\n<ul>\n<li>You are well-known, but not for the right reasons. Characters who do not know you personally always assume that those around you will perish or meet bad ends, even if you survive to spread your ill fortune further.</li>\n<li>When you make a check to dispel someone’s false preconceptions (such as a Courtesy [Void] check to get someone to question their decision or a Command [Void] check to get someone to see the pointlessness of their position), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "adversity",
+        "types": "Infamy, Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000047",
+      "name": "Whispers of Failure",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "130"
+        },
+        "description": "<h2>Whispers of Failure (Fire)</h2>\n<ul>\n<li>You are well-known, but not for the right reasons. Characters who do not know you personally always assume that you are incompetent, and they do not trust you with important tasks.</li>\n<li>When you make a check to get others to follow your lead (such as a Command [Fire] check to lead a charge or a Performance [Fire] check to inspire others), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "adversity",
+        "types": "Infamy, Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000048",
+      "name": "Whispers of Poverty",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "130"
+        },
+        "description": "<h2>Whispers of Poverty (Water)</h2>\n<ul>\n<li>You are well-known, but not for the right reasons. Characters who do not know you personally always assume that you don’t have financial solvency and won’t be able to muster resources quickly.</li>\n<li>When you make a check to acquire items quickly or make trade deals (such as a Command [Water] check to win over troops under your command with the promise of rewards or a Commerce [Water] check to secure a large supply of a commodity or service), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "adversity",
+        "types": "Infamy, Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000049",
+      "name": "Whispers of Treachery",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "130"
+        },
+        "description": "<h2>The following apply to a character with the Whispers of Treachery adversity:</h2>\n<ul>\n<li>You are well-known, but not for the right reasons. Characters who do not know you personally always assume that you will plant poison in their tea or a knife in their back at the first opportunity.</li>\n<li>When you make a check to get others to trust you (such as a Courtesy [Air] check to convince someone of your sincerity or a Skulduggery [Air] check to steal from someone who is aware of your presence), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "adversity",
+        "types": "Infamy, Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000050",
+      "name": "Elemental Deficiency (Air)",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "93"
+        },
+        "description": "<h2>Elemental Deficiency (Air)</h2>\n<ul>\n<li>For one reason or another, you lack a fundamental connection with the element of Air. You tend to have trouble in areas associated with the element, and you have a very poor relationship with air kami.</li>\n<li>When performing a check to align yourself with the element of Air or interact with air kami (such as a Theology [Air] check to invoke the kami or a Courtesy [Air] check to appropriately respond to a religious rite), you must choose and reroll two dice containing 0 or ~. After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "adversity",
+        "types": "Mental, Physical, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000051",
+      "name": "Elemental Deficiency (Earth)",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "93"
+        },
+        "description": "<h2>Elemental Deficiency (Earth)</h2>\n<ul>\n<li>For one reason or another, you lack a fundamental connection with the element of Earth. You tend to have trouble in areas associated with the element, and you have a very poor relationship with earth kami.</li>\n<li>When performing a check to align yourself with the element of Earth or interact with earth kami (such as a Theology [Earth] check to invoke the kami or a Fitness [Earth] check to hold a position while praying or contemplating), you must choose and reroll two dice containing 0 or ~. After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "adversity",
+        "types": "Mental, Physical, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000052",
+      "name": "Elemental Deficiency (Fire)",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "94"
+        },
+        "description": "<h2>ELEMENTAL DEFICIENCY (FIRE)</h2>\n<ul>\n<li>For one reason or another, you lack a fundamental connection with the element of Fire. You tend to have trouble in areas associated with the element, and you have a very poor relationship with fire kami.</li>\n<li>When performing a check to align yourself with the element of Fire or interact with fire kami (such as a Theology [Fire] check to invoke the kami or a Performance [Fire] check to expound upon complex theories), you must choose and reroll two dice containing 0 or ~. After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "adversity",
+        "types": "Mental, Physical, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000053",
+      "name": "Elemental Deficiency (Water)",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "94"
+        },
+        "description": "<h2>Elemental Deficiency (Water)</h2>\n<ul>\n<li>For one reason or another, you lack a fundamental connection with the element of Water. You tend to have trouble in areas associated with the element, and you have a very poor relationship with water kami.</li>\n<li>When performing a check to align yourself with the element of Water or interact with water kami (such as a Theology [Water] check to invoke the kami or a Meditation [Water] check to understand your own desires), you must choose and reroll two dice containing 0 or ~. After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "adversity",
+        "types": "Mental, Physical, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000054",
+      "name": "Lackluster",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "101"
+        },
+        "description": "<h2>Lackluster (Fire)</h2>\n<h3>Types: Interpersonal</h3>\n<ul>\n<li>Try as you might, you cannot distinguish yourself within the court. Your talents or appearance cannot compete with those of the people around you. As a result, you are hardly noticed. When you try to leverage your reputation, even if people recognize who you are due to your glory or actions, they take far more interest in your companions than they do in you.</li>\n<li>When performing a check to impress others or perform better than those around you (such as an Aesthetics [Fire] check to create a new painting or a Performance [Fire] check to perform a role in a play that moves your audience to tears), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000055",
+      "name": "Overconfidence in Creativity",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "101"
+        },
+        "description": "<h2>Overconfidence in Creativity (Fire)</h2>\n<ul>\n<li>You overestimate yourself dramatically in the chosen capacity. While truly talented people may worry that they fail to meet expectations even when they do, you are blissfully confident about some talent you do not possess. When faced with reality, you may entrench yourself in your delusion or take a devastating blow to your ego.</li>\n<li>When performing a check for which you need to leverage the capacity about which you are overconfident (such as a Fitness [Earth] check to run for several li without stopping or a Composition [Fire] check to draft an exciting new poem that will awe courtiers at Winter Court), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "adversity",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000056",
+      "name": "Overconfidence in Spiritual Sensitivity",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "101"
+        },
+        "description": "<h2>Overconfidence in Spiritual Sensitivity (Void)</h2>\n<ul>\n<li>You overestimate yourself dramatically in the chosen capacity. While truly talented people may worry that they fail to meet expectations even when they do, you are blissfully confident about some talent you do not possess. When faced with reality, you may entrench yourself in your delusion or take a devastating blow to your ego.</li>\n<li>When performing a check for which you need to leverage the capacity about which you are overconfident (such as a Fitness [Earth] check to run for several li without stopping or a Composition [Fire] check to draft an exciting new poem that will awe courtiers at Winter Court), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "adversity",
+        "types": "Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000057",
+      "name": "Overconfidence in Charm",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "101"
+        },
+        "description": "<h2>Overconfidence in Charm (Water)</h2>\n<ul>\n<li>You overestimate yourself dramatically in the chosen capacity. While truly talented people may worry that they fail to meet expectations even when they do, you are blissfully confident about some talent you do not possess. When faced with reality, you may entrench yourself in your delusion or take a devastating blow to your ego.</li>\n<li>When performing a check for which you need to leverage the capacity about which you are overconfident (such as a Fitness [Earth] check to run for several li without stopping or a Composition [Fire] check to draft an exciting new poem that will awe courtiers at Winter Court), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000058",
+      "name": "Overconfidence in Subtlety",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "101"
+        },
+        "description": "<h2>Overconfidence in Subtlety (Air)</h2>\n<ul>\n<li>You overestimate yourself dramatically in the chosen capacity. While truly talented people may worry that they fail to meet expectations even when they do, you are blissfully confident about some talent you do not possess. When faced with reality, you may entrench yourself in your delusion or take a devastating blow to your ego.</li>\n<li>When performing a check for which you need to leverage the capacity about which you are overconfident (such as a Fitness [Earth] check to run for several li without stopping or a Composition [Fire] check to draft an exciting new poem that will awe courtiers at Winter Court), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000059",
+      "name": "Overconfidence in Toughness",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "101"
+        },
+        "description": "<h2>Overconfidence in Toughness (Earth)</h2>\n<ul>\n<li>You overestimate yourself dramatically in the chosen capacity. While truly talented people may worry that they fail to meet expectations even when they do, you are blissfully confident about some talent you do not possess. When faced with reality, you may entrench yourself in your delusion or take a devastating blow to your ego.</li>\n<li>When performing a check for which you need to leverage the capacity about which you are overconfident (such as a Fitness [Earth] check to run for several li without stopping or a Composition [Fire] check to draft an exciting new poem that will awe courtiers at Winter Court), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "adversity",
+        "types": "Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000060",
+      "name": "Unsavory Past",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "102"
+        },
+        "description": "<h2>Unsavory Past (Water)</h2>\n<ul>\n<li>Your servants and old acquaintances know all manner of gossip and embarrassing stories about you. Foolish, unsavory, or even bloody actions of your youth come back to haunt you. You have aged and changed, but knowledge of your history lingers within your family lands, and old associations continue to cause you problems.</li>\n<li>When performing a check by which your past may come back to haunt you (such as a Games [Water] check to relax and play an enjoyable game with people who know your penchant for cheating or a Tactics [Water] check to lead troops who know that you once fled the battlefield in terror), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000061",
+      "name": "Allergy",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "245"
+        },
+        "description": "<h2>Allergy (Water)</h2>\n<ul>\n<li>You are intensely allergic to a specific substance, object, or environment, and exposure triggers a strong physical or emotional reaction. The GM determines the specific trigger and its effects.</li>\n<li>When performing a check that involves exposure to the allergen (such as a Medicine [Water] check to treat an allergic reaction or a Survival [Water] check to avoid a hazardous environment), you must choose and reroll two dice showing (su) or (ex) results. After resolving the check, if you failed, you regain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "adversity",
+        "types": "Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000062",
+      "name": "Cursed Lineage",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "245"
+        },
+        "description": "<h2>Despised in [City] (Water)</h2>\n<ul>\n<li>Types: Fame, Interpersonal</li>\n<li>Effects: The following apply to a character with the Despised in [City] adversity:</li>\n<li>You are infamous among the residents of a particular city (chosen with the GM). People within this city resist cooperating with you and may actively hinder your activities within the city.</li>\n<li>When performing a check to gain assistance or cooperation from a resident of the city that despises you (such as a Courtesy [Water] check to learn the latest sake house rumors or a Commerce [Water] check to purchase goods within the city), you must choose and reroll two dice showing (su) or (ex) results. After resolving the check, if you failed, you regain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000063",
+      "name": "Adopted Peasant",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "245"
+        },
+        "description": "<h2>Adopted Peasant</h2>\n<ul>\n<li>You are considered an outsider by the local population, and your status as a peasant is seen as a mark of shame or inferiority. People may treat you with suspicion or disdain, and you may be excluded from certain social or economic activities.</li>\n<li>When performing a check that involves interaction with people of higher social status (such as a Courtesy [Water] check to gain favor from a noble or a Diplomacy [Water] check to negotiate with a merchant), you must choose and reroll two dice showing (su) or (ex) results. After resolving the check, if you failed, you regain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000064",
+      "name": "Despise in [City]",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "246"
+        },
+        "description": "<h2>Despise in [City]</h2>\n<ul>\n<li>You find the people, culture, or environment of the city to be deeply offensive or repugnant, and being around them makes your skin crawl. You do your best to avoid interacting with them, and your disgust is difficult to hide.</li>\n<li>After performing a check that requires you to interact with people or aspects of the city (such as a Culture [Earth] check to observe local customs or a Courtesy [Earth] check to negotiate with a merchant), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "adversity",
+        "types": "Fame, Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000065",
+      "name": "Hunted by Chikusho-Do",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "246"
+        },
+        "description": "<h2>Hunted by Chikusho-Do</h2>\n<ul>\n<li>After performing a check that requires you to remain in unacceptable accommodations for an extended period (such as a Survival [Earth] check to set up a campsite or a Commerce [Earth] check to make arrangements to stay at a rural inn), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "adversity",
+        "types": "Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000066",
+      "name": "Skepticism",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "246"
+        },
+        "description": "<h2>Skepticism (Void)</h2>\n<ul>\n<li>You are deeply distrustful of others' intentions and find it difficult to believe that people act out of genuine concern or altruism. You are cautious in your interactions and often question the motives behind others' words and actions.</li>\n<li>After performing a check that requires you to trust someone or rely on their word (such as a Courtesy [Void] check to accept a loan or a Sentiment [Void] check to believe a friend's claim), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "adversity",
+        "types": "Mental, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000067",
+      "name": "Debt to [Person or Organization]",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "71"
+        },
+        "description": "<h2>Debt to [Person or Organization] (Water)</h2>\n<ul>\n<li>You are in terrible debt to a person or organization. If you do not make regular payments to your debtor or fail to fulfill your obligations, they will certainly hunt you down and make you pay, in one way or another…</li>\n<li>When you make a check related to dodging or worsening your debt (such as making a Commerce [Water] check to purchase something unnecessary or a Courtesy [Water] check to convince someone to give you a loan), you must choose and reroll two dice containing \u0005 or \u0001. After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000068",
+      "name": "Bullheaded",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "71"
+        },
+        "description": "<h2>Bullheaded (Earth)</h2>\n<h3>Types: Mental</h3>\n<ul>\n<li>When you are pursuing a goal directly related to your ninjō, you have a difficult time focusing on anything unrelated to that goal. Your bullheaded nature often creates barriers to your own success when the most direct path isn’t the best one.</li>\n<li>When you make a check related to your goal or ninjō that requires planning, subtlety, or nuance (such as a Culture [Earth] check to recall the proper way to introduce yourself to someone you perceive as an enemy or a Courtesy [Earth] check to reason with a merchant who is standing in the way of your goal), you must choose and reroll two dice containing \u0005 or \u0001. After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "adversity",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000069",
+      "name": "Many Mouths",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "72"
+        },
+        "description": "<h2>Many Mouths (Earth)</h2>\n<ul>\n<li>You have been saddled with the responsibility to provide food and shelter for many dependents (such as children, elders, or gravely ill loved ones) beyond your means. As a result, you are constantly looking for ways to provide for them, but nothing you do is ever enough to offer more than temporary respite.</li>\n<li>When you perform a check related to providing food, money, or care for yourself or your dependents (such as a Labor [Earth] check to produce food or a Sentiment [Earth] check to soothe your loved ones), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000070",
+      "name": "Horrible Scar",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "72"
+        },
+        "description": "<h2>Horrible Scar (Air)</h2>\n<h3>Types:</h3>\n<ul>\n<li>Interpersonal</li>\n<li>Mental</li>\n</ul>\n<h3>Effects:</h3>\n<ul>\n<li>You have gained an awful scar through your travels and it hinders your interactions with others. People stare at you, treat you unfairly, and otherwise judge you for your appearance.</li>\n<li>When you perform a check to interact socially with a stranger (such as a Courtesy [Air] check to request information or a Sentiment [Air] check to calm someone down), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000071",
+      "name": "Pursued by [Individual or Group]",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "72"
+        },
+        "description": "<h2>Pursued by [Individual or Group] (Water)</h2>\n<ul>\n<li>You are running from a pursuer who wishes to capture or kill you. It is only a matter of time until your past returns to hunt you down; you are constantly on guard and watching for agents who seek you out. You have difficulty relaxing in public spaces, as your pursuer could be around any corner. Work with your GM to determine the nature of your pursuer.</li>\n<li>When you make a check that draws attention to you in public (such as a Commerce [Water] check to trade goods at a market or a Courtesy [Water] check to win the favor of a court), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000072",
+      "name": "Encompassing Duty",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "72"
+        },
+        "description": "<h2>Encompassing Duty (Earth)</h2>\n<p>“I will lay down my life for my family. Nothing will stand in the way of that.” – Aina, Ashigaru of the Lion</p>\n<ul>\n<li>You have a duty to something: your family, a friend, a cause, or some other person or ideal. This duty should manifest into at least one discernible goal, one you can work out with the GM. A goal may be to provide for your family, rescue a friend, or achieve a similar aim. You have a difficult time relaxing or focusing on tasks that do not somehow advance your goal, and this may manifest in several ways, including frustration, anger, worry, or nervousness.</li>\n<li>Whenever you make a check related to overcoming something that could hinder you in achieving your duty (such as a Meditation [Earth] check to keep a cool head in an ambush or a Courtesy [Earth] check to reason with a stubborn shopkeeper), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "adversity",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000073",
+      "name": "Stained Lineage",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "73"
+        },
+        "description": "<h2>Stained Lineage (Void)</h2>\n<ul>\n<li>Your family has a bad reputation. Whether this reputation is hyperbole or truth, most people in your region know about your family’s history and know you belong to that family. These people make negative assumptions about your character, even when given evidence to the contrary. Even if you aren’t awful currently, it’s in your blood, and they believe you will live up to your family reputation one day.</li>\n<li>When making a check to interact with anyone from your home region (such as a Commerce [Void] check to attempt trade in the open market without drawing much attention or a Courtesy [Void] check to warn others of an incoming disaster), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000074",
+      "name": "Shadowlands Taint [One with the Darkness]",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "100"
+        },
+        "description": "<h2>Shadowlands Taint [One with the Darkness]</h2>\n<ul>\n<li>Your ancestor is rumored to have flouted Imperial law and hidden their Taint. Worse, you worry that perhaps your bloodline is also corrupted, and a foul influence still lurks deep in your being—and that it influences you in subtle and insidious ways.</li>\n<li>Decrease your status by 3.</li>\n<li>You gain the Fallen Ancestor disadvantage (see page 98). Choose one of your character’s rings; you may reduce the value of that ring by 1 to increase the value of your Void Ring by 1 (this still cannot raise it above 3).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "adversity",
+        "types": "Curse, Physical, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000075",
+      "name": "Shadowlands Taint [Unnatural Skin]",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "100"
+        },
+        "description": "<h2>Shadowlands Taint [Unnatural Skin]</h2>\n<ul>\n<li>You have inherited a form of corruption from the Shadowlands, manifesting as skin that appears unnatural—pale, leathery, or with strange patterns that shift under light. This taint is subtle but persistent, and it may cause minor physical discomfort or sensory distortions when exposed to certain elements or emotions.</li>\n<li>When performing a check that involves perception, survival, or detecting hidden truths (such as a Perception [Sight] or Survival [Tracking] check), you may add +1 to your roll if the target or environment is associated with the Shadowlands or corrupted entities.</li>\n<li>You gain the Tainted Skin disadvantage (see page 98 of the core rulebook), which imposes a -1 penalty to all checks involving physical contact or exposure to fire, poison, or extreme temperatures. This disadvantage can be mitigated by using a ring with a protective property or by maintaining a state of emotional neutrality.</li>\n<li>When exposed to a creature or object from the Shadowlands, you may suffer a brief period of confusion or hallucination (1d4 rounds), during which you are unable to act effectively and must make a Willpower check (DC 10) to resist the effects.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "adversity",
+        "types": "Curse, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000076",
+      "name": "Shadowlands Taint [Blasphemous Appetites]",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "100"
+        },
+        "description": "<h2>Shadowlands Taint [Blasphemous Appetites]</h2>\n<ul>\n<li>You have proven yourself to a someone, who is willing to help you (within reason). They are open to sharing what they know about most topics, whether via a face-to-face meeting or written correspondence. They are also willing to arrange introductions for you with people they know.</li>\n<li>When performing a check that benefits from your close relationship with the character (such as a Courtesy [Water] check to requisition an item through them or a Sentiment [Water] check to read their emotions), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "adversity",
+        "types": "Curse, Mental, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000077",
+      "name": "Lost Name",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "97"
+        },
+        "description": "<h2>The following apply to a character with the Lost Name anxiety:</h2>\n<ul>\n<li>You have forgotten your true name, and as a result, you feel a deep sense of disconnection from your identity. You may struggle to find your place in the world, and others often refer to you by a title, a role, or a placeholder name, which further erodes your sense of self.</li>\n<li>When performing a check that involves personal identity, self-recognition, or establishing your place in society (such as a Sentiment [Void] check to understand your relationship with a family member or a Courtesy [Void] check to introduce yourself in a formal setting), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "adversity",
+        "types": "Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000078",
+      "name": "Demon Wound",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "97"
+        },
+        "description": "<h2>Demon Wound</h2>\n<ul>\n<li>The following apply to a character with the Demon Wound distinction:</li>\n<li>You have suffered a wound inflicted by a demon, leaving a lingering mark of corruption and pain. This wound is not merely physical—it seeps into your spirit, making you more susceptible to demonic influence and temptation.</li>\n<li>When performing a check that involves supernatural threats, demonic presence, or encounters with the infernal (such as a Theology [Void] check to resist a demon’s temptation or a Sentiment [Void] check to detect a demon’s emotions), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n<li>Once per scene, you may attempt a Willpower check (using a relevant skill such as Willpower [Void] or Discipline [Void]) to resist a demon’s influence. On a success, the demon’s influence is temporarily suppressed, but the wound remains active and may manifest in future encounters.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "adversity",
+        "types": "Scar, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000079",
+      "name": "Shadowlands Taint [Kansen Whispers]",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "99"
+        },
+        "description": "<h2>Shadowlands Taint [Kansen Whispers] (Fire)</h2>\n<ul>\n<li>You are a Tainted being. One or more of your limbs or digits grew longer but became less powerful. You are able to reach things in narrow gaps and can climb faster than normal.</li>\n<li>When you make a check that calls on your physical prowess (such as a Fitness [Earth] check to survive a fall or a Labor [Earth] check to exert yourself in the field), you must choose and reroll two dice showing (su) or (ex) results. After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "adversity",
+        "types": "Curse, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000080",
+      "name": "Shadowlands Taint [Distorted Limbs]",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "99"
+        },
+        "description": "<h2>Shadowlands Taint [Distorted Limbs]</h2>\n<ul>\n<li>You are a Tainted being. One or more of your limbs or digits grew longer but became less powerful. You are able to reach things in narrow gaps and can climb faster than normal.</li>\n<li>When you make a check that calls on your physical prowess (such as a Fitness [Earth] check to survive a fall or a Labor [Earth] check to exert yourself in the field), you must choose and reroll two dice showing (su) or (ex) results. After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "adversity",
+        "types": "Curse, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000081",
+      "name": "Sailor’s Tongue",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "the_mantis_clan",
+          "page": "7"
+        },
+        "description": "<h2>Sailor’s Garb</h2>\n<ul>\n<li>Mantis sailors generally dress in practical clothes made of sturdy, resilient cloth that will not fall apart when soaked by the sea or baked by the sun. These clothes are also generally easy to repair, even aboard a ship where supplies are often very scarce.</li>\n<li>Reduce the TN of checks to repair or maintain sailor’s garb by 1.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000082",
+      "name": "Blood Feud",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "83"
+        },
+        "description": "<h2>Blood Feud (Water)</h2>\n<ul>\n<li>Your bloodline is locked in a deadly struggle with another family or group, which makes members of that group hostile when they learn your affiliation. They may bar you from their courts and homes, refuse to meet with you, or even challenge you to duels over slights in which you had no personal involvement. Confer with the GM to select a campaign-appropriate family or group when choosing this disadvantage. Note that the family lines that participate in a given feud are much smaller than a full Great Clan family—this adversity represents a feud with a group such as the descendants of a specific Kakita lord, rather than the entire Kakita family.</li>\n<li>When performing a check to interact with the chosen group or family that relies on their goodwill toward members of your family (such as a Courtesy [Water] check to seek hospitality on the road while traveling on family business, or a Performance [Water] check to impress them with a song attributed to you under your family name), you must choose and reroll two dice containing 0 or {:I. After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal, Social"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000083",
+      "name": "Insomniac",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "104"
+        },
+        "description": "<h2>Insomniac [Void]</h2>\n<ul>\n<li>You have difficulty falling and staying asleep. You recover only half the normal amount after a night’s rest.</li>\n<li>When you make a check that requires intense focus (such as a Government [Void] check to sense the best way to approach a politically charged situation or a Smithing [Void] check to attune to a weapon you are making), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "adversity",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000084",
+      "name": "Out of Shape",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "105"
+        },
+        "description": "<h2>Out of Shape (Earth)</h2>\n<p>“Initiates always ask why they have to do so-called meaningless tasks: carrying water in buckets up the hill, pulling carts for the farmers as if oxen, or carrying stone by hand for construction. ‘We have animals, engineers, machines for all that. I’m here to improve my mind, my soul,’ they say.<br>Enlightenment is a hard path, testing the spirit at every turn. You will stumble. You will fall. You will get back up again and climb once more. If your body cannot handle lifting a rock, if you cannot be like the oxen who tills the soil for simple grass, how can you expect to know the universe?”<br>- Togashi Kyogi, from their treatise, “To Fall is To Fly”</p>\n<ul>\n<li>Type: Physical</li>\n<li>Effects: The following apply to a character with the Out of Shape adversity:</li>\n<li>You have neglected your physical fitness, whether by choice or due to a health issue. Regardless, you become noticeably more winded than others during physical activities.</li>\n<li>When you make a check that requires physical exertion (such as a Martial Arts [Melee] [Earth] check to outlast your opponent in a duel or a Performance [Earth] check to recite a very long, taxing poem), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "adversity",
+        "types": "Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAdv000085",
+      "name": "Stalked by [Creature]",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "105"
+        },
+        "description": "<h2>Stalked by [Creature] (Earth)</h2>\n<ul>\n<li>You believe a creature of some kind is stalking you, whether or not that is true. The creature may be mundane or supernatural, and its obsession with hunting you makes being in the wilderness dangerous.</li>\n<li>When you make a check that requires patience while in the wilderness (such as a Skulduggery [Earth] check to build a trap to protect your camp or a Fitness [Earth] check to stay calm while fleeing from the beast), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "adversity",
+        "types": "Interpersonal, Mental, Spiritual"
+      },
+      "folder": null
+    }
+  ]
+}

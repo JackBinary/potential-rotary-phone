@@ -1,0 +1,3294 @@
+{
+  "exportedAt": "2025-10-16T22:34:06.714Z",
+  "foundryVersion": "12.331",
+  "systemId": "l5r5e",
+  "pack": {
+    "label": "Techniques Kata",
+    "collection": "l5r5e.core-techniques-kata",
+    "type": "Item",
+    "system": "l5r5e"
+  },
+  "count": 80,
+  "documents": [
+    {
+      "_id": "L5RCoreKat000001",
+      "name": "Flowing Water Strike",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "175"
+        },
+        "description": "<h2>Flowing Water Strike</h2>\n<h3>Rank 3</h3>\n<p>A skilled warrior is not restricted by the optimal range of their weapon, and can open or close gaps to compensate for positional disadvantages.</p>\n<ul>\n<li>As an Attack and Movement action using a readied weapon, you may make a TN 3 Martial Arts (Water) check using the appropriate skill for that readied weapon, targeting one character at range 0–2 (regardless of the weapon’s usual range restrictions).</li>\n<li>If you succeed, the target suffers physical damage equal to your Water Ring and suffers the Bleeding condition. The target must resist with a TN 4 Fitness check (Earth 2, Fire 5); if they fail, increase the physical damage they suffer by your weapon’s base damage.</li>\n</ul>\n<h4>New Opportunities</h4>\n<ul>\n<li>Water (op): Remove the Dazed, Disoriented, Immobilized, or Prone condition from yourself.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "melee",
+        "difficulty": "3",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000002",
+      "name": "Crimson Leaves Strike",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "175"
+        },
+        "description": "<h2>Crimson Leaves Strike</h2>\n<ul>\n<li>As an Attack action using a readied weapon, you may make a TN 4 Martial Arts (Earth) check with appropriate skill for that weapon, targeting one character within the weapon’s range.</li>\n<li>If you succeed, your target suffers physical damage equal to your Earth Ring, plus additional damage equal to your bonus successes. Choose one of your target’s readied weapons; the target must resist with a TN 4 Fitness check (Air 2, Water 5) or lose control of the chosen weapon, which travels 3 range bands in a direction of your choice.</li>\n<li>Earth (op): If you disarm your opponent, you may take control of their weapon instead of knocking it away.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "melee",
+        "difficulty": "4",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000003",
+      "name": "Heartpiercing Strike",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "176"
+        },
+        "description": "<h2>Heartpiercing Strike</h2>\n<ul>\n<li>Rank 3</li>\n<li>Battle is the art of killing, and woe betide any warrior who forgets it. With a roar, the bushi launches forward, stabbing out with their weapon to fatally impale their enemy. Even if the strike does not slay the foe, it is likely to weaken them significantly.</li>\n<li>Activation: As an Attack and Movement action using a readied weapon, you may make a TN 4 Martial Arts (Fire) check using the appropriate skill for that weapon, targeting one character within the weapon’s range.</li>\n<li>Effects: If you succeed, your target suffers a critical strike with severity equal to your weapon’s deadliness plus your bonus successes. The TN of the Fitness check to resist this critical strike is 3 (Air 4, Water 1) instead of the normal TN. If you fail, you suffer the Disoriented condition.</li>\n<li>New Opportunities</li>\n<li>Fire (op): Before resolving the effect, move up to 1 range band toward your target.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "melee",
+        "difficulty": "4",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000004",
+      "name": "Battle in the Mind",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "174"
+        },
+        "description": "<h2>Battle in the Mind</h2>\n<p>Rank 3</p>\n<ul>\n<li>Activation: When you make an Initiative check for a duel using your Void Ring, you may spend (op) in the following way:</li>\n<li>Void (op) (op): You name two rings, then your opponent must name one of those two rings. When your opponent selects their stance during their first turn of the duel, they cannot select the ring they named as their stance.</li>\n<li>Void (op)+: Choose a technique category. Learn one of your opponent’s known techniques of that category (chosen by the opponent) per (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000005",
+      "name": "Lord Shiba’s Valor (Phoenix)",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "177"
+        },
+        "description": "<h2>Lord Shiba’s Valor (Phoenix)</h2>\n<ul>\n<li>Rank 2</li>\n<li>Once, in the Shadowlands, the Kami Shiba stood alone between a vast horde of its foul denizens and the last of the Seven Thunders after their victory against Fu Leng. Drawing the legendary sword Ofushikai, Shiba cut his way through the host to the First Oni. Legends say that their blades flashed for a hundred days, shattering mountains around them and cutting great rifts across the ground. In the end, each slew the other, but Shiba fell with his oath to protect unbroken.</li>\n<li>Activation: Once per game session, as a Support action using one readied weapon, you may make a TN 2 Tactics (Void) check targeting any number of friendly characters in range of your weapon.</li>\n<li>Effects: If you succeed, other characters cannot select your targets as the targets of their Attack or Scheme actions if they could select you instead. If an action has multiple targets, you must be the first target chosen. This effect persists for a number of rounds equal to your school rank.</li>\n<li>New Opportunities</li>\n<li>Void (op): If you succeed, increase the TN of Attack and Scheme checks targeting you by 1. This effect persists until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "tactics",
+        "difficulty": "2",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000006",
+      "name": "Soul Sunder",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "177"
+        },
+        "description": "<h2>Soul Sunder</h2>\n<h3>Rank 5</h3>\n<p>While bushi are generally less well equipped to deal with supernatural threats than shugenja, mastery of any art reveals how the world is all interconnected. Warriors deeply engaged with the mysteries of the sword can attune themselves to their ancestral blades to cut even those beings who walk between worlds and whose flesh steel normally will not bite.</p>\n<ul>\n<li><strong>Activation:</strong> As a Support action, you may make a TN 4 Meditation (Void) check to attune your blade to the spirits of your honored ancestors.</li>\n<li><strong>Effects:</strong> If you succeed, choose one readied weapon. It gains the Sacred quality, and when you use it to inflict a critical strike on an Otherworldly being, treat its deadliness as increased by your bonus successes. This effect persists until the end of your next turn.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities</strong></li>\n<li>Void (op)+: This effect persists for one additional round per (op) spent this way.</li>\n<li>Void (op) (op): Otherworldly beings cannot perform Attack actions targeting you until the start of your next turn.</li>\n<li>Void (op) (op): You may immediately perform a Strike action using your readied weapon.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "meditation",
+        "difficulty": "4",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000007",
+      "name": "Warrior’s Resolve",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "178"
+        },
+        "description": "<h2>Warrior’s Resolve</h2>\n<ul>\n<li>Once per scene, as a Support action, you may spend 1 Void point to recover.</li>\n<li>Effects: Remove fatigue equal to your honor rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000008",
+      "name": "Tactical Assessment",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "178"
+        },
+        "description": "<h2>Tactical Assessment</h2>\n<ul>\n<li>Akodo’s Leadership and Bayushi’s Lies agree on a few topics, for both leaders were practical to a certain degree, even if Akodo famously scorned many of Bayushi’s methods. As the scholar Hida Fuyuko noted in her revelatory commentary on Leadership’s lessons for commanders on the Kaiu Wall, the most famous meeting of these two minds comes on the matter of preparation: battles are not won in the field, but in the leadup to the conflict. Even in small clashes, the warrior who better understands the terrain, the strength of their own forces, and the composition of the enemy’s troops is usually victorious.</li>\n<li>Activation: When you make an Initiative check, you may spend (op) in the following way:</li>\n<li>Air (op): Choose an enemy in the conflict. Learn one of their advantages (of their choice) and their physical or supernatural resistance (your choice).</li>\n<li>Earth (op): Choose a character in the conflict. They do not apply any of their disadvantages to their checks until the end of their first turn.</li>\n<li>Water (op): Choose a piece of terrain in the scene (see Terrain on page 267). Until the start of your first turn, it counts as having the Obscuring quality for Attack action checks targeting you and your allies.</li>\n<li>Fire (op): Choose a character in the conflict and one of their advantages you know. Until the end of their first turn, they apply that advantage to all of their checks.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000009",
+      "name": "Soaring Slice",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "177"
+        },
+        "description": "<h2>Soaring Slice</h2>\n<h3>Rank 1</h3>\n<p>Jerking their arm in a sudden motion, the bushi hurls their weapon at the enemy, hoping to take the foe off guard or open a gap in their defenses.</p>\n<ul>\n<li><strong>Activation:</strong> As an Attack action using one readied weapon in a one-handed grip, you may make a TN 2 Martial Arts check with the appropriate skill for the weapon targeting one character at range 2–3.</li>\n<li><strong>Effects:</strong> You hurl your weapon at the target. If you succeed, you deal physical damage to the target equal to the weapon’s base damage plus your bonus successes. The weapon lands at range in a direction of your choice from the target if they defend against the damage, or embeds in them if they suffer a critical strike. If you fail, the weapon travels a number of range bands equal to the maximum range of the technique in the direction of the target.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities</strong></li>\n<li>(op)+: Treat the maximum range of this technique as 1 higher per (op) spent this way.</li>\n<li>(op): Reduce the TN of the next Attack action against the target before the end of your next turn by 1.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "melee",
+        "difficulty": "2",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000010",
+      "name": "Striking as Air",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "177"
+        },
+        "description": "<h2>Striking as Air</h2>\n<h3>Rank 1</h3>\n<p>Not every stroke a warrior throws in battle is intended to kill—even if they all lead to that end goal. A skilled fighter can tell when an attack will not land and subtly shift it into a different sort of attack, meant to probe the enemy’s defenses or draw their guard out of position. By carefully placing attack after attack, a master of the blade can eventually whittle down their opponent’s options until none remain but death.</p>\n<ul>\n<li>When you make a Martial Arts [Melee, Ranged, or Unarmed] (Air) check, you may spend (op) in the following way:</li>\n<li>Air (op)+: Reserve one of your rolled dice, plus one additional die per (op) spent this way. These dice become dropped dice. When making a check with the same skill before the end of your next turn, you may roll one fewer  per reserved  and one fewer  per reserved , then add the reserved dice to your roll. These dice count as rolled dice, but are added set to the results they had when they were reserved.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000011",
+      "name": "Striking as Water",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "178"
+        },
+        "description": "<h2>Striking as Water</h2>\n<h3>Rank 1</h3>\n<p>The finest armor is useless if a warrior can bypass it, slipping a blade through the gaps that allow the wearer to move or using blunt, concussive force to create a space. As the bushi strikes, they attempt to slide past the target’s defenses to deliver a lethal blow.</p>\n<ul>\n<li>When you make a Martial Arts [Melee, Ranged, or Unarmed] (Water) Attack action check, you may spend (op) in the following way:</li>\n<li>Water (op)+: Your target treats their physical resistance as 1 lower per (op) spent this way. This effect persists until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000012",
+      "name": "Striking as Earth",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "178"
+        },
+        "description": "<h2>Striking as Earth</h2>\n<ul>\n<li>Rank 1: After striking, the bushi roots themselves to the ground, hunkering down to make sure their armor takes the brunt of a hit or raising a weapon in a warding position where it can deflect harm without being damaged.</li>\n<li>Activation: When you make a Martial Arts [Melee, Ranged, or Unarmed] (Earth) check, you may spend (op) in the following way:</li>\n<li>Earth (op)+: Treat your physical resistance as 1 higher per (op) spent this way until the beginning of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000013",
+      "name": "Striking as Fire",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "178"
+        },
+        "description": "<h2>Striking as Fire</h2>\n<ul>\n<li>Victory cannot be achieved through defense alone, and it is a poor student of the sword who forgets that their most important goal is simple: cut down their enemy. All else fades to the background as the bushi fiercely presses the attack, trying to force an error or open an opportunity to end their foe.</li>\n<li>Activation: When you make a Martial Arts [Melee, Ranged, or Unarmed] (Fire) Attack action check, you may spend (op) in the following way:<br>Fire (op)+: The next time your target suffers a critical strike, increase its severity by 1 per (op) spent this way. This effect persists until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000014",
+      "name": "Striking as Void",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "178"
+        },
+        "description": "<h2>Striking as Void</h2>\n<h3>Rank 5</h3>\n<p>The future is part of Void’s domain, infinite in possibility and unfathomable in depth. Because of its formlessness, one cannot scheme to undermine the uncertain future—but the instant it takes shape, an action is vulnerable to countermeasures. The bushi rests until the last possible second, allowing the potential energy of their strike to take shape only after it is too late for their enemy to respond.</p>\n<ul>\n<li>When you make a Martial Arts [Melee, Ranged, or Unarmed] (Void) check, you may spend (op) in the following ways:</li>\n<li>Void (op): Immediately switch to a different stance of your choice.</li>\n<li>Void (op): If you fail, you may perform another action. This must be an action you have not yet performed this turn. You can only activate this opportunity once per round.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000015",
+      "name": "Lord Hida’s Grip (Crab)",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "176"
+        },
+        "description": "<h2>Lord Hida’s Grip (Crab)</h2>\n<h3>Rank 2</h3>\n<p>The Kami Hida, patron of the Crab Clan, was a legendary slayer of monsters. He beheaded the massive demon that once menaced the rose-marble palace, and ripped out one skull of the two-headed Kabuto no Oni and crushed the other head with it. However, Hida was no mere brute: he was cunning, killing monsters by exploiting their weaknesses. Warriors of the Crab Clan train in similar techniques. They turn their foes' great weight against them by pinning or strategically damaging specific body parts.</p>\n<ul>\n<li><strong>Activation:</strong> As an Attack action, you may make a Fitness (Void) check targeting one creature of silhouette 3 or larger at range 0–1. The TN of the check is equal to the silhouette of the target (to a minimum of 1).</li>\n<li><strong>Effects:</strong> If you succeed, your target suffers the Immobilized condition. If you succeed, you count as granting assistance (see page 26) to all characters who perform Attack actions against your target. This effect persists until the beginning of your next turn.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities:</strong> Void (op): Your target must resist with a Fitness check or suffer physical damage equal to its silhouette, ignoring its resistance, and the Prone condition. The TN of this check is equal to your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "fitness",
+        "difficulty": "3",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000016",
+      "name": "Disappearing World Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "175"
+        },
+        "description": "<h2>Disappearing World Style</h2>\n<h3>Rank 4</h3>\n<p>Seeing nothing but their enemy, the bushi surges forward in a flurry of strikes, seeking to land a hit to the eyes, temple, or other vulnerable area rapidly after their initial attack. This stunning blow can leave the enemy staggered, giving the bushi a chance to finish the battle with their next attack.</p>\n<ul>\n<li>Activation: When you make a Martial Arts [Melee, Ranged, or Unarmed] (Fire) check, you may spend (op) in the following way:</li>\n<li>Fire (op)+: One target of your action must resist with a TN 3 Fitness check (Air 4, Water 1) or suffer the Dazed condition and fatigue equal to their shortfall. Increase the TN of the check to resist by 1 per (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000017",
+      "name": "Crashing Wave Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "175"
+        },
+        "description": "<h2>Crashing Wave Style</h2>\n<h3>Rank 4</h3>\n<p>The wave washes over the stone, wearing it away, and so the bushi’s weapon passes across their foe’s flesh, leaving behind a bloody gash or slice that is sure to slow their enemy even if the hit is not fatal.</p>\n<ul>\n<li>Activation: When you make a Martial Arts [Melee, Ranged, or Unarmed] (Water) check, you may spend (op) in the following way:</li>\n<li>Water (op)+: One target of your action must resist with a TN 3 Fitness check (Earth 1, Fire 4) or suffer the Bleeding condition and fatigue equal to their shortfall. Increase the TN of the check to resist by 1 per (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000018",
+      "name": "Crescent Moon Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "175"
+        },
+        "description": "<h2>Crescent Moon Style</h2>\n<h3>Rank 2</h3>\n<p>Striking first is valuable, but so is surviving. To defend without sacrificing offense, a bushi must be ready to retaliate swiftly after blocking or evading. With a quick shift, the bushi switches from defense to bring down their full force upon their enemy.</p>\n<ul>\n<li>Activation: When you perform Guard action (see page 264), you may spend (op) in the following way:<br>\n(op): After a character at range 1–2 performs an Attack action targeting you or another character you are guarding, you may perform a Strike action with one readied Martial Arts [Melee or Unarmed] weapon targeting that character (if they are within your weapon’s range). This effect persists until the start of your next turn, or until you perform a Strike action this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000019",
+      "name": "Iron in the Mountains Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "176"
+        },
+        "description": "<h2>Iron in the Mountains Style</h2>\n<h3>Rank 4</h3>\n<p>The bushi strikes with crushing force, breaking their enemy’s footing and knocking them to the ground with an overwhelming blow or sweeping their stance out from underneath them with a well-placed kick.</p>\n<ul>\n<li>Activation: When you make a Martial Arts [Melee, Ranged, or Unarmed] (Earth) check, you may spend (op) in the following way:</li>\n<li>Earth (op)+: One target of your action must resist with a TN 3 Fitness check (Air 1, Water 4) or suffer the Prone condition and fatigue equal to their shortfall. Increase the TN of the check to resist by 1 per (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000020",
+      "name": "Breath of Wind Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "175"
+        },
+        "description": "<h2>Breath of Wind Style</h2>\n<ul>\n<li>A swift strike to the solar plexus or throat can leave the target reeling; an experienced bushi can steal the breath from their foe with a quick jab even while executing another attack.</li>\n<li>Activation: When you make a Martial Arts [Melee, Ranged, or Unarmed] (Air) check, you may spend (op) in the following way:<br>Air (op)+: One target of your action must resist with a TN 3 Fitness check (Earth 4, Fire 1) or suffer the Disoriented condition and fatigue equal to their shortfall. Increase the TN of the check to resist by 1 per (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000021",
+      "name": "Thunderclap Strike",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "180"
+        },
+        "description": "<h2>Thunderclap Strike</h2>\n<h3>Rank 3</h3>\n<p>Sweeping their weapon in a wide arc, the bushi lashes out at their foes, driving them back to make an opening for their next move.</p>\n<ul>\n<li><strong>Activation:</strong> As an Attack action using a readied weapon, you may make a TN 3 Martial Arts [Melee or Unarmed] (Air) check using the appropriate skill for that weapon targeting each character within the weapon’s range.</li>\n<li><strong>Effects:</strong> If you succeed, each target suffers damage equal to your weapon’s base damage and must resist with a TN 3 Fitness check (Earth 4, Fire 1) or move 2 range bands directly away from you.</li>\n<li><strong>New Opportunities:</strong> Air (op)+: Increase the TN of checks to resist the effect by 1 per (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "melee,unarmed",
+        "difficulty": "3",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000022",
+      "name": "Iaijutsu Cut: Rising Blade",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "179"
+        },
+        "description": "<h2>Iaijutsu Cut: Rising Blade</h2>\n<h3>Rank 2</h3>\n<p>The bushi grips their scabbard against their hip and draws, cutting upward to catch an advancing foe without being cut themselves.</p>\n<ul>\n<li>Activation: As an Attack action using one sheathed Razor-Edged weapon, you may make a TN 3 Martial Arts [Melee] check targeting one character at range 0–1.</li>\n<li>Effects: You draw and ready the sheathed weapon in a one-handed grip. If you succeed, you deal physical damage to the target equal to the weapon’s deadliness. Your target cannot defend against this damage if they are Compromised.</li>\n<li>New Opportunities: (op): Ready one other sheathed Razor-Edged weapon.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "melee",
+        "difficulty": "@T:vigilance",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000023",
+      "name": "Iaijutsu Cut: Crossing Blade",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "179"
+        },
+        "description": "<h2>Iaijutsu Cut: Crossing Blade</h2>\n<ul>\n<li>The bushi twists their scabbard outward as they draw, cutting horizontally to extend their reach.</li>\n<li>Activation: As an Attack and Movement action using one sheathed Razor-Edged weapon, you may make a TN 2 Martial Arts [Melee] check targeting one character at range 1–2.</li>\n<li>Effects: You draw and ready the sheathed weapon in a one-handed grip. If you succeed, you deal physical damage to the target equal to the weapon’s deadliness plus your bonus successes.</li>\n<li>New Opportunities: (op): Ready one other sheathed Razor-Edged weapon.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "melee",
+        "difficulty": "2",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000024",
+      "name": "Rushing Avalanche Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "180"
+        },
+        "description": "<h2>Rushing Avalanche Style</h2>\n<ul>\n<li>When adopting this style, the bushi strikes with reckless abandon using a heavy armament. Thanks to the sheer weight of their weapon and the ferocity of their strikes, even a glancing blow can cause serious harm, and a telling blow usually ends the battle.</li>\n<li>Activation: When you make a Martial Arts [Melee] check using a blunt weapon, you may spend (op) in the following way:</li>\n<li>(op): If you fail with a shortfall of two or less, your target suffers physical damage equal to your ranks in Fitness.</li>\n<li>(op): If you succeed and your target is Prone, increase the damage you deal by your ranks in Fitness.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000025",
+      "name": "Iron Forest Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "180"
+        },
+        "description": "<h2>Iron Forest Style</h2>\n<ul>\n<li>Rank 2: A bushi versed in the spear can control their spacing with their opponent, forcing their foe to risk impalement each time they advance or catching loose clothes or stray body parts on the head of the weapon. Akodo’s Leadership refers to such a technique as the Iron Forest style, which turns the length of a single spear into an insurmountable distance.</li>\n<li>Activation: When you make a Martial Arts [Melee] check using a polearm, you may spend (op) in the following way:</li>\n<li>(op)+: The area in range of your weapon counts as Dangerous terrain for one target of your action per (op) spent this way. When an affected character attempts to move closer to you, they must make a TN 4 Fitness check (Air 2, Water 5); if they fail, they cannot advance. This effect persists until the start of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000026",
+      "name": "Open-Hand Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "180"
+        },
+        "description": "<h2>Open-Hand Style</h2>\n<h3>Rank 2</h3>\n<p>Power does not come from speed alone. A master martial artist can apply force for maximum effect, making even gentle movements devastatingly effective blocks and strikes. With enough experience, a martial artist can even control their opponent’s stance.</p>\n<ul>\n<li>When you make a Martial Arts [Unarmed] check using a weapon with the Snaring quality, you may spend (op) in the following way:</li>\n<li>(op) (op)+: One target of your action per (op) (op) spent this way must switch to a different stance of your choice. Targets of silhouette 3 or greater may resist with a TN 3 Fitness check and ignore this effect if they succeed.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000027",
+      "name": "Veiled Menace Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "181"
+        },
+        "description": "<h2>Veiled Menace Style</h2>\n<ul>\n<li>Rank 2</li>\n<li>Assassination and other clandestine tactics are frowned upon by many samurai. None can deny the effectiveness of such techniques, however. By drawing their enemy’s gaze away from the true threat, a bushi can often tip the scales against a strong foe.</li>\n<li>Activation: When you make a Martial Arts [Melee] or Martial Arts [Unarmed] Attack action check using a weapon in a one-handed grip, you may spend (op) in the following way:</li>\n<li>(op)+: If you succeed, choose one unaware or Disoriented target of your action. That target suffers a critical strike with severity equal to your weapon’s deadliness plus 1 per (op) spent this way beyond the first.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000028",
+      "name": "Spinning Blades Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "180"
+        },
+        "description": "<h2>Spinning Blades Style:</h2>\n<ul>\n<li>The biggest advantage of dual wielding does not usually stem from striking with two weapons simultaneously, largely because this is a very difficult feat. Instead, it comes from the fact that the warrior does not need to sacrifice defense while attacking or offense while defending. The off-hand blade can deflect and threaten even as the main-hand weapon attacks, or the bushi can strike with the off-hand weapon while the main-hand weapon is locked with the foe’s blade. Either weapon can deliver death, and so the enemy must watch both at all times.</li>\n<li>Activation: When you make a Martial Arts [Melee] or Martial Arts [Unarmed] Attack action check, if you have a second readied weapon you did not use for the attack, you may spend (op) in the following way:</li>\n<li>(op)+: You must spend (op) equal to your target’s Vigilance to activate this technique. You use your second readied weapon against one target of your action, inflicting physical damage equal to its base damage. If that target is Dazed, increase this damage by your ranks in the skill you used for the check.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000029",
+      "name": "Coiling Serpent Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "179"
+        },
+        "description": "<h2>Coiling Serpent Style</h2>\n<ul>\n<li>Rank 2</li>\n<li>Entrapping techniques can be performed with many different weapons, from the kusari-gama wielded by brigands to the ornate, hook-headed polearms used by the Phoenix Clan’s greatest masters of the spear.</li>\n<li>Activation: When you make a Martial Arts [Melee] or Martial Arts [Unarmed] check using a Snaring weapon, you may spend (op) in the following way:</li>\n<li>(op)+: Choose one weapon a target has readied; that weapon cannot be used for Attack actions. This effect persists until the end of your next turn.</li>\n<li>(op) (op)+: One target of your action per (op) (op) spent this way becomes Immobilized.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000030",
+      "name": "Pin the Fan",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "181"
+        },
+        "description": "<h2>Pin the Fan</h2>\n<h3>Rank 5</h3>\n<p>While it is difficult to kill at range with a single arrow, it can certainly be done, and master archers have been performing legendary feats of precision since the early days of Rokugan. From Hantei Genji’s famous shots to the arrow loosed by Doji Hotaru that slew Akodo Arasou, killing shots have often changed the course of the Emerald Empire’s history.</p>\n<ul>\n<li><strong>Activation:</strong> As an Attack and Movement action using a readied ranged weapon, you may make a Martial Arts [Ranged] check targeting one character within your weapon’s range. The TN of the check is equal to the target’s vigilance plus the range of the attack.</li>\n<li><strong>Effects:</strong> If you succeed, the target suffers damage equal to two times the weapon’s base damage plus your bonus successes.</li>\n<li><strong>(op):</strong> If the target becomes Incapacitated as a result of damage from this action, they suffer a critical strike with severity equal to two times the weapon’s deadliness damage plus your bonus successes.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "ranged",
+        "difficulty": "@T:vigilance",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000031",
+      "name": "Hawk’s Precision",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "181"
+        },
+        "description": "<h2>Hawk’s Precision</h2>\n<h3>Rank 1</h3>\n<p>While most bushi are expected to be proficient in the use of the bow, some are terrifyingly accurate, capable of hitting targets well beyond the expected engagement range.</p>\n<ul>\n<li>Activation: When you make a Martial Arts [Ranged] check, you may spend (op) in the following way:</li>\n<li>(op)+: Treat the range of the weapon as 1 higher per (op) spent this way, to a maximum of range 6.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000032",
+      "name": "Pelting Hail Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "181"
+        },
+        "description": "<h2>Pelting Hail Style</h2>\n<h3>Rank 2</h3>\n<p>A volley of arrows on the battlefield can be deadly, but most importantly from a strategic standpoint, it is terrifying to even the staunchest veterans. Even if only one in ten shots finds its mark, the salvo rattles opponents and forces caution.</p>\n<ul>\n<li>When you make a Martial Arts [Ranged] check, you may spend (op) in the following way:</li>\n<li>(op)+: Choose a number of other characters at range 0–2 of your target equal to (op) spent this way. Each chosen character receives strife equal to the base damage of your weapon.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000033",
+      "name": "Trip the Leg",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "113"
+        },
+        "description": "<h2>Trip the Leg</h2>\n<ul>\n<li>Rank 1: The bushi’s spear flashes out, aiming low to trip up their opponent and send the unlucky foe crashing to the ground.</li>\n<li>Activation: As an Attack action using one readied polearm, you may make a TN 2 Martial Arts [Melee] check targeting one character at range 1–2.</li>\n<li>Effects: If you succeed, your target suffers the Prone condition.</li>\n<li>New Opportunities: (op): If you succeed, the target receives 2 fatigue and 2 strife.</li>\n<li>New Opportunities: (op)+: If your target’s vigilance is lower than or equal to (op) spent this way, they suffer the Disoriented condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "melee",
+        "difficulty": "2",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000034",
+      "name": "Pole-Vault",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "113"
+        },
+        "description": "<h2>Pole-Vault</h2>\n<ul>\n<li>Rank 3 Kata: The bushi uses the butt of their spear and the springy haft to propel themselves into the air, over obstacles, and into their foe from above.</li>\n<li>Activation: As an Attack and Movement action using one readied polearm, you may make a TN 3 Martial Arts [Melee] (Air or Water) check targeting one character at range 3–4.</li>\n<li>Effects: You move to range 2 of your target, ignoring the effects of any terrain you pass over. You may also pass over impassable terrain such as small ravines and low walls if your GM permits. If you succeed, you deal physical damage to the target equal to the weapon’s base damage plus your bonus successes. If you fail with a shortfall of 2 or more, you suffer the Prone condition, and receives 2 fatigue and 2 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "melee",
+        "difficulty": "2",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000035",
+      "name": "Chaotic Scattering",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "86"
+        },
+        "description": "<h2>Chaotic Scattering</h2>\n<h3>Rank 2</h3>\n<p>Chaos on the battlefield is generally to the advantage of the underdog. Whether the fight is a sake house brawl or a formal duel, a crafty warrior knows the right time to knock over a table full of drinks, kick up dirt to create confusion, or position their katana in such a way as to blind their opponent.</p>\n<ul>\n<li><strong>Activation:</strong> As a Movement and Scheme action using a readied improvised weapon, you may make a TN 2 Survival (Air) check targeting one position at range 1–2.</li>\n<li><strong>Effects:</strong> You throw the improvised weapon to the chosen position.<br>If you succeed, choose one of the following terrain qualities: Dangerous, Entangling, or Obscuring. The weapon lands at the target position. All terrain within 1 range band of the targeted position gains that terrain quality. This effect persists for one round, plus one additional round for every two bonus successes.<br>If you fail, the weapon lands at the target position.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities:</strong> Choose one additional terrain quality (Dangerous, Entangling, or Obscuring) to apply to the terrain.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "survival",
+        "difficulty": "2",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000036",
+      "name": "Mind's Edge",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "86"
+        },
+        "description": "<h2>Mind’s Edge</h2>\n<h3>Rank 1</h3>\n<ul>\n<li>Activation: Once per scene, after you perform an action that does not require a check while in a Void stance, you may make a TN 1 Meditation (Void) check.</li>\n<li>Effects: If you succeed, the next time you would receive strife, reduce the amount you receive by 3, plus 1 per two bonus successes. This effect persists until the start of your next turn.</li>\n</ul>\n<h3>New Opportunities</h3>\n<ul>\n<li>Void \u0002: This effect applies each time you would receive strife before the start of your next turn instead.</li>\n<li>Void \u0002 \u0002: You may use this technique one additional time this scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "meditation",
+        "difficulty": "1",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000037",
+      "name": "Iron Shell Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "86"
+        },
+        "description": "<h2>Iron Shell Style</h2>\n<h3>Rank 3</h3>\n<p>To defend against a single, predictable blow, a warrior can dig in, rooting themselves and dispersing the force as it comes. Such a complete defense is exhausting to maintain, but it can keep a fighter on their feet when they otherwise would surely have fallen.</p>\n<ul>\n<li><strong>Activation:</strong> When you perform a Guard action, if you have not moved any range bands this turn, you may spend <span class=\"symbol\">\u0002</span> in the following way:</li>\n<li>Earth or Void <span class=\"symbol\">\u0002</span> <span class=\"symbol\">\u0002+</span>: Choose one character you can perceive per <span class=\"symbol\">\u0002</span> <span class=\"symbol\">\u0002</span> spent this way. The next time you defend against physical damage from that character, your fatigue cannot be increased to a value greater than your endurance. This effect persists until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000038",
+      "name": "Boar's Wrath Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "87"
+        },
+        "description": "<h2>Boar’s Wrath Style</h2>\n<h3>Rank 3</h3>\n<p>Tales have been told of samurai found dead, their weapons shattered, their hands and feet bloody and battered, amid mountains of their broken foes—a testament to the samurai’s final wrath. And such tales likely have a grain of truth, as any skilled brawler can attest to the danger posed by a fighter who is wounded and desperate. Lashing out with a fury born of instinct and training, the warrior responds to harm in kind, smashing enemies with hands, feet, and improvised weapons.</p>\n<ul>\n<li>Activation: When you make a check to resist a critical strike during a skirmish, if you are Enraged and not Incapacitated, you may spend (op) in the following way:</li>\n<li>Fire or Void (op)+: Choose one of your unarmed profiles or a readied improvised weapon. Each other character at range 0–1 with vigilance lower than or equal to (op) spent this way suffers physical damage equal to the base damage of your unarmed profile plus 1 for each (op) spent in excess of their vigilance.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000039",
+      "name": "Thunderous Hooves Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "87"
+        },
+        "description": "<h2>Thunderous Hooves Style</h2>\n<ul>\n<li>Activation: When you make a Fitness check as part of a Movement action while mounted, you may spend <span class=\"symbol\">\u0002</span> in the following way:</li>\n<li><span class=\"symbol\">\u0002+</span>: One character at range 0 of your ending position per <span class=\"symbol\">\u0002</span> spent this way suffers fatigue and strife equal to your mount’s silhouette unless they choose to immediately move 1 range band away from you.</li>\n<li><span class=\"symbol\">\u0002 \u0002 \u0002</span>: Your mount may perform a Strike action with your assistance, targeting one character at range 0 (see Assistance, on page 26 of the core rulebook).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000040",
+      "name": "Rider's Haste",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "87"
+        },
+        "description": "<h2>Rider's Haste</h2>\n<ul>\n<li><strong>Rank 2</strong>: Most samurai are trained in riding, as horses are a symbol of their status and make travel far easier than it would be on foot. Riding across a battlefield is a far more challenging task, however, and fully using the advantages a mount provides can take intense training for both steed and rider. <br><br>Activation: As a Movement and Support action, if you are riding a mount, you may spur it to move more quickly. <br>Effects: Your mount receives an amount of fatigue up to your ranks in Survival, then carries you that many range bands plus one, to a maximum of 6.</li>\n<li><strong>Thunderous Hooves Style</strong> <strong>Rank 4</strong>: The Ujik whom the Ki-Rin Clan first encountered as they traveled west were terrifying enemies not only because of their skill with the bow, but also because of the experience with which they handled their steeds, easily breaking infantry formations unprepared to face such heavy cavalry. Over the centuries, the Unicorn Clan has both adopted the Ujik’s riding methods and extensively studied many of their cavalry tactics to bring an entirely new art of battle to Rokugan. <br><br>Activation: When you make a Fitness check as part of a Movement action while mounted, you may spend \u0002 in the following way: <br>\u0002+: One character at range 0 of your ending position per \u0002 spent this way suffers fatigue and strife equal to your mount’s silhouette unless they choose to immediately move 1 range band away from you. <br>\u0002 \u0002 \u0002: Your mount may perform a Strike action with your assistance, targeting one character at range 0 (see Assistance, on page 26 of the core rulebook).</li>\n<li><strong>Void Embrace Style</strong> <strong>Rank 5</strong>: It is said that some martial artists of surpassing skill can give themselves over wholly to the Void for an instant, foreseeing the exact arc of an attack and completely negating it with little more than a gentle brush of the hand. Tales abound of masters who matched steel with only a flimsy reed or caught an opponent’s sword mid-swing, but few warriors can say they have personally seen such mastery on display. <br><br>Activation: When you make a Meditation (Void) check during a duel or skirmish, you may spend \u0002 in the following way: <br>\u0002 \u0002: Choose one character you can perceive, then secretly select a number. The next time you are dealt damage by that character or suffer a critical strike inflicted by that character, reveal the number you chose. If the number is higher than the damage or the severity of the critical strike (before any reductions), you suffer it as normal and this effect ends. If the number is lower than or equal to the damage or the severity of the critical strike, reduce it by that amount, to a minimum of 0. If you reduce it to 0, the character you chose suffers 5 strife. If you reduce the severity of a critical strike to 0 this way, you do not suffer it. This effect persists until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000041",
+      "name": "Void Embrace Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "87"
+        },
+        "description": "<h2>Void Embrace Style</h2>\n<ul>\n<li>Activation: When you make a Meditation (Void) check during a duel or skirmish, you may spend <span style=\"font-family: monospace;\">\u0002</span> in the following way:</li>\n<li><span style=\"font-family: monospace;\">\u0002 \u0002</span>: Choose one character you can perceive, then secretly select a number. The next time you are dealt damage by that character or suffer a critical strike inflicted by that character, reveal the number you chose. If the number is higher than the damage or the severity of the critical strike (before any reductions), you suffer it as normal and this effect ends. If the number is lower than or equal to the damage or the severity of the critical strike, reduce it by that amount, to a minimum of 0. If you reduce it to 0, the character you chose suffers 5 strife. If you reduce the severity of a critical strike to 0 this way, you do not suffer it. This effect persists until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000042",
+      "name": "Improvised Assault",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "87"
+        },
+        "description": "<h2>Improvised Assault</h2>\n<ul>\n<li>Rank 3: The character adapts something in their environment for use as an improvised weapon that suits their own fighting style. This might mean blocking hits with a chair like a shield, swinging a heavy branch like a club, or even wielding an umbrella with a swordmaster’s skill. Such improvised weapons rarely survive combat, but even if a broken sake bottle won’t hold an edge for long, a single good stab can often end a fight.</li>\n<li>Activation: As a Movement and Support action, you may make a TN 2 Tactics (Water) or Smithing (Water) check using a readied improvised weapon.</li>\n<li>Effects: If you succeed, you may choose a Martial Arts [Melee] weapon profile for a weapon similar in shape to the improvised weapon (the GM has discretion over whether the substitution is appropriate). Treat the improvised weapon as having that profile, with its damage and deadliness reduced by 1. This effect persists until the end of the scene, at which point the improvised weapon gains the Destroyed quality.</li>\n<li>New Opportunities: Water \u0002 \u0002: You may immediately perform a Strike action using the readied weapon.</li>\n<li>New Opportunities: Water \u0002 \u0002 \u0002: If you succeed, choose one of the following item qualities: Cumbersome, Razor-Edged, or Snaring. The weapon is treated as having that quality.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "tactics,smithing",
+        "difficulty": "2",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000043",
+      "name": "Bonebreaker Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "88"
+        },
+        "description": "<h2>Bonebreaker Style</h2>\n<ul>\n<li><strong>Activation:</strong> When you make an Attack action check with a Cumbersome weapon, you may spend (op) in the following way:<br>(op) (op): If your target would suffer a critical strike as a result of this check, instead of making a check to resist, they suffer the severity 5–6: Debilitating Gash result (see Table 6–6: Results of Critical Strikes by Severity, on page 270 of the core rulebook).</li>\n<li><strong>Rank 5:</strong> As heavy weapons are exhausting to wield, each blow must count. A sufficiently skilled fighter who uses such a weapon knows exactly where to strike to shatter a femur or snap an arm and end the fight.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000044",
+      "name": "Flashing Steel Strike",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "88"
+        },
+        "description": "<h2>Flashing Steel Strike</h2>\n<h3>Rank 2</h3>\n<p>It is always risky to throw a strike with no intention of connecting, as any attack expends valuable time, energy, and focus from one’s true cause: to defeat the enemy. However, a well-placed feint can drive the enemy back, putting them in a poor position for the next move. Especially against opponents whose resolve is weak, a threatening display can be an extremely valuable tool, setting up the blow that will end the battle or driving them off entirely.</p>\n<ul>\n<li><strong>Activation:</strong> As an Attack and Scheme action using a readied weapon, you may make a Martial Arts [Melee] (Air or Fire) check targeting one character in your weapon’s range. The TN of this check is equal to your target’s vigilance.</li>\n<li><strong>Effects:</strong> If you succeed, your target must choose one of the following:</li>\n<ul>\n<li>Receive strife equal to your ranks in Performance and the Dazed condition.</li>\n<li>Suffer a critical strike with severity equal to your weapon’s deadliness.</li>\n</ul>\n<li><strong>New Opportunities:</strong> (op) (op)+: If your weapon is Cumbersome, choose one additional target with vigilance lower than or equal to your original target’s vigilance per (op) (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "melee",
+        "difficulty": "@T:vigilance",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000045",
+      "name": "Deflective Defense",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "88"
+        },
+        "description": "<h2>Deflective Defense</h2>\n<h3>Rank 3</h3>\n<p>Large-enough weapons can, in a pinch, serve as shields against missile attacks. If a warrior plants their weapon in the ground and takes cover behind it with a narrow profile, even a bisentō makes the likelihood of a lethal hit with an arrow or dart far lower.</p>\n<ul>\n<li><strong>Activation:</strong> As a Movement and Support action using a readied Cumbersome weapon, you may make a TN 2 Martial Arts [Melee] (Earth) check.</li>\n<li><strong>Effects:</strong> If you succeed, treat your physical resistance against attacks made by characters at range 2–6 as increased by your ranks in Fitness.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities:</strong> Earth (op) (op): After you defend against physical damage from an attack made by a character at range 2–6, that character suffers 2 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "melee",
+        "difficulty": "2",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000046",
+      "name": "Daring Swing",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "88"
+        },
+        "description": "<h2>Daring Swing</h2>\n<h3>Rank 3</h3>\n<p>Stories tell of pirates swinging from kusari-gama stuck into the mast or masters of the spear launching themselves across gaps with ji. Few have seen such feats performed, though many Mantis sailors will gladly tell you of the time they swung from the rigging to tackle a shark hungry for their captain’s blood!</p>\n<ul>\n<li>Activation: As an Attack and Movement action using a readied Snaring weapon, you may make a TN 3 Martial Arts [Melee] (Water) check targeting one position within range of your weapon that you could not normally reach. The GM is the final arbiter of whether it is reasonable that you could swing to this position.</li>\n<li>Effects: If you succeed, you snag your weapon on that position (or another nearby feature of the terrain, such as a beam or tree branch) and then swing to the position.</li>\n</ul>\n<ul>\n<li>Water (op)+: Choose a character at range 0 of your final position with vigilance lower than or equal to the (op) you spent this way. That character suffers physical damage equal to the number of range bands you traveled this round plus your bonus successes.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "melee",
+        "difficulty": "3",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000047",
+      "name": "Iaijutsu Cut: Reverse Draw",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "89"
+        },
+        "description": "<h2>Iaijutsu Cut: Reverse Draw</h2>\n<ul>\n<li>Rank 4</li>\n<li>Offhand draw cuts are a particularly unexpected move, especially among reputable duelists. Taking up a reverse grip with the blade down using the off hand, the warrior makes a quick upward draw, cutting for their foe’s face or torso. While this draw leaves the user vulnerable, such an unorthodox draw can often end the fight before it begins.</li>\n<li>Activation: As an Attack, Movement, and Scheme action using a sheathed Razor-Edged weapon, you may make a Martial Arts [Melee] check targeting one character at range 1. The TN of this check is equal to your target’s vigilance.</li>\n<li>Effects: You draw and ready the sheathed weapon in a one-handed grip. You suffer the Disoriented condition. If you succeed, your target suffers physical damage equal to your weapon’s deadliness plus 1 for every two bonus successes.</li>\n<li>New Opportunities: If this damage causes your target to become Incapacitated, they suffer a critical strike with severity equal to the weapon’s deadliness plus your bonus successes.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "melee",
+        "difficulty": "@T:vigilance",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000048",
+      "name": "Landslide Strike",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "89"
+        },
+        "description": "<h2>Landslide Strike</h2>\n<h3>Rank 2</h3>\n<p>Lashing out at the foe’s legs, the warrior forces their enemy to either abandon their stance or be knocked from their feet. This tactic is especially effective on uneven ground, as the enemy must watch their footing or risk even further injury.</p>\n<ul>\n<li><strong>Activation:</strong> As an Attack and Scheme action, you may make a Martial Arts [Melee] (Earth or Water) check targeting one character in your weapon’s range. The TN is equal to the target’s vigilance. If your target is in Dangerous, Entangling, or Obscuring terrain, the TN is 1 instead.</li>\n<li><strong>Effects:</strong> If you succeed, your target must choose one of the following:<br>\n<ul>\n<li>Receive fatigue equal to your ranks in Fitness and the Prone condition.</li>\n<li>Switch to a different stance of their choice and suffer the Immobilized condition.</li>\n</ul></li>\n<li><strong>New Opportunities:</strong> If your weapon has the Cumbersome quality, choose one additional target with vigilance lower than or equal to your original target’s vigilance per \u0002 \u0002 spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "melee",
+        "difficulty": "@T:vigilance",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000049",
+      "name": "Laughing Fox Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "89"
+        },
+        "description": "<h2>Laughing Fox Style</h2>\n<h3>Rank 4</h3>\n<p>The moment after a strike has been launched but before it lands is one of great vulnerability for the attacker—and, if a martial artist is sufficiently skilled, a threat to other foes nearby. By carefully deflecting an attack or grabbing a nearby foe and pulling them into the path of the blow, a cunning fighter can send two foes toppling with a single move.</p>\n<ul>\n<li><strong>Activation:</strong> When you are targeted by an Attack action, if you have an empty hand, you may spend 1 Void point to immediately make a Martial Arts [Unarmed] (Air) check targeting another character at range 0–1 other than the attacker. The TN is equal to the new target’s vigilance.</li>\n<li><strong>Effects:</strong> If you succeed, you cease being the target of the Attack action, and your target becomes the target of that action instead.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities:</strong></li>\n<li>If you succeed, move 1 range band away from the attacker.</li>\n<li>If you succeed, the new target also suffers physical damage equal to your ranks in Skulduggery.</li>\n<li>If you succeed, both the attacker and the new target suffer the Prone condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "unarmed",
+        "difficulty": "@T:vigilance",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000050",
+      "name": "Iaijutsu Cut: Sword and Sheath",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "89"
+        },
+        "description": "<h2>Iaijutsu Cut: Sword and Sheath</h2>\n<h3>Rank 2</h3>\n<ul>\n<li><strong>Activation:</strong> As an Attack and Movement action using a sheathed Razor-Edged weapon, you may make a TN 2 Martial Arts [Melee] check targeting one character at range 0–1.</li>\n<li><strong>Effects:</strong> If you succeed, your target suffers 5 physical damage with deadliness 2, plus additional damage equal to your bonus successes. You draw and ready the sheathed weapon in a one-handed grip in one hand and its sheath (see page 112) in a one-handed grip in the other hand.</li>\n<li><strong>New Opportunities:</strong> If you succeed, your target suffers the Dazed condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "melee",
+        "difficulty": "2",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000051",
+      "name": "Piercing Bolt Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "90"
+        },
+        "description": "<h2>Piercing Bolt Style</h2>\n<ul>\n<li>Rank 3</li>\n<li>Long-hafted weapons have the advantage of reach, but this does not mean that mobility cannot play a key role in fighting styles built around a spear or ax. A slash or jab that might only cause a light wound from a standing position becomes far deadlier with the weight of a charge or throw behind it.</li>\n<li>Activation: When you make an Attack action check using an ax or polearm, you may spend (op) in the following way: (op): Treat the deadliness of your weapon as increased by the number of range bands you have traveled this round, and if you threw it, add the number of range bands it has traveled this round.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000052",
+      "name": "Reckless Lunge",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "90"
+        },
+        "description": "<h2>Reckless Lunge</h2>\n<ul>\n<li>As an Attack and Movement action using your unarmed punch or kick profile, you may make a TN 3 Martial Arts [Unarmed] (Fire) check to launch yourself at a target at range 2–3.</li>\n<li>You move to range 0 of your target and suffer the Prone condition. Reduce the TN of your target’s next Attack action check targeting you by 1.</li>\n<li>If you succeed, your target suffers damage equal to the base damage of your unarmed punch or kick profile plus your ranks in Fitness and must make a TN 3 Fitness check (Water 2, Air 5) or suffer the Prone condition.</li>\n<li>New Opportunities:</li>\n<ul>\n<li>(op): If you succeed, your target receives strife equal to your bonus successes.</li>\n<li>(op) (op): You do not suffer the Prone condition.</li>\n</ul>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "unarmed",
+        "difficulty": "3",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000053",
+      "name": "Swirling Tempest Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "90"
+        },
+        "description": "<h2>Swirling Tempest Style</h2>\n<h3>Rank 5</h3>\n<p>A spear or club’s reach not only allows it to threaten foes at a distance, but also gives its wielder the ability to engage more foes, threatening numerous enemies simultaneously with a furious crash of blows.</p>\n<ul>\n<li>When you make a Martial Arts [Melee] check with a blunt weapon or polearm, you may spend (op) in the following way:</li>\n<li>(op)+: Choose one character in range of your weapon other than your target with vigilance lower than or equal to (op) spent this way. That character suffers physical damage equal to your weapon’s base damage. You may activate this (op) multiple times, choosing a different character each time.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000054",
+      "name": "Snapping Branch Strike",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "90"
+        },
+        "description": "<h2>Snapping Branch Strike</h2>\n<h3>Rank 1</h3>\n<ul>\n<li>The warrior whirls the haft of their weapon, jabbing at a foe with the butt or blunt end. By wielding a polearm or club in this manner, a character can essentially use it as a staff, letting them strike enemies inside its normal threat range.</li>\n</ul>\n<ul>\n<li>Activation: As an Attack and Support action using a readied blunt weapon or polearm, you may make a TN 3 Fitness (Earth) check targeting one character at range 0–1.</li>\n</ul>\n<ul>\n<li>Effects: If you succeed, your target suffers physical damage equal to 5 plus your bonus successes with deadliness 2.</li>\n</ul>\n<ul>\n<li>New Opportunities</li>\n<li>(op) (op)+: Your target must resist with a TN 4 Fitness check (Air 2, Water 5) or be pushed 1 range band away from you per (op) (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "fitness",
+        "difficulty": "3",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000055",
+      "name": "Thunderous Blows Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "90"
+        },
+        "description": "<h2>Thunderous Blows Style:</h2>\n<h3>Rank 2</h3>\n<p>One advantage of a blunt weapon is that it can be wielded with reckless abandon compared to an edged weapon. A warrior with a blunt weapon does not need to waste energy targeting weak points in the enemy’s armor and can simply batter them down with sheer, overwhelming force.</p>\n<ul>\n<li>Activation: When you make an Attack action check with a blunt weapon, you may spend (op) in the following way:</li>\n<li>Fire (op) (op)+: One character at range 0–1 of your target per (op) (op) spent this way receives 1 fatigue, or 3 fatigue if they are suffering the Dazed condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000056",
+      "name": "Rushing Ox Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "90"
+        },
+        "description": "<h2>Rushing Ox Style</h2>\n<h3>Rank 3</h3>\n<p>With a roar of determination, the warrior plows forward, heedless of obstacles and foes, to strike a particular enemy.</p>\n<ul>\n<li><strong>Activation:</strong> When you perform a Maneuver action during your turn, you may spend (op) in the following way:</li>\n<li>(Fire or Water) (op) (op): After you move, you may perform a Strike action using a readied Martial Arts [Melee] weapon or Martial Arts [Unarmed] profile targeting one character. The target must be in range of the readied weapon or unarmed profile, and the TN for the Strike action is equal to your target’s vigilance. You can only target a character you moved toward this way.</li>\n</ul>\n<p><strong>New Opportunities</strong></p>\n<ul>\n<li>(op): If you succeed, your target receives strife equal to your bonus successes.</li>\n<li>(op) (op): You do not suffer the Prone condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000057",
+      "name": "Wheeling Sweep",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "91"
+        },
+        "description": "<h2>Wheeling Sweep</h2>\n<ul>\n<li>Rank 3<br>Grappling and throwing are important parts of the repertoire of most combatants, as few strikes do more harm than an enemy’s own momentum directed toward the ground. Kicking an enemy’s leg out from beneath them or seizing a striking arm can quickly lay even a tough foe low.</li>\n<li>Activation: As an Attack and Movement action targeting a character with silhouette 2 or lower using your unarmed punch profile, you may make a Martial Arts [Unarmed] (Water) check targeting one character at range 0. The TN of this check is equal to your target’s vigilance.</li>\n<li>Effects: If you succeed, you hurl your target 1 range band in the direction of your choice, plus 1 range band for every two bonus successes. Your target suffers the effects of falling the distance they were moved (see page 269 of the core rulebook).</li>\n<li>New Opportunities<br>(op): Choose one character within a number of range bands equal to the distance you threw the target. Instead of hurling your original target into the ground, you hurl the target at that character, who must resist with a TN 4 Fitness check (Earth 3, Fire 6) or suffer the same amount of damage the original target suffers from falling and the Prone condition.</li>\n<li>(op)+: Reduce the physical damage your target suffers from falling this way by 2 per (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "unarmed",
+        "difficulty": "@T:vigilance",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000058",
+      "name": "Eyeless Sight Shot",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "91"
+        },
+        "description": "<h2>Eyeless Sight Shot</h2>\n<ul>\n<li>Rank 4: To hit a target without seeing it is a masterful feat for any warrior who specializes in projectile weapons. Whether by firing through dense underbrush to hit a deer by the sound of its steps or banking a slingstone off a wall to hit a foe when you feel their heavy footfalls shake the floorboards, there are many ways to use one’s other senses to place a shot.</li>\n<li>Activation: As an Attack and Movement action using a readied ranged weapon, you may make a Martial Arts [Ranged] (Void) check targeting one character within your weapon’s range to whom you do not have direct line of sight. The TN of the check is equal to the target’s vigilance.</li>\n<li>Effects: If you succeed, your target suffers physical damage equal to your weapon’s base damage and receives strife equal to your bonus successes.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "ranged",
+        "difficulty": "@T:vigilance",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000059",
+      "name": "Twin Streams Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "91"
+        },
+        "description": "<h2>Twin Streams Style</h2>\n<ul>\n<li>Rank 3: Wielding two blades as a single instrument of violence, the fighter stabs into their foe with both points or drives home two simultaneous slashes. By presenting two threats simultaneously, the warrior makes it much harder to guard against either.</li>\n<li>Activation: When you perform an Attack action check using a sword or ax, if you have another readied weapon of the same category, you may spend (op) in the following way:</li>\n<li>(op) (op): If your target suffers a critical strike as a result of this check, increase its severity by the deadliness of your other readied weapon.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000060",
+      "name": "Staggering Shot",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "91"
+        },
+        "description": "<h2>Staggering Shot</h2>\n<h3>Rank 2</h3>\n<p>Putting an arrow at a foe’s feet can cause them to stumble or trip, and an experienced archer knows how to take full advantage of this, planting bolts to break an enemy’s stride or pinning their clothes to slow them down, making any approach extremely treacherous.</p>\n<ul>\n<li>When you perform a Martial Arts [Ranged] check, you may spend <span class=\"op\">\u0002</span> in the following way:</li>\n<li><strong>Earth or Fire \u0002 \u0002</strong>: Your target treats all terrain as having the Dangerous quality. This effect persists until the end of your next turn.</li>\n<li><strong>Air or Water \u0002 \u0002</strong>: Your target treats all terrain as having the Entangling quality. This effect persists until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000061",
+      "name": "Falling Heavens Shot",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "91"
+        },
+        "description": "<h2>Falling Heavens Shot</h2>\n<h3>Rank 5</h3>\n<p>Arrows, stones, and darts have an arc when fired, traveling not in a straight line to a target but in a curve. The better an archer understands this curve intuitively or intellectually, the better their aim. Rumors and heroic tales recount the exploits of archers with such skill that they can fire bolts straight up, predicting their landing position perfectly and using this to catch foes totally unaware.</p>\n<ul>\n<li>Activation: Once per scene as an Attack and Movement action using a readied ranged weapon, you may make a Martial Arts [Ranged] (Void) check targeting one character within your weapon’s range. The TN of this check is equal to your target’s vigilance.</li>\n<li>Effects: If you succeed, at the start of your target’s next turn, they suffer a critical strike with severity equal to your weapon’s deadliness.</li>\n</ul>\n<ul>\n<li>New Opportunities</li>\n<li>(op)+: You may delay this effect for one additional round per (op) spent this way. For each round you delay this way, you increase the deadliness of the critical strike by 2.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "ranged",
+        "difficulty": "@T:vigilance",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000062",
+      "name": "Swirling Viper Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "92"
+        },
+        "description": "<h2>Swirling Viper Style</h2>\n<ul>\n<li>Rank 3: Firing a bow while moving is extremely difficult, but a master archer can nock and fire an arrow even as they sweep backward to gain distance from their enemy.</li>\n<li>Activation: When you perform a Maneuver action during your turn, you may spend \u0002 in the following way:</li>\n<li>Air or Water \u0002 \u0002: After you move, you may perform a Strike action using a readied Martial Arts [Ranged] weapon targeting one character in range, treating the TN as equal to your target’s vigilance. You can only target a character you moved away from this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000063",
+      "name": "Wasp's Spite Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "92"
+        },
+        "description": "<h2>Wasp’s Spite Style</h2>\n<h3>Rank 4</h3>\n<p>Unlike most bees, a wasp can sting multiple times before expiring, letting it threaten numerous foes. So too can a skilled archer menace one target while secretly aiming at another, forcing all enemies in their sight to wonder: “Is it me they are aiming at?”</p>\n<ul>\n<li>When you perform a Martial Arts [Ranged] check, you may spend \u0002 in the following way:</li>\n<li>Air or Void \u0002 \u0002: If you did not succeed, choose another target at range 0–2 of your target with vigilance lower than or equal to your target’s. The new target suffers physical damage equal to your weapon’s base damage.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000065",
+      "name": "Fierce Badger Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "95"
+        },
+        "description": "<h2>Fierce Badger Style</h2>\n<p>Rank 2</p>\n<p>The Fierce Badger Style relies on controlling an enemy's position on the sumai mat and battlefield alike. It lets the combatant hold their opponent in check until they collapse, or, if desired, hurl them outside the designated area—or off a nearby cliff.</p>\n<ul>\n<li><strong>Activation:</strong> When you make a Martial Arts [Unarmed] check targeting a character at range 0, you may spend <span class=\"symbol\">:,;</span> in the following ways:</li>\n<li><strong>*+</strong> If the target is Immobilized, they receive 1 strife per <span class=\"symbol\">:,;</span> spent this way.</li>\n<li><strong>⟒,+</strong> If the target's silhouette and vigilance both are lower than or equal to <span class=\"symbol\">:,;</span> spent this way, the target is thrown 2 range bands in a direction of your choice and suffers 3 fatigue.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000066",
+      "name": "Thicket's Embrace Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "95"
+        },
+        "description": "<h2>Thicket's Embrace Style</h2>\n<h3>Rank 3</h3>\n<p>A warrior must always remember that there are two opponents they must face in combat: their foe, and their environment. It might be easy to chop away thick vegetation covering the terrain, but a true master uses the territory to their advantage. By becoming one with the environment, the warrior can concentrate more on their foe and thus end a fight much faster.</p>\n<ul>\n<li>Activation: When you make a Martial Arts [Unarmed] or Fitness check, you may spend :,;, in the following ways:</li>\n<li>*: If you are in Entangling or Obscuring terrain, reduce the TN of the next attack check you make by 1 (to a minimum of 1). This effect persists until the end of your next turn.</li>\n<li>l,t, ⟒-: If you are in Entangling or Obscuring terrain, you may ignore its negative effects. This effect persists until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000067",
+      "name": "Shattering Tide Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "95"
+        },
+        "description": "<h2>Shattering Tide Style</h2>\n<h3>Rank 3</h3>\n<p>It is rare that a samurai can pick the site of a battle, and battles can occur in locations where no actual fighting is needed for harm to come to all parties. Where the environment is as hazardous as sharp steel or heavy fists, learning ways to incorporate such terrain into attacks makes each strike all the more effective.</p>\n<ul>\n<li><strong>⟒-</strong> If you succeed, and both you and your target are in Confining or Dangerous terrain, treat the damage and deadliness of the weapon you used as 1 higher for each kept Q result on your check.</li>\n<li><strong>⟒- ⟒-</strong> If both you and your target are in Confining or Dangerous terrain, your target suffers the Dazed condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000068",
+      "name": "Bear’s Swipe Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "114"
+        },
+        "description": "<h2>Bear’s Swipe Style</h2>\n<h3>Rank 1</h3>\n<h4>[Bushi or Monk]</h4>\n<p>Warriors of many different traditions train to strike for maximum impact, especially when the blow is not meant to disable the foe all on its own, but instead to disorient, distract, or create an opening for a finishing attack. A strike to the temple, knee, or elbow might not end the fight on its own, but if it leaves the opponent reeling and vulnerable, it can still be extremely valuable. Training to make these blows count, then, can be as important to practice as the strike that will end the fight.</p>\n<ul>\n<li><strong>Activation:</strong> While you perform an Attack action check, you may spend (op) as follows:</li>\n<li>Earth (op) (op): Choose one of the following conditions: Bleeding, Dazed, Disoriented, Prone. If this check inflicts that condition on one or more targets, those targets cannot remove that condition until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000069",
+      "name": "Serpent’s Twist Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "114"
+        },
+        "description": "<h2>Serpent’s Twist Style</h2>\n<h3>Rank 2</h3>\n<h3>[Bushi or Monk]</h3>\n<p>Like a lithe snake, the warrior twists with the blow rather than resisting it, pulling their foe off-balance and forcing them to expend energy. Over a protracted battle, this can exhaust even the hardiest foes, for the harder they exert themselves to land their strikes, the more tired they will become.</p>\n<ul>\n<li><strong>Activation:</strong> While you make a Fitness check to resist a critical strike caused by another character’s Attack action check, if that character is at range 0–2 of you, you may spend (op) as follows:<br>\nWater (op): The character whose effect you are resisting receives fatigue equal to the number of  results they kept on their check. Then, if you succeed on your check to resist the effect, you add that many bonus successes to your check.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000070",
+      "name": "Swallow’s Dart Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "115"
+        },
+        "description": "<h2>Swallow’s Dart Style</h2>\n<ul>\n<li>Activation: While you make a Fitness check to resist a critical strike caused by another character’s Attack action check, if that character is at range 0–2 of you, you may spend (op) as follows:<br>\nWater (op): The character whose effect you are resisting receives fatigue equal to the number of  results they kept on their check. Then, if you succeed on your check to resist the effect, you add that many bonus successes to your check.</li>\n<li>Activation: While you perform a Movement action check, you may spend (op) as follows:<br>\nAir (op) (op): The next time you defend against damage, reduce the damage you suffer by an amount equal to your focus minus the physical resistance of your armor instead of by your physical or supernatural resistance. This effect persists until the start of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000071",
+      "name": "Tiger’s Lunge Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "115"
+        },
+        "description": "<h2>Tiger’s Lunge Style</h2>\n<h3>Rank 3 [Bushi or Monk]</h3>\n<p>Sweeping forward with sinuous force, the warrior makes their presence known to their foes, attempting to create space through feinted strikes or a general demeanor of aggression. While such tactics can be risky in the face of disciplined foes, striving forward with a confident expression and fire in one's eyes can help to even the odds when facing multiple enemies or taking the edge against a less seasoned opponent.</p>\n<ul>\n<li>Activation: While you perform a Movement action check, you may spend (op) as follows:</li>\n<li>Fire (op)+: After you perform this check, choose a character at range 0–1 with focus lower than or equal to your ranks in Fitness plus (op) spent this way. That character must move 1 range band away from you and suffer the Dazed condition unless they choose to receive strife equal to your Fire ring.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000072",
+      "name": "Flexible Grip",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "115"
+        },
+        "description": "<h2>Flexible Grip</h2>\n<h3>Rank 1</h3>\n<p>A polearm can be wielded in a few ways: as a reach weapon with a pointed or cutting head, but also as a blunt staff. Warriors who specialize in the polearm know that a swift blow with the butt or a strike with the center of the staff can disorient, create space, or even fell unprepared foes, giving the polearm user a chance to put the fight back on their own terms, at their preferred range.</p>\n<ul>\n<li>Activation: As a Movement and Support action, you may shift your grip on a polearm to make close-in strikes with the blunt end.</li>\n<li>Effect: If you have a readied polearm, you may treat that weapon as a staff with the following profile: 2-hand: Melee; Range 0–1, DMG 4, DLS 2. This weapon is treated as both a polearm and a blunt weapon. You may end this effect at the end of any of your turns. Otherwise, it persists until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000073",
+      "name": "Howling Gale Defense",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "116"
+        },
+        "description": "<h2>Howling Gale Defense</h2>\n<ul>\n<li>Rank 2: Like a tree branch snapping in the wind, a staff can become a blur of motion in the hands of a skilled wielder, deflecting oncoming attacks and intercepting blows that might otherwise prove telling. By incorporating a staff into one's defense, a fighter becomes much better able to control the harm oncoming blows inflict, steel catching on swift-moving wood instead of hewing armor or biting vulnerable flesh.</li>\n<li>Activation: While you make a check to resist a critical strike, if you have a readied staff (such as a bō), you may spend (op) as follows:</li>\n<li>(op): If you reduce the critical strike’s severity to 0, you do not suffer the effects of the critical strike.</li>\n<li>(op) (op): If you would suffer the Bleeding condition as a result of the critical strike, you do not suffer that condition, and your staff gains the Damaged item quality instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000074",
+      "name": "Heron’s Grasp Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "116"
+        },
+        "description": "<h2>Heron’s Grasp Style</h2>\n<h3>Rank 3</h3>\n<ul>\n<li>Heavy weapons and shields are fine battlefield options, and many can be used to reduce one's profile of vulnerability and intercept incoming attacks. Other heavy weapons rely on pure power to overwhelm defenses and end a fight decisively. However, polearms particularly are well-adapted to fighting cumbersome armaments, as they can be used to trap and pull aside these weapons, stripping the wielder of a defensive benefit or pinning a heavy weapon in place by depriving the wielder of the leverage to lift it. Like a heron sweeping in for a fish, a polearm wielder can tear a foe's weapon aside, leaving them to be cut down by the next soldier in line.</li>\n<li>Activation: While you perform an Attack action check using a polearm, you may spend (op) as follows:</li>\n<li>(op)+: Choose one Cumbersome weapon that one target with vigilance lower than or equal to (op) spent this way is wielding. That character loses any persistent benefits of that weapon and cannot use it for actions. This effect persists until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000075",
+      "name": "Serow’s Leap Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "116"
+        },
+        "description": "<h2>Serow’s Leap Style</h2>\n<h3>Rank 3</h3>\n<p>The serow is a swift, deerlike creature, capable of bounding jumps and piercing its foes with sharp horns. Like this animal, a warrior with a spear can amplify the piercing power of their weapon by using it while charging, whether on horseback or on foot. A spear can even be thrown to deadly effect, ripping through armor to deliver a killing blow against a foe at distance.</p>\n<ul>\n<li>(op)+: Your spear ignores an amount of your target’s physical resistance equal to (op) spent this way, to a maximum of the distance you moved this round or to a maximum of the distance the spear was thrown as part of the attack if it was thrown (whichever is higher). Treat your spear’s deadliness as increased by the same amount.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000076",
+      "name": "Tumbling Oak Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "116"
+        },
+        "description": "<h2>Tumbling Oak Style</h2>\n<h3>Rank 4</h3>\n<p>The warrior strikes with decisiveness, levering down their weapon in a mighty arc to generate the force needed to end the fight. While such blows can be easy to avoid, they are much easier to land on a grounded target and are very difficult to resist with toughness alone.</p>\n<ul>\n<li>While you make an Attack action check using a staff (such as a bō) or a blunt weapon, you may spend (op) as follows:</li>\n<li>(op)+: If this check causes one or more targets to make a check to resist a condition, critical strike, or other effect, increase the TN of that check by 2 per (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000077",
+      "name": "Flight",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "117"
+        },
+        "description": "<h2>Flight</h2>\n<ul>\n<li><strong>Rank:</strong> 1 [Yōkai]</li>\n<li><strong>Activation:</strong> As a Movement action, you may take flight.</li>\n<li><strong>Form Requirement:</strong> You must be in a form that has wings.</li>\n<li><strong>Effects:</strong> While you are flying, when you move 1 or more range bands, you may move that many range bands plus 1 instead, and you may move those range bands horizontally or vertically. After you move, for each range band you moved upward horizontally (away from the ground), you receive 1 fatigue. Additionally, you may ignore the effects of terrain while moving (see Terrain on page 267 of the core rulebook). While flying, you do not fall, nor do you suffer the effects of Falling (see page 269 of the core rulebook). This effect persists until the end of the scene, or until you end it as a Movement action (after which point you drop any remaining distance to the ground and suffer the effects of falling as normal).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000078",
+      "name": "Razor Bite",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "117"
+        },
+        "description": "<h2>Razor Bite</h2>\n<h3>Rank 2 [Naga, Nezumi, or Yōkai]</h3>\n<p>Humans can bite (and in fact, the human mouth can cause serious injuries, especially if the wound becomes infected), but most martial arts traditions in Rokugan do not teach biting as a formal technique. While it might be widely recognized as an option of last resort, it is of limited due to range constraints, risks of injury on the part of the user by exposing their mouth, and inability to penetrate even modest armor. Nonhuman entities, however, may have much bigger teeth, deadly beaks, or even venomous fangs, and all of these are incorporated into the martial arts they practice. A Naga's or nezumi's bite presents a much more credible threat to an armored opponent than a human's, as their fangs can pierce hardened materials to rend the flesh within, and many yōkai are known for stories of devouring their prey (messily or otherwise).</p>\n<ul>\n<li><strong>Activation:</strong> While you perform an Attack action check using your bite unarmed profile in your true form, you may spend (op) as follows:</li>\n<li><strong>Form Requirement:</strong> You must be in a form that has large, predatory teeth or a sharp beak.</li>\n<li>(op)+: Treat the deadliness of this weapon as 2 higher per (op) spent this way.</li>\n<li>Water (op) (op): Ignore a number of points of your target’s physical resistance up to your ranks in Survival. If you succeed, your target suffers the Bleeding condition.</li>\n<li>Earth (op) (op): If you succeed and you are a Naga or another creature with a venomous bite, your target suffers the Exhausted condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000079",
+      "name": "Owl’s Swoop Style",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "117"
+        },
+        "description": "<h2>Owl’s Swoop Style</h2>\n<h3>Rank 3 [Yōkai]</h3>\n<ul>\n<li>Activation: While you perform a Martial Arts [Melee] or Unarmed check, if you are 1 or more range bands above your target horizontally, you may spend (op) as follows:</li>\n<li>Form Requirement: You must be in a form that has wings, or persistently hovering above the ground via some other means such as the Riding the Clouds kihō.</li>\n<li>Air (op)+: Choose 1 of your targets per (op) spent this way, they suffer the Disoriented condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000080",
+      "name": "Skittering Shift",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "118"
+        },
+        "description": "<h2>Skittering Shift</h2>\n<h3>Rank 3 [Nezumi]</h3>\n<p>The nezumi live in dangerous places, often surrounded by predators against which the only defense is evasion. Oni of the Shadowlands and ancient yōkai of the Shinomen forest cannot be fought head-on and must thus be evaded to be survived. Further, the dense terrain of tunnels and forests make it difficult to bring down large targets through ranged weapons and attrition, as hunters in an open plain do. Thus, nezumi martial arts emphasize constant readiness to scamper aside, dropping onto all fours to bound out of the way of a crushing blow or scuttling back into the shadows to avoid being surrounded by pack hunters. Humans can learn these techniques as well, though they must be adapted somewhat to account for the particulars of human physiology, and study with the nezumi themselves is a necessity.</p>\n<ul>\n<li><strong>Activation:</strong> Once per scene as a Movement and Support action, you may receive 2 fatigue to skitter with preternatural speed, evading incoming attacks to gain distance toward or away from your foe.</li>\n<li><strong>Form Requirement:</strong> You must be in a form capable of moving naturally on all fours.</li>\n<li><strong>Effects:</strong> Increase the TN of Attack action checks targeting you by 1. After an Attack action check targeting you fails, you may move 1 range band. After you defend against damage, you may move 1 range band. This effect persists until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKat000081",
+      "name": "Tail Sweep",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kata.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "118"
+        },
+        "description": "<h2>Tail Sweep</h2>\n<h3>Rank 3 [Naga, Nezumi, or Yōkai]</h3>\n<p>A tail is an advantage humans generally lack (something members of other species are quick to point out). Even a non-prehensile tail can be used to deliver a quick blow from an unexpected angle, knocking the target from their feet or setting up a grapple. Naga, nezumi, and many yōkai practice martial arts that take full advantage of this tool, and humans who fight against them rarely forget it after their first unexpected tumble.</p>\n<ul>\n<li><strong>Activation:</strong> Once per scene as an Attack and Movement action, if you are in your true form, you may make a Martial Arts [Unarmed] check targeting one character at range 0–2 to strike unexpectedly with your tail. The TN of this check is equal to the target’s vigilance minus 1 (to a minimum of 1).</li>\n<li><strong>Form Requirement:</strong> You must be in a form with a tail.</li>\n<li><strong>Effects:</strong> If you succeed, your target suffers physical damage equal to your ranks in Fitness plus your bonus successes with deadliness 1.</li>\n</ul>\n<ul>\n<li><strong>Earth (op):</strong> If you succeed, your target suffers the Prone condition. If your target was already Prone, it suffers the Immobilized condition instead.</li>\n<li><strong>Water (op) (op):</strong> If you fail, you may immediately move 1 range band.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "kata"
+      },
+      "folder": null
+    }
+  ]
+}

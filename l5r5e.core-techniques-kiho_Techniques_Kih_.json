@@ -1,0 +1,1572 @@
+{
+  "exportedAt": "2025-10-16T22:34:06.994Z",
+  "foundryVersion": "12.331",
+  "systemId": "l5r5e",
+  "pack": {
+    "label": "Techniques Kihõ",
+    "collection": "l5r5e.core-techniques-kiho",
+    "type": "Item",
+    "system": "l5r5e"
+  },
+  "count": 38,
+  "documents": [
+    {
+      "_id": "L5RCoreKih000001",
+      "name": "Cleansing Spirit",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "182"
+        },
+        "description": "<h2>Cleansing Spirit</h2>\n<ul>\n<li>Rank 1<br>The monk centers their ki, then reaches out and touches another character, counterbalancing their turbulent energies with the stillness of the monk’s own soul. This restores the character’s spirit, driving out poison, disease, and even the grip of evil spirits, provided they have not yet taken root in the character’s soul.</li>\n<li>Activation: As a Support action, may make a TN 1 Theology (Earth) check to bolster your spiritual resilience. When you perform this action, you may choose one other character at range 0–1 as the target for the burst effect.</li>\n<li>Enhancement Effect: If you succeed, this kihō activates. While this kihō is active, reduce the TN of all your checks to resist poison, disease, mahō, the Defiled terrain quality, and the effects of Otherworldly and Tainted beings by your Earth Ring.</li>\n<li>Burst Effect: If you have two or more bonus successes, remove one of the following conditions from your target: Afflicted, Bleeding, Dazed, Disoriented, Dying, Fatigued, or Intoxicated.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "1",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000002",
+      "name": "Grasp the Earth Dragon",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "183"
+        },
+        "description": "<h2>Grasp the Earth Dragon</h2>\n<h3>Rank 3</h3>\n<p>Planting a foot on the ground and taking a wide stance, the monk stomps, sending reverberations of ki rushing down into the depths. An instant later, the monk’s body is filled with the resilience of bedrock; stones rise and orbit their body to deflect attacks, rocks adhere to their flesh forming rocky scales, or their flesh becomes as difficult to crack as granite.</p>\n<ul>\n<li><strong>Activation:</strong> As a Movement and Support action, you may make a TN 2 Meditation (Earth) check to shield yourself from harm.</li>\n<li><strong>Enhancement Effect:</strong> If you succeed, this kihō activates. While this kihō is active, reduce the severity of all critical strikes you suffer from physical sources by your Earth Ring. While this kihō is active, after a character performs an Attack action against you, you may spend 1 Void point to cause them to suffer fatigue equal to your ranks in Fitness.</li>\n<li><strong>Burst Effects:</strong> If you have three or more bonus successes, reduce all physical damage you suffer to 1. After any character deals physical damage to you, they suffer the Prone condition. This effect persists until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "meditation",
+        "difficulty": "2",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000003",
+      "name": "Earth Needs No Eyes",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "182"
+        },
+        "description": "<h2>Earth Needs No Eyes</h2>\n<ul>\n<li>Activation: As a Support action, you may activate this kihō. When you do so, you may make a TN 1 Meditation (Earth) check to gain an awareness of your surroundings.</li>\n<li>Enhancement Effect: If you succeed, this kihō activates. While this kihō is active, you can use vibrations through the earth to “see” a number of range bands in all directions equal to your Earth Ring. While this kihō is active, increase your vigilance by your Earth Ring.</li>\n<li>Burst Effect: If you succeed with three or more bonus successes, you instantly become aware of all living creatures and objects touching the ground within a number of range bands equal to your Earth Ring plus your bonus successes.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "meditation",
+        "difficulty": "1",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000004",
+      "name": "Way of the Earthquake",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "183"
+        },
+        "description": "<h2>Way of the Earthquake</h2>\n<h3>Rank 2</h3>\n<ul>\n<li>The monk slams a hand or foot into the ground, and the earth itself shudders under the weight of the blow as their ki rushes through the soil. Nearby enemies are hurled to the ground and find it shifting treacherously underneath them as they struggle to rise.</li>\n<li>Activation: As an Attack and Support action, you may make a TN 2 Martial Arts [Unarmed] (Earth) check to control the earth around you. When you perform this action, you may choose any number of other characters at range 0–1 as targets for the burst effect.</li>\n<li>Enhancement Effect: If you succeed, this kihō activates. While this kihō is active, after you perform an Attack or Support action, or defend against damage, you may choose one other character at range 0–2 who must resist with a TN 4 Fitness check (Air 2, Water 5) or suffer physical damage equal to your Earth Ring and the Prone condition.</li>\n<li>Burst Effect: If you have two or more bonus successes, each target suffers physical damage equal to your Earth Ring. Each Prone target suffers physical damage equal to your Earth Ring plus your bonus successes and the Immobilized condition instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "unarmed",
+        "difficulty": "2",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000005",
+      "name": "Earthen Fist",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "183"
+        },
+        "description": "<h2>Earthen Fist</h2>\n<ul>\n<li><strong>Rank 1</strong>: Placing their hand on the ground, the monk draws forth the hardness of stone, pulling up clumps of rocky soil that coat their skin or invisibly reinforcing their bones and muscles with the durability of granite.<br>Activation: As an Attack and Support action, you may make a TN 1 Martial Arts [Unarmed] (Earth) check to empower your unarmed blows. When you perform this action, you may choose a character at range 0–1 as the target for the burst effect.</li>\n<li><strong>Enhancement Effect</strong>: While this kihō is active, treat the base damage of your unarmed punch and kick profiles (see page 237) as being increased by your Earth Ring. While this kihō is active, increase your physical resistance by 1.</li>\n<li><strong>Burst Effect</strong>: If you succeed with two or more bonus successes, you deal physical damage to the target equal to your Earth Ring, and your target must resist with a TN 4 Fitness check (Air 2, Water 5) or suffer the Prone condition.</li>\n</ul>\n<ul>\n<li><strong>Grasp the Earth Dragon</strong> (Rank 3): Planting a foot on the ground and taking a wide stance, the monk stomps, sending reverberations of ki rushing down into the depths. An instant later, the monk’s body is filled with the resilience of bedrock; stones rise and orbit their body to deflect attacks, rocks adhere to their flesh forming rocky scales, or their flesh becomes as difficult to crack as granite.<br>Activation: As a Movement and Support action, you may make a TN 2 Meditation (Earth) check to shield yourself from harm.<br>Enhancement Effect: If you succeed, this kihō activates. While this kihō is active, reduce the severity of all critical strikes you suffer from physical sources by your Earth Ring. While this kihō is active, after a character performs an Attack action against you, you may spend 1 Void point to cause them to suffer fatigue equal to your ranks in Fitness.<br>Burst Effects: If you have three or more bonus successes, reduce all physical damage you suffer to 1. After any character deals physical damage to you, they suffer the Prone condition. This effect persists until the end of your next turn.</li>\n</ul>\n<ul>\n<li><strong>Way of the Earthquake</strong> (Rank 2): The monk slams a hand or foot into the ground, and the earth itself shudders under the weight of the blow as their ki rushes through the soil. Nearby enemies are hurled to the ground and find it shifting treacherously underneath them as they struggle to rise.<br>Activation: As an Attack and Support action, you may make a TN 2 Martial Arts [Unarmed] (Earth) check to control the earth around you. When you perform this action, you may choose any number of other characters at range 0–1 as targets for the burst effect.<br>Enhancement Effect: If you succeed, this kihō activates. While this kihō is active, after you perform an Attack or Support action, or defend against damage, you may choose one other character at range 0–2 who must resist with a TN 4 Fitness check (Air 2, Water 5) or suffer physical damage equal to your Earth Ring and the Prone condition.<br>Burst Effect: If you have two or more bonus successes, each target suffers physical damage equal to your Earth Ring. Each Prone target suffers physical damage equal to your Earth Ring plus your bonus successes and the Immobilized condition instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "unarmed",
+        "difficulty": "1",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000006",
+      "name": "Riding the Clouds",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "184"
+        },
+        "description": "<h2>Riding the Clouds</h2>\n<ul>\n<li>Rank 2: The monk inhales and lets go their earthly bonds to ascend to new heights. Lifted by a small tornado, an invisible current of air, or even a cloud, the monk can move far more freely. While this current of wind does not fully negate the effects of gravity, it allows the user to traverse terrain they otherwise could not and enhances their athleticism greatly.</li>\n<li>Activation: As a Movement and Support action, you may make a TN 2 Meditation (Air) check to move on a pillar of air.</li>\n<li>Enhancement Effect: While this kihō is active, when you move 1 or more range bands, you may move that number of range bands plus 1, and you may move 1 of those range bands vertically or horizontally. Additionally, you may ignore the effects of terrain while moving (see Terrain, on page 267). While this kihō is active, if you fall, you treat the distance as 1 range band (see Falling, on page 269).</li>\n<li>Burst Effect: If you have one or more bonus successes, you may immediately move 1 range band, plus one additional range band for each bonus success. You may make this move vertically or horizontally, and you ignore the negative effects of terrain while moving.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "meditation",
+        "difficulty": "2",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000007",
+      "name": "Way of the Willow",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "184"
+        },
+        "description": "<h2>Way of the Willow</h2>\n<h3>Rank 3</h3>\n<p>The oak stands firm against the storm and breaks, but the willow survives it by bending. The monk dances on the wind like the willow, feeling the currents of ki upon the air and moving out of the way of attacks effortlessly.</p>\n<ul>\n<li><strong>Activation:</strong> As a Movement and Support action, you may make a TN 3 Meditation (Air) check to adjust your defenses to the tempo of your foes’ strikes, making yourself much harder to hit.</li>\n<li><strong>Enhancement Effect:</strong> If you succeed, this kihō activates. While this kihō is active, when a character performs an Attack action check targeting you, reduce any damage you suffer by 2 for each kept die containing (ex).</li>\n<li><strong>Burst Effect:</strong> If you have two or more bonus successes, increase the TN of Attack action checks targeting you by your ranks in Meditation until the beginning of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "meditation",
+        "difficulty": "3",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000008",
+      "name": "Air Fist",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "183"
+        },
+        "description": "<h2>Air Fist</h2>\n<h3>Rank 1</h3>\n<p>The monk swirls their hands in an intricate pattern, channeling their ki into the air and turning even a placid breeze into a funnel of roaring wind. A gale follows the monk's strikes, hurling foes back and slamming them against intervening objects.</p>\n<ul>\n<li>Activation: As an Attack and Support action, you may make a TN 1 Martial Arts [Unarmed] (Air) check to empower your unarmed blows. When you perform this action, you may choose one other character at range 0–1 as the target for the burst effect.</li>\n<li>Enhancement Effect: If you succeed, this kihō activates. While this kihō is active, treat the maximum range of your punch and kick unarmed weapon profiles (see page 237) as equal to your Air Ring.</li>\n<li>Burst Effect: If you have two or more bonus successes, you deal physical damage to the target equal to your Air Ring. Your target must make a TN 4 Fitness check (Earth 5, Fire 2) or be pushed 1 range band away from you, plus a number of range bands equal to their shortfall.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "unarmed",
+        "difficulty": "1",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000009",
+      "name": "The Great Silence",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "184"
+        },
+        "description": "<h2>The Great Silence</h2>\n<ul>\n<li>The monk swirls their hands in a spiral, pulling noise inward and stealing even the reverberations that sounds make through the air. Lies die on the lips unspoken, and prayers never reach the spirits for whom they were intended. Skilled practitioners often maintain this technique, twisting the wind around them to steal away pernicious words and wicked prayers alike.</li>\n<li>Activation: As a Scheme and Support action, you may activate this kihō, you may make a TN 1 Theology (Air) check to create an area of silence around you.</li>\n<li>Enhancement Effect: If you succeed, this kihō activates. While this kihō is active, increase the TN of Scheme action checks targeting you by one plus your ranks in Command.</li>\n<li>Burst Effect: If you have two or more bonus successes, characters at range 0–3 suffer the Silenced condition (see page 273) and cannot hear. This effect persists until the beginning of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "1",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000010",
+      "name": "Channel the Fire Dragon",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "185"
+        },
+        "description": "<h2>Channel the Fire Dragon</h2>\n<ul>\n<li>Rank 2<br>Fire is not just destruction; it is also life. The monk inhales sharply, igniting their ki to strengthen themself. While this life-giving fire smolders within their lungs, the monk is largely immune to cold weather and flames alike. Ki practitioners experienced in this art can even exhale scorching torrents of flame.</li>\n<li>Activation: As an Attack and Support action, you may make a TN 2 Meditation (Fire) check to kindle the flames of your ki. When you perform this action, you may choose each other character at range 0–1 to become a target for the burst effect.</li>\n<li>Enhancement Effect: If you succeed, this kihō activates. While this kihō is active, you automatically succeed on all checks to resist extreme weather, with bonus successes equal to your Fire Ring. While this kihō is active, if you would suffer damage from physical or supernatural fire (e.g. Fire invocations and kihō), you may spend 1 Void point to prevent that damage and remove that much fatigue instead.</li>\n<li>Burst Effect: If you have 2 or more bonus successes, each target must resist with a TN 4 Fitness check (Air 5, Water 2) or suffer physical damage equal to your Fire Ring and the Burning condition. Flammable objects in this area ignite, transforming it into Dangerous terrain (see page 267) at the GM’s discretion.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "meditation",
+        "difficulty": "2",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000011",
+      "name": "Breaking Blow",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "184"
+        },
+        "description": "<h2>Breaking Blow</h2>\n<h3>Rank 1</h3>\n<ul>\n<li><strong>Activation:</strong> As an Attack and Support action, you may make a TN 1 Martial Arts [Unarmed] (Fire) check to enhance your unarmed blows. When you perform this action, you may choose one object at range 0–1 as the target for the burst effect.</li>\n<li><strong>Enhancement Effect:</strong> If you succeed, this kihō activates. While this kihō is active, when you succeed at a Martial Arts [Unarmed] check against a target, choose one worn piece of armor or readied weapon in one target’s possession. It gains the Damaged quality (see page 240) unless the target chooses to receive 2 fatigue.</li>\n<li><strong>Burst Effect:</strong> If you have two or more bonus successes, the chosen object gains the Damaged quality (see page 240). At the GM’s discretion, this can also be used to shatter tough mundane objects, such as wooden doors, earthen walls, and trees. If you have four or more bonus successes, the chosen object gains the Destroyed quality instead. At the GM’s discretion, this can be used to destroy even reinforced mundane objects, such as metal doors and stone walls.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "unarmed",
+        "difficulty": "1",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000012",
+      "name": "Way of the Falling Star",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "186"
+        },
+        "description": "<h2>Way of the Falling Star</h2>\n<h3>Rank 3</h3>\n<ul>\n<li><strong>Activation:</strong> As an Attack and Support action, you may make a TN 3 Martial Arts [Unarmed] (Fire) check. When you activate this technique, you may choose one character at range 0–2 as the target for the burst effect.</li>\n<li><strong>Enhancement Effect:</strong> If you succeed, this kihō activates. While this kihō is active, when you perform an Attack action using a punch or kick against a Dazed target, increase the damage you inflict by your Fire Ring.</li>\n<li><strong>Burst Effect:</strong> If you have three or more bonus successes, one target suffers supernatural damage equal to your Fire Ring plus your ranks in Fitness. They must resist with a TN 5 Fitness check (Air 6, Water 3) or suffer the Burning and Dazed conditions.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "unarmed",
+        "difficulty": "3",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000013",
+      "name": "The Body Is an Anvil",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "186"
+        },
+        "description": "<h2>The Body Is an Anvil</h2>\n<ul>\n<li>Rank 1: The monk focuses their ki to the point where they expect a foe’s blow to land, expelling energy to counter the force of the strike. Weapons have been known to shatter into clouds of sparks and chunks of metal when touching a monk’s body, unmade by the force of the monk’s inner energy.</li>\n<li>Activation: As a Movement and Support action, you may make a TN 3 Meditation (Fire) check to prepare your defenses. When you perform this action, you may choose a character at range 0–2 as the target for the burst effect.</li>\n<li>Enhancement Effect: If you succeed, this kihō activates. While this kihō is active, you defend against damage from an Attack action, the character who attacked you suffers supernatural damage equal to your Fire Ring and the Dazed condition.</li>\n<li>Burst Effect: If you have two or more bonus successes, before you defend against damage dealt by the target, reduce the damage by your Fire Ring. If you successfully defend against the damage, one weapon the target used gains the Damaged quality, and the target suffers the Burning condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "meditation",
+        "difficulty": "3",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000014",
+      "name": "Flame Fist",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "185"
+        },
+        "description": "<h2>Flame Fist</h2>\n<h3>Rank 1</h3>\n<ul>\n<li>The monk throws a rapid, reckless strike, and flame streams out, seizing and charring whatever the monk touches. While sustaining this kihō, the monk’s hands and feet trail fire, lending power to their strikes.</li>\n<li><strong>Activation:</strong> As an Attack and Support action, you may make a TN 1 Martial Arts [Unarmed] (Fire) check to empower your unarmed blows. When you perform this action, you may choose a character at range 0–1 as the target for the burst effect.</li>\n<li><strong>Enhancement Effect:</strong> If you succeed, this kihō activates. While this kihō is active, treat the deadliness of your unarmed punch and kick profiles (see page 237) as increased by your Fire Ring and treat their damage type as supernatural.</li>\n<li><strong>Burst Effects:</strong> If you have two or more bonus successes, your target suffers physical damage equal to your Fire Ring and must make a TN 4 Fitness check (Air 5, Water 2) or suffer the Dazed condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "unarmed",
+        "difficulty": "1",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000015",
+      "name": "Ride the Water Dragon",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "187"
+        },
+        "description": "<h2>Ride the Water Dragon</h2>\n<ul>\n<li>Rank 3<br>The monk shifts their stance and moves with inexorable purpose, making their ki fluid and allowing mystical energy to ripple off them like harmless raindrops.</li>\n<li>Activation: As a Movement and Support action, you may make a TN 3 Meditation (Water) check to become resistant to supernatural effects.</li>\n<li>Enhancement Effect: If you succeed, this kihō activates. While this kihō is active, when you are targeted by a check for an invocation, mahō, or kihō, increase the TN of the check by your ranks in Meditation. At the GM’s discretion, while this kihō is active, you can pass through certain supernatural barriers and wards without triggering their effects or alerting their owners.</li>\n<li>Burst Effect: If you have two or more bonus successes, remove all other persistent effects from supernatural sources (such as invocations, mahō, or kihō) from yourself. If you have four or more bonus successes, remove all other persistent effects from supernatural sources (such as invocations, mahō, or kihō) from all characters at range 0–2 instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "meditation",
+        "difficulty": "3",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000016",
+      "name": "Freezing the Lifeblood",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "186"
+        },
+        "description": "<h2>Freezing the Lifeblood</h2>\n<h3>Rank 2</h3>\n<ul>\n<li><strong>Activation:</strong> As an Attack and Support action, you may make a TN 2 Martial Arts [Unarmed] (Water) check to empower your unarmed blows. When you activate this technique, you may choose one character at range 0–1 as the target for the burst effect.</li>\n<li><strong>Enhancement Effect:</strong> If you succeed, this kihō activates. While this kihō is active, after a character defends against damage you inflict with an Attack action using a punch or kick, they suffer the Immobilized condition unless they choose to receive 3 fatigue.</li>\n<li><strong>Burst Effect:</strong> If you have two or more bonus successes, the target suffers supernatural damage equal to your Water Ring ignoring their resistance and suffers the Immobilized condition. If you succeed with four or more bonus successes, the target suffers a critical strike with severity equal to your Water Ring plus your ranks in Medicine instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "unarmed",
+        "difficulty": "2",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000017",
+      "name": "Ki Protection",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "186"
+        },
+        "description": "<h2>Ki Protection</h2>\n<h3>Rank 1</h3>\n<ul>\n<li>Activation: As a Movement and Support action, you may make a TN 1 Meditation (Water) check. You may choose one character at range 0–1 as the target for the burst effect.</li>\n<li>Enhancement Effect: If you succeed, this kihō activates. While this kihō is active, when you perform the Calming Breath action, you may remove 2 fatigue instead of 1. While this kihō is active, after you perform an action, you may spend 1 Void point to remove fatigue equal to your ranks in Medicine from one other character at range 0–1.</li>\n<li>Burst Effect: If you have 2 or more bonus successes, your target removes fatigue equal to your ranks in Medicine plus your bonus successes. Each target cannot be affected by this effect again until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "meditation",
+        "difficulty": "1",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000018",
+      "name": "Way of the Seafoam",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "187"
+        },
+        "description": "<h2>Way of the Seafoam</h2>\n<ul>\n<li>The monk shifts and matches their movements to their surroundings, sliding to their feet and righting themselves like a duck bobbing to the surface of a pond. In this state, the monk can even traverse water, their ki buoying them where they contact the waves.</li>\n<li>Activation: As a Movement and Support action, you may make a TN 1 Meditation (Water) check.</li>\n<li>Enhancement Effect: If you succeed, this kihō activates. While this kihō is active, you may walk on water as if it were solid ground.</li>\n<li>Burst Effect: If you have two or more bonus successes, remove the Immobilized and Prone conditions from yourself. Then, you may switch to any stance and move up to 2 range bands.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "meditation",
+        "difficulty": "1",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000019",
+      "name": "Water Fist",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "187"
+        },
+        "description": "<h2>Water Fist</h2>\n<ul>\n<li>The monk throws a soft blow against a nearby object and makes their ki as water, rippling across intervening objects and sliding past protections to reach its destination. The force of the strike travels through any contact surface, striking another target touching it, even if they are on the other side of a wooden door, stone wall, or other physical barrier.</li>\n<li>Activation: As an Attack and Support action, you may make a TN 1 Martial Arts [Unarmed] (Water) check to enhance your unarmed blows. When you perform this action, you may choose one character at range 0–3 who shares a contact surface with you as the target for the burst effect.</li>\n<li>Enhancement Effect: If you succeed, this kihō activates. While this kihō is active, your Attack checks using the punch or kick unarmed profile ignore an amount of your target’s physical resistance up to two times your Water Ring. While this kihō is active, you may spend 1 Void point to perform an unarmed attack with a punch or kick indirectly through any solid surface your target is touching. As long as you and your target are both in contact with the same solid surface (such as a wall, floor, or body of water) at a range between 0 and a number equal to your Water Ring of each other, the target is considered to be in range for any Attack action you perform with your punch or kick unarmed attack profile.</li>\n<li>Burst Effect: If you succeed, you deal physical damage to the target equal to your Water Ring.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "unarmed",
+        "difficulty": "1",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000020",
+      "name": "Death Touch",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "188"
+        },
+        "description": "<h2>Death Touch</h2>\n<ul>\n<li>Rank 4</li>\n<li>Activation: As an Attack and Support action, you may make a TN 3 Martial Arts [Unarmed] (Void) check to enhance your unarmed blows. When you perform this action, you may choose a character at range 0–1 as the target for the burst effect.</li>\n<li>Enhancement Effect: If you succeed, this kihō activates. While this kihō is active, when you perform an Attack action using a punch or kick, the target cannot defend against the damage you deal (see page 268) unless they spend 1 Void point.</li>\n<li>Burst Effect: If you have three or more bonus successes, the target suffers the Dazed and Disoriented conditions, and must resist with a TN 4 Fitness check or suffer the Unconscious condition. If you have four or more bonus successes and the target is a minion NPC, they are simply slain instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "unarmed",
+        "difficulty": "3",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000021",
+      "name": "Touch the Void Dragon",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "188"
+        },
+        "description": "<h2>Touch the Void Dragon</h2>\n<h3>Rank 5</h3>\n<p>The root of the universe is nothing and everything, and the monk pursues this spiral to its depths, finding limitless power within. The monk sees many realities swirl around them while maintaining this kihō, the storm of possibilities slowly solidifying into the present. Thus, they can jump at opportunities that might otherwise have passed them by.</p>\n<ul>\n<li><strong>Activation:</strong> As a Support action, you may make a TN 4 Meditation (Void) check to draw cosmic energy into your being.</li>\n<li><strong>Enhancement Effect:</strong> If you succeed, this kihō activates. While this kihō is active, you may spend (op) from Void checks as if it were (op) from a check using any Element. While this kihō is active, you may spend (op) from Air, Earth, Fire, or Water checks as if it were (op) from a check using Void.</li>\n<li><strong>Burst Effect:</strong> If you have two or more bonus successes, gain 1 Void point. You can only gain 1 Void point from this effect per scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "meditation",
+        "difficulty": "4",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000022",
+      "name": "Still the Elements",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "188"
+        },
+        "description": "<h2>Still the Elements</h2>\n<h3>Rank 3</h3>\n<p>The monk seeks the infinite Void within themself, delving into their ki and pushing back spiritual beings and tipping the balance between the elements as they desire. Kansen, kami, other spiritual powers, and sometimes even mortals are repelled by the emptiness in the monk.</p>\n<ul>\n<li><strong>Activation:</strong> As an Intrigue and Support action, you may make a TN 4 Meditation (Void) check. When you perform this action, choose Air, Earth, Fire, or Water.</li>\n<li><strong>Enhancement Effect:</strong> If you succeed, this kihō activates. While this kihō is active, when you are targeted by a check using the chosen ring, you may choose 1 kept die from the check. Set those dice to blank faces. While this kihō is active, when you are targeted by a check using the chosen ring, you may spend 1 Void point to choose additional kept dice from the check up to your ranks in Meditation. Set those dice to blank faces.</li>\n<li><strong>Burst Effect:</strong> If you have two or more bonus successes, the terrain at range 0–3 becomes Imbalanced [Chosen Element] (see page 267) until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "meditation",
+        "difficulty": "4",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000023",
+      "name": "Way of the Edgeless Sword",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "188"
+        },
+        "description": "<h2>Way of the Edgeless Sword</h2>\n<h3>Rank 5</h3>\n<ul>\n<li>The wise know that it is not the blade that cuts, but the swordmaster. After all, the Tao of Shinsei teaches that weapons are simply another tool, no more sacred than a harvesting thresher or plow. The monk runs their hand along an object, channeling ki into it and transforming it into a killing edge, even if it appears to be nothing more than a common stick, a wooden sword, or their wizened hand.</li>\n<li>Activation: As an Attack and Support action, you may make a TN 3 Meditation check to empower your blows with unarmed and improvised weapons. When you perform this action, you may choose any number of characters at range 0–1 as targets.</li>\n<li>Enhancement Effect: If you succeed, this kihō activates. While this kihō is active, treat the base damage and deadliness of your unarmed profile and improvised weapons you wield as being equal to your ranks in Martial Arts [Unarmed] plus your Void Ring. Additionally, they count as possessing the Durable and Razor-Edged qualities.</li>\n<li>Burst Effect: If you have two or more bonus successes, each target suffers a critical strike with deadliness equal to your Void Ring plus your ranks in Martial Arts [Unarmed].</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "meditation",
+        "difficulty": "3",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000024",
+      "name": "Mercy of the Stone Fortune",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "108"
+        },
+        "description": "<h2>Mercy of the Stone Fortune</h2>\n<rank>2</rank>\n<ul>\n<li><strong>Activation:</strong> As a Support action, you may make a TN 1 Meditation (Earth) check.</li>\n<li><strong>Enhancement Effect:</strong> If you succeed, this kihō activates. While this kihō is active, when another friendly character at range 0–1 defends against damage, you may receive fatigue up to your Earth ring to reduce the damage that character suffers by that amount. While this kihō is active, when another friendly character at range 0–1 suffers a critical strike, you may spend 1 Void point. If you do, the character does not suffer that critical strike, and you suffer it instead.</li>\n<li><strong>Burst Effect:</strong> If you have two or more bonus successes, treat your ranks in Fitness as increased by 2 (to a maximum of 6) when making checks to resist critical strikes and other conditions. This effect persists for rounds equal to your bonus successes (even if the enhancement effect ends).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "meditation",
+        "difficulty": "1",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000025",
+      "name": "Rejuvenating Breath",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "109"
+        },
+        "description": "<h2>Rejuvenating Breath</h2>\n<h3>Rank 3</h3>\n<p>Ki flows through all things, and a practitioner who has learned to channel it can draw ki from the living world around them into their body with a breath. This can allow a combatant to find fresh strength even when overwhelmed. For especially powerful kihō users, this can even let them shrug off injuries, their flesh mending back together around cuts and bruises fading rapidly.</p>\n<ul>\n<li><strong>Activation:</strong> As a Support action, you may make a TN 2 Fitness (Earth) check. Once per game session, you may spend 1 Void point to perform this check even while Incapacitated or Unconscious.</li>\n<li><strong>Enhancement Effect:</strong> If you succeed, this kihō activates. While this kihō is active, increase your endurance by your Earth ring.</li>\n<li><strong>Burst Effect:</strong> If you have three or more bonus successes, you may remove the Heavily Wounded condition and gain the Lightly Wounded condition for the same ring, or you may remove the Unconscious condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "fitness",
+        "difficulty": "2",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000026",
+      "name": "Shadow of Ancient Peaks",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "109"
+        },
+        "description": "<h2>Shadow of Ancient Peaks</h2>\n<h3>Rank 4</h3>\n<p>Before the works of nature, the achievements of any one mortal are inevitably overshadowed. A kihō user can align their energy with the wonders of the natural world to make their presence as insurmountable as a mountain, causing doubt to creep into the mind of any who might challenge them as their blows only encourage this foe who seems to loom above them.</p>\n<ul>\n<li><strong>Activation:</strong> As a Scheme or Support action, you may make a TN 3 Tactics (Earth) check.</li>\n<li><strong>Enhancement Effect:</strong> If you succeed, this kihō activates. While this kihō is active, after you succeed at a check to resist an effect or a critical strike, the character whose effect you resisted receives strife equal to your bonus successes on the check.</li>\n<li><strong>Burst Effect:</strong> If you have two or more bonus successes, the next time you suffer a critical strike, if you would reduce it to severity 0 or lower with your Fitness check, you remove fatigue equal to the severity of the critical strike (before reductions). This effect persists until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "tactics",
+        "difficulty": "3",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000027",
+      "name": "Cutting Wind Talons",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "109"
+        },
+        "description": "<h2>Cutting Wind Talons</h2>\n<h3>Rank 2</h3>\n<p>Given enough time, the wind can cut even stone, though few humans perceive the world on the timescale required to notice. A ki practitioner emulate the energy of the wind to let their ki flow over their target like a gale, seeking the smallest cracks in their enemy’s protections that can be exploited. Once a gap is found, the ki practitioner can sharpen their energy to a whistling edge and deliver a blow that draws blood or even brings their opponent down in one fell swoop.</p>\n<ul>\n<li><strong>Activation:</strong> As a Scheme and Support action, you may make a TN 1 Fitness (Air) check to enhance your unarmed strikes. When you perform this action, you may choose one character at range 0–3 as a target for the Burst effect.</li>\n<li><strong>Enhancement Effect:</strong> If you succeed, the kihō activates. While this kihō is active, your unarmed attacks have Razor-Sharp quality.</li>\n<li><strong>Burst Effect:</strong> If you have two or more bonus successes, reduce the TN of your next Attack action check against your target by your ranks in Skulduggery. This effect persists until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "fitness",
+        "difficulty": "1",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000028",
+      "name": "Grace of the Gentle Breeze",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "110"
+        },
+        "description": "<h2>Grace of the Gentle Breeze</h2>\n<ul>\n<li>Activation: As a Support action, you may make a TN 2 Survival (Air) check to make your presence much more subtle. When you perform this action, you may choose any number of characters at range 0–3 as targets for the Burst effect.</li>\n<li>Enhancement Effect: If you succeed, this kihō activates. While this kihō is active, characters who are unaware of your presence or location treat their vigilance as 2 lower when you make checks to avoid their notice, and those characters increase the TN of checks to look for you by +2. Animals are not disturbed by your presence.</li>\n<li>Burst Effect: If you have one or more bonus successes, each target with vigilance lower than or equal to your bonus successes loses track of you, becoming unaware of your location. While you are not invisible to these characters, they are subject to the Enhancement Effect when they attempt to find you (as long as you keep it active), and count as being unaware of you for effects that require it.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "survival",
+        "difficulty": "2",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000029",
+      "name": "Step of the Storm",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "110"
+        },
+        "description": "<h2>Step of the Storm</h2>\n<ul>\n<li><strong>Activation:</strong> As a Movement and Support action, you may make a TN 3 Fitness (Air) check to suddenly leap away from harm. Once per game session, you may spend 1 Void point to perform this check immediately after being declared the target of another character’s Attack action check.</li>\n<li><strong>Enhancement Effect:</strong> If you succeed, this kihō activates. While this kihō is active, when you are targeted by an Attack action check, you may gain 1 fatigue to negate 1 (op) from the attacker’s check. While this kihō is active, at the end of your turn, you must move 1 range band.</li>\n<li><strong>Burst Effect:</strong> If you have two or more bonus successes, you may immediately move 2 range bands.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "fitness",
+        "difficulty": "3",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000030",
+      "name": "Blistering Retribution",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "110"
+        },
+        "description": "<h2>Blistering Retribution</h2>\n<h3>Rank 2</h3>\n<p>Whether they wield ki intentionally or instinctively through the act of breathing, all living things displace energy within their environment. When attacking, one's energy flows into the target. By making their ki volatile, a kihō user can create a burst of power whenever a foe's energy clashes with their own. The greater the energy directed toward the kihō user, the greater the force of their counterstrike.</p>\n<ul>\n<li><strong>Activation:</strong> As a Support action, you may make a TN 1 Meditation (Fire) check to empower your counter-strikes with ki.</li>\n<li><strong>Enhancement Effect:</strong> If you succeed, this kihō activates. While this kihō is active, after you defend against damage dealt by a character in the scene, you decrease the TN of your next Attack or Scheme action check targeting that character by half the amount of fatigue you received from defending against damage (rounded up). This cannot reduce the TN of your next Attack or Scheme action below 1.</li>\n<li><strong>Burst Effect:</strong> If you have 3 or more bonus successes, the next time you defend against damage dealt by a character in the scene, each other character at range 0–2 of you suffers physical damage equal to your ranks in Fitness. This effect persists until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "meditation",
+        "difficulty": "1",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000031",
+      "name": "Dance of Fire",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "110"
+        },
+        "description": "<h2>Dance of Fire</h2>\n<p>Rank 3</p>\n<p>By making one's ki burn like flames, a ki practitioner can push their body beyond its normal limits, the consuming power of flame coursing throughout their body and empowering each of their movements and strikes. However, while using ki this way, a practitioner cannot limit themself as they normally might, and giving their all to each motion risks burning through their stamina much more quickly than they normally might.</p>\n<ul>\n<li><strong>Activation:</strong> As a Movement and Support action, you may make a TN 2 Performance (Fire) check to empower your body with exceptional energy.</li>\n<li><strong>Enhancement Effect:</strong> If you succeed, this kihō activates. While this kihō is active, if you would fail a check, you must receive 2 fatigue to roll 1 additional  and keep it. If this would not cause you to succeed, repeat this process until you succeed or become Incapacitated. After you become Incapacitated due to fatigue suffered this way, you gain the Exhausted condition (see page 272 of the core rulebook). If you already were suffering the Exhausted condition, you gain the Dying [3 rounds] condition instead.</li>\n<li><strong>Burst Effect:</strong> If you have 2 or more bonus successes, treat your focus as increased by your Fire ring and increase your initiative by the same amount. This effect persists for 1 round. When this effect would end, you may receive 2 fatigue; if you do, it persists for one additional round.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "performance",
+        "difficulty": "2",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000032",
+      "name": "Volcanic Fist",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "111"
+        },
+        "description": "<h2>Volcanic Fist</h2>\n<h3>Rank 4</h3>\n<p>Tectonic instability can create some of the most awe-inspiring acts of destruction known to the natural world, and a kihō user can employ the same principle to deliver devastating blows. By directing energy to their fist and allowing the pressure to build to a breaking point, the kihō user can strike with calamitous force. However, such attacks inevitably take a toll on the body, for human limbs were not built to withstand such unchecked strength.</p>\n<ul>\n<li><strong>Activation:</strong> As a Support action, you may make a TN 3 Fitness (Fire) check to empower your strikes with unstoppable force. Once per game session, you may spend 1 Void point to perform this action immediately after succeeding on an Attack action check, before resolving its results.</li>\n<li><strong>Enhancement Effect:</strong> While this kihō is active, increase the TN of checks to resist critical strikes you inflict by your unarmed attacks by your Fire ring plus your ranks in Fitness.</li>\n<li><strong>Burst Effect:</strong> If you have one or more bonus successes, your unarmed attacks treat their damage and deadliness as increased by your ranks in Fitness plus your bonus successes. This effect persists for one round. When this effect would end, you may receive 2 fatigue; if you do, it persists for one additional round.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "fitness",
+        "difficulty": "3",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000033",
+      "name": "Fist of Spreading Venom",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "112"
+        },
+        "description": "<h2>Fist of Spreading Venom</h2>\n<ul>\n<li>Rank 2: Ki can be used to remove poison from the body, pushing it out like a breath of foul air exhaled. But it can also be used to deliver poison alongside strikes. By taking small amounts of a poison into their own body, a kihō user can spread an even amplify its effects, making it spread like a contagion to any they touch. While this power is seen as a grotesque misuse of ki by some practitioners, others believe that it is as natural as a serpent's fangs - frightful, perhaps, but no less a part of the living world than any other animal, plant, or thing.</li>\n<li>Activation: As a Support action, you may make a TN 1 Medicine (Water) check and expend one charge of a poison to imbue your unarmed strikes with venomous potency. You suffer no ill effects from consuming a poison this way. When you activate this technique, you may choose one other character at range 0–1 as a target for the burst effect.</li>\n<li>Enhancement Effect: If you succeed, this kihō activates. While this kihō is active, your unarmed attacks count as having the poison you consumed applied to them.</li>\n<li>Burst Effect: If you have three or more bonus successes, your target counts as having ingested one dose of the poison, and immediately suffers its effects.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "medicine",
+        "difficulty": "1",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000034",
+      "name": "River’s Flowing Stride",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "112"
+        },
+        "description": "<h2>River’s Flowing Stride</h2>\n<h3>Rank 3</h3>\n<p>Water flows past most obstructions without hesitation, splitting into rivulets to pass a grate only to reform into a torrent seconds later. Kihō users of sufficient skill can mimic water in this way to perform incredible feats of contortion, loosening or tightening their muscles or skin and even shifting their bones with ki to slide through seemingly impossible spaces or pass safely across deadly terrain.</p>\n<ul>\n<li><strong>Activation:</strong> As a Movement and Support action, you may make a TN 2 Fitness (Water) check to make the ki in your body fluid and malleable, allowing you to move over dangerous or narrow terrain with ease.</li>\n<li><strong>Enhancement Effect:</strong> If you succeed, this kihō activates. While this kihō is active, you do not suffer damage from terrain qualities while performing Movement actions. Additionally, while this kihō is active, when you are targeted by an Attack action check, you may spend 1 Void point. If you do and the attacker succeeds, reduce their bonus successes by your Water ring, to a minimum of success with 0 bonus successes.</li>\n<li><strong>Burst Effect:</strong> If you have 1 or more bonus successes, you may immediately move up to 2 range bands. During this movement, you may pass through a small gap that would normally prevent your movement so long as it is large enough to accommodate your head.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "fitness",
+        "difficulty": "2",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000035",
+      "name": "Seeping Ki",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "112"
+        },
+        "description": "<h2>Seeping Ki</h2>\n<h3>Rank 4</h3>\n<ul>\n<li>Activation: As an Attack and Support action, you may make a TN 3 Meditation (Water) check to imbue your touch with spreading ki.</li>\n<li>Enhancement Effect: If you succeed, this kihō activates. While this kihō is active, after you succeed at an Attack action check using an unarmed profile, one of your targets receives strife equal to your ranks in Medicine. If this causes the character to become Compromised, they must immediately resist with a TN 4 Meditation (Fire 5, Earth 2) check. If they fail, on their next turn, the character must unmask in one of the following ways of your choice:<ul>\n<li>Move away from you</li>\n<li>Perform a Strike action targeting one of their allies</li>\n<li>Drop an item they are holding</li>\n<li>Another effect determined by you and the GM.</li>\n</ul>If their action requires a check, you choose which dice the character keeps and which ones they drop. If the character is a Minion NPC, they automatically count as failing the Meditation check to resist.</li>\n<li>Burst Effect: If you have two or more bonus successes, the next time you succeed on an Attack action check using an unarmed profile, your target suffers the Bleeding condition. This effect persists until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "meditation",
+        "difficulty": "3",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000036",
+      "name": "Aura Awareness",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "113"
+        },
+        "description": "<h2>Aura Awareness</h2>\n<h3>Rank 2</h3>\n<ul>\n<li><strong>Activation:</strong> As a Support action, you may make a TN 2 Meditation (Void) check.</li>\n<li><strong>Enhancement Effect:</strong> If you succeed, this kihō activates. While this kihō is active, you can perceive beings that are normally invisible to human sight, such as spirits and characters concealed by supernatural abilities. Additionally, after a character or object at range 0–3 activates a supernatural ability (such as a technique including kihō, invocations, mahō, inversions, and sealed techniques, or an NPC ability that is supernatural in its effects), you become aware of the ability and its effects. While this kihō is active, your natural senses are diminished. Treat your Vigilance as 2 lower (to a minimum of 1) for any effect not generated by a supernatural being, object, or ability, and increase the TN of all of your checks to detect non-supernatural characters, objects, and phenomena in your environment by 2.</li>\n<li><strong>Burst Effect:</strong> If you have two or more bonus successes, during your next Attack action check targeting an Otherworldly being, treat its resistances as reduced by your ranks in Theology. This effect persists until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "meditation",
+        "difficulty": "2",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000037",
+      "name": "Essence of Stillness",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "113"
+        },
+        "description": "<h2>Essence of Stillness</h2>\n<h3>Rank 3</h3>\n<p>The world changes. This is an undeniable truth, but a kihō user can force their ki to become unchanging for a time, preserving their life force even in the face of grievous harm. While techniques that forestall the consequences of harm do not heal the kihō practitioner, they can slow the march of time within the body, keeping them alive and fighting a bit longer when a few extra seconds are the difference between victory and defeat.</p>\n<ul>\n<li><strong>Activation:</strong> As a Support action, you may make a TN 3 Fitness (Void) check.</li>\n<li><strong>Enhancement:</strong> If you succeed, this kihō activates. While this kihō is active, you ignore the effects of the Bleeding, Lightly Wounded, Heavily Wounded, and Unconscious conditions.</li>\n<li><strong>Burst Effect:</strong> If you have 2 or more bonus successes, you ignore the effects of the Dying condition until the end of the scene. If the Dying condition is removed from you before the end of the scene, you do not die, even if the duration has expired.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "fitness",
+        "difficulty": "3",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreKih000038",
+      "name": "Eternal Mind’s Gate",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/kiho.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "114"
+        },
+        "description": "<h2>Eternal Mind’s Gate</h2>\n<p>Rank 4</p>\n<p>The Void is a realm without time, and by aligning their energy to it, a kihō user recognize traces of their own ki from past lives. This can allow them to identify important people, places, and objects from previous existences. By seizing upon these threads of energy from their past lives, a kihō practitioner can even revert part of their mind to that past life briefly, tapping into training and experiences they no longer possess. While these resurgent memories eventually fade to a half-remembered dream, they can be extremely potent in the moment, and can grant an important edge in many situations.</p>\n<ul>\n<li><strong>Activation:</strong> As a Support action, you may make a TN 3 Meditation (Void) check.</li>\n<li><strong>Enhancement Effect:</strong> While this kihō is active, you are able to identify locations related to your past life, objects related to your past life, and individuals who you interacted with in your past life (but not those individuals’ reincarnations). You also become aware of the general nature of your relationship with these individuals, but do not have specific memories of your interactions.</li>\n<li><strong>Burst Effect:</strong> If you have three or more bonus successes, choose two of your skills in the same group and swap their values. You must explain some details about the past life in which your character had firsthand experience with the lower of the two skills, and your GM is the final arbiter of what is an appropriate skill to increase this way. This effect persists until the end of the game session.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "meditation",
+        "difficulty": "3",
+        "technique_type": "kiho"
+      },
+      "folder": null
+    }
+  ]
+}

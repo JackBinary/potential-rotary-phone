@@ -1,0 +1,3089 @@
+{
+  "exportedAt": "2025-10-16T22:34:07.548Z",
+  "foundryVersion": "12.331",
+  "systemId": "l5r5e",
+  "pack": {
+    "label": "Techniques Invocations",
+    "collection": "l5r5e.core-techniques-invocations",
+    "type": "Item",
+    "system": "l5r5e"
+  },
+  "count": 75,
+  "documents": [
+    {
+      "_id": "L5RCoreInv000001",
+      "name": "Rise, Air",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "194"
+        },
+        "description": "<h2>Rise, Air</h2>\n<h3>Rank 4</h3>\n<p><strong>Dust of Incarnation (Alchemy), Guardian of Air (Ancestral), Summon the Air Djinn (Foreign)</strong></p>\n<p>A manifest air kami is a flickering, shifting thing, a whirlwind of power with lashing arms that screams with the voice of the storm. It towers above the tallest of humans, yet can find its way through the slightest of cracks. The slightest slip of concentration while guiding such a being can lead to untold devastation as the child of the tempest carves its way across the landscape.</p>\n<p><strong>Activation:</strong> As a Support action, you may make a TN 6 Theology (Air) check targeting one position at range 3–5.</p>\n<p><strong>Effects:</strong> If you succeed, you summon a Manifest Air Kami (see page 322) to fight for you. It appears at the target position and obeys you for two rounds, plus additional rounds equal to your bonus successes, taking its turn immediately after yours each round. When this effect ends, it departs or, if stirred to particular ire, begins to follow its own directives. If it begins to act independently, it does not attack the shugenja who summoned it unless provoked.</p>\n<ul>\n<li><strong>Air (op):</strong> The manifest air kami arrives in a cyclone that hurls aside anything nearby. Each character at range 0–2 of the target position must resist with a TN 4 Fitness check (Earth 5, Fire 2) or suffer supernatural damage equal to your Air Ring and be pushed away 2 range bands.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "6",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000002",
+      "name": "Nature’s Touch",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "194"
+        },
+        "description": "<h2>Nature’s Touch</h2>\n<h3>Rank 1</h3>\n<ul>\n<li>Shinjo's Whispers (Ancestral), Run Alongside the Ki-Rin (Fortunist), Voice of the Glen King (Foreign)</li>\n<li>To perform this rite, the shugenja seeks Chikushō-dō, the Realm of Animals, in the world around them and in their own heart. This allows the shugenja to communicate with (though not dominate) animals of the mortal realm.</li>\n<li>Activation: As a Support action, you may make a TN 1 Theology (Air) check targeting yourself.</li>\n<li>Effects: If you succeed, you augment yourself with the ability to speak to animals of the natural world (but not Otherworldly or Tainted beings). Animals can understand you (within their ability to do so, naturally—human political relationships will have no meaning to horses, no matter how many times you explain them). They are not compelled to obey you, however. This effect persists until the end of the scene.</li>\n<li>New Opportunities</li>\n<li>Air (op): Until the end of the scene, you can understand animals’ speech.</li>\n<li>Air (op): If you succeed, the animal also acts favorably toward you automatically due to your politeness, fulfilling one request that does not put it in danger without having to be convinced with bribes of food or subsequent checks.</li>\n<li>Air (op) (op): If you succeed, you can communicate with an Otherworldly being this way, provided it has anything to say to you.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "1",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000003",
+      "name": "Wrath of Kaze-no-Kami",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "196"
+        },
+        "description": "<h2>Wrath of Kaze-no-Kami</h2>\n<ul>\n<li>Rank 5</li>\n<li>Bottled Typhoon (Alchemy), Utaku's Stampede (Ancestral), The Air Dragon's Fury (Elemental)</li>\n<li>When stirred to wrath through the deepest secrets of the shugenja’s art, the spirits of the wind become a howling tornado, spinning around the priest and raising them from the ground while devastating everything in reach; uprooting trees, shattering buildings, and crushing foes.</li>\n<li>Activation: As an Attack action, you may make a TN 5 Theology (Air) check targeting each character at range 2–4.</li>\n<li>Effects: If you succeed, you summon a hurricane that buffs all characters in range. At the end of each of your turns, each target in range must resist with a TN 4 Fitness check (Earth 5, Fire 2) or suffer supernatural damage equal to your Air Ring and suffer the Disoriented condition. The hurricane persists for a number of rounds equal to your Air Ring and can destroy objects or structures at your GM's discretion.</li>\n<li>New Opportunities</li>\n<li>Air (op): You may end the hurricane at any time as an action.</li>\n<li>Air (op)+: If you succeed, each target who fails the Fitness check at the end of this turn is hurled a number of range bands away from you equal to (op) spent this way. Upon landing, each target hurled this way suffers the negative effects of falling the number of range bands they moved (see Falling on page 269).</li>\n<li>Air (op) (op): While within the hurricane, you can fly, moving vertically and ignoring the effects of terrain.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "5",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000004",
+      "name": "Secrets on the Wind",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "194"
+        },
+        "description": "<h2>Secrets on the Wind</h2>\n<h3>Rank 2</h3>\n<ul>\n<li>Whisper in Bayushi's Ear (Ancestral), Tenjin's Gift (Fortunist), The Fly on the Northern Wall (Foreign)</li>\n<li>Activation: As a Scheme action, you may make a TN 3 Theology (Air) check targeting one position at range 0.</li>\n<li>Effects: If you succeed, you scry with whispering winds that eavesdrop on the chosen position. The air kami can overhear anything said within a number of range bands equal to your Air Ring. This effect persists for twenty-four hours or until you designate a new area for eavesdropping. While this effect persists, you may spend an action to hear anything being said at the moment in the designated area.</li>\n<li>New Opportunities</li>\n<li>Air (op): In addition to hearing things in the designated area, you can also smell any scents in that area.</li>\n<li>Air (op): If another character discovers your invocation, the effect immediately ends, preventing them from identifying it as your handiwork.</li>\n<li>Air (op) (op)+: The effect persists for twenty-four additional hours per (op) (op) spent this way.</li>\n</ul>\n<p>Some invocations may allow or even encourage a PC to behave dishonorably. With the Mask of Wind, for example, one could impersonate someone of higher status, and Secrets on the Wind would allow a character to eavesdrop effortlessly on their own lord. The GM should remind players that their characters must still forfeit or stake honor to commit acts that defy the tenets of Bushidō, even when they are using mystical powers to enact their plots.</p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000005",
+      "name": "Vapor of Nightmares",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "195"
+        },
+        "description": "<h2>Vapor of Nightmares</h2>\n<ul>\n<li>Activation: As an Attack action, you may make a TN 4 Theology (Air) check targeting one character at range 2–3.</li>\n<li>Effects: If you succeed, you summon an illusion of your target’s greatest fear. Your target must resist with a TN 4 Meditation check (Earth 5, Fire 2) to see through against this phantasm; if they fail, they suffer strife equal to your Air Ring plus your bonus successes, and must immediately unmask if they become Compromised this way. If they unmask in the presence of the phantasm, they focus their attentions on the phantasm, attacking it, fleeing from it, or unleashing harsh words upon it (rather than dealing with you or anyone else). The phantasm persists for a number of rounds equal to your Air Ring.</li>\n</ul>\n<ul>\n<li>Air (op): If a target fails the Meditation check, they also suffer the Disoriented condition.</li>\n<li>Air (op): The phantasm persists until the end of the scene instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "4",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000006",
+      "name": "Grasp of the Air Dragon",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "193"
+        },
+        "description": "<h2>Grasp of the Air Dragon</h2>\n<h3>Rank 3</h3>\n<ul>\n<li>Shikajin's Leap (Ancestral), Jikoju's Journey (Fortunist), The Wind's Cradle (Foreign)</li>\n</ul>\n<p>The shugenja exhales a long breath at the end of the incantation and extends a hand. A stillness descends, the moment before the storm breaks. Then, the clouds high above twist and trail from the Heavens like festival streamers. The wind swoops toward the target and hurls them into the air—carrying them to safety or to their doom, depending on the will of the shugenja.</p>\n<ul>\n<li><strong>Activation:</strong> As an Attack action or a Support action, you may make a TN 4 Theology (Air) check targeting one character at range 3–5.</li>\n<li><strong>Effects:</strong> If you succeed, you summon a gale-force wind to move the target a number of range bands equal to your Air Ring plus your bonus successes (to a maximum of 6 range bands), ignoring any intervening terrain. You may choose to set the target down on the ground gently (if you chose Support action) or slam them into it with full force (if you chose Attack action). When you slam a target to the ground this way, the target must resist with a TN 4 Fitness check (Earth 5, Fire 2) or suffer the effects of a fall from range 3 (see Falling on page 269).</li>\n</ul>\n<ul>\n<li><strong>New Opportunities</strong></li>\n<li>Air (op)+: Treat the maximum range of this technique as 1 higher per (op) spent this way.</li>\n<li>Air (op) (op)+: Increase the height of the fall the target suffers by 1 per (op) (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "4",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000007",
+      "name": "Blessed Wind",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "192"
+        },
+        "description": "<h2>Blessed Wind</h2>\n<ul>\n<li>Rank 1</li>\n<li>Bottled Duststorm (Alchemy), Tamon's Rebuke (Fortunist), Column of the World (Foreign)</li>\n<li>The shugenja recites a short chant, and the dust whips up, carried upon twisting currents of air that foil and deflect projectiles. Stones, arrows, and even larger missiles are knocked aside by buffeting winds, keeping the target safe from such attacks.</li>\n<li>Activation: As a Support action, you may make a TN 2 Theology (Air) check targeting one position at range 0–3.</li>\n<li>Effects: If you succeed, you summon a swirling wind at the target position. Any character at range 0–2 of the chosen position counts as being in Obscuring terrain (see Terrain, on page 267) for the purposes of Attack actions targeting them. This effect persists for one round, plus additional rounds equal to your bonus successes.</li>\n<li>New Opportunities</li>\n<li>Air (op): This effect persists until the end of the scene instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000008",
+      "name": "By the Light of the Lord Moon",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "192"
+        },
+        "description": "<h2>By the Light of the Lord Moon</h2>\n<ul>\n<li>When a shugenja performs this invocation, the light shifts to that of a moonlit night, unweaving the shadows to lay bare the things they conceal. Hidden objects glow faintly with silver light, while mystical illusions are revealed as translucent, gossamer forms.</li>\n<li>Activation: As a Scheme action, you may make a TN 2 Theology (Air) check targeting an area at range 0–2 of you.</li>\n<li>Effects: If you succeed, you scry for each hidden character and concealed object (such as secret compartments, trap doors, and concealed weapons) in the targeted area, revealing it with an illusory, luminous outline that only you can perceive. This invocation only reveals objects and people concealed by mundane means.</li>\n<li>New Opportunities<br />\nAir (op)+: If you succeed, you may also reveal up to one magically concealed object per (op) spent this way.</li>\n<li>Air (op) (op)+: Choose one additional character at range 0–1 per (op) (op) spent this way. The chosen characters can also see the objects.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000009",
+      "name": "Call Upon the Wind",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "192"
+        },
+        "description": "<h2>Call Upon the Wind</h2>\n<h3>Rank 2</h3>\n<ul>\n<li>Gentle Wings of the Wren (Alchemy), Doji's Steps (Ancestral), Benten Smiles (Fortunist)</li>\n</ul>\n<p>The shugenja whispers a breathless prayer and rises from the ground as gentle winds bear them aloft. Air spirits usually carry their charges gracefully, without dropping them to stumble the last few feet—usually.</p>\n<p>Activation: As a Movement action, you may make a TN 4 Theology (Air) check targeting yourself.</p>\n<p>Effects: If you succeed, you augment your movement with a gust of wind that carries you aloft. In addition to being able to move vertically freely, you ignore the effects of terrain while flying. This effect persists until the end of the scene.</p>\n<p>New Opportunities</p>\n<ul>\n<li>Air (op) (op)+: While flying, you may carry up to one additional willing character at range 0–2 with you per (op) (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "4",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000010",
+      "name": "Cloak of Night",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "192"
+        },
+        "description": "<h2>Cloak of Night</h2>\n<ul>\n<li>Rank 1</li>\n<li>Smoke of Stolen Light (Alchemy), Shroud of the North Wind (Fortunist), Walk in the Shadow World (Foreign)</li>\n<li>Activation: As a Scheme and Support action, you may make a Theology (Air) check targeting one object or character at range 0–1. The TN is equal to the target’s silhouette (see page 265).</li>\n<li>Effects: If you succeed, you augment the target with an illusion that renders it invisible to the naked eye. The object is still physically present and can be touched, smelled, or sensed with any normal sense other than vision. This effect persists for one round, plus additional rounds equal to your bonus successes.</li>\n<li>New Opportunities<br>Air (op) (op)+: Choose one additional target of the same silhouette or smaller per (op) (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000011",
+      "name": "False Realm of the Fox Spirits",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "193"
+        },
+        "description": "<h2>False Realm of the Fox Spirits</h2>\n<h3>Rank 4</h3>\n<ul>\n<li><strong>Ikoma Recalls a Tale</strong> (Ancestral), <strong>Lost in the Isawa</strong></li>\n<li><strong>Mori</strong> (Fortunist), <strong>Paint the Spyglass Lens</strong> (Foreign)</li>\n</ul>\n<p>The kami are not bound so tightly to the Mortal Realm of Ningen-dō as mortals (even shugenja) are. They can see the ways in which the mortal and spiritual realms overlap and disconnect, and when beseeched by a shugenja, they can even draw visions of one realm into another, creating vast, nearly tangible falsehoods that fool all but the keenest observers.</p>\n<ul>\n<li><strong>Activation:</strong> As a Scheme action, you may make a TN 5 Theology (Air) check targeting one position at range 0–4.</li>\n<li><strong>Effects:</strong> If you succeed, you summon illusory terrain at the target position that extends out a number of range bands up to your Air Ring. A character unaware of the illusion’s false nature must resist with a TN 4 Survival check (Earth 5, Fire 2) to realize its falsehood at a distance. As the illusion has no substance, any physical contact reveals the lie (though the illusion stays in place). This effect persists for a number of rounds equal to your Air Ring plus your bonus successes (or that many minutes during a narrative or downtime scene).</li>\n</ul>\n<ul>\n<li><strong>New Opportunities</strong></li>\n<li><strong>Air (op)</strong>: This effect persists until the end of the scene instead.</li>\n<li><strong>Air (op)+</strong>: The illusory terrain you summon has one of the following terrain qualities per (op) spent this way: Dangerous, Entangling, or Obscuring (see Terrain, on page 267).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "5",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000012",
+      "name": "Mask of Wind",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "193"
+        },
+        "description": "<h2>Mask of Wind</h2>\n<h3>Rank 2</h3>\n<p>Paste of Moving Features (Alchemy), Furuyari's Face (Ancestral), Sadahako's Joke (Fortunist)</p>\n<p>Deception is not the way of the samurai, but it is often the way of expedience. The shugenja asks the air kami to mask their features and even their voice, causing onlookers to perceive a different person.</p>\n<ul>\n<li>Activation: As a Scheme and Support action, you may make a TN 3 Theology (Air) check targeting yourself.</li>\n<li>Effects: If you succeed, you augment yourself with an illusion that makes you look like someone else. An observer must resist with a TN 4 Sentiment check (Earth 5, Fire 2) to notice something amiss from your appearance alone; if they succeed, they may spend (op) to recognize you specifically. This effect persists until the end of the scene.</li>\n</ul>\n<ul>\n<li>Air (op): You may alter your voice to sound like someone else while the illusion is in place. An observer must resist with a TN 4 Sentiment check (Earth 5, Fire 2) to notice something amiss from the sound of your voice alone, and they may spend (op) if they succeed to recognize you specifically.</li>\n<li>Air (op) (op)+: This effect persists for one additional scene per (op) (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000013",
+      "name": "Summon Fog",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "195"
+        },
+        "description": "<h2>Summon Fog</h2>\n<ul>\n<li>Tendrils of mist spill forth from the character’s robes or armor, billowing out before them and wrapping them in an ominous haze.</li>\n<li>Activation: As a Support action, you may make a TN 2 Theology (Air) check targeting one position at range 0–4.</li>\n<li>Effects: If you succeed, you summon a fog bank that fills an area extending 1 range band around the target position. This fog bank counts as Obscuring terrain (see Terrain, on page 267).</li>\n<li>New Opportunities</li>\n<li>Air (op): You may choose a character instead of a position. The fog bank follows that character.</li>\n<li>Air (op)+: The fog bank encompasses 1 additional range band per (op) spent this way (to a maximum of range 6).</li>\n<li>Air (op) (op): The fog bank becomes a freezing ice storm, causing it to become Dangerous terrain as well.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000014",
+      "name": "Tempest of Air",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "195"
+        },
+        "description": "<h2>Tempest of Air</h2>\n<h3>Rank 1</h3>\n<p>Stormy Vial (Alchemy), Howl of Isora (Fortunist), Flap of the Wyvern's Wings (Foreign)</p>\n<p>The shugenja beseeches the air spirits to lash out all around them, calling buffeting winds to push foes backward or even hurl them to the ground.</p>\n<ul>\n<li><strong>Activation:</strong> As an Attack action, you may make a TN 3 Theology (Air) check targeting each character at range 2–3.</li>\n<li><strong>Effects:</strong> If you succeed, blasts of wind smite each target. Each target suffers supernatural damage equal to your Air Ring and must resist with a TN 4 Fitness check (Earth 5, Fire 2) or suffer the Disoriented condition.</li>\n</ul>\n<ul>\n<li><strong>Air (op)+:</strong> Each target who fails their Fitness check is also pushed 1 range band away from you per (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000015",
+      "name": "Token of Memory",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "195"
+        },
+        "description": "<h2>Token of Memory</h2>\n<ul>\n<li>After performing this invocation, the shugenja conjures an illusion from the air, a trick of the light captured in hand.</li>\n<li>Activation: As a Scheme action, you may make a TN 2 Theology (Air) check targeting one position at range 0–1.</li>\n<li>If you succeed, you summon an illusion of one inanimate object at the target position. The illusory object’s size is a silhouette of up to your bonus successes (beginning at 0, or a small handheld object). The item appears real, but it does not actually exist, and it cannot be used. Any character confronted with one of these illusions must resist with a TN 4 Artisan, Smithing, or Design check (Earth 5, Fire 2) using a Scholar skill approach to discern its illusory nature. The object persists until the end of the scene.</li>\n<li>New Opportunities</li>\n<li>Air (op): The object can appear to be a creature or person (though it does not move).</li>\n<li>Air (op)+: Summon one additional illusory object in range per (op) spent this way.</li>\n<li>Air (op) (op): Illusory objects you summon this way have mass, and they can be used as if they were real (though they are still inanimate, and thus do not move on their own). They still vanish when the effect ends.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000016",
+      "name": "Yari of Air",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "196"
+        },
+        "description": "<h2>Yari of Air</h2>\n<h3>Rank 1</h3>\n<ul>\n<li>Rod of the Wind Yari (Alchemy), Suijin's Spear (Fortunist), Halberd of the Djinn (Foreign)</li>\n<li>The shugenja adopts a spear-fighting stance, and a swirling, darting mass ripples into being in their hand. It weighs almost nothing and yet strikes with the force of a thunderclap.</li>\n<li>Activation: As a Support action, you may make a TN 1 Theology (Air) check to summon a spear made of swirling wind into your hand.</li>\n<li>Effects: If you succeed, you summon and ready a spear (see Weapons, on page 230) made of wind, visible only by a wispy outline. It has the Concealable quality. When you make an Attack or Support action check using the invisible spear, during Step 5: Choose Kept Dice, add a kept ⚙ set to an (op) result. The spear persists until the end of any turn in which it leaves your grip or until the end of the encounter, at which point it dissipates into wind.</li>\n</ul>\n<h3>New Opportunities</h3>\n<ul>\n<li>Air (op): The weapon you summon can be any kind of melee or ranged weapon instead of a spear.</li>\n<li>Air (op): After performing this action, you may immediately perform a Guard action using the weapon you summoned.</li>\n<li>Air (op) (op): You may summon a pair of weapons instead of a single weapon.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "1",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000017",
+      "name": "Armor of Earth",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "197"
+        },
+        "description": "<h2>Armor of Earth</h2>\n<ul>\n<li>Rank 1</li>\n<li>Hida's Shell (Ancestral), The Hand of Bishamon (Fortunist), Stone Shields (Foreign)</li>\n<li>Earth is the Element of protection, as evidenced by this invocation. When a shugenja performs this invocation, shards of stone fly toward them, fastening around them to clad them in rocky armor.</li>\n<li>Activation: As a Support action, you may make a TN 2 Theology (Earth) check targeting yourself.</li>\n<li>Effects: You summon and equip a suit of armor that grants physical resistance equal to your Earth Ring plus your bonus successes and has the Cumbersome and Wargear qualities. The armor persists for a number of rounds equal to your Earth Ring, at which point it tumbles to the ground as loose stones or dirt.</li>\n<li>New Opportunities</li>\n<li>Earth (op): This effect persists until the end of the scene instead.</li>\n<li>Earth (op): The armor you summon has the Durable quality.</li>\n<li>Earth (op) (op): The armor you summon has the Sacred quality.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000018",
+      "name": "Bind the Shadow",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "197"
+        },
+        "description": "<h2>Bind the Shadow</h2>\n<ul>\n<li>Rank 2<br />\nCircle of Salt and Ash (Alchemy), Earth Kami's Scorn (Elemental), Judgment of the Ten-Thousand (Fortunist)</li>\n<li>When confronting a Tainted being, the shugenja can call forth the pure spirit of a small sanctified object to weaken or even paralyze the monster.<br />\nActivation: As an Attack action, you may make a TN 3 Theology (Earth) check targeting one Otherworldly being at range 0–2.<br />\nEffects: If you succeed, crackling arcs of jade light smite and purify your target; it must resist with a TN 4 Fitness (Air 2, Water 5) check or suffer the Immobilized and Silenced conditions. This effect persists for a number of rounds equal to your Earth Ring.</li>\n<li>New Opportunities<br />\nEarth (op): Each target that fails its Fitness check to resist is bound until the end of the scene instead.<br />\nEarth (op) (op): Each target that fails its Fitness check to resist is bound for one year instead.<br />\nEarth (op) (op)+: Increase the TN of checks to resist this effect by 1 per (op) (op) spent this way.<br />\nEarth (op) (op) (op) (op): Each target that fails its Fitness check to resist is bound for one hundred years instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000019",
+      "name": "Caress of Earth",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "197"
+        },
+        "description": "<h2>Caress of Earth</h2>\n<ul>\n<li>Rank 1<br>\nSalve of the Stone Kami (Alchemy), Kaiu's Many Hands (Ancestral), Litany of Rebinding (Foreign)<br>\nThe shugenja draws their hand across a broken item, calling upon the spirits of metal, wood, or stone to restore and fortify it. Splintered planks knit back together, metal glows and writhes before solidifying into a form like new, and stone congeals as liquid before freezing back into form.</li>\n<li>Activation: As a Support action, you may make a TN 3 Theology (Earth) check targeting one item with the Damaged or Destroyed quality at range 0–1.</li>\n<li>Effects: If you succeed, you mend the target, and remove the Damaged or Destroyed quality from it.</li>\n<li>New Opportunities<br>\nEarth (op): One target gains the Durable quality until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000020",
+      "name": "Courage of Seven Thunders",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "197"
+        },
+        "description": "<h2>Courage of Seven Thunders</h2>\n<ul>\n<li>Rank 1: Akodo's Unflinching Stand (Ancestral), Unyielding Heart of Stone (Elemental), Walk into the Valley of Shadow (Foreign)</li>\n<li>At the dawn of the Empire, the Seven Thunders stood against Fu Leng, and their clash resounded from the Shadowlands to every corner of Rokugan. Earth is the Element of recollection, and from the earth kami, a shugenja can unearth fragments of the memories of these heroes from across the ages and impart them to their comrades in arms. This invocation does not erase fear, but it reminds a samurai of the legacy they must uphold—that others stood against the darkness before and prevailed.</li>\n<li>Activation: As a Support action, you may make a TN 2 Theology (Earth) check targeting a number of characters up to your Earth Ring at range 0–2.</li>\n<li>Effects: If you succeed, you augment each target with vigorous resolve; each target increases their compoisure by your Earth Ring. This effect persists until the end of the scene.</li>\n<li>New Opportunities</li>\n<li>Earth (op): If you succeed, each target also increases their endurance by your Earth Ring while this effect persists.</li>\n<li>Earth (op)+: Each target removes 1 ⎱ per (op) spent this way.</li>\n<li>Earth (op) (op): This technique targets each friendly character in range instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000021",
+      "name": "Earthquake",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "198"
+        },
+        "description": "<h2>Earthquake</h2>\n<ul>\n<li>Rank 4</li>\n<li>Akodo's Bellow (Ancestral), Swallowed by the Earth</li>\n<li>Kami (Elemental), Kyufoki's Hammer (Fortunist)</li>\n<li>Earthquakes are common in some parts of Rokugan, and they are rightly feared—whole villages have been known to vanish when the earth spirits are set to turmoil. To intentionally raise their ire is dangerous, but it is one of the most powerful techniques a shugenja can wield. Ripples shoot across the ground around them as the earth bucks and tumbles. The shugenja’s foes plummet into chasms of darkness and sulfur, entombed forever beneath the ground they once walked.</li>\n<li>Activation: As an Attack action, you may make a TN 5 Theology (Earth) check targeting each other character at range 0–3.</li>\n<li>Effects: If you succeed, you summon an earthquake that encompasses the range of the invocation in all directions around you. At the end of each of your turns, each target must resist with a TN 5 Fitness check (Air 3, Water 6) or suffer supernatural damage equal to twice your Earth Ring and suffer the Prone condition. The quake persists for a number of rounds equal to your Earth Ring.</li>\n<li>New Opportunities</li>\n<li>Earth (op): The quake persists until the end of the scene instead, or you may dispel it at any time before that as an action.</li>\n<li>Earth (op)+: If you succeed, you may summon a chasm beneath the feet of one character in range, causing that character and anyone at range 0–1 of them to fall (see Falling on page 269) a number of range bands equal to (op) spent this way into the bowels of the earth.</li>\n<li>Earth (op) (op)+: If you succeed, you may destroy one building or fortification in range per (op) (op) spent this way. Each character inside must resist with a TN 3 Fitness check (Air 1, Water 4) to escape by immediately moving outside or suffer a critical strike with severity 10.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "5",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000022",
+      "name": "Earth Becomes Sky",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "198"
+        },
+        "description": "<h2>Earth Becomes Sky</h2>\n<h3>Rank 3</h3>\n<ul>\n<li>Vial of Explosive Earth (Alchemy), The Fall of Yama-No-Kami (Fortunist), Throwing the Avalanche (Foreign)</li>\n<li>Activation: As an Attack action, you may make a TN 3 Theology (Earth) check targeting one character at range 1–3.</li>\n<li>Effects: If you succeed, you call forth a boulder to smite your target. The target suffers supernatural damage equal to your Earth Ring plus your bonus successes and must resist with a TN 3 Fitness check (Air 1, Water 4) or suffer the Prone condition. If your target is already suffering the Prone condition, double the damage they suffer this way.</li>\n</ul>\n<h3>New Opportunities</h3>\n<ul>\n<li>Earth (op): This effect persists until the end of the scene instead.</li>\n<li>Earth (op): If you succeed, you can also pass through solid earth as if it was water when you move. Further, you count as having supernatural resistance against damage from Earth invocations, Earth kihō, and Earth mahō equal to your Earth Ring.</li>\n<li>Earth (op) (op): The effects also apply to metal. You count as having physical resistance against damage from metal weapons equal to your Earth Ring.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000023",
+      "name": "Embrace of Kenro-Ji-Jin",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "198"
+        },
+        "description": "<h2>Embrace of Kenro-Ji-Jin</h2>\n<h3>Rank 2</h3>\n<ul>\n<li>Earth Spider's Salve (Alchemy), Hiruma's Passage (Ancestral), Climbing the Earth Dragon's Back (Elemental)</li>\n<li>Activation: As a Support action, you may make a TN 2 Theology (Earth) check targeting yourself.</li>\n<li>Effects: If you succeed, you augment yourself with the ability to stick to earthen surfaces, allowing you to traverse even vertical surfaces made of earth or stone. This effect persists for one round, plus additional rounds equal to your bonus successes (or one minute in narrative time).</li>\n</ul>\n<h3>New Opportunities</h3>\n<ul>\n<li>Earth (op): This effect persists until the end of the scene instead.</li>\n<li>Earth (op): If you succeed, you can also pass through solid earth as if it was water when you move. Further, you count as having supernatural resistance against damage from Earth invocations, Earth kihō, and Earth mahō equal to your Earth Ring.</li>\n<li>Earth (op) (op): The effects also apply to metal. You count as having physical resistance against damage from metal weapons equal to your Earth Ring.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000024",
+      "name": "Grasp of Earth",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "199"
+        },
+        "description": "<h2>Grasp of Earth</h2>\n<ul>\n<li>With a harsh chant and a gesture of seizing, the shugenja calls upon the earth spirits to lay hold of someone, dragging them down and containing them. Usually, this invocation causes the target’s legs to sink into ground that has turned into sucking mud, quicksand, or a hole beneath them and entraps them.</li>\n<li>Activation: As an Attack action, you may make a TN 2 Theology (Earth) check targeting one character at range 0–2.</li>\n<li>Effects: If you succeed, you summon cracks in the earth; each target suffers supernatural damage equal to your Earth Ring and must resist with a TN 4 Fitness check (Air 2, Water 5) or suffer the Prone condition.</li>\n</ul>\n<ul>\n<li>New Opportunities</li>\n<li>Earth (op): Each target that fails their Fitness check to resist also suffers the Immobilized condition.</li>\n<li>Earth (op): Reduce the damage each target suffers to 0.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000025",
+      "name": "Jade Strike",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "199"
+        },
+        "description": "<h2>Jade Strike</h2>\n<ul>\n<li>Jade, said to be the tears of Amaterasu, is a sacred stone. It is anathema to creatures of darkness, and it is one of the few substances capable of harming the greater minions of Fu Leng, the fallen Kami. A shugenja can mimic its effects by entreating earth kami to punish evil before them. The shugenja’s hand is enveloped in the sacred green glow, which strikes forth, withering creatures of evil and humans under the sway of the Shadowlands’ insidious power.</li>\n<li>Activation: As an Attack action, you may make a TN 2 Theology (Earth) check targeting one character at range 0–3.</li>\n<li>Effects: If you succeed and the target is an Other-worldly being, you smite and purify it with searing jade energy. It suffers a critical strike with severity equal to your Earth Ring plus your bonus successes. The creature may spend (op) (op) from its check to resist this critical strike to conceal that it has been affected, potentially concealing its Otherworldly nature (though it still suffers the effects that it successfully hid).</li>\n<li>If you succeed and your target is not an Other-worldly being, it suffers no ill effects.</li>\n<li>New Opportunities</li>\n<li>Earth (op): If you succeed, each target that is an Other-worldly being suffers the Silenced condition and cannot use mahō techniques until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000026",
+      "name": "Jurōjin’s Balm",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "199"
+        },
+        "description": "<h2>Jurōjin’s Balm</h2>\n<ul>\n<li>Rank 1: Lifeblood of the Earth Kami (Elemental), Jiro's Patience (Fortunist), Kiss of the Pond Woman (Foreign)</li>\n<li>Activation: As a Support action, you may make a TN 1 Theology (Earth) check targeting one character at range 0–1.</li>\n<li>Effects: If you succeed, you augment your target’s fortitude. The target reduces TN of all checks to resist the effects of poison and disease by 2 (to a minimum of 1). Additionally, the target cannot become intoxicated via imbibing alcohol. This effect persists until the end of the scene.</li>\n<li>New Opportunities:\n<ul>\n<li>Earth (op): If you succeed, your target also reduces the TN of all checks to resist mahō, the Defiled terrain quality, and the effects of Otherworldly beings by 2 (to a minimum of 1).</li>\n<li>Earth (op): This effect persists for twenty-four hours instead.</li>\n<li>Earth (op) (op): If you succeed, you also mend your target, removing any poisons currently afflicting them and the Dying condition, and any symptoms of diseases affecting them are suppressed until the end of the scene.</li>\n</ul>\n</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "1",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000027",
+      "name": "Power of the Earth Dragon",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "200"
+        },
+        "description": "<h2>Power of the Earth Dragon</h2>\n<ul>\n<li>Rank 3</li>\n<li>Fortifying Stone Vial (Alchemy), Osano-wo's Determination (Ancestral), Jurōjin's Verdant Blessing (Fortunist)</li>\n<li>The shugenja places a hand on the earth and a hand over the target’s heart. They recite a deep, reverberating prayer that thrums loudly through both, bringing the vitality and resilience of stone to the blessed.</li>\n<li>Activation: As a Support action, you may make a TN 4 Theology (Earth) check targeting one character at range 0–2.</li>\n<li>Effects: If you succeed, you augment your target's resilience, increasing their endurance by your Earth Ring plus your bonus successes. This effect persists for one round, plus additional rounds equal to your bonus successes. Each target cannot be affected by the Power of the Earth Dragon invocation again until the end of the scene.</li>\n<li>New Opportunities</li>\n<li>Earth (op): This effect persists until the end of the scene instead.</li>\n</ul>\n<ul>\n<li>Rise, Earth</li>\n<li>Rank 4</li>\n<li>Guardian of Earth (Ancestral), Sentinels of Mount Sengen (Fortunist), Clay Warriors (Foreign)</li>\n<li>An earth kami bursts from the ground, manifesting as a guardian creature of living rock with veins of sapphire, ruby, or even jade. Earth kami can be cantankerous, but they hate anything tainted and strive to obliterate them.</li>\n<li>Activation: As a Support action, you may make a TN 6 Theology (Earth) check targeting one position that includes a patch of dirt, clay, or stone at range 0–3.</li>\n<li>Effects: If you succeed, you summon a Manifest Earth Kami (see page 323) to fight for you, which bursts forth at the target position. The manifest earth kami obeys you for three rounds, plus additional rounds equal to your bonus successes, taking its turn immediately after yours each round. When this effect ends, it departs or, if stirred to particular ire, begins to follow its own directives (but will not attack you unless provoked).</li>\n<li>New Opportunities</li>\n<li>Earth (op)+: Increase the earth kami’s endurance by 2 per (op) spent this way.</li>\n<li>Earth (op): The earth kami’s stone fists unarmed attack profile gains the Sacred quality.</li>\n<li>Earth (op): The manifest earth kami creates a rumbling shockwave when it erupts. Each character at range 0–2 of the chosen position must resist with a TN 4 Fitness check (Air 2, Water 5) or suffer physical or supernatural damage equal to your Earth Ring and gain the Prone condition.</li>\n</ul>\n<ul>\n<li>Symbol of Earth</li>\n<li>Rank 2</li>\n<li>Mark of Crystal and Jade (Alchemy), Consecration of Ningen-do (Fortunist), Seal of the Pure Soil (Foreign)</li>\n<li>Earth spirits govern boundaries and domains. By inscribing an emblem in dirt, scratching it upon stone, or imprinting it upon sand, a shugenja can create a field that repels malevolent supernatural entities.</li>\n<li>Activation: As a Support action, you may make a TN 3 Theology (Earth) check targeting one position at range 0–1.</li>\n<li>Effects: If you succeed, you summon a symbol that purifies the area at the target position. Each time an Otherworldly being attempts to move closer to the target, it suffers supernatural damage equal to your Earth Ring and must make a TN 4 Fitness check (Air 2, Water 5) or suffer the Prone condition. This effect persists for one round, plus additional rounds equal to your bonus successes.</li>\n<li>New Opportunities</li>\n<li>Earth (op): This effect persists until the end of the scene instead.</li>\n<li>Earth (op) (op): This effect persists for twenty-four hours instead.</li>\n</ul>\n<ul>\n<li>Tetsubō of Earth</li>\n<li>Rank 1</li>\n<li>The Blacksmith's Hammer (",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "4",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000028",
+      "name": "Rise, Earth",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "200"
+        },
+        "description": "<h2>Rise, Earth</h2>\n<h3>Rank 4</h3>\n<ul>\n<li>Guardian of Earth (Ancestral), Sentinels of Mount Sengen (Fortunist), Clay Warriors (Foreign)</li>\n<li>An earth kami bursts from the ground, manifesting as a guardian creature of living rock with veins of sapphire, ruby, or even jade. Earth kami can be cantankerous, but they hate anything tainted and strive to obliterate them.</li>\n<li>Activation: As a Support action, you may make a TN 6 Theology (Earth) check targeting one position that includes a patch of dirt, clay, or stone at range 0–3.</li>\n<li>Effects: If you succeed, you summon a Manifest Earth Kami (see page 323) to fight for you, which bursts forth at the target position. The manifest earth kami obeys you for three rounds, plus additional rounds equal to your bonus successes, taking its turn immediately after yours each round. When this effect ends, it departs or, if stirred to particular ire, begins to follow its own directives (but will not attack you unless provoked).</li>\n</ul>\n<h3>New Opportunities</h3>\n<ul>\n<li>Earth (op)+: Increase the earth kami’s endurance by 2 per (op) spent this way.</li>\n<li>Earth (op): The earth kami’s stone fists unarmed attack profile gains the Sacred quality.</li>\n<li>Earth (op): The manifest earth kami creates a rumbling shockwave when it erupts. Each character at range 0–2 of the chosen position must resist with a TN 4 Fitness check (Air 2, Water 5) or suffer physical or supernatural damage equal to your Earth Ring and gain the Prone condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "6",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000029",
+      "name": "Symbol of Earth",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "200"
+        },
+        "description": "<h2>Symbol of Earth</h2>\n<p>Rank 2</p>\n<ul>\n<li>Mark of Crystal and Jade (Alchemy), Consecration of Ningen-do (Fortunist), Seal of the Pure Soil (Foreign)</li>\n<li>Earth spirits govern boundaries and domains. By inscribing an emblem in dirt, scratching it upon stone, or imprinting it upon sand, a shugenja can create a field that repels malevolent supernatural entities.</li>\n<li>Activation: As a Support action, you may make a TN 3 Theology (Earth) check targeting one position at range 0–1.</li>\n<li>Effects: If you succeed, you summon a symbol that purifies the area at the target position. Each time an Otherworldly being attempts to move closer to the target, it suffers supernatural damage equal to your Earth Ring and must make a TN 4 Fitness check (Air 2, Water 5) or suffer the Prone condition. This effect persists for one round, plus additional rounds equal to your bonus successes.</li>\n<li>New Opportunities</li>\n<li>Earth (op): This effect persists until the end of the scene instead.</li>\n<li>Earth (op) (op): This effect persists for twenty-four hours instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000030",
+      "name": "Tetsubō of Earth",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "200"
+        },
+        "description": "<h2>Tetsubō of Earth</h2>\n<h3>Rank 1</h3>\n<ul>\n<li>The Blacksmith's Hammer (Alchemy), Akemi's Pillar (Ancestral), Bishamon's Kanabo (Fortunist)</li>\n<li>The shugenja takes a steady stance and calls the spirits of earth. A pillar of stone rises from a nearby plot of soil, chunks cracking away to reveal the form of a studded club. Despite its great weight, the shugenja can heft it with ease, their might reinforced by the spirits of earth.</li>\n<li>Activation: As a Support action, you may make a TN 1 Theology (Earth) check targeting one position at range 0–1 that includes a patch of stone, dirt, or clay.</li>\n<li>Effects: If you succeed, you summon and ready a tetsubō (see Weapons, on page 230) made of stone. When you deal damage with an Attack action using this weapon, if a target is suffering the Prone condition, that target suffers additional damage equal to your Earth Ring. The tetsubō persists until the end of any turn in which it leaves your grip or until the end of the scene, at which point it collapses into dust and pebbles.</li>\n</ul>\n<ul>\n<li>Earth (op): The weapon you summon can be any kind of melee weapon instead. It has the Durable quality.</li>\n<li>Earth (op): After performing this action, you may immediately perform a Guard action using this weapon.</li>\n<li>Earth (op) (op): The weapon you summon has the Sacred quality (see page 241).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "1",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000031",
+      "name": "Tomb of Jade",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "201"
+        },
+        "description": "<h2>Tomb of Jade</h2>\n<ul>\n<li>Rank 5<br>\nMercy of the Sun Goddess (Ancestral), Embrace of the Stone Kami (Elemental), Amaterasu's Petrifying Gaze (Fortunist)</li>\n<li>One of the most powerful invocations of the spirits of earth, the rite the Kuni shugenja call the Tomb of Jade seals an entity suffused with the power of the Shadowlands within jade, transforming its blighted flesh into this sacred substance. However, if the prison of jade is cracked or broken, the spell weakens, and the being sealed within might be able to escape to wreak havoc once again. If it ever escapes, the shugenja who sealed it becomes aware of its escape, for the earth kami send a rumbling warning, shaking their current location to raise the alarm.</li>\n<li>Activation: As an Attack action, you may make a TN 6 Theology (Earth) check targeting one character at range 0–1.</li>\n<li>Effects: If you succeed and the target is a Tainted being, you call upon the earth kami to purify it, slowly transforming the target into jade. At the beginning of each of the target’s turns, reducing the value of each of its rings by 1. This effect persists for a number of rounds equal to your Earth Ring plus your bonus successes. If any of its rings are reduced to 0 in this manner, the target is turned entirely into jade—it can only be freed if the statue is damaged or destroyed. Because the statue is jade, it causes the area at range 0–2 around it to count as Hallowed (Earth) terrain (see page 267). If you succeed and your target is not a Tainted being, it suffers no ill effects.</li>\n<li>New Opportunities<br>\nEarth (op): This effect persists until the end of the scene instead.<br>\nEarth (op): At a later point, you may release the target from its jade prison as an action.<br>\nEarth (op)+: Choose one of the following conditions for each (op) spent this way: Dazed, Disoriented, Immobilized, or Prone. If the target is an Otherworldly being, it suffers the chosen conditions.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "6",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000032",
+      "name": "Wall of Earth",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "201"
+        },
+        "description": "<h2>Wall of Earth</h2>\n<ul>\n<li>Rank 1<br>Crystallizing Powder (Alchemy), Shape the Earth (Elemental), Sengen's Hands (Fortunist)</li>\n<li>Activation: As a Support action, you may make a TN 2 Theology (Earth) check targeting two positions at range 0–2.</li>\n<li>Effects: If you succeed, you summon a wall of earth between the two target points that is range 1 in thickness and range 3 in height (see the Range Bands section on page 265). Each character standing where the wall erupts must resist with a TN 2 Fitness check (Air 1, Water 3) or suffer physical damage equal to your Earth Ring and gain the Prone condition.</li>\n<li>New Opportunities<br>Earth (op): Choose one of the following terrain qualities: Dangerous, Entangling, or Obscuring (see Terrain, on page 267). The wall of earth counts as terrain with that quality.</li>\n<li>Earth (op)+: Treat the maximum range of this technique as 1 higher per (op) spent this way.</li>\n<li>Earth (op) (op): Instead of summoning a wall, you may summon an Outpost fortification (see page 276).</li>\n<li>Earth (op) (op) (op): Instead of summoning a wall, you may summon a Fortress fortification (see page 276).</li>\n<li>Earth (op) (op) (op) (op): Instead of summoning a wall, you may summon a Castle fortification (see page 276).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000033",
+      "name": "Armor of Radiance",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "202"
+        },
+        "description": "<h2>Armor of Radiance</h2>\n<ul>\n<li>Rank 2</li>\n<li>Oil of Awakening Flames (Alchemy), Armor of Osano-wo (Ancestral), Robes of the Ifrit (Foreign)</li>\n<li>By appealing to the fire kami that slumber within an object, a shugenja can turn a set of armor into a weapon. The fire kami’s creative energy expands rapidly as the incantation ends, causing shimmering radiance to burst forth into a halo of fire that encircles the armor and the wearer, searing their foes.</li>\n<li>Activation: As a Support action, you may make a TN 2 Theology (Fire) check targeting one set of armor at range 0–1.</li>\n<li>Effects: If you succeed, you augment the target armor, enveloping it in blinding radiance and searing heat (that miraculously do not affect the wearer). When a character at range 0–1 of the wearer begins their turn, they suffer the Burning and Dazed conditions. This effect persists for one round, plus additional rounds equal to your bonus successes.</li>\n<li>New Opportunities</li>\n<li>Fire (op): The armor gains the Wargear quality.</li>\n<li>Fire (op) (op): This effect persists until the end of the scene instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000034",
+      "name": "Biting Steel",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "202"
+        },
+        "description": "<h2>Biting Steel</h2>\n<ul>\n<li>Description: Flame, passion, and ingenuity transform ore into steel, and steel into a sword. So too, then, can a shugenja wield flame to transform a sword into an even greater weapon, one with an impossible edge that parts nearly any substance in its ferocity. By drawing a pattern along the naked blade, a shugenja can wake the spirits of fire still sleeping within it.</li>\n<li>Activation: As a Support action, you may make a TN 2 Theology (Fire) check targeting one weapon at range 0–1.</li>\n<li>Effects: If you succeed, you augment the weapon with blazing energy. Increase the weapon’s base damage by your Fire Ring. This effect persists for one round, plus additional rounds equal to your bonus successes.</li>\n</ul>\n<ul>\n<li>New Opportunities</li>\n<li>Fire (op): After performing this action, if you have the weapon you enhanced readied, you may immediately perform a Strike action with it.</li>\n<li>Fire (op)+: If you succeed, while the effect persists, increase the weapon’s deadliness by 1 per (op) spent this way.</li>\n<li>Fire (op) (op): This effect persists until the end of the scene instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000035",
+      "name": "Breath of the Fire Dragon",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "202"
+        },
+        "description": "<h2>Breath of the Fire Dragon</h2>\n<ul>\n<li>Rank 3</li>\n<li>Oni's Sake (Alchemy), Togashi's Radiant Breath (Ancestral), Sigh of the Desert Winds (Foreign)</li>\n<li>“Fire begins with breath,” or so the Isawa have long said. Some shugenja make this practice literal, calling upon the fire kami to ignite the air they exhale, transforming it into a gout of charring flame. Besides burning foes, it also tends to ignite nearby flammable objects.</li>\n<li>Activation: As an Attack action, you may make a TN 4 Theology (Fire) check targeting one character at range 0–3.</li>\n<li>Effects: If you succeed, you exhale searing flames that smite the target and those around them. The target suffers supernatural damage equal to your Fire Ring plus two times your bonus successes and the Burning condition. Each character at range 0–1 of the target must make a TN 3 Fitness check (Air 4, Water 1) or suffer supernatural damage equal to your Fire Ring.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "theology",
+        "difficulty": "4",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000036",
+      "name": "Extinguish",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "202"
+        },
+        "description": "<h2>Extinguish</h2>\n<ul>\n<li>Rank 1</li>\n<li>A shugenja who communes with the spirits of fire must learn to still them, lest the flames they conjure consume the shugenja. The trick is to stoke the kami's wrath briefly but intensely, so that it is exhausted that much more quickly. With a few words and a rising gesture, the shugenja inhales, drawing the flames to a searing glow, then exhales, letting them settle to embers.</li>\n<li>Activation: As a Support action, you may make a TN 3 Theology (Fire) check targeting up to three mundane sources of fire at range 0–3.</li>\n<li>Effects: If you succeed, you summon the fire kami’s energy into yourself. Extinguish each target flame and remove 1 fatigue per target source of fire extinguished this way.</li>\n<li>New Opportunities</li>\n<li>Fire (op) (op): If you succeed, you may also end all persistent effects from other Fire invocations and flame-based supernatural effects in the area.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000037",
+      "name": "Fukurokujin’s Wit",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "203"
+        },
+        "description": "<h2>Fukurokujin’s Wit</h2>\n<ul>\n<li>Rank 1: Wisdom of the Kitsu (Ancestral), Ignite the Mind's Candle (Elemental), Mantra of the Scholar Kings (Foreign)</li>\n<li>Shujenja are scholars at their heart, for their art is one of long hours of study and dedication to the refinement of the mind. Thus, many seek the blessing of Fukurokujin, keeper of knowledge and patron to scholars. A shugenja can call upon the guidance of this Fortune to sharpen their mind to a razor edge and vitalize their nerves.</li>\n<li>Activation: As a Support action, you may make a TN 1 Theology (Fire) check targeting yourself.</li>\n<li>Effects: If you succeed, you augment your target’s wits and cunning with the Fortune’s favor. When making checks, the target adds a kept ⎵ set to an (op) ⎱ result. This effect persists for one round, plus additional rounds equal to your bonus successes.</li>\n<li>New Opportunities</li>\n<li>Fire (op): You may target another character at range 0–2 instead of yourself.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "theology",
+        "difficulty": "1",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000038",
+      "name": "Fury of Osano-wo",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "203"
+        },
+        "description": "<h2>Fury of Osano-wo</h2>\n<h3>Rank 3</h3>\n<ul>\n<li>Orbs of Heavenly Fire (Alchemy), Hochiu's Final Stand (Ancestral), Reap the Sparking Seeds (Elemental)</li>\n</ul>\n<p>The Fortune of Fire and Thunder, Osano-wo is the mythical son of the Kami Hida. With a sudden, harsh incantation and downward gesture, a shugenja can conjure a bolt of lightning to strike foes with a powerful blast.</p>\n<ul>\n<li><strong>Activation:</strong> As an Attack action, you may make a TN 5 Theology (Fire) check targeting one character at range 0–4. This technique can only be performed outdoors. If the weather is already stormy, reduce the TN by 1.</li>\n<li><strong>Effects:</strong> If you succeed, you call forth lightning to smite your target. The target suffers supernatural damage equal to your Fire Ring plus three times your bonus successes. If a target is Incapacitated by this damage, they suffer a critical strike with severity of 8.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities</strong></li>\n<li>Fire (op): The target and any other characters at range 0–2 of the target must make a TN 3 Meditation check (Air 4, Water 1) or suffer the Dazed condition and strife equal to three times your Fire Ring.</li>\n<li>Fire (op)+: Increase the severity of any critical strikes inflicted as part of this action by 2 per (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "theology",
+        "difficulty": "5",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000039",
+      "name": "Katana of Fire",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "203"
+        },
+        "description": "<h2>Katana of Fire</h2>\n<ul>\n<li>Rank 1: Forging Fire Into Steel (Alchemy), Echo of Short (Ancestral), Sword of Osano-wo (Fortunist)</li>\n<li>Activation: As a Support action, you may make a TN 1 Theology (Fire) check to summon forth a blade of flame in your hand.</li>\n<li>Effects: If you succeed, you summon and ready a katana (see the Katana entry on page 232) made of fire. It has the Wargear quality. Damage inflicted with this weapon is supernatural rather than physical. The katana persists until the end of any turn in which it leaves your grip or until the end of the scene, at which point it scatters into embers, flashes into ash, or sputters out.</li>\n<li>New Opportunities</li>\n<ul>\n<li>Fire (op): The weapon you summon can be any kind of melee weapon instead of a katana.</li>\n<li>Fire (op): You may immediately perform a Strike action using the weapon you summoned.</li>\n<li>Fire (op): If you succeed, you may summon and immediately ready a pair of weapons instead of a single weapon.</li>\n<li>Fire (op): After you perform an Attack action with the weapon, each target must resist with a TN 3 Fitness check (Air 4, Water 1) or suffer the Burning condition.</li>\n</ul>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "theology",
+        "difficulty": "1",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000040",
+      "name": "Matsu's Battlecry",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "204"
+        },
+        "description": "<h2>Matsu's Battlecry</h2>\n<ul>\n<li><strong>Rank 1</strong><br>\nEmbracing the Flames (Elemental), Haze of Battle (Foreign), Hotei's Curse (Fortunist)<br>\nThe shugenja calls to kami of war and flame with an ancient chant, and the calamitous spirits of the battle-din roar back, inciting fury within nearby targets. This can drive foes to rash acts, or inspire a dread bravery in allies.<br>\nActivation: As a Scheme action, you may make a Theology (Fire) check targeting a number of characters up to your Fire Ring at range 0–2. The TN of this check is equal to the highest vigilance among your targets.<br>\nEffects: If you succeed, you summon an illusion of a hellish scene that only the target can perceive, pushing them toward rage. The target receives 1 strife plus additional strife equal to your bonus successes, and must resist with a TN 3 Meditation check (Air 4, Water 1) or immediately suffer the Enraged condition.</li>\n<li><strong>Ravenous Swarms</strong><br>\nRank 3<br>\nForgotten Fury of Asahina (Ancestral), Dancing Orbs of Flame (Elemental), Inari's Kitsunebi (Fortunist)<br>\nThe shugenja ignites a number of candles and hurls them into the air, and the flames leap forth, quickly devouring the tallow before subsiding into smaller fiery motes. These settle around the shugenja’s shoulders or near their feet, sputtering cheerily and spitting out sparks that seek to spread and multiply. In addition to providing a (dangerous) source of light, these flames can also leap onto anyone the shugenja attacks.<br>\nActivation: As a Support action, you may make a TN 3 Theology (Fire) check targeting one position containing a flammable object at range 0–1. The object is consumed by flames.<br>\nEffects: If you succeed, you summon a number of fiery motes equal to your Fire Ring plus the silhouette of the object consumed. These motes follow you, periodically setting fire to nearby objects. When you succeed at an Attack action, you may spend a number of motes up to your school rank to add one bonus success per mote spent. The motes persist until the end of the scene.<br>\nIf you succeed, after you perform a Fire invocation, you summon one additional fiery mote. This effect persists until the end of the scene.<br>\nNew Opportunities:<br>\n- Fire (op): The fiery motes only set nearby objects on fire when you will them to do so, rather than haphazardly.<br>\n- Fire (op): When you defend against damage, you may spend a number of motes up to your Fire Ring to reduce the damage you suffer by 1 for each mote spent this way.</li>\n<li><strong>Rise, Flame</strong><br>\nRank 4<br>\nBulb of Incarnation (Alchemy), Guardian of Fire (Ancestral), Uzume's Handmaiden (Fortunist)<br>\nA humanoid form wrought of flame, garbed in a flowing robe of cinder and smoke, with hair of trailing sparks, a manifest fire kami is an alluring and terrible sight to behold. Where its gaze passes, flames arise, and only ash remains in its wake.<br>\nActivation: As a Support action, you may make a TN 6 Theology (Fire) check targeting one position containing flammable material at range 0–3.<br>\nEffects: If you succeed, you summon a Manifest Fire Kami (see page 324). It consumes the flammable material, appearing in its position. It obeys you for two rounds, plus additional rounds equal to your bonus successes, taking its turn immediately after yours each round. When this effect ends, it departs or, if stirred to anger, begins to follow its own directives (ignoring you unless provoked).<br>\nNew Opportunities:<br>\n- Fire (op): The fire kami bursts forth in a pillar of searing flame. Each character at range 0–2 of the chosen position must resist with a TN 4 Fitness check (Air 5, Water 2) or suffer the Burning",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "theology",
+        "difficulty": "@T:vigilance|max",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000041",
+      "name": "Ravenous Swarms",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "204"
+        },
+        "description": "<h2>Ravenous Swarms</h2>\n<h3>Rank 3</h3>\n<p>Forgotten Fury of Asahina (Ancestral), Dancing Orbs of Flame (Elemental), Inari's Kitsunebi (Fortunist)</p>\n<p>The shugenja ignites a number of candles and hurls them into the air, and the flames leap forth, quickly devouring the tallow before subsiding into smaller fiery motes. These settle around the shugenja’s shoulders or near their feet, sputtering cheerily and spitting out sparks that seek to spread and multiply. In addition to providing a (dangerous) source of light, these flames can also leap onto anyone the shugenja attacks.</p>\n<ul>\n<li>Activation: As a Support action, you may make a TN 3 Theology (Fire) check targeting one position containing a flammable object at range 0–1. The object is consumed by flames.</li>\n<li>Effects: If you succeed, you summon a number of fiery motes equal to your Fire Ring plus the silhouette of the object consumed. These motes follow you, periodically setting fire to nearby objects. When you succeed at an Attack action, you may spend a number of motes up to your school rank to add one bonus success per mote spent. The motes persist until the end of the scene.</li>\n<li>If you succeed, after you perform a Fire invocation, you summon one additional fiery mote. This effect persists until the end of the scene.</li>\n</ul>\n<h3>New Opportunities</h3>\n<ul>\n<li>Fire (op): The fiery motes only set nearby objects on fire when you will them to do so, rather than haphazardly.</li>\n<li>Fire (op): When you defend against damage, you may spend a number of motes up to your Fire Ring to reduce the damage you suffer by 1 for each mote spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000042",
+      "name": "Rise, Flame",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "204"
+        },
+        "description": "<h2>Rise, Flame</h2>\n<h3>Rank 4</h3>\n<p>A humanoid form wrought of flame, garbed in a flowing robe of cinder and smoke, with hair of trailing sparks, a manifest fire kami is an alluring and terrible sight to behold. Where its gaze passes, flames arise, and only ash remains in its wake.</p>\n<ul>\n<li><strong>Activation:</strong> As a Support action, you may make a TN 6 Theology (Fire) check targeting one position containing flammable material at range 0–3.</li>\n<li><strong>Effects:</strong> If you succeed, you summon a Manifest Fire Kami (see page 324). It consumes the flammable material, appearing in its position. It obeys you for two rounds, plus additional rounds equal to your bonus successes, taking its turn immediately after yours each round. When this effect ends, it departs or, if stirred to anger, begins to follow its own directives (ignoring you unless provoked).</li>\n</ul>\n<ul>\n<li><strong>New Opportunities:</strong></li>\n<li>Fire (op): The fire kami bursts forth in a pillar of searing flame. Each character at range 0–2 of the chosen position must resist with a TN 4 Fitness check (Air 5, Water 2) or suffer the Burning and Dazed conditions.</li>\n<li>Fire (op)+: The fire kami consumes one additional source of flammable material in range per (op) spent this way. Increase its endurance by the silhouettes of all consumed objects.</li>\n<li>Fire (op): When the fire kami’s fatigue exceeds its endurance, it detonates into a column of flame that sears the earth and the sky. Each character at range 0–3 of it must resist with a TN 5 Fitness check (Air 6, Water 3) or suffer supernatural damage equal to two times your Fire Ring and suffer the Burning and Dazed conditions.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "theology",
+        "difficulty": "6",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000043",
+      "name": "The Cleansing Fire",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "204"
+        },
+        "description": "<h2>The Cleansing Fire</h2>\n<h3>Rank 1</h3>\n<ul>\n<li>Anointment of the Fire Dragon (Alchemy), Merciful Rage of Isawa (Ancestral), The Peace of Osano-wo (Fortunist)</li>\n<li>With a roared incantation, the shugenja spreads their hands wide and a circle of fire spills forth, rippling across the ground and searing everything in its path. These flames are indiscriminate, hungrily lapping at friend, foe, and inanimate object alike.</li>\n<li>Activation: As an Attack action, you may make a TN 1 Theology (Fire) check targeting each other character at range 0–2.</li>\n<li>Effects: If you succeed, you smite each target with a roaring burst of fire. Each target suffers the Dazed condition and must resist with a TN 3 Fitness check (Air 4, Water 1) or suffer supernatural damage equal to your Fire Ring plus their shortfall and gain the Burning condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "theology",
+        "difficulty": "1",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000044",
+      "name": "The Fires from Within",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "205"
+        },
+        "description": "<h2>The Fires from Within</h2>\n<ul>\n<li><strong>Rank 1</strong>: The Illuminating Light of Asako (Ancestral), The Riddle of Hotei (Fortunist), Extending the Fire-Heart (Foreign)<br>The incantation to call fire is guttural and raw. Even as the words echo, the shugenja’s hands snap open, and motes of flame trail from their fingertips, searing their way toward the objects of the shugenja’s ire. If the shugenja has the strength of will to maintain their focus, they can direct the motes with amazing precision and burn tiny, searing holes in their targets. However, if the shugenja lets their heart swell with wrath or fury, the motes bloom into tiny infernos that seek to consume anything they hit and leave only ash.<br>Activation: As an Attack action, you may make a TN 3 Theology (Fire) check targeting a number of characters up to your Fire Ring at range 1–3.<br>Effects: If you succeed, you smite each target with a stream of fire. Each target suffers supernatural damage equal to your Fire Ring plus your bonus successes.<br><strong>New Opportunities</strong>: Fire (op)+: Treat the maximum range of this technique as 1 higher per (op) spent this way.</li>\n<li><strong>The Soul’s Blade</strong> (Rank 5): Talon of the Fire Dragon (Alchemy), Heavenly Petal of the Chrysanthemum (Ancestral), Mountain Splitter (Foreign)<br>The shugenja extends a hand toward the sky and makes a dangerous appeal, calling for a heavenly weapon with which to vanquish their enemy. If the invocation is performed properly and the shugenja’s cause is judged worthy, the sky cracks and a thunderbolt descends from the heavens, blasting through anything in its path. It lands writhing in the shugenja's hand, forming a weapon that appears in the shape pictured in the shugenja's mind. Be it the hide of a great beast or the sorcerous ward of a mahō-tsukai, there is nothing this blade of judgment cannot pierce.<br>Activation: As a Support action, you may make a TN 4 Theology (Fire) check to summon forth a blade of pure energy into your hand.<br>Effects: If you succeed, you summon and ready a katana or naginata (see Weapons, on page 230) made of searing, crackling energy. Attacks made with this weapon inflict supernatural damage and ignore all forms of resistance. The weapon persists until it leaves your grip or until the end of the scene, at which point it flickers out.<br><strong>New Opportunities</strong>: Fire (op): The weapon you summon can be any kind of melee weapon instead of a katana or naginata.<br>Fire (op): You may immediately perform a Strike action using the weapon you summoned.<br>Fire (op): If you succeed, you may summon and immediately ready a pair of weapons instead of a single weapon.<br>Fire (op): One character you choose other than yourself may wield the weapon.<br>Fire (op) (op): After you perform an Attack action with the weapon, each target must resist with a TN 4 Fitness check (Air 5, Water 2) or suffer the Dazed condition.</li>\n<li><strong>Wall of Fire</strong> (Rank 2): Igniting Powder of Combusting Ash (Alchemy), Chasing Osano-wo (Fortunist), Walls of the Fire Palace (Foreign)<br>A roiling wall of fire sends a very specific message: approach and die in a manner most awful. Shugenja who commune with fire spirits can summon forth such blazing warnings with relative ease, brushing oil or powder across the ground and then igniting it with a word of invocation. The wall of fire sparks to life with great force and extends up a few yards for several moments, but it maintains its intensity only so long as it has fuel.<br>Activation: As an Attack and Support action, you may make a TN 4 Theology (Fire) check targeting two positions at range 2–4.<br>Effects: If you succeed, you summon a wall",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000045",
+      "name": "The Soul’s Blade",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "205"
+        },
+        "description": "<h2>The Soul’s Blade</h2>\n<h3>Rank 5</h3>\n<ul>\n<li>Talon of the Fire Dragon (Alchemy), Heavenly Petal of the Chrysanthemum (Ancestral), Mountain Splitter (Foreign)</li>\n<li>The shugenja extends a hand toward the sky and makes a dangerous appeal, calling for a heavenly weapon with which to vanquish their enemy. If the invocation is performed properly and the shugenja’s cause is judged worthy, the sky cracks and a thunderbolt descends from the heavens, blasting through anything in its path. It lands writhing in the shugenja's hand, forming a weapon that appears in the shape pictured in the shugenja's mind. Be it the hide of a great beast or the sorcerous ward of a mahō-tsukai, there is nothing this blade of judgment cannot pierce.</li>\n<li>Activation: As a Support action, you may make a TN 4 Theology (Fire) check to summon forth a blade of pure energy into your hand.</li>\n<li>Effects: If you succeed, you summon and ready a katana or naginata (see Weapons, on page 230) made of searing, crackling energy. Attacks made with this weapon inflict supernatural damage and ignore all forms of resistance. The weapon persists until it leaves your grip or until the end of the scene, at which point it flickers out.</li>\n</ul>\n<ul>\n<li>New Opportunities</li>\n<li>Fire (op): The weapon you summon can be any kind of melee weapon instead of a katana or naginata.</li>\n<li>Fire (op): You may immediately perform a Strike action using the weapon you summoned.</li>\n<li>Fire (op): If you succeed, you may summon and immediately ready a pair of weapons instead of a single weapon.</li>\n<li>Fire (op): One character you choose other than yourself may wield the weapon.</li>\n<li>Fire (op) (op): After you perform an Attack action with the weapon, each target must resist with a TN 4 Fitness check (Air 5, Water 2) or suffer the Dazed condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "theology",
+        "difficulty": "4",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000046",
+      "name": "Wall of Fire",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "205"
+        },
+        "description": "<h2>Wall of Fire</h2>\n<h3>Rank 2</h3>\n<ul>\n<li>Igniting Powder of Combusting Ash (Alchemy), Chasing Osano-wo (Fortunist), Walls of the Fire Palace (Foreign)</li>\n</ul>\n<p>A roiling wall of fire sends a very specific message: approach and die in a manner most awful. Shugenja who commune with fire spirits can summon forth such blazing warnings with relative ease, brushing oil or powder across the ground and then igniting it with a word of invocation. The wall of fire sparks to life with great force and extends up a few yards for several moments, but it maintains its intensity only so long as it has fuel.</p>\n<ul>\n<li><strong>Activation:</strong> As an Attack and Support action, you may make a TN 4 Theology (Fire) check targeting two positions at range 2–4.</li>\n<li><strong>Effects:</strong> If you succeed, you summon a wall of flame between the target points that extends to range 1 in thickness and range 3 in height (see Range Bands, on page 265); this area counts as Dangerous terrain (see Terrain, on page 267). This effect persists for one round plus additional rounds equal to your bonus successes. Any character standing where the wall erupts suffers the Dazed condition and must resist with a TN 2 Fitness check (Air 3, Water 1) or suffer supernatural damage equal to your Fire Ring and the Burning condition (see page 272).</li>\n</ul>\n<ul>\n<li><strong>New Opportunities</strong></li>\n<li>Fire (op): The wall of fire counts as terrain with one of the following qualities: Entangling or Obscuring (see Terrain, on page 267).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "theology",
+        "difficulty": "4",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000047",
+      "name": "Wings of the Phoenix",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "206"
+        },
+        "description": "<h2>Wings of the Phoenix</h2>\n<ul>\n<li>Rank 4: Isawa's Ascent (Ancestral), Flameform Transmutation (Alchemy), Hachiman's Fiery Steed (Fortunist)</li>\n<li>The shugenja leaps into the air, and fiery wings burst forth behind them, carrying them into the sky. Small motes of flame fall in the wake of the shugenja’s passing, igniting the ground cover before fading into delicate feathers of ash.</li>\n<li>Activation: As a Support action, you may make a TN 4 Theology (Fire) check targeting yourself.</li>\n<li>Effects: If you succeed, augment yourself with wings of flame that carry you aloft. These flames do not harm you. In addition to being able to move vertically and horizontally freely, you ignore the effects of terrain while flying. This effect persists one round, plus additional rounds equal to your bonus successes. While this effect persists, any terrain you fly over at range 0–3 is ignited and becomes Dangerous terrain (see Terrain, on page 267) until the beginning of your next turn; each character within that area suffers the Dazed condition, and they must resist with a TN 2 Fitness check (Air 3, Water 1) or suffer supernatural damage equal to your Fire Ring and gain the Burning condition (see page 272).</li>\n<li>New Opportunities</li>\n<li>Fire (op)+: While flying, you may safely carry up to one additional willing character at range 0–2 with you per (op) spent this way.</li>\n<li>Fire (op) (op): This effect persists until the end of the scene instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "theology",
+        "difficulty": "4",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000048",
+      "name": "Bō of Water",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "207"
+        },
+        "description": "<h2>Bō of Water</h2>\n<ul>\n<li>Rank 1</li>\n<li>Kaimetsu-o's Paddle (Ancestral), Ebisu's Walking Stick (Fortunist), Staff of the Sorcerer (Foreign)</li>\n<li>A shugenja can invoke the spirits in a nearby pool or stream to take the form of a weapon. This weapon can change form at the bearer’s will, swirling from a staff into a blade in the blink of an eye, and back again.</li>\n<li>Activation: As a Support action, you may make a TN 1 Theology (Water) check to summon forth a staff made of water from a nearby pool, stream, or airborne vapor.</li>\n<li>Effects: If you succeed, you summon and ready a staff (see Weapons, on page 230) made of water. It has the Snaring quality. At the end of each round, you may transform this weapon into a different melee weapon. The bō persists until the end of any turn in which it leaves your grip or until the end of the scene, at which point it splashes to the ground in a puddle.</li>\n<li>New Opportunities</li>\n<li>Water (op): The weapon you summon can be any kind of melee or ranged weapon instead of a staff.</li>\n<li>Water (op): You may immediately perform a Strike action using the weapon you summoned.</li>\n<li>Water (op): When performing an Attack action with this weapon, treat its minimum or maximum range as 1 higher or lower.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "theology",
+        "difficulty": "1",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000049",
+      "name": "Dance of Seasons",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "207"
+        },
+        "description": "<h2>Dance of Seasons</h2>\n<h3>Rank 2</h3>\n<ul>\n<li><strong>Salts of Seasonal Change</strong> (Alchemist), <strong>Kuriko's Earnest Wish</strong> (Ancestral), <strong>Spinning Uzume's Wheel</strong> (Fortunist)</li>\n<li>A skilled shugenja can entreat the kami to change the world around them through a rite that seems as much performance as invocation. As the shugenja dances, the water kami mirror the movements and shift the moisture around them from water to ice to vapor and back again. A skilled shugenja might be able to use this to entrap the unwary, drenching them in the waters of a summer storm before plunging them into the frozen heart of winter.</li>\n<li><strong>Activation:</strong> As a Movement and Support action, you may make a TN 3 Theology (Water) check targeting one position containing a source of water (such as a pool, a river, snow or ice, or even mist) at range 1–3.</li>\n<li><strong>Effects:</strong> If you succeed, you summon the essence of the seasons to freeze, thaw, or evaporate any amount of water at range 0–1 of the target position. If you transform water into ice, it becomes solid, Dangerous terrain (see Terrain, on page 267). If you transform water into vapor, it creates a fog, which is Obscuring terrain. If you transform water into mud, it becomes Entangling terrain. Water within living beings remains unaffected, as the kami do not wish to ruin the elegant scene with grotesque results.</li>\n<li><strong>New Opportunities:</strong></li>\n<li>Water (op)+: Choose one additional target position per (op) spent this way.</li>\n<li>Water (op)+: If you succeed, you may attempt to encase in ice one character in the affected area per (op) spent this way. Each of these characters must resist with a TN 3 Fitness check (Earth 1, Fire 4) or suffer the Immobilized and Disoriented conditions.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000050",
+      "name": "Dominion of Suijin",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "207"
+        },
+        "description": "<h2>Dominion of Suijin</h2>\n<ul>\n<li>Rank 1</li>\n<li>Iuchi's Window (Ancestral), All Rivers Meet Again (Elemental), Spies of the Garden Pond (Foreign)</li>\n<li>Activation: As a Movement and Scheme action, you may make a TN 2 Theology (Water) check targeting one position containing a body of water at range 0–1.</li>\n<li>Effects: If you succeed, you scry in the ripples. The target body of water displays an image of a second body of water of your choice and its surroundings as if the onlooker were just below the surface. This second body of water must be at range 0–6 of the target position, and you must have concrete knowledge of a specific body of water to use it this way.</li>\n<li>New Opportunities</li>\n<li>Water (op): In addition to being able to see out the other pool of water, you can hear (very muffled) noises.</li>\n<li>Water (op): Only you can see the vision; to others, the pool of water shows no images.</li>\n<li>Water (op): The location you see can be any distance from you (but must still be familiar).</li>\n<li>Water (op) (op): You may use clouds, fog banks, snow, or sheets of ice as bodies of water for this technique.</li>\n<li>Water (op) (op) (op): In addition to being able to see out of the other body of water, you and a number of other characters up to your Water Ring may pass through the temporary portal you have created to the other location. The trip is always one way for a given use of the technique, and you always arrive soaked.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000051",
+      "name": "Ever-Changing Waves",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "208"
+        },
+        "description": "<h2>Ever-Changing Waves</h2>\n<ul>\n<li>Rank 5</li>\n<li>Elixir of Transmuting Form (Alchemy), Blessing of Megumi (Fortunist), Myriadic Forms (Foreign)</li>\n<li>A shugenja might have lived as a bird, a wolf, a plant, and humans of various stations before being born into their current position in the Celestial Order. All of these existences are separate, and yet they are inexorably bound. By following the bond backward, a shugenja adept in communing with the water kami can reshape their own flesh to mirror a past form—albeit briefly—transforming into a natural animal or supernatural beast for a short time.</li>\n<li>Activation: As a Support action, you may make a TN 4 Theology (Water) check targeting yourself.</li>\n<li>Effects: If you succeed, you augment your body, transforming it into that of a natural animal (see page 325) of silhouette 2. While in this form, you use its ring values, derived attributes, abilities, and advantages with the physical or social type, but you use your own skill ranks and advantages with the mental or spiritual type. This effect persists until you choose to end it or are rendered unconscious, at which point your form reverts to its original state. Do not remove any fatigue or strife you have suffered in the alternate form when you return to your original; if this causes your fatigue to exceed your endurance (or your strife to exceed your composure) when it did not in the alternate form, you suffer a critical strike with severity 5 (or you become Compromised, in the case of strife).</li>\n<li>New Opportunities</li>\n<li>Water (op): If you succeed, you can transform your body into that of a different sentient species.</li>\n<li>Water (op): If you succeed, you can transform your body into that of an Otherworldly being, such as a supernatural beast.</li>\n<li>Water (op)+: You may choose a new form of silhouette 1 higher or lower per (op) spent this way (to a minimum of 0 or a maximum of 6).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "theology",
+        "difficulty": "4",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000052",
+      "name": "Hands of the Tides",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "208"
+        },
+        "description": "<h2>Hands of the Tides</h2>\n<h3>Rank 3</h3>\n<ul>\n<li>Tracing the Lifeblood (Alchemy), Ikoma Tumbles with Akodo (Ancestral), Suijin's Command (Fortunist)</li>\n<li>Water binds all living beings, and by communing deeply with the vital spirits that flow through everything, a shugenja can master many arts. Using this esoteric invocation, a shugenja can exchange the positions of living beings near one another, throw enemies off-balance, or put allies in a position of advantage. While the Elemental Masters have been known to debate whether the water spirits shift the targets or reshape the world around them, the effect of the invocation—shuffling the positions of a number of individuals in a small radius as the shugenja sees fit—is easy to understand, if hard to comprehend.</li>\n<li>Activation: As a Movement action, you may make a TN 5 Theology (Water) check targeting yourself and a number of other characters up to your Water Ring at range 1–4.</li>\n<li>Effects: If you succeed, you summon the targets. You may cause them to exchange their positions in space. Note that at the end, each target’s original position must be occupied by a target, and each target must occupy a position. If you succeed, each target receives 2 strife.</li>\n<li>New Opportunities:\n<ul>\n<li>Water (op)+: If you succeed, you may choose a new stance for one target per (op) spent this way.</li>\n</ul>\n</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "theology",
+        "difficulty": "5",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000053",
+      "name": "Heart of the Water Dragon",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "208"
+        },
+        "description": "<h2>Heart of the Water Dragon</h2>\n<ul>\n<li>Activation: As a Support action, you may make a TN 3 Theology (Water) check targeting one character at range 0–2.</li>\n<li>Effects: If you succeed, you augment your target with the spiritual fluidity of water. The target gains supernatural resistance equal to your Water Ring and removes 1 fatigue at the end of each round. This effect persists for one round, plus additional rounds equal to your bonus successes. Each target cannot be affected by the Heart of the Water Dragon invocation again until the end of the scene.</li>\n<li>New Opportunities:\n<ul>\n<li>Water (op) (op): When the target succeeds on a check to resist the effect of a kihō, mahō, or invocation technique, the character who used the technique must also make the check to resist that effect, or suffer the effect themself.</li>\n</ul>\n</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000054",
+      "name": "Inari’s Blessing",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "209"
+        },
+        "description": "<h2>Inari’s Blessing</h2>\n<ul>\n<li>Rank 1: Miya's Gift (Ancestral), Feast of the Water Kami (Elemental), Oasis in the Desert (Foreign)</li>\n<li>Water is life, and water kami can provide life-giving gifts of food and drink even from the most desolate environments. After the shugenja performs the invocation, the land nearby flourishes with life, delivering food to the shugenja, and pure water springs from the ground. This food is simple and nourishing, and it can be cooked or even packed away as rations for later if needed.</li>\n<li>Activation: As a Support action, you may make a TN 2 Theology (Water) check targeting one position at range 1.</li>\n<li>Effects: If you succeed, you summon a meal at the target position that can feed a number of people up to your Water Ring plus your bonus successes.</li>\n<li>New Opportunities</li>\n<li>Water (op): The meal is particularly fortifying. Any character who partakes of it during downtime removes fatigue equal to your Water Ring.</li>\n<li>Water (op)+: The meal can feed a number of people up to your Water Ring plus your bonus successes times the (op) spent this way instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000055",
+      "name": "Path to Inner Peace",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "209"
+        },
+        "description": "<h2>Path to Inner Peace</h2>\n<h3>Rank 1</h3>\n<ul>\n<li>Jurōjin's Kiss (Alchemy), Trancendence of Asako (Ancestral), Touch of the Hot Springs (Elemental)</li>\n<li>By communing with the water kami that dwell within the body, a shugenja can right imbalances and correct the flow of ki, speeding the recovery of stamina dramatically.</li>\n<li>Activation: As a Support action, you may make a TN 2 Theology (Water) check targeting yourself or another character at range 0–2.</li>\n<li>Effects: If you succeed, you mend your target’s exhausted muscles. The target removes fatigue equal to your Water Ring plus your bonus successes.</li>\n<li>Each target cannot be affected by the Path to Inner Peace invocation again until the end of the scene.</li>\n</ul>\n<ul>\n<li>Water (op): Choose one of the following conditions: Bleeding, Dazed, Disoriented, or Lightly Wounded. Remove that condition from each target.</li>\n<li>Water (op): Your target also removes strife equal to your bonus successes.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000056",
+      "name": "Reflections of P’an Ku",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "209"
+        },
+        "description": "<h2>Reflections of P’an Ku</h2>\n<ul>\n<li>Water kami are notoriously covetous, and things lost to the depths rarely resurface. Still, this avarice can offer advantages. A shugenja learned in this art can call forth water spirits to recognize an item by submerging it in sacred water. The water spirits often provide cryptic answers, but they usually can grant the shugenja a good idea of an item’s composition, whether it possesses any mystical properties, and the general disposition of these traits.</li>\n<li>Activation: As a Scheme action, you may make a TN 2 Theology (Water) check targeting one item at range 0–1.</li>\n<li>Effects: If you succeed, you scry to uncover all properties an item possesses, including its name, maker, mundane qualities, magical properties, curses, and sealed techniques (see Nemuranai on page 307).</li>\n</ul>\n<ul>\n<li>New Opportunities</li>\n<li>Water (op): Gain knowledge of the item’s origin in broad strokes, such as where it was forged, the clan of the individual who has carried it the longest, or a similar piece of information.</li>\n<li>Water (op): You may target a character instead of an object. If you succeed, you identify one invocation, kihō, mahō, or supernatural ability or item possessed by that person, along with its name and general qualities.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000057",
+      "name": "Rise, Water",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "210"
+        },
+        "description": "<h2>Rise, Water</h2>\n<ul>\n<li>Rank 4</li>\n<li>Wine of Invocation (Alchemy), Guardian of Water (Ancestral), Isora's Attendant (Fortunist)</li>\n<li>Water kami are nurturing, for water fosters all life. However, like all nature spirits, they are beings of destruction and creation; calling a water kami to take manifest form is to summon a potent force indeed. A manifest water kami often takes a humanoid form, rising from a nearby lake, river, or ocean and carried aloft on a crushing wave. As water splits into rivulets, so a manifest water kami can split into multiple smaller beings, each one surging forth to devastate the foe.</li>\n<li>Activation: As a Support action, you may make a TN 6 Theology (Water) check targeting one position containing a large quantity of water at range 0–3.</li>\n<li>Effects: If you succeed, you summon a Manifest Water Kami (see page 324) to fight for you. It appears from the targeted body of water and obeys you for two rounds, plus additional rounds equal to your bonus successes, taking its turn immediately after yours each round. When this effect ends, the manifest water kami departs or, if stirred to particular ire, begins to follow its own directives. If it begins to act independently, it does not attack the shugenja who summoned it unless provoked.</li>\n<li>New Opportunities</li>\n<li>Water (op): The manifest water kami attempts to swallow up anyone inside it; each such character must resist with a TN 4 Fitness check (Earth 2, Fire 5) or be pulled into the water kami and begin suffocating (see Suffocation, on page 269). As an action, a character who failed to resist may make a TN 3 Fitness check (Earth 1, Fire 4) to escape this watery prison.</li>\n<li>Water (op): Upon arrival, the water kami may move a number of range bands up to your Water Ring.</li>\n<li>Water (op)+: You split the manifest water kami into a number of smaller manifest water kami equal to (op) spent this way. Each one has an endurance equal to 12 divided by the number of (op) spent this way (rounded up).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "theology",
+        "difficulty": "6",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000058",
+      "name": "Stride the Waves",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "211"
+        },
+        "description": "<h2>Stride the Waves</h2>\n<ul>\n<li>Rank 2</li>\n<li>Elixir of Cork Properties (Alchemy), Kaimetsu-O's Road (Ancestral), Walking the Water Garden (Fortunist)</li>\n<li>Guided by the spirits of water, the character can slide effortlessly across the surface of a stormy sea, ride a current of water out of the ocean, or even plunge beneath its depths, breathing the brine as though it were air.</li>\n<li>Activation: As a Support action, you may make a TN 2 Theology (Water) check targeting one character at range 0–2.</li>\n<li>Effects: If you succeed, you summon a buoyant current that sweeps the target along. Even if they normally cannot swim, the target can control where they move as they please along the surface of the water or within it. The target ignores any negative effects of terrain while in the water and does not suffocate while underwater. This effect persists until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000059",
+      "name": "Strike the Tsunami",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "211"
+        },
+        "description": "<h2>Strike the Tsunami</h2>\n<h3>Rank 3</h3>\n<ul>\n<li>Bottle of Oceanic Storms (Alchemy), Suitengu's Arrow (Fortunist), Calling the Wave (Foreign)</li>\n<li>Upending the contents of a water pouch or reaching into a nearby lake or stream, the shugenja pulls out an impossibly large torrent that slams into several foes nearby, pushing them back or dragging them forward as the shugenja wills.</li>\n<li>Activation: As an Attack action, you may make a TN 4 Theology (Water) check targeting a number of characters up to your Water Ring at range 0–3. You must have a source of water to perform this technique.</li>\n<li>Effects: If you succeed, you smite your targets with a spray of water. Each target suffers supernatural damage equal to your Water Ring plus your bonus successes. Each target must resist with a TN 3 Fitness check (Earth 1, Fire 4); you may move each target who fails a number of range bands up to their shortfall in any direction.</li>\n<li>New Opportunities: Water (op): Each target who fails the check to resist also suffers the Bleeding condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "theology",
+        "difficulty": "4",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000060",
+      "name": "Suijin’s Embrace",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "211"
+        },
+        "description": "<h2>Suijin’s Embrace</h2>\n<h3>Rank 4</h3>\n<ul>\n<li>The Ocean in a Drop (Alchemy), Following Doji's Steps (Ancestral), Kissing the Water Kami (Elemental)</li>\n<li>Activation: As an Attack action, you may make a TN 4 Theology (Water) check targeting one character at range 1–3.</li>\n<li>Effects: If you succeed, you smite your target with lungfuls of seawater. The target suffers supernatural damage equal to your Water Ring plus two times your bonus successes. If a target’s fatigue exceeds their endurance this way, the target begins to suffocate (page 269) for a number of rounds equal to your Water Ring plus bonus successes or until you release them, as a Support action.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "theology",
+        "difficulty": "4",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000061",
+      "name": "Sympathetic Energies",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "211"
+        },
+        "description": "<h2>Sympathetic Energies</h2>\n<h3>Rank 2</h3>\n<ul>\n<li>Compassion of Shinjo (Ancestral), Suijin is Generous (Fortunist), Desert Pollen (Foreign)</li>\n<li>Water kami flow through all living beings, and a shugenja can use their winding channels to transfer boons and curses alike between individuals.</li>\n<li>Activation: As a Support action, you may make a TN 2 Theology (Water) check to spread one chosen persistent invocation effect across a number of targets equal to your Water Ring at range 0–1.</li>\n<li>Effects: If you succeed, you augment the spiritual power of one persistent invocation effect that is already affecting one target. Each other target counts as being affected by it as well. This effect persists as long as the original effect persists on the original target.</li>\n</ul>\n<ul>\n<li>Water (op) (op): You may choose a condition that the target is suffering instead of a persistent invocation effect.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000062",
+      "name": "The Rushing Wave",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "211"
+        },
+        "description": "<h2>The Rushing Wave</h2>\n<h3>Rank 1</h3>\n<ul>\n<li>Utaku's Waterborne Steed (Ancestral), The Clay Kobune (Alchemy), Isora's Spinning Dance (Fortunist)</li>\n<li>Activation: As a Movement action, you may make a TN 2 Theology (Water) check targeting one character at range 0–1. There must be a large source of water nearby to perform this invocation.</li>\n<li>Effects: If you succeed during a skirmish, you summon a rushing waterspout that propels the target. The target may immediately move 1 range band, plus additional range bands equal to your bonus successes. If you succeed during a narrative or downtime scene, you summon a gentle current that doubles the target’s speed across or through the water (such as while swimming or while traveling in a sailing ship or riverboat). This effect persists until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000063",
+      "name": "Dream Painter",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "105"
+        },
+        "description": "<h2>Dream Painter</h2>\n<ul>\n<li>Rank 3</li>\n<li>BOON OF THE ANCESTORS (ANCESTRAL), THROUGH THE EYES OF BENTEN (FORTUNIST), EUX1R OF MIND'S SIGHT (ALCHEMY)</li>\n<li>Some shugenja have learned how to access the surface layer of the ethereal Realm of Dreams, allowing them to peer into the sleeping minds of others. Those who have spent enough time honing this ability have also discovered ways to exert their will over the shapes of dreams, developing the talent to manipulate the slumber of their targets.</li>\n<li><strong>THE FADING DREAM</strong></li>\n<li>Activation: As a Scheme action, you may make a TN 3 Theology (Air) check targeting one Unconscious NPC at range 0--3.</li>\n<li>Effects: If you succeed, you scry into your target's subconscious. You discover one piece of relevant information that they know and that you did not already know, determined by the GM. This might be their ninja, their giri, their biggest fear, their opinion of one person of your choice, or the most pressing issue that is currently on their mind. If you fail, the target wakes up and is aware you were meddling with their thoughts. Their reaction to this is subject to GM discretion.</li>\n<li><strong>New Opportunities</strong></li>\n<li>Air ~~: You cause terrible dreams for the target. They suffer the Exhausted condition when they wake.</li>\n<li>Air ~~ ~~: If you succeed, you plant sweet thoughts into the target's mind. The target wakes up in a good mood. All characters reduce the TN of their Social skill checks targeting the target by 1 (to a minimum of 1) for the next scene in which the NPC is a participant.</li>\n<li>Air ~~~~: If you succeed, you may whisper up to six words into the target's mind to try to sway their waking actions.</li>\n<li>Air ~~~~: If you fail, the target stirs but does not wake up.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000064",
+      "name": "Messenger of Chikusho-do",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "106"
+        },
+        "description": "<h2>Messenger of Chikusho-do</h2>\n<h3>Rank 3</h3>\n<ul>\n<li>WHISPERS OF FUKUROKUJIN (FORTUNIST), C ALL OF THE WINDS (ELEMENTAL), T HE PATH OF T INY B EASTS (FOREIGN)</li>\n<li>\"Be quick, be quiet, watch, listen, and use the paths between the realms, my little friend. Answer their calls, and you will discover the ways of humans—and you will be closer to becoming one.\" — One of the Great Tengu of Chikusho-do</li>\n</ul>\n<h3>Activation</h3>\n<p>As a Support action, you may make a TN 2 Theology (Air) check targeting one character you know by name.</p>\n<h3>Effects</h3>\n<p>If you succeed, you summon a small animal from Chikusho-do of silhouette 0 to deliver a short message to the target you chose. The message can be understood by the recipient, but it must contain twenty words or fewer. The animal arrives at your target's location, regardless of distance, within eight hours, or sooner at the GM's discretion.</p>\n<h3>New Opportunities</h3>\n<ul>\n<li>Air ~~+: The messenger arrives one hour sooner per each ~~ spent this way. The messenger takes a minimum of one hour to get to its target (unless the GM decides it arrives sooner).</li>\n<li>Air ~~+: The message can be ten words longer per ~~ spent this way.</li>\n<li>Air ~~ ~~= The recipient may respond to your message (so long as they are able) with up to the same number of words you sent. The message is delivered to you within the same amount of time it took to send it to your target.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000065",
+      "name": "The Fading Dream",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "106"
+        },
+        "description": "<h2>The Fading Dream</h2>\n<h3>Rank 5</h3>\n<ul>\n<li>BENTEN'S GUILLE (FORTUNIST), WHISPERS OF DREAM AND SMOKE (ELEMENTAL), POWDER OF FAILING MEMORY (ALCHEMY)</li>\n<li>\"The haze of Yume-do can cloud even the waking mind with promises of another path, another life, another outcome. There are those so lost in the allure of possibility that they fail to realize that opportunity is often sitting just beside them.\" - Noboru, Mystic of the Mountain</li>\n</ul>\n<h3>Activation</h3>\n<p>Once per scene as a Scheme action, you may make a TN 2 Theology (Air) check targeting yourself.</p>\n<h3>Effects</h3>\n<ul>\n<li>If you succeed, you augment yourself with a cloak of dreams. NPCs with a vigilance lower than 1 plus your bonus successes forget any interactions they had (or have) with you during this scene at the conclusion of the scene. If you attempt violence during the scene, this effect immediately ends.</li>\n</ul>\n<h3>New Opportunities</h3>\n<ul>\n<li>Air ~~ ~>+: You may target one ally other than yourself to additionally benefit from the effects of this spell per each ~~~~ spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000066",
+      "name": "Bond of the Realms",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "107"
+        },
+        "description": "<h2>Bond of the Realms</h2>\n<ul>\n<li>\"A creature is bound to the realm it was reincarnated in, its body made of the materials of the place, tying it there as if with an unseen rope. Should it wander elsewhere and should its presence displease you, you need only know how to tug upon the cord.\" - Kitsu Hideki, Kitsu Realm Wanderer</li>\n<li>Activation: As an Attack and Scheme action targeting one character from a realm other than the one you are currently in, you may make a TN 2 Theology (Earth) check and name their realm of origin.</li>\n<li>Effects: If you succeed and name the correct realm of origin, you smite the target. The target reduces their endurance and composure by 3 (to a minimum of 1). This effect lasts for one round plus a number of rounds equal to your bonus successes. If you fail, you suffer 3 strife, learn the target's realm of origin, and cannot use this invocation again until the end of the scene.</li>\n<li>New Opportunities</li>\n<li>Earth :;>: If you succeed, the target suffers one of the following conditions of your choice: Dazed, Disoriented, Immobilized, Prone, or Silenced.</li>\n<li>Earth :;a: The effect lasts one additional round per :;,: spent this way.</li>\n<li>Earth :;, :;a: Reduce the target's endurance and composure by an additional 1 (to a minimum of 1) per :;,:; spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000067",
+      "name": "Guardian of the Secret Gate",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "107"
+        },
+        "description": "<h2>Guardian of the Secret Gate</h2>\n<ul>\n<li>Rank 5<br>\nT HE BLESSING OF BISHAMON'S CHILDREN (FORTUNIST), ANCESTRY REVIVED (ANCESTRAL), T HE EARTH DOES NOT FORGET (ELEMENTAL)</li>\n<li>\"In a time of need, a skilled shugenja can call upon an ancestor to help them. Should the shugenja dishonor themselves in the spirit's presence, however, little will save them from the wrath of Yomi.\"</li>\n<li>Activation: As a Support action, you may make a TN 5 Theology (Earth) check targeting an unoccupied position at range 0-3. Additionally, you must stake honor equal to your honor rank.</li>\n<li>Effects: If you succeed, you summon an ancestral spirit from Yomi to the target position. The spirit is generally disposed to help you but refuses to perform dishonorable acts, and you lose your staked honor if you act dishonorably in the spirit's presence. Additionally, the spirit may become hostile if you act in a particularly egregious fashion (subject to GM discretion). The spirit persists until the end of the scene, its Attack actions always inflict supernatural damage, and it uses an NPC profile with both its (l.ll and (~) conflict ranks less than or equal to your honor rank (subject to GM approval).</li>\n<li>New Opportunities<br>\nEarth :;>: If you succeed, you remove strife equal to your honor rank.<br>\nEarth :;>+: The TN of the first check made by the spirit is reduced by 1 (to a minimum of 1) per :;> spent this way.<br>\nEarth :;, :;,: The spirit persists until the end of the game session.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "5",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000068",
+      "name": "Emboldened Steed",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "107"
+        },
+        "description": "<h2>Emboldened Steed</h2>\n<h3>Rank 3</h3>\n<ul>\n<li>ELIXIR OF BESTIAL RESOLVE (ALCHEMY), SHINJO'S ENDURANCE (ANCESTRAL), ROOT OF THE WHITE SANDS (FOREIGN)</li>\n</ul>\n<p>\"The horses are tired, lsamu-sama; we should let them rest awhile. \" The stablemaster smiled softly and called upon the kami of the road with an elegant gesture. The horses rose up suddenly, as if with renewed energy. The two steeds broke into a gallop, surprising the younger Utaku. \"Sen pail The horses, they ... \" \"Enjoy the wind against your face, Batbayar, and trust your horse. We will get to the village before nightfall. \"</p>\n<h3>Activation</h3>\n<p>As a Support action targeting any number of mounts (subject to GM approval) at range 0-4, you may make a TN 3 Theology (Earth) check.</p>\n<h3>Effects</h3>\n<p>If you succeed, you augment and mend all targets. They remove the Exhausted condition if they have it and remove a number of strife equal to your bonus successes.</p>\n<h3>New Opportunities</h3>\n<ul>\n<li>Earth :;>: Each target and its rider (while mounted) ignore the negative effects of terrain qualities until the end of the scene.</li>\n<li>Earth :;a: Each target removes 1 fatigue per :;> spent this way.</li>\n<li>Earth :;, :;,: Each target's rider (while mounted) automatically succeeds at any Movement action checks (that have no other type) they make until the end of the scene, with a number of bonus successes equal to your Earth Ring plus the mount's Water Ring (see Mounts and Riding, on page 326 of the core rulebook).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000069",
+      "name": "Fluid Shadows",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "108"
+        },
+        "description": "<h2>Fluid Shadows</h2>\n<ul>\n<li>Rank 2</li>\n<li>NEKOMA'S SILENT PROWL (ANCESTRAL), ONE WITH THE SPIRIT'S RIVER (ELEMENTAL), COMMUNION OF THE SHADOW TREES (FOREIGN)</li>\n<li>When you become one with the shadows of a place, it is as if you were never there to begin with.</li>\n<li>Activation: As a Movement and Scheme action, you may make a TN 2 Theology (Water) check targeting a shadowy position (such as Obscuring terrain) at range 1-3.</li>\n<li>Effects: If you succeed, you summon yourself to that position instantly.</li>\n<li>New Opportunities</li>\n<li>Water :;>+: Treat the maximum range of this technique as 1 higher per :;> spent this way.</li>\n<li>Water :;> :;>: Increase the TN of Attack and Scheme action checks targeting you by 2 (instead of 1 from Attack actions from the effects of Obscuring terrain) until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000070",
+      "name": "Heart of the Lady Sun",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "108"
+        },
+        "description": "<h2>Heart of the Lady Sun</h2>\n<ul>\n<li>Rank 5<br>\nOASIS OF THE RIGHTEOUS (FOREIGN), PROMISE OF THE ELEVEN DAUGHTERS (ANCESTRAL), BLESSED CONFLAGRATION (ELEMENTAL)<br>\n\"The night has lasted too long,<br>The ground cries for a warm touch,<br>Bless us Mother, with your light,<br>Rise, dear siblings! And<br>Sing the morning song.\"</li>\n<li>Activation: As an Attack and Support action, make a TN 5 Theology (Fire) check targeting a position at range 0-3 of yourself.</li>\n<li>Effects: If you succeed, you summon an orb of flame at the target position. The orb sheds brilliant light that extends a number of range bands equal to your Fire Ring. At the end of each round, the orb smites any Tainted beings and creatures within its light, causing them to receive 3 fatigue, and the orb also mends any non-Tainted beings and creatures, causing them to remove 1 fatigue and 1 strife. This effect persists for one round, plus additional rounds equal to your bonus successes.</li>\n<li>New Opportunities<br>\nFire :;>: The area the orb illuminates counts as Dangerous and Obscuring terrain for Tainted beings and creatures.<br>\nFire :;> :;>: The area the orb illuminates gains the Hallowed (Fire) terrain quality and removes the Defiled terrain quality.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "theology",
+        "difficulty": "5",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000071",
+      "name": "Fires of Purity",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "108"
+        },
+        "description": "<h2>Fires of Purity</h2>\n<h3>Rank 2</h3>\n<ul>\n<li>BALM OF LICKING FLAMES (ALCHEMY), CAST IN EMMA-Q'S LANTERN (FORTUNIST), COAT OF THE FLAME DJINN (FOREIGN)</li>\n</ul>\n<p>Their eyes glowing, the shugenja finishes the gestures and chants and unleashes fire around them. These flames swirl from the shugenja's hands and cling to their body, and withering heat blasts anyone else nearby.</p>\n<p><strong>Activation:</strong> As a Support action, you may make a TN 2 Theology (Fire) check targeting one character at range 0-3.</p>\n<p><strong>Effects:</strong> If you succeed, you augment the target with sacred fire. A number of range bands around the target equal to your Fire Ring count as Dangerous terrain for any character other than the target (see Terrain, on page 267 of the core rulebook). This effect persists for one round, plus additional rounds equal to your bonus successes.</p>\n<ul>\n<li><strong>Fire :;> :</strong> If you succeed, the target also gains resistance equal to your Fire Ring against physical and supernatural fire.</li>\n<li><strong>Fire :;> :</strong> While this effect persists, your target's weapons count as having the Sacred item quality.</li>\n<li><strong>Fire :;> :;> :</strong> This effect persists until the end of the scene instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000072",
+      "name": "Amaterasu's Gaze",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "108"
+        },
+        "description": "<h2>Amaterasu's Gaze</h2>\n<ul>\n<li><strong>Rank 1</strong><br>\nSMILE OF THE EVERLASTING SUMMER (FOREIGN), IMPLACABLE JUDGMENT OF THE MOTHER (ANCESTRAL), THE FIRE THAT DOES NOT BURN (ELEMENTAL)<br>\n\"Only the wicked attempt to hide from the light of our mother god. Even then, they fail.\" - Lady Moshi, Centipede Clan Champion<br>\nActivation: As a Support action, you may make a TN 1 Theology (Fire) check targeting one character or item of silhouette 2 or lower at range 0-3.<br>\nEffects: If you succeed, you summon a pleasant ray of sunlight that follows the target. The ray of sunlight provides light at range 0-2 of the target's position. This effect persists for one round, plus additional rounds equal to your bonus successes.<br>\nNew Opportunities:<br>\n<ul>\n<li>Fire :;>+: The light provided extends out 1 additional range band from the target's position per :;> spent this way.</li>\n<li>Fire :;>+: The silhouette of the target affected by this invocation can be 1 higher per :;> spent this way.</li>\n<li>Fire :;> :;>: The ray provides enough heat to warm several beings and creatures on a cold night.</li>\n<li>Fire :;> :;>: The light negates the effects of Obscuring terrain within the range it illuminates.</li>\n</ul>\n</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "theology",
+        "difficulty": "1",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000073",
+      "name": "Rain of Ten Thousand Lotuses",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "109"
+        },
+        "description": "<h2>Rain of Ten Thousand Lotuses</h2>\n<h3>Rank 5</h3>\n<ul>\n<li>Gift of Treasured Ancestors (Ancestral), Jurojin's Joyful Tears (Fortunist), Wave of Rejuvenation (Elemental)</li>\n</ul>\n<h3>Activation</h3>\n<p>Once per game session, as a Support action, you may make a TN 2 Theology (Water) check targeting a position at range 0-4.</p>\n<h3>Effects</h3>\n<p>If you succeed, you mend everyone at range 0-2 of the target position. Each character in range removes a number of strife and fatigue equal to 1 plus your bonus successes.</p>\n<h3>New Opportunities</h3>\n<ul>\n<li>Water ~: The area affected by this invocation gains the Hallowed (Water) terrain quality until the end of the scene.</li>\n<li>Water ~H: Increase the range from the targeted position that is affected by this technique by 1 range band per ~ spent this way.</li>\n<li>Water ~H: The invocation also removes one of the following conditions of your choice from each affected character per ~ spent this way: Afflicted, Bleeding, Burning, Dying 3, Enraged, Wounded.</li>\n<li>Water ~ ~: You may select a number of characters up to your Water Ring in the scene and deny them the benefits of this invocation.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000074",
+      "name": "Path of Beasts",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "109"
+        },
+        "description": "<h2>Path of Beasts</h2>\n<ul>\n<li><strong>Activation:</strong> As a Support action, you may make a TN 2 Theology (Water) check targeting yourself.</li>\n<li><strong>Effects:</strong> If you succeed, you augment yourself. You gain one of the following effects of your choice, and it persists for a number of rounds equal to one plus your bonus successes:</li>\n<li><strong>Eyes of the Falcon:</strong> Your eyes transform into those of a falcon. You may reroll up to three dice when making checks to spot details or see things at a distance.</li>\n<li><strong>Nose of the Fox:</strong> Your nose and mouth elongate into the snout of a fox. You may reroll up to three dice when making checks related to your sense of smell, such as tracking someone down or identifying a substance.</li>\n<li><strong>Ears of the Bat:</strong> Your ears morph into those of a bat. You may reroll up to three dice when making checks for which your exceptional hearing would be a benefit, such as listening in on a conversation or listening to an animal's footfalls before springing a trap.</li>\n<li><strong>Might of the Bear:</strong> Your body and muscles enlarge to the size of those of a bear. Your silhouette increases to 3, and you may reroll up to three dice when making checks that can take advantage of your size, such as lifting heavy objects or attempting to look intimidating.</li>\n<li><strong>Elegance of the Moth:</strong> Your skin becomes spotted with patches of the feathery, soft fibers of a moth. Your silhouette decreases to 1, and you may reroll up to three dice when making checks that can take advantage of your lithe figure, such as maneuvering into tight spaces or attempting to evade a critical blow.</li>\n</ul>\n<p><em>—Journal entry of an unnamed Asako samurai</em></p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreInv000075",
+      "name": "Essence of Jade",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/invocation.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "114"
+        },
+        "description": "<h2>Essence of Jade</h2>\n<ul>\n<li>The shikigami is intelligent, can communicate with you, and generally obeys your orders. It can perform any invocations you have sealed within it as an action, using your ranks in Composition and its ring value for the skill check.</li>\n<li>ADVANTAGES: Tireless ( Martial; Physical), Rebellious ( Martial; Mental)</li>\n<li>FAVORED WEAPONS & GEAR: Cutting Edges: Range 0, Damage 1, Deadliness 2; Gear (equipped): None</li>\n<li>ABILITIES:</li>\n<li>IMBUED WITH POWER: The more powerful the invocations invested into a shikigami, the higher its associated ring values become. If a shikigami is invested with one or more invocations of a particular element (Air, Earth, Fire, Water, or Void), it treats that ring value as equal to the highest among the school rank prerequisites of those invocations. Example: A shikigami invested with a rank 2 Air invocation, a rank 1 Earth invocation, and a rank 3 Water invocation would have ring values of Air 2, Earth 1, Fire 1, Water 3, Void 1.</li>\n<li>LIVING INVOCATION: Once per scene as an action, a shikigami may perform one invocation invested in it without making a check. It counts as having 2 bonus successes and (op) (op).</li>\n<li>RESTRICTED ACTION: During a conflict, if a shikigami and the ritualist who created it are both present, the shikigami does not take its own turn. During the shugenja’s turn, it can move up to 1 range band. As a Support action, the ritualist may have the shikigami perform an action with their assistance (see page 26 of the core rulebook).</li>\n<li>New Opportunities:</li>\n<li>(op): Choose one of your advantages and one of your disadvantages. Add these to the shikigami.</li>\n<li>(op): Instead of appearing as the item or material from which it was created, the shikigami has a different form of your choosing of the same silhouette.</li>\n<li>(op)+: Increase the silhouette of the shikigami by 1 per (op) spent this way.</li>\n<li>(op)+: Choose one skill. The shikigami possesses a number of ranks in this skill equal to the (op) spent this way. You may activate this multiple times for different skills.</li>\n<li>(op)+: Increase the shikigami’s endurance or composure by 2 per (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "invocation"
+      },
+      "folder": null
+    }
+  ]
+}

@@ -1,0 +1,4114 @@
+{
+  "exportedAt": "2025-10-16T22:34:09.239Z",
+  "foundryVersion": "12.331",
+  "systemId": "l5r5e",
+  "pack": {
+    "label": "School Abilities",
+    "collection": "l5r5e.core-techniques-school",
+    "type": "Item",
+    "system": "l5r5e"
+  },
+  "count": 100,
+  "documents": [
+    {
+      "_id": "L5RCoreSch000001",
+      "name": "Way of the Crab",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crab.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "57"
+        },
+        "description": "<h2>Way of the Crab (School Ability):</h2>\n<ul>\n<li>Ignore the Cumbersome quality of armor you wear.</li>\n<li>Once per round, before making a check to resist a critical strike, you may reduce the severity of that critical strike by the physical resistance of your armor plus your school rank (to a minimum of 0).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000002",
+      "name": "Flickering Flame Skirmisher",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crab.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "58"
+        },
+        "description": "<h2>Flickering Flame Skirmisher (School Ability):</h2>\n<ul>\n<li>After performing an Attack action, you may change your stance. If you do, increase the TN of Attack checks by creatures of silhouette 3 or larger targeting you by your school rank until the start of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000003",
+      "name": "Masterful Builder",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crab.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "59"
+        },
+        "description": "<h2>Masterful Builder (School Ability):</h2>\n<ul>\n<li>Once per scene, when making a check to use an item you personally crafted, you may add a number of kept  set to (op) results equal to your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000004",
+      "name": "Gaze into Shadow",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crab.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "60"
+        },
+        "description": "<h2>Gaze into Shadow (School Ability):</h2>\n<ul>\n<li>Once per round, when you make a check targeting or involving a Tainted being, you may choose a number of your kept dice up to your school rank containing  symbols. Set each of these dice to a (su) result. You cannot use this ability if you are unsure if a being is Tainted or not.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000005",
+      "name": "Way of the Carp",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crab.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "61"
+        },
+        "description": "<h2>Way of the Carp (School Ability):</h2>\n<ul>\n<li>As a downtime activity, if you have access to a market, you may acquire a number of items up to your school rank of rarity 4 or lower, or a single item of up to rarity 4 plus your school rank. You do not need to make a check or expend money to acquire these items, nor do you need to forfeit or stake honor or glory for the act of acquiring them, even if they are not befitting of your station or Forbidden (though displaying them openly later is a different matter). The GM can still apply rarity adjustments as usual based on the specifics of the market available.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000006",
+      "name": "Spiritual Artisan",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crane.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "62"
+        },
+        "description": "<h2>Spiritual Artisan (School Ability)</h2>\n<ul>\n<li>When making a check to mystically summon an illusion or to summon, augment, or awaken an object, you may add a number of kept  set to (op) results equal to your school rank.</li>\n</ul>\n<h2>Stir the Slumbering Spirit (Mastery Ability)</h2>\n<ul>\n<li>Once per game session as a downtime activity, you may make a TN 4 Artisan (Void) check to awaken an item’s spirit. If you succeed, until the end of the game session, it becomes a nemuranai (see page 307) with a sealed invocation of your choice based on the item’s history. The GM is the final arbiter of the appropriateness of any invocation selected this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000007",
+      "name": "Vigilance of Mind",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crane.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "63"
+        },
+        "description": "<h2>Vigilance of Mind (School Ability)</h2>\n<ul>\n<li>Once per round, when another character within range of one of your readied melee weapons would suffer physical damage, you may intercept. If you do, you may suffer fatigue up to your school rank to reduce the damage the target suffers by twice that amount.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000008",
+      "name": "Speaking in Silence",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crane.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "64"
+        },
+        "description": "<h2>Speaking in Silence (School Ability):</h2>\n<ul>\n<li>Once per scene, when making a check to persuade or influence someone, you may add a number of kept  set to a (op) result equal to your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000009",
+      "name": "Way of the Crane",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crane.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "65"
+        },
+        "description": "<h2>Way of the Crane (School Ability)</h2>\n<ul>\n<li>Once per round, you may increase or decrease the severity of a critical strike you inflict by an amount up to your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000010",
+      "name": "Elemental Transmutation",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/dragon.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "66"
+        },
+        "description": "<h2>Elemental Transmutation (School Ability):</h2>\n<ul>\n<li>When performing an invocation, you may choose a different ring with which to make the check. While using this school ability, you cannot activate (op) of the original Element of the invocation, but you can activate (op) for the new Element. You can use this school ability a number of times per game session up to your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000011",
+      "name": "Kitsuki’s Method",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/dragon.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "67"
+        },
+        "description": "<h2>Kitsuki’s Method (School Ability):</h2>\n<ul>\n<li>When performing a check to investigate with any skill (see The Art of Investigation, on page 170), you may treat your ranks in the skill you are using as being equal to your school rank. If your ranks in the skill are equal to or higher than your school rank, or if you have 5 ranks in the skill, you may add a kept  set to an (op) result instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000012",
+      "name": "Way of the Dragon",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/dragon.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "68"
+        },
+        "description": "<h2>Way of the Dragon (School Ability):</h2>\n<ul>\n<li>Once per round during a duel or skirmish when you are targeted by an Attack check with a melee weapon, you may use one of your weapons readied in a one-handed grip (or one of your hands, if it is empty) to ward or trap.</li>\n<li>If you ward, the attacker must reroll dice containing (su) or (ex) up to your school rank.</li>\n<li>If you trap, reduce the TN of your next Attack check against the attacker this scene by your school rank (to a minimum of 1).</li>\n<li>You cannot choose this weapon for Attack actions until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000013",
+      "name": "Blood of the Kami",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/dragon.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "69"
+        },
+        "description": "<h2>Blood of the Kami (School Ability):</h2>\n<ul>\n<li>You have one mystical tattoo that empowers your kihō, and gain more as your school rank increases. When you make a check to activate a kihō linked to one of your mystical tattoos, if you succeed, add additional bonus successes equal to your school rank.</li>\n<li>Select a natural motif for your first tattoo and choose one kihō for which you meet the prerequisites that are linked to the tattoo. If you have not learned it, you learn that kihō (without paying its XP cost). You cannot choose the same kihō multiple times this way.</li>\n<li>Each time your school rank increases, you gain one additional tattoo this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000014",
+      "name": "Way of the Lion",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/lion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "70"
+        },
+        "description": "<h2>Way of the Lion (School Ability):</h2>\n<ul>\n<li>When you succeed at an Attack or Support action check, you may remove an amount of strife from yourself up to your school rank. For each strife you remove this way, add that one bonus success to the check and receive 1 fatigue.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000015",
+      "name": "Heart of the Lion",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/lion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "71"
+        },
+        "description": "<h2>Heart of the Lion (School Ability)</h2>\n<ul>\n<li>Once per scene, after you perform a check using a Social skill that targets one or more characters, you may agitate or console:</li>\n<li>If you agitate, transfer strife up to twice your school rank from yourself to your targets (divided among them as you choose).</li>\n<li>If you console, transfer strife up to twice your school rank from your targets (divided among them as you choose) to yourself.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000016",
+      "name": "Favor of the Ancestors",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/lion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "72"
+        },
+        "description": "<h2>Favor of the Ancestors (School Ability):</h2>\n<ul>\n<li>Once per scene, you may importune one invocation (see Importune Invocations, on page 189) with a school rank prerequisite up to your school rank without making the sacrifices usually required and without the usual TN increase.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000017",
+      "name": "Matsu’s Fury",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/lion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "73"
+        },
+        "description": "<h2>Matsu’s Fury (School Ability)</h2>\n<ul>\n<li>After you suffer a critical strike or unmask, you may suffer the Enraged condition to remove an amount of fatigue from yourself equal to your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000018",
+      "name": "Wisdom of the Ages",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/phoenix.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "74"
+        },
+        "description": "<h2>Wisdom of the Ages (School Ability):</h2>\n<ul>\n<li>When performing a Scholar skill check, you may treat your ranks in the skill as being equal to your school rank. If your ranks in that Scholar skill are equal to or higher than your school rank, or if you have 5 ranks in the skill, you may add one kept  set to an (op) result instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000019",
+      "name": "One with the Elements",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/phoenix.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "75"
+        },
+        "description": "<h2>One with the Elements (School Ability):</h2>\n<ul>\n<li>Once per scene when making the check to activate an invocation technique, before rolling dice, you may reduce the TN of the check by your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000020",
+      "name": "Way of the Phoenix",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/phoenix.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "76"
+        },
+        "description": "<h2>Way of the Phoenix (School Ability)</h2>\n<ul>\n<li>Once per scene, when a character at range 0–3 makes a check that contains 1 or more  symbols, you may negate all of those  symbols. Then, that character removes strife and fatigue equal to your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000021",
+      "name": "Sacred Arrows",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/phoenix.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "77"
+        },
+        "description": "<h2>Sacred Arrows (School Ability)</h2>\n<ul>\n<li>As an action, you may augment one of your arrows with a prayer to the kami. Make the check to perform one invocation you know, reducing the TN by your school rank, and record the result. The arrow gains the Sacred quality, and remains infused with the invocation until the end of the scene.</li>\n<li>After you perform an Attack action using the arrow (or fire it at a location, at the GM’s discretion), you may resolve the effects of the invocation from the place the arrow landed. You may spend (op) to delay resolving the effects of the invocation for 1 round per (op) spent this way, and may spend (op) (op) from a failed check to affect one target of the attack that you missed.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000022",
+      "name": "Weakness Is My Strength",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/scorpion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "78"
+        },
+        "description": "<h2>Weakness Is My Strength (School Ability):</h2>\n<ul>\n<li>When you exploit a target’s disadvantage (see Turning Advantages and Disadvantages, page 100) as part of a Scheme action, you do not need to spend a Void point, and you may reroll additional dice up to your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000023",
+      "name": "The Path of Shadows",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/scorpion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "79"
+        },
+        "description": "<h2>The Path of Shadows (School Ability):</h2>\n<ul>\n<li>While performing an Attack action against a target who is Compromised, Incapacitated, Unconscious, or unaware of your presence, treat the damage and deadliness of your weapon as being increased by your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000024",
+      "name": "The Kami’s Whisper",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/scorpion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "80"
+        },
+        "description": "<h2>The Kami’s Whisper (School Ability):</h2>\n<ul>\n<li>While you are performing an invocation technique or channeling, characters with a vigilance lower than or equal to your school rank plus one cannot detect any physical sign that you are in the act of invoking the spirits. They can still observe effects of the invocation, however.</li>\n<li>Increase the TN of Theology checks to detect or study your supernatural activities by your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000025",
+      "name": "Mystical Script",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/scorpion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "81"
+        },
+        "description": "<h2>Mystical Script (School Ability):</h2>\n<ul>\n<li>You can have a number of additional wards with prepared invocations (see page 190) up to your school rank. Decoding or using one of your wards requires any other character to make a Theology (Void) check with TN equal to your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000026",
+      "name": "Vendor of Strange Wares",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/unicorn.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "82"
+        },
+        "description": "<h2>Vendor of Strange Wares:</h2>\n<ul>\n<li>Ignore the Forbidden quality when acquiring and handling items.</li>\n<li>When acquiring, selling, or gifting an item, you may treat its rarity as reduced or increased by your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000027",
+      "name": "The Way of Names",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/unicorn.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "83"
+        },
+        "description": "<h2>The Way of Names (School Ability):</h2>\n<ul>\n<li>As a downtime activity, you may make a TN 2 Design check using any ring to bind a spirit to an inanimate vessel, creating a meishōdō talisman for one invocation of that Element that you have learned. While you have the talisman in your possession, reduce the TN of checks to activate that invocation by 1. You can give the talisman to another shugenja, allowing them to perform that invocation even if they have not learned it and reducing the TN to activate it by 1, but the talisman ceases to function after a number of uses equal to your school rank.</li>\n<li>You can sustain a number of meishōdō talismans up to your school rank. You can only have one meishōdō talisman for any single invocation.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000028",
+      "name": "Swirling Desert Wind",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/unicorn.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "84"
+        },
+        "description": "<h2>Swirling Desert Wind (School Ability)</h2>\n<ul>\n<li>When performing an Attack action during a skirmish or mass battle, you may spend (op) as follows:</li>\n<li>(op): Choose an enemy other than your target whom you can perceive. Increase the TN of that enemy’s Attack checks targeting you by your school rank until the start of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000029",
+      "name": "Born in the Saddle",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/unicorn.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "85"
+        },
+        "description": "<h2>Born in the Saddle (School Ability):</h2>\n<ul>\n<li>Once per scene, before rolling dice, you may declare that you are directing your horse (who must be present) to aid in a task and describe how its efforts help in those circumstances. Reduce the TN of the check by your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000030",
+      "name": "Heroic Charge",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/unicorn.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "86"
+        },
+        "description": "<h2>Heroic Charge (School Ability):</h2>\n<ul>\n<li>When you succeed at an Attack action check, add bonus successes equal to the number of range bands you have moved this round, to a maximum of your school rank.</li>\n<li>During a duel or mass battle, if you are mounted on your steed, you always count as having moved a number of range bands equal to your school rank this turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000031",
+      "name": "School of Waves",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "87"
+        },
+        "description": "<h2>School of Waves (School Ability)</h2>\n<ul>\n<li>Choose one bonus curriculum skill; this skill henceforth counts as part of the Worldly Rōnin Path curriculum for you at all ranks. Each time your school rank increases, choose one additional bonus curriculum skill this way.</li>\n<li>When you make a check using one of your bonus curriculum skills, you may negate 1  symbol.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000032",
+      "name": "Flesh of the Elements",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/dragon.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "80"
+        },
+        "description": "<h2>Flesh of the Elements (School Ability)</h2>\n<ul>\n<li>You can have a number of additional potions with prepared invocations (see page 190 of the core rulebook) equal to your school rank. When you spend a downtime activity creating a potion, you may make a number of supplemental checks after the first to create additional potions equal to your school rank, but each check must be for a different invocation.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000033",
+      "name": "Soul of Ceremony",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crane.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "81"
+        },
+        "description": "<h2>Soul of Ceremony (School Ability):</h2>\n<ul>\n<li>When you make a check to perform a ritual, you may add kept • set to ~> results equal to your school rank. You may spend these ~> as if the ritual were also a Social skill check of your choice (such as to activate a shuji, etc.).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000034",
+      "name": "Way of the Void",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/school_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "82"
+        },
+        "description": "<h2>Way of the Void (School Ability):</h2>\n<ul>\n<li>When you make a check using your Void Ring, after rolling dice, you may receive a number of fatigue up to your school rank. If you do, you may pull or push:</li>\n<li>If you pull, choose a number of dice with non-blank results equal to the fatigue you received, and alter each to a blank result.</li>\n<li>If you push, choose a number of dice with blank results equal to the fatigue you received, and alter each to a non-blank result of your choice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000035",
+      "name": "The Body is a Shrine",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/phoenix.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "83"
+        },
+        "description": "<h2>The Body Is a Shrine (School Ability):</h2>\n<ul>\n<li>When you are in the presence of a kami (such as an elemental kami or other Supernatural being the GM deems appropriate), you may make a TN 4 Courtesy check using a ring associated with the kami's element (its highest ring) or one of its elements (if it has multiple highest rings). If you fail, you suffer 3 fatigue and 3 strife and cannot attempt to act as a vessel again this session.</li>\n<li>If you succeed, you convince the kami to use your body as a vessel. This grants you the following:</li>\n<li>Any time you make a check using one of the kami's elements, you may reroll a number of dice up to your school rank.</li>\n<li>Any time you make a check using one of the kami's opposing elements, increase the TN by 1 and add one kept • set to :;, Q .</li>\n<li>If you unmask, the kami is released (see Releasing Kami).</li>\n</ul>\n<p><strong>OPPOSING ELEMENTS</strong><br>\nAir is opposed by Fire.<br>\nEarth is opposed by Air.<br>\nFire is opposed by Water.<br>\nWater is opposed by Earth.</p>\n<p><strong>PROPER OFFERINGS</strong><br>\nProper gifts and reverence, as discussed on page 189 of the core rulebook, can reduce TN of The Body Is a Shrine ability as if it were an invocation.</p>\n<p><strong>RELEASING KAMI</strong><br>\nAs a downtime activity, you may peacefully release one or more kami you are housing. If there is a nearby shrine or other appropriately spiritual place, the kami likely settles there. Alternately, if you unmask or if the GM deems it narratively appropriate, the spirits within you can become irate and escape, manifesting using their standard profiles (such as the manifest kami found on pages 322-324 of the core rulebook).</p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000036",
+      "name": "Every Stone Serves",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crab.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "84"
+        },
+        "description": "<h2>Every Stone Serves (School Ability):</h2>\n<ul>\n<li>Reduce the TN of your checks for downtime activities that alter your environment (such as checks to redecorate a room, build a fence, or erect a fortification) by your school rank (to a minimum of 1).</li>\n<li>When you succeed at such a check, you may choose a number of mundane terrain qualities equal to your school rank and add or remove those terrain qualities from the area you affect.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000037",
+      "name": "Celestial Alignment",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/lion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "85"
+        },
+        "description": "<h2>Celestial Alignment (School Ability):</h2>\n<ul>\n<li>As a Support action, you may make a TN 2 Meditation (Void) check to draw one of the Spirit Realms closer to your current location. A number of range bands around your current position up to your school rank become a place of power of the realm you choose (see page 138 for more information). This effect persists until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000038",
+      "name": "Blazing Tears of Lady Sun",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/technique.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "86"
+        },
+        "description": "<h2>Blazing Tears of Lady Sun (School Ability)</h2>\n<ul>\n<li>Damage inflicted by your Fire invocations is treated as having the Sacred item quality. Items you augment or summon with Fire invocations have the Sacred quality.</li>\n<li>When you affect a non-Tainted human character with a Fire invocation, it does not deal damage to the target or inflict negative conditions. Instead, the character removes equal to your school rank plus the damage you would have dealt otherwise. Each character can only remove fatigue with this school ability once per scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000039",
+      "name": "Sudden nightfall",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/scorpion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "87"
+        },
+        "description": "<h2>Sudden Nightfall (School Ability):</h2>\n<ul>\n<li>You do not suffer any ill effects of Obscuring terrain as a result of darkness (see page 267 of the core rulebook). When you perform an Attack or Scheme action check against a target in terrain that is Obscuring due to darkness, reduce the TN by your school rank (to a minimum of 1).</li>\n<li>As a Support action, you may target a position at range 0-2 and summon a cloud of supernatural darkness there. An area around the target position extending a number of range bands equal to your Air Ring becomes Obscuring terrain. This effect persists a number of rounds equal to your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000040",
+      "name": "Steed of the Kami",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/unicorn.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "88"
+        },
+        "description": "<h2>Steed of the Kami (School Ability):</h2>\n<ul>\n<li>When you make a check to handle, calm, or instruct an animal or beast, you may negate a number of 0 results equal to your school rank.</li>\n<li>Additionally, once per scene as a Support action, you may make a TN 2 Survival (Water) or Theology (Water) check. If you succeed, you discover a ridable animal with a combat (f.l) conflict rank of 3 or lower and that is appropriate to the environment. It is friendly toward you and gives you all of the benefits of a mount (see page 326 of the core rulebook), but its Water Ring is increased by your bonus successes (to a maximum value of 6).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000041",
+      "name": "Way of the Scorpion",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/scorpion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "89"
+        },
+        "description": "<h2>Way of the Scorpion (School Ability)</h2>\n<ul>\n<li>When you exploit a target’s disadvantage (see Turning Advantages and Disadvantages, page 100 of the core rulebook) as part of an Initiative check for a duel or an Attack action, you do not need to spend a Void point, and you may reroll additional dice up to your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000042",
+      "name": "Incisive Insight",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crane.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "90"
+        },
+        "description": "<h2>Incisive Insight (School Ability):</h2>\n<ul>\n<li>Once per scene, when making a check for a Scheme action targeting another character, you may receive a number of strife up to your school rank to reduce the TN by that amount (to a minimum of 1).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000043",
+      "name": "Procedure and Protocol",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crane.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "91"
+        },
+        "description": "<h2>Procedure and Protocol (School Ability):</h2>\n<ul>\n<li>When you cause a character to receive strife as a result of a check using a social approach, that character suffers additional strife equal to your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000044",
+      "name": "Victory before Honor",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/lion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "92"
+        },
+        "description": "<h2>Victory before Honor (School Ability):</h2>\n<ul>\n<li>Once per scene when performing a check, you may stake an amount of honor no greater than your school rank to re-roll a number of dice equal to twice the amount of honor staked. For each re-rolled die result that does not contain a (su) or (ex), you forfeit one staked honor.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000045",
+      "name": "Disciple of Darkness",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/technique.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "93"
+        },
+        "description": "<h2>Disciple of Darkness (School Ability):</h2>\n<ul>\n<li>When you perform a check to hide, move stealthily, or deceive others as to your true identity, you may suffer a number of strife up to your school rank to choose that many characters targeted by the check. Treat each chosen character’s vigilance as 1 lower while resolving the check.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000046",
+      "name": "Architect of Tranquility",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/phoenix.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "94"
+        },
+        "description": "<h2>Architect of Tranquility (School Ability)</h2>\n<ul>\n<li>Once per scene after you succeed at an Artisan skill check, you may choose a number of characters in the scene equal to your school rank. Each chosen character removes 3 strife.</li>\n<li>Sudden Clarity (Mastery Ability): When you use your school ability, you may remove one or more of the following conditions from each chosen character: Dazed, Disoriented, Enraged, Exhausted, Intoxicated. Additionally, each chosen character removes 3 fatigue.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000047",
+      "name": "Gift of Musubi-no-Kami",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/technique.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "95"
+        },
+        "description": "<h2>Gift of Musubi-no-Kami (School Ability):</h2>\n<ul>\n<li>You may perform The Ties that Bind ritual as an action, instead of as a downtime activity. When you make a check to perform this ritual, you may add kept  set to (op) results equal to your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000048",
+      "name": "Typhoon in the Bamboo Grove",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/technique.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "96"
+        },
+        "description": "<h2>Typhoon in the Bamboo Grove (School Ability):</h2>\n<ul>\n<li>When making a Martial Arts [Melee] or Fitness check, you may spend (op) (op) to cause a number of characters no greater than your school rank and within range of your readied weapon to suffer the Dazed condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000049",
+      "name": "A Grain of Truth",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/dragon.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "97"
+        },
+        "description": "<h2>A Grain of Truth (School Ability):</h2>\n<ul>\n<li>Once per scene after you succeed on a Social skill check, you may choose a kihō with a prerequisite up to your school rank (whether you know it or not). You gain the benefits of its Enhancement Effect (see Kihō on page 183 of the core rulebook) as if you had successfully activated it. This effect persists until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000050",
+      "name": "Claws of the Crab",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crab.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "98"
+        },
+        "description": "<h2>Claws of the Crab (School Ability):</h2>\n<ul>\n<li>When you successfully perform the Guard action (page 264 of the core rulebook), when you make a check to perform the Guard action, you may spend (op) as follows:</li>\n<li>(op)+: If you succeed, you may guard one additional character in range per (op) spent this way. You can spend a maximum number of (op) this way up to your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000051",
+      "name": "Well Traveled",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/imperial.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "232"
+        },
+        "description": "<h2>Well Traveled</h2>\n<ul>\n<li>You are familiar with the Empire's vast territories and its diverse cultures, allowing you to navigate political and social landscapes with ease. You understand the customs, hierarchies, and hidden dynamics of various clans and regions.</li>\n<li>When performing a check that involves travel, navigation, or understanding regional politics (such as a Courtesy [Culture] check to negotiate with a local official or a Survival check to survive in a foreign region), you may reroll one die.</li>\n<li>You are known for your ability to move quickly and efficiently across the Empire, often arriving at destinations before others. This gives you a strategic advantage in time-sensitive situations.</li>\n<li>When traveling through a region, you may gain a +1 bonus to any Social or Survival skill checks related to that region, provided you have at least one skill in that domain (e.g., Culture, Courtesy, or Survival).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000052",
+      "name": "Voice of the Emperor",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/imperial.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "233"
+        },
+        "description": "<h2>Voice of the Emperor</h2>\n<ul>\n<li>As a character with the Voice of the Emperor distinction, you are a trusted voice of the Emperor and Imperial authorities, capable of influencing decisions and shaping events through your words and presence.</li>\n<li>You may make a Command (Water) check targeting any number of characters at range 0–5 of you once per scene as a Scheme action. The TN of this check is equal to the highest status rank among your targets. If you succeed, all targets suffer the Dazed and Disoriented conditions.</li>\n<li>You have proven yourself to the Emperor and Imperial authorities, and your words carry weight in courtly and political matters. When performing a check that benefits from your relationship with the Imperial hierarchy (such as a Command or Sentiment check to influence a noble or official), you may reroll up to two dice.</li>\n<li>You are known for your ability to manipulate situations through diplomacy, rhetoric, and subtle influence. When a character attempts to act against your interests or the interests of the Emperor, you may force them to increase their honor or glory cost by your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000053",
+      "name": "Necessary Actions",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/imperial.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "234"
+        },
+        "description": "<h2>Necessary Actions</h2>\n<ul>\n<li>At the beginning of a game session or as a downtime activity, you may make a TN 1 Theology check using any ring. If you succeed, choose a number of kept dice up to your school rank to reserve. Until the end of the game session or the next downtime scene, when any character makes a skill check using the chosen ring, you may replace one or more kept dice with the same number of reserved dice of the same type.</li>\n<li>Once per game session, you may spend 1 Void point to reveal that you have foreseen an event in the current scene. You may retroactively declare one or more preparations you have taken, subject to the GM’s approval. If any preparations would require a skill check, such as the preparation of a ward, you make the check when you use this ability.</li>\n<li>When you succeed on an Initiative check during a skirmish or duel, add bonus successes equal to your school rank.</li>\n<li>Once per round, you may spend 1 Void point to add bonus successes equal to your honor rank to a successful Attack or Support action check.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000054",
+      "name": "Just as Predicted",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/imperial.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "235"
+        },
+        "description": "<h2>Just as Predicted</h2>\n<ul>\n<li>When a character makes a check that involves a prediction or foreknowledge of an outcome, and that outcome is exactly as expected, they may reroll one die and use the result of the reroll instead of the original roll.</li>\n<li>If a character has a skill or technique that grants a bonus based on foresight or prediction, and the result of the check matches the prediction exactly, they gain a +1 bonus to the check result.</li>\n<li>When a character successfully predicts an event that occurs in a scene, they may add a bonus equal to their school rank to any subsequent check related to that event, provided the event is directly tied to the prediction.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000055",
+      "name": "Speed of Heaven",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/imperial.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "236"
+        },
+        "description": "<h2>Speed of Heaven</h2>\n<ul>\n<li>When performing a check that benefits from your close relationship with the character (such as a Courtesy [Water] check to requisition an item through them or a Sentiment [Water] check to read their emotions), you may reroll up to two dice.</li>\n<li>Each time your school rank increases, you gain one additional invocation this way.</li>\n<li>Once per scene, you may importune one invocation without making the sacrifices usually required and without the usual TN increase. You use the Meditation skill in place of the skill check normally required to use the invocation (you must still use the ring required for the invocation).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000056",
+      "name": "Blessing of the Fortunes",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/technique.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "237"
+        },
+        "description": "<h2>Blessing of the Fortunes</h2>\n<p>Entry not found in the provided text.</p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000057",
+      "name": "Embrace the Void",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/technique.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "238"
+        },
+        "description": "<h2>Embrace the Void</h2>\n<p>Entry not found in the provided text.</p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000058",
+      "name": "Fox Spirit",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/technique.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "239"
+        },
+        "description": "<h2>The following apply to a character with the Fox Spirit distinction:</h2>\n<ul>\n<li>You have a deep connection with fox spirits, understanding their nature, behaviors, and magical abilities. You can communicate with foxes and summon their aid in times of need.</li>\n<li>When performing a check that benefits from your connection to fox spirits (such as a Skulduggery [Water] check to deceive a fox spirit or a Medicine [Water] check to heal a fox-related injury), you may reroll up to two dice.</li>\n<li>You are familiar with the folklore and traditions surrounding fox spirits, including their role in Rokugan’s spiritual landscape and their ability to influence events through subtle magic.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000059",
+      "name": "Professional Saboteur",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/technique.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "240"
+        },
+        "description": "<h2>Professional Saboteur</h2>\n<ul>\n<li>You are skilled in disrupting operations, undermining systems, and creating chaos to achieve your goals. You understand the vulnerabilities of institutions, organizations, and individuals, and can exploit them with precision.</li>\n<li>When performing a check that benefits from your sabotage expertise (such as a Skulduggery [Air] check to infiltrate and disrupt a ceremony or a Deception [Water] check to mislead a guard into believing a false threat), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000060",
+      "name": "Signiature Weapon",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "48"
+        },
+        "description": "<h2>Signature Weapon (School Ability)</h2>\n<ul>\n<li>Choose a signature weapon category (or unarmed) with GM approval.</li>\n<li>When using a weapon from this category for an Attack action or Performance check, roll one additional skill die.</li>\n<li>Additionally, when making such a check you may suffer fatigue up to your school rank to alter that many results of your kept dice to \u0002 results.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000061",
+      "name": "Piercing Insight",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "49"
+        },
+        "description": "<h2>Piercing Insight (School Ability)</h2>\n<ul>\n<li>Once per round, in a skirmish, when you inflict a critical strike on a character at range 2–5 or a character at range 2–5 inflicts a critical strike on you, you may increase or decrease the severity by your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000062",
+      "name": "Risk and Reward",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "50"
+        },
+        "description": "<h2>Risk and Reward (School Ability):</h2>\n<ul>\n<li>You have an uncanny sense for dangerous situations. Your vigilance and focus are increased by your school rank, unless you are Compromised.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000063",
+      "name": "Tactical Cover",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "51"
+        },
+        "description": "<h2>Tactical Cover (School Ability):</h2>\n<ul>\n<li>While you are in Obscuring terrain, you may treat your physical resistance as increased by your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000064",
+      "name": "Naturally Attuned",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "52"
+        },
+        "description": "<h2>Naturally Attuned (School Ability):</h2>\n<ul>\n<li>As a downtime activity, you may select any number of invocations with total school rank prerequisites equal to double your school rank. You can perform these invocations as if you knew them.</li>\n<li>While making a check to activate an invocation, if you become Compromised, you suffer spiritual backlash.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000065",
+      "name": "Resourceful Artistry",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "53"
+        },
+        "description": "<h2>Resourceful Artistry (School Ability):</h2>\n<ul>\n<li>Once per game session when performing a downtime activity to craft, you may scavenge supplies for your craft worth an amount of koku equal to your school rank. This might include finding plants to make paints, wood for carvings, horsehair for brushes, or convincing peasants to give you parchment, ink, or other supplies.</li>\n</ul>\n<p>The materials scavanged or otherwise obtained using the Resourceful Artistry school ability are worth a certain amount of koku for the purposes of crafting them into something, but are not worth that amount for the purposes of selling the raw materials. The worth of materials found this way in the marketplace (in their raw form) is subject to GM discretion.</p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000066",
+      "name": "Unexpected Wisdom",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "54"
+        },
+        "description": "<h2>Unexpected Wisdom (School Ability):</h2>\n<ul>\n<li>You are a wealth of wisdom, which you can dispense a number of times per game session equal to your school rank. On your turn or at any appropriate time during a narrative scene, you may dispense a small bit of wisdom to a character who can hear you and has not benefitted from this ability this scene. The next time a character, including yourself, employs that wisdom they may reduce the TN of that check by 1 and may negate a number of \u0006 up to your ranks in Sentiment or Theology (your choice).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000067",
+      "name": "Seer of the Lords of Death",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "55"
+        },
+        "description": "<h2>Seer of the Lords of Death (School Ability)</h2>\n<ul>\n<li>You can channel rituals in the same way as invocations (see page 189 of the core rulebook).</li>\n<li>Once per scene, when you channel you may receive fatigue up to your school rank. If you do, you may immediately make another check to perform an invocation of the same element using the reserved dice from your channel. For each fatigue received this way, you may add one kept die set to an \u0002 result.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000068",
+      "name": "Akilah's Teachings",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "56"
+        },
+        "description": "<h2>Akilah’s Teachings (School Ability):</h2>\n<ul>\n<li>Once per round after an Attack action check against you fails, if you have a shield readied and the attack is at range 0–1, you may shield bash. If you do, the target suffers physical damage equal to your ranks in Fitness plus your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000069",
+      "name": "Creative Execution",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "57"
+        },
+        "description": "<h2>Creative Execution (School Ability):</h2>\n<ul>\n<li>When making a check to perform a ritual, you may receive fatigue up to your school rank to add that many kept set to \u0002 results.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000070",
+      "name": "Gift of Inner Power",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "58"
+        },
+        "description": "<h2>Gift of Inner Power (School Ability):</h2>\n<ul>\n<li>You can infuse other characters with your inner energy. After you perform a check to activate one of your kihō, you can receive fatigue up to your school rank and choose another character at range 0–1. If you do, that character gains the enhancement effect of your kihō in your stead — you may still resolve the burst effect, if able. This effect persists a number of rounds equal to the amount of fatigue you received this way plus your ranks in Meditation. Only one character can benefit from your kihō at a time.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000071",
+      "name": "Flurry of Steel",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "59"
+        },
+        "description": "<h2>Flurry of Steel (School Ability):</h2>\n<ul>\n<li>Once per scene when performing an Attack action, you may choose a number of additional enemies up to your school rank in range of your weapon as targets for that Attack action.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000072",
+      "name": "Traces of Passage",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/phoenix.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "88"
+        },
+        "description": "<h2>Traces of Passage</h2>\n<ul>\n<li>The following apply to a character with the Traces of Passage distinction:</li>\n<li>You have proven yourself to a someone, who is willing to help you (within reason). They are open to sharing what they know about most topics, whether via a face-to-face meeting or written correspondence. They are also willing to arrange introductions for you with people they know.</li>\n<li>When performing a check that benefits from your close relationship with the character (such as a Courtesy [Water] check to requisition an item through them or a Sentiment [Water] check to read their emotions), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000073",
+      "name": "Sacred Art of Steel",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crane.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "89"
+        },
+        "description": "<h2>Sacred Art of Steel</h2>\n<ul>\n<li>The Sacred Art of Steel is not explicitly listed in the provided text. The entry for \"Sacred Art of Steel\" does not exist in the content provided. The text contains entries for \"Kitsu Medic School\" and \"Kuni Warden School\", but no \"Sacred Art of Steel\" entry.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000074",
+      "name": "Field Medicine",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/lion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "90"
+        },
+        "description": "<h2>Field Medicine</h2>\n<ul>\n<li>The Mirumoto Taoist Blade School includes Medicine as a key skill, allowing members to treat injuries and illnesses. At Rank 3, the school gains access to Earth Kihō, which includes techniques such as Crimson Leaves Strike and Still the Elements, both of which can be used to treat wounds or stabilize patients.</li>\n<li>At Rank 4, the school gains access to Void Kihō, including Striking as Void and Crashing Wave Style, which can be used to manage pain or treat internal injuries through spiritual or energetic means.</li>\n<li>At Rank 5, the school gains access to advanced Kata, including Touch the Void Dragon and Way of the Edgeless Sword, which can be used to perform precise healing strikes or to calm a patient's emotional state.</li>\n<li>The school's Mastery Ability at Rank 6, The Effortless Path, allows a character to spend (op) when activating a kihō: if successful, they may perform a Strike action with a weapon readied in a one-handed grip, which can be used to deliver a healing strike or to stabilize a wounded individual.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000075",
+      "name": "Supressing Blows",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crab.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "91"
+        },
+        "description": "<h2>Supressing Blows</h2>\n<ul>\n<li>When performing a check to activate a kihō that affects your unarmed attack profiles or a weapon you wield in a one-handed grip, you may reroll up to two dice.</li>\n<li>If you succeed on the check, after activating the kihō, you may perform a Strike action with a weapon you have readied in a one-handed grip.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000076",
+      "name": "Sharpened Ki",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/dragon.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "92"
+        },
+        "description": "<h2>Sharpened Ki</h2>\n<ul>\n<li>When you perform a check that involves ki-based abilities, you may reroll one die.</li>\n<li>When you succeed on a check that involves ki, you may add your school rank to the result.</li>\n<li>When you use a ki-based technique, you may apply a bonus to the technique's effect equal to your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000077",
+      "name": "Hands of Earth and Sky",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/unicorn.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "93"
+        },
+        "description": "<h2>Hands of Earth and Sky</h2>\n<ul>\n<li>When you make a check to search for Otherworldly beings, or make an Initiative check in a conflict against them, if you succeed, add bonus successes equal to your school rank.</li>\n<li>When you deal damage to an Otherworldly being, you ignore an amount of its resistance up to your ranks in Meditation.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000078",
+      "name": "Eyes of Yotogi",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/technique.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "94"
+        },
+        "description": "<h2>Eyes of Yotogi</h2>\n<ul>\n<li>You have proven yourself to a someone, who is willing to help you (within reason). They are open to sharing what they know about most topics, whether via a face-to-face meeting or written correspondence. They are also willing to arrange introductions for you with people they know.</li>\n<li>When performing a check that benefits from your close relationship with the character (such as a Courtesy [Water] check to requisition an item through them or a Sentiment [Water] check to read their emotions), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000079",
+      "name": "Warded Shikigami",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/scorpion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "95"
+        },
+        "description": "<h2>Warded Shikigami</h2>\n<ul>\n<li>You have a shikigami—a spirit servant—bound to you through ritual or oath, serving as a guardian or enforcer in the Shadowlands. This bond grants you unique abilities and responsibilities, though it also carries spiritual and emotional burdens.</li>\n<li>When performing a check that involves summoning, commanding, or interacting with your shikigami (such as a Performance [Earth] check to command your shikigami to defend you or a Survival [Void] check to maintain harmony with your spirit servant), you may reroll up to two dice.</li>\n<li>When your shikigami is active, you gain a +1 bonus to all checks involving physical defense or environmental awareness in the Shadowlands.</li>\n<li>Each time your shikigami is harmed or injured during combat, you suffer a -1 penalty to all checks involving mental focus or emotional stability until the next full moon.</li>\n<li>At the end of each month, you must spend one hour in meditation or ritual to maintain the bond with your shikigami. Failure to do so results in a temporary loss of control over your shikigami, which may act independently or turn hostile.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000080",
+      "name": "Sailor’s Fortune",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/mantis.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "the_mantis_clan",
+          "page": "5"
+        },
+        "description": "<h2>Sailor’s Tongue (Air) [Adversity]</h2>\n<ul>\n<li>Your speech is often punctuated by a combative tone or idioms that others find difficult to understand or even vulgar.</li>\n<li>When performing a check to speak politely (such as a Courtesy [Air] check to pay a compliment at court or a Culture [Air] check to know if something is rude to discuss), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000081",
+      "name": "Way of the Tortoise [Tortoise]",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/school_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "gm_kit",
+          "page": "9"
+        },
+        "description": "<h2>Way of the Tortoise [Tortoise]</h2>\n<ul>\n<li>You move slowly and deliberately, taking time to assess each situation before acting. This allows you to avoid unnecessary risks and make well-considered decisions.</li>\n<li>When making a check that involves planning, patience, or long-term strategy (such as a Will [Mind] check to resist impulsive actions or a Knowledge [Nature] check to understand a complex ecosystem), you may add a bonus equal to your current level of discipline.</li>\n<li>You are not easily provoked. When faced with aggression or hostility, you respond with calmness and restraint, which may cause others to hesitate or reconsider their actions.</li>\n<li>When performing a check that requires endurance or persistence (such as a Stamina [Body] check to endure a long journey or a Will [Spirit] check to maintain focus under pressure), you may reroll one die and keep the higher result.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000082",
+      "name": "Stand as the Mountain",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/dragon.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "72"
+        },
+        "description": "<h2>Stand as the Mountain (School Ability)</h2>\n<ul>\n<li>After you channel an invocation, increase your physical and supernatural resistances by an amount equal to the number of dice you reserved, to a maximum of your school rank. This effect persists until the start of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000083",
+      "name": "Drilled Precision",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/lion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "73"
+        },
+        "description": "<h2>Drilled Precision (School Ability):</h2>\n<ul>\n<li>When making an Attack or Movement action check, you may remove an amount of strife from yourself up to your school rank. For each strife you remove this way, add one kept ■ set to it to the check and receive 1 fatigue.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000084",
+      "name": "Explosive Arrival",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crane.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "74"
+        },
+        "description": "<h2>Explosive Arrival (School Ability):</h2>\n<ul>\n<li>After you perform an Attack action against a target who is Dazed or unaware of your presence, that target receives strife equal to your school rank. If your target is an enemy leader's cohort in a mass battle, the enemy army also receives that much panic. After you use your school ability in a mass battle, the leader of the cohort you targeted suffers the Dazed condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000085",
+      "name": "Thunderous Courage",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crab.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "75"
+        },
+        "description": "<h2>Thunderous Courage (School Ability):</h2>\n<ul>\n<li>Once per scene after you perform a Support action, you may choose any number of characters within a number of range bands equal to your ranks in Command. Each chosen character treats their composure as increased by your school rank. This effect persists until the end of the scene.</li>\n<li>During a mass battle, if you are a leader, your army treats its discipline as increased by your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000086",
+      "name": "Badger's Hold",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/school_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "76"
+        },
+        "description": "<h2>Badger's Hold (School Ability):</h2>\n<ul>\n<li>After you succeed at an Attack action check using the Martial Arts [Unarmed] skill, if the target is Immobilized or Prone (see pages 272-273 of the core rulebook), they also receive fatigue equal to your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000087",
+      "name": "Hide of Iron",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/school_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "77"
+        },
+        "description": "<h2>Hide of Iron (School Ability):</h2>\n<ul>\n<li>Once per game session when you make a check to craft, improve, or maintain a weapon or set of armor, you may receive an amount of fatigue up to your school rank to re-roll that many dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000088",
+      "name": "Sympathetic Bearing",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/unicorn.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "78"
+        },
+        "description": "<h2>Sympathetic Bearing (School Ability):</h2>\n<ul>\n<li>After you make a check for Initiative (or enter the scene, for a narrative scene), you may choose another character in the scene. That character removes strife equal to your school rank, and you reduce the TN of your next Social skill check targeting that character by 2.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000089",
+      "name": "Elemental Inspiration",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/phoenix.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "79"
+        },
+        "description": "<h2>Elemental Inspiration (School Ability):</h2>\n<ul>\n<li>Choose one: Air, Earth, Water, or Fire. This is your inspired element.</li>\n<li>When making a check to activate an invocation of your inspired element, add a number of rolled ■ set to * results equal to your school rank.</li>\n<li>When making a check to activate an invocation of your inspired element, you trigger spiritual backlash (see page 190 of the core rulebook) only if you keep four or more dice containing ■ symbols (instead of three or more).</li>\n<li>When making a check to activate an invocation not of your inspired element, you trigger spiritual backlash if you keep two or more dice containing 0 symbols (instead of three or more).</li>\n</ul>\n<h3>Attuned Invocation (Mastery Ability):</h3>\n<ul>\n<li>Once per scene, when making a check to activate an invocation of your inspired element, you may spend 1 Void point. If you do, you may keep any number of your rolled dice (instead of a number up to your ring value).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000090",
+      "name": "One with the Pride",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/lion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "80"
+        },
+        "description": "<h2>One with the Pride (School Ability):</h2>\n<ul>\n<li>Increase each of your bonded animals' endurance, composure, and ranks in Martial skill group by an amount equal to your school rank (its skill ranks still cannot exceed 5). If a bonded animal is a minion, it becomes an adversary instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000091",
+      "name": "Oath of Sacrifice",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/scorpion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "81"
+        },
+        "description": "<h2>Oath of Sacrifice (School Ability):</h2>\n<ul>\n<li>Once per scene, after you defend against damage or suffer a critical strike, you may unleash your current kiho. Immediately end its enhancement effect, then resolve its burst effect as if you had a number of bonus successes equal to your school rank plus the amount of fatigue you received or the severity of the critical strike you suffered. If the burst effect has one or more targets, you may choose appropriate targets in range.</li>\n<li>If you have used this ability already this scene, you may spend 1 Void point to use it again this scene (you can do this any number of times, provided you have Void points to spend).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000092",
+      "name": "Eye of the Storm",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/mantis.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "the_mantis_clan",
+          "page": "6"
+        },
+        "description": "<h2>Blood of Osano-wo (Fire) [Distinction]</h2>\n<ul>\n<li>Types: Mental, Spiritual</li>\n<li>The Fortune of Storms grants you boldness and a desire not easily satisfied. You cannot be killed by storms (such as by lightning or going overboard in a tempest). If you would die this way, you instead wake up later in a place of the GM’s choice, miraculously safe and with 0 Void points.</li>\n<li>When performing a check for which you need to take a great risk (such as a Games [Fire] check to wager the game on a single gambit or a Seafaring [Fire] check to chart a route through a deadly region), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000093",
+      "name": "May the Spirits Show the Path",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/school_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "96"
+        },
+        "description": "<h2>May the Spirits Show the Path (School Ability):</h2>\n<ul>\n<li>Once per scene, if you would fail a Social check, you may immediately make a TN 5 Theology check, with the TN being reduced by a number equal to your school rank (to a minimum of 1). If you succeed, you may change any kept  on that Social check to (su) results instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "5",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000094",
+      "name": "Laughter Makes the Home",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/school_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "97"
+        },
+        "description": "<h2>Laughter Makes the Home (School Ability):</h2>\n<ul>\n<li>The first time you make a successful Social check against another character in a scene, you may reduce the TN of all subsequent Social checks against that character by 1 (to a minimum of 1) for the remainder of the scene. This effect does not stack with itself, but can be used on multiple characters.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000095",
+      "name": "Bend Perception",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/school_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "98"
+        },
+        "description": "<h2>Bend Perception (School Ability):</h2>\n<ul>\n<li>When you choose this school, determine what illusion your character has perfected with your GM. Your character can seamlessly switch between their true form and this alternate form within a matter of seconds. When using this school ability, you can still use your true form’s features, such as your tail. Any character witnessing you do so sees something narratively appropriate based on your illusion. A character must make a TN 6 Theology or Survival (Void 5) check to see beyond your illusion.</li>\n<li>Additionally, you increase the damage dealt by your tail by your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000096",
+      "name": "Keen Senses",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/school_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "99"
+        },
+        "description": "<h2>Keen Senses (School Ability):</h2>\n<ul>\n<li>When you make a check to perceive or investigate your surroundings, decrease the TN of that check by a number equal to your school rank (to a minimum of 1).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000097",
+      "name": "Mind of Calm",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/school_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "100"
+        },
+        "description": "<h2>Mind of Calm (School Ability):</h2>\n<ul>\n<li>Once per scene you may make a TN 6 Meditation check to study someone else’s technique of a category and rank you have available to you. This check is reduced by your school rank, to a minimum of 1. If you succeed, you can replicate that technique until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000098",
+      "name": "Evolution of the Wilds",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/school_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "101"
+        },
+        "description": "<h2>Evolution of the Wilds (School Ability):</h2>\n<ul>\n<li>When you make a check to employ an unconventional solution (subject to GM discretion), reduce the TN of that check by your school rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000099",
+      "name": "Mazoku's Authority",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/school_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "deathly_turns",
+          "page": "24"
+        },
+        "description": "",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreSch000100",
+      "name": "Effortless Aim",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/school_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "deathly_turns",
+          "page": "25"
+        },
+        "description": "",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "school_ability"
+      },
+      "folder": null
+    }
+  ]
+}

@@ -1,0 +1,1934 @@
+{
+  "exportedAt": "2025-10-16T22:30:07.968Z",
+  "foundryVersion": "12.331",
+  "systemId": "l5r5e",
+  "pack": {
+    "label": "Titles",
+    "collection": "l5r5e.core-titles",
+    "type": "Item",
+    "system": "l5r5e"
+  },
+  "count": 48,
+  "documents": [
+    {
+      "_id": "L5RCoreTit000001",
+      "name": "Emerald Magistrate",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "305"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Trade Skills</td><td>Skill Group</td></tr><tr><td>Fitness</td><td>Skill</td></tr><tr><td>Martial Arts [Choose One]</td><td>Skill</td></tr><tr><td>Performance</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-kata\">(kata) Rank 1–2 Kata</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kata.Item.L5RCoreKat000026\" data-pack=\"l5r5e.core-techniques-kata\" data-type=\"Item\" data-id=\"L5RCoreKat000026\">(kata) Open-Hand Style</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000034\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000034\">(shuji) Shallow Waters</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "30",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000002",
+      "name": "Castellan",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "128"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Social Skills</td><td>Skill Group</td></tr><tr><td>Culture</td><td>Skill</td></tr><tr><td>Design</td><td>Skill</td></tr><tr><td>Government</td><td>Skill</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000020\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000020\">(shuji) Rallying Cry</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000031\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000031\">(shuji) Slippery Maneuvers</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000011\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000011\">(shuji) Touchstone of Courage</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "20",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000003",
+      "name": "Covert Agent",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "128"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Social Skills</td><td>Skill Group</td></tr><tr><td>Meditation</td><td>Skill</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-ninjutsu.Item.L5RCoreNin000005\" data-pack=\"l5r5e.core-techniques-ninjutsu\" data-type=\"Item\" data-id=\"L5RCoreNin000005\">(ninjutsu) Artful Alibi</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000002\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000002\">(shuji) Cadence</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-ninjutsu.Item.L5RCoreNin000006\" data-pack=\"l5r5e.core-techniques-ninjutsu\" data-type=\"Item\" data-id=\"L5RCoreNin000006\">(ninjutsu) Cunning Distraction</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-ninjutsu.Item.L5RCoreNin000012\" data-pack=\"l5r5e.core-techniques-ninjutsu\" data-type=\"Item\" data-id=\"L5RCoreNin000012\">(ninjutsu) To Float or Sink</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-ninjutsu.Item.L5RCoreNin000013\" data-pack=\"l5r5e.core-techniques-ninjutsu\" data-type=\"Item\" data-id=\"L5RCoreNin000013\">(ninjutsu) What's Yours is Mine</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "20",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000004",
+      "name": "Dreaded Enforcer",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "129"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Medicine</td><td>Skill</td></tr><tr><td>Skulduggery</td><td>Skill</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-ninjutsu.Item.L5RCoreNin000007\" data-pack=\"l5r5e.core-techniques-ninjutsu\" data-type=\"Item\" data-id=\"L5RCoreNin000007\">(ninjutsu) Deceitful Strike</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-ninjutsu.Item.L5RCoreNin000008\" data-pack=\"l5r5e.core-techniques-ninjutsu\" data-type=\"Item\" data-id=\"L5RCoreNin000008\">(ninjutsu) Like a Ghost</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-ninjutsu.Item.L5RCoreNin000009\" data-pack=\"l5r5e.core-techniques-ninjutsu\" data-type=\"Item\" data-id=\"L5RCoreNin000009\">(ninjutsu) Silent Elimination</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-ninjutsu.Item.L5RCoreNin000011\" data-pack=\"l5r5e.core-techniques-ninjutsu\" data-type=\"Item\" data-id=\"L5RCoreNin000011\">(ninjutsu) Stillness of Death</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "40",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000005",
+      "name": "Esteemed Negotiator",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "129"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Social Skills</td><td>Skill Group</td></tr><tr><td>Culture</td><td>Skill</td></tr><tr><td>Government</td><td>Skill</td></tr><tr><td>Sentiment</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-shuji\">(shuji) Rank 1–3 Earth Shūji</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-rituals.Item.L5RCoreRit000013\" data-pack=\"l5r5e.core-techniques-rituals\" data-type=\"Item\" data-id=\"L5RCoreRit000013\">(ritual) The Ties that Bind</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-rituals.Item.L5RCoreRit000012\" data-pack=\"l5r5e.core-techniques-rituals\" data-type=\"Item\" data-id=\"L5RCoreRit000012\">(ritual) Treaty Signing</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "34",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000006",
+      "name": "Kenshinzen",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "130"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Social Skills</td><td>Skill Group</td></tr><tr><td>Culture</td><td>Skill</td></tr><tr><td>Sentiment</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-kata\">(kata) Rank 1–5 Close Combat Kata</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-shuji\">(shuji) Rank 1–5 Void Shūji</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-rituals.Item.L5RCoreRit000001\" data-pack=\"l5r5e.core-techniques-rituals\" data-type=\"Item\" data-id=\"L5RCoreRit000001\">(ritual) Tea Ceremony</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "24",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000007",
+      "name": "Kyuden Asako Shieldbearer",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "130"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Scholar Skills</td><td>Skill Group</td></tr><tr><td>Martial Arts [Melee]</td><td>Skill</td></tr><tr><td>Martial Arts [Ranged]</td><td>Skill</td></tr><tr><td>Meditation</td><td>Skill</td></tr><tr><td>Tactics</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-kata\">(kata) Rank 1–3 Kata</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-rituals.Item.L5RCoreRit000004\" data-pack=\"l5r5e.core-techniques-rituals\" data-type=\"Item\" data-id=\"L5RCoreRit000004\">(ritual) Cleansing Rite</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "40",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000008",
+      "name": "Master Artisan",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "130"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Artisan Skills</td><td>Skill Group</td></tr><tr><td>Courtesy</td><td>Skill</td></tr><tr><td>Culture</td><td>Skill</td></tr><tr><td>Medicine</td><td>Skill</td></tr><tr><td>Meditation</td><td>Skill</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000043\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000043\">(shuji) All Arts Are One</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-rituals.Item.L5RCoreRit000011\" data-pack=\"l5r5e.core-techniques-rituals\" data-type=\"Item\" data-id=\"L5RCoreRit000011\">(ritual) Formal Tea Ceremony</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "60",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000009",
+      "name": "Winter Court Champion",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "131"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Artisan Skills</td><td>Skill Group</td></tr><tr><td>Social Skills</td><td>Skill Group</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000003\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000003\">(shuji) Artisan’s Appraisal</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-rituals.Item.L5RCoreRit000011\" data-pack=\"l5r5e.core-techniques-rituals\" data-type=\"Item\" data-id=\"L5RCoreRit000011\">(ritual) Formal Tea Ceremony</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000052\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000052\">(shuji) Fun and Games</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000047\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000047\">(shuji) Offend the Sensibilities</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000050\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000050\">(shuji) Spiteful Loss</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "16",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000010",
+      "name": "Seven fold Palace Acolyte",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "131"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Trade Skills</td><td>Skill Group</td></tr><tr><td>Aesthetics</td><td>Skill</td></tr><tr><td>Design</td><td>Skill</td></tr><tr><td>Fitness</td><td>Skill</td></tr><tr><td>Meditation</td><td>Skill</td></tr><tr><td>Smithing</td><td>Skill</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000003\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000003\">(shuji) Artisan’s Appraisal</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "36",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000011",
+      "name": "The Damned",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "128"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Medicine</td><td>Skill</td></tr><tr><td>Survival</td><td>Skill</td></tr><tr><td>Theology</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-kata\">(kata) Rank 1-2 Kata</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kata.Item.L5RCoreKat000003\" data-pack=\"l5r5e.core-techniques-kata\" data-type=\"Item\" data-id=\"L5RCoreKat000003\">(kata) Heartpiercing Strike</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000020\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000020\">(shuji) Rallying Cry</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "20",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000012",
+      "name": "Harvester",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "128"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Smithing</td><td>Skill</td></tr><tr><td>Survival</td><td>Skill</td></tr><tr><td>Theology</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-kata\">(kata) Rank 1-2 Kata</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-rituals\">(ritual) Rank 1-2 Rituals</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-ninjutsu.Item.L5RCoreNin000002\" data-pack=\"l5r5e.core-techniques-ninjutsu\" data-type=\"Item\" data-id=\"L5RCoreNin000002\">(ninjutsu) Skulk</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "20",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000013",
+      "name": "Twenty-Goblin Crab",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "128"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Social Skills</td><td>Skill Group</td></tr><tr><td>Culture</td><td>Skill</td></tr><tr><td>Government</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-kata\">(kata) Rank 1-2 Kata</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kata.Item.L5RCoreKat000021\" data-pack=\"l5r5e.core-techniques-kata\" data-type=\"Item\" data-id=\"L5RCoreKat000021\">(kata) Thunderclap Strike</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000017\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000017\">(shuji) Stonewall Tactics</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "20",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000014",
+      "name": "Witch Hunter",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "129"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Scholar Skills</td><td>Skill Group</td></tr><tr><td>Command</td><td>Skill</td></tr><tr><td>Skulduggery</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-kata\">(kata) Rank 1-4 Kata</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-rituals\">(ritual) Rank 1-5 Rituals</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000012\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000012\">(shuji) Honest Assessment</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "45",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000015",
+      "name": "Advisor",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "249"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Scholar Skills</td><td>Skill Group</td></tr><tr><td>Commerce</td><td>Skill</td></tr><tr><td>Courtesy</td><td>Skill</td></tr><tr><td>Design</td><td>Skill</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000018\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000018\">(shuji) Fanning the Flames</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000008\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000008\">(shuji) Feigned Opening</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000017\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000017\">(shuji) Stonewall Tactics</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "36",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000016",
+      "name": "Daimyo",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "250"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Social Skills</td><td>Skill Group</td></tr><tr><td>Culture</td><td>SKill</td></tr><tr><td>Government</td><td>Skill</td></tr><tr><td>Tactics</td><td>Skill</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000037\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000037\">(shuji) Courtier’s Resolve</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000034\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000034\">(shuji) Shallow Waters</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000026\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000026\">(shuji) Stirring the Embers</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "36",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000017",
+      "name": "Spy",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "252"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Social Skills</td><td>Skill Group</td></tr><tr><td>Government</td><td>Skill</td></tr><tr><td>Sentiment</td><td>Skill</td></tr><tr><td>Skulduggery</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-shuji\">(shuji) Rank 1-5 Air Shuji</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000034\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000034\">(shuji) Shallow Waters</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-ninjutsu.Item.L5RCoreNin000002\" data-pack=\"l5r5e.core-techniques-ninjutsu\" data-type=\"Item\" data-id=\"L5RCoreNin000002\">(ninjutsu) Skulk</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "24",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000018",
+      "name": "Gunso",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "250"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Command</td><td>Skill</td></tr><tr><td>Government</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-kata\">(kata) Rank 1-4 Kata</a></td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000020\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000020\">(shuji) Rallying Cry</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000026\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000026\">(shuji) Stirring the Embers</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000011\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000011\">(shuji) Touchstone of Courage</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "24",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000019",
+      "name": "Clan Magistrate",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "249"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Scholar Skills</td><td>Skill Group</td></tr><tr><td>Social Skills</td><td>Skill Group</td></tr><tr><td>Fitness</td><td>Skill</td></tr><tr><td>Martial Arts [Melee]</td><td>Skill</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kata.Item.L5RCoreKat000029\" data-pack=\"l5r5e.core-techniques-kata\" data-type=\"Item\" data-id=\"L5RCoreKat000029\">(kata) Coiling Serpent Style</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000006\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000006\">(shuji) Prey on the Weak</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000023\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000023\">(shuji) Truth Burns through Lies</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "30",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000020",
+      "name": "Monastic Acolyte",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "251"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Scholar Skills</td><td>Skill Group</td></tr><tr><td>Aesthetics</td><td>Skill</td></tr><tr><td>Composition</td><td>Skill</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kiho.Item.L5RCoreKih000001\" data-pack=\"l5r5e.core-techniques-kiho\" data-type=\"Item\" data-id=\"L5RCoreKih000001\">(kiho) Cleansing Spirit</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kiho.Item.L5RCoreKih000017\" data-pack=\"l5r5e.core-techniques-kiho\" data-type=\"Item\" data-id=\"L5RCoreKih000017\">(kiho) Ki Protection</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kiho.Item.L5RCoreKih000022\" data-pack=\"l5r5e.core-techniques-kiho\" data-type=\"Item\" data-id=\"L5RCoreKih000022\">(kiho) Still the Elements</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "24",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000021",
+      "name": "Priest",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "251"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Social Skills</td><td>Skill Group</td></tr><tr><td>Composition</td><td>Skill</td></tr><tr><td>Culture</td><td>Skill</td></tr><tr><td>Theology</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-rituals\">(ritual) Rank 1-5 Rituals</a></td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000014\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000014\">(shuji) Civility Foremost</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000041\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000041\">(shuji) Rouse the Soul</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "24",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000022",
+      "name": "Yojimbo",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "252"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Government</td><td>Skill</td></tr><tr><td>Medicine</td><td>Skill</td></tr><tr><td>Sentiment</td><td>Skill</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kata.Item.L5RCoreKat000023\" data-pack=\"l5r5e.core-techniques-kata\" data-type=\"Item\" data-id=\"L5RCoreKat000023\">(kata) Iaijutsu Cut: Crossing Blade</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kata.Item.L5RCoreKat000022\" data-pack=\"l5r5e.core-techniques-kata\" data-type=\"Item\" data-id=\"L5RCoreKat000022\">(kata) Iaijutsu Cut: Rising Blade</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kata.Item.L5RCoreKat000007\" data-pack=\"l5r5e.core-techniques-kata\" data-type=\"Item\" data-id=\"L5RCoreKat000007\">(kata) Warrior’s Resolve</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "36",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000023",
+      "name": "Yoriki",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "253"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Social Skills</td><td>Skill Group</td></tr><tr><td>Government</td><td>Skill</td></tr><tr><td>Martial Arts [Melee]</td><td>Skill</td></tr><tr><td>Skulduggery</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-kata\">(kata) Rank 1-3 Kata</a></td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000018\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000018\">(shuji) Fanning the Flames</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000034\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000034\">(shuji) Shallow Waters</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "24",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000024",
+      "name": "Ashigaru",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "131"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Courtesy</td><td>Skill</td></tr><tr><td>Command</td><td>Skill</td></tr><tr><td>Survival</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-kata\">(kata) Rank 1-2 Kata</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kata.Item.L5RCoreKat000066\" data-pack=\"l5r5e.core-techniques-kata\" data-type=\"Item\" data-id=\"L5RCoreKat000066\">(kata) Thicket's Embrace Style</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000031\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000031\">(shuji) Slippery Maneuvers</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "20",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000025",
+      "name": "Deathseeker",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "132"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Courtesy</td><td>Skill</td></tr><tr><td>Labor</td><td>Skill</td></tr><tr><td>Theology</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-kata\">(kata) Rank 1-3 Kata</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000038\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000038\">(shuji) A Samurai’s Fate</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000086\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000086\">(shuji) Moment of Glory</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "8",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000026",
+      "name": "Elemental Guard",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "132"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Command</td><td>Skill</td></tr><tr><td>Government</td><td>Skill</td></tr><tr><td>Medicine</td><td>Skill</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-rituals.Item.L5RCoreRit000027\" data-pack=\"l5r5e.core-techniques-rituals\" data-type=\"Item\" data-id=\"L5RCoreRit000027\">(ritual) Beseech Shiba's Calm</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kata.Item.L5RCoreKat000008\" data-pack=\"l5r5e.core-techniques-kata\" data-type=\"Item\" data-id=\"L5RCoreKat000008\">(kata) Tactical Assessment</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kata.Item.L5RCoreKat000007\" data-pack=\"l5r5e.core-techniques-kata\" data-type=\"Item\" data-id=\"L5RCoreKat000007\">(kata) Warrior’s Resolve</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "20",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000027",
+      "name": "Elemental Legionnaire",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "133"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Command</td><td>Skill</td></tr><tr><td>Medicine</td><td>Skill</td></tr><tr><td>Smithing</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-kata\">(kata) Rank 1-3 Kata</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000076\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000076\">(shuji) Great Anvil's Measure</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000086\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000086\">(shuji) Moment of Glory</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "24",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000028",
+      "name": "General",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "133"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Social Skills</td><td>Skill Group</td></tr><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Government</td><td>Skill</td></tr><tr><td>Survival</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-kata\">(kata) Rank 1-2 Kata</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-rituals\">(ritual) Rank 1-3 Rituals</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-shuji\">(shuji) Rank 1-4 Shuji</a> (prereq)</td><td>Tech. Grp.</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "50",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000029",
+      "name": "Lion's Pride Warrior",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "133"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Command</td><td>Skill</td></tr><tr><td>Sentiment</td><td>Skill</td></tr><tr><td>Survival</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-kata\">(kata) Rank 1-3 Kata</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000038\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000038\">(shuji) A Samurai’s Fate</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000085\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000085\">(shuji) Battle of No Escape</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "24",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000030",
+      "name": "Master Saboteur",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "134"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Trade Skills</td><td>Skill Group</td></tr><tr><td>Government</td><td>Skill</td></tr><tr><td>Martial Arts [Unarmed]</td><td>Skill</td></tr><tr><td>Medicine</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-ninjutsu\">(ninjutsu) Rank 1-2 Ninjutsu</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-rituals.Item.L5RCoreRit000030\" data-pack=\"l5r5e.core-techniques-rituals\" data-type=\"Item\" data-id=\"L5RCoreRit000030\">(ritual) Imbue Thunder</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-ninjutsu.Item.L5RCoreNin000018\" data-pack=\"l5r5e.core-techniques-ninjutsu\" data-type=\"Item\" data-id=\"L5RCoreNin000018\">(ninjutsu) Wreak Havoc</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "40",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000031",
+      "name": "Poet of War",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "134"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Social Skills</td><td>Skill Group</td></tr><tr><td>Composition</td><td>Skill</td></tr><tr><td>Culture</td><td>Skill</td></tr><tr><td>Sentiment</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-shuji\">(shuji) Rank 1-2 Fire Shuji</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000072\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000072\">(shuji) Borrowed Courage</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000082\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000082\">(shuji) Coursing March Chant</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "20",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000032",
+      "name": "Quartermaster",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "135"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Trade Skills</td><td>Skill Group</td></tr><tr><td>Courtesy</td><td>Skill</td></tr><tr><td>Government</td><td>Skill</td></tr><tr><td>Tactics</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-shuji\">(shuji) Rank 1-2 Air Shuji</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-shuji\">(shuji) Rank 1-2 Water Shuji</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000075\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000075\">(shuji) Fortress of Necessity</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "24",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000033",
+      "name": "Renowned Warrior",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "135"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Command</td><td>Skill</td></tr><tr><td>Culture</td><td>Skill</td></tr><tr><td>Performance</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-kata\">(kata) Rank 1-2 Kata</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kata.Item.L5RCoreKat000003\" data-pack=\"l5r5e.core-techniques-kata\" data-type=\"Item\" data-id=\"L5RCoreKat000003\">(kata) Heartpiercing Strike</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000079\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000079\">(shuji) Righteous Example</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "16",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000034",
+      "name": "Spirit Caller",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "136"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Scholar Skills</td><td>Skill Group</td></tr><tr><td>Courtesy</td><td>Skill</td></tr><tr><td>Meditation</td><td>Skill</td></tr><tr><td>Performance</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-rituals\">(ritual) Rank 1-2 Rituals</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000010\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000010\">(shuji) Ancestry Unearthed</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000083\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000083\">(shuji) Preserve Strength</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "38",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000035",
+      "name": "Sumai Master",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "136"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Social Skills</td><td>Skill Group</td></tr><tr><td>Culture</td><td>Skill</td></tr><tr><td>Martial Arts [Unarmed]</td><td>Skill</td></tr><tr><td>Theology</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-kata\">(kata) Rank 1-2 Kata</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-rituals.Item.L5RCoreRit000026\" data-pack=\"l5r5e.core-techniques-rituals\" data-type=\"Item\" data-id=\"L5RCoreRit000026\">(ritual) Beseech Hida's MIght</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kata.Item.L5RCoreKat000065\" data-pack=\"l5r5e.core-techniques-kata\" data-type=\"Item\" data-id=\"L5RCoreKat000065\">(kata) Fierce Badger Style</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "30",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000036",
+      "name": "Sword Saint",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "136"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Martial Arts [Melee]</td><td>Skill</td></tr><tr><td>Meditation</td><td>Skill</td></tr><tr><td>Smithing</td><td>Skill</td></tr><tr><td>Tactics</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-kata\">(kata) Rank 1-5 Close Combat Kata</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kata.Item.L5RCoreKat000006\" data-pack=\"l5r5e.core-techniques-kata\" data-type=\"Item\" data-id=\"L5RCoreKat000006\">(kata) Soul Sunder</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000087\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000087\">(shuji) Victory Without a Sword</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "24",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000037",
+      "name": "War College Graduate",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "137"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Command</td><td>Skill Group</td></tr><tr><td>Culture</td><td>Skill</td></tr><tr><td>Government</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-kata\">(kata) Rank 1-3 Kata</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-shuji\">(shuji) Rank 1-3 Shuji</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-rituals.Item.L5RCoreRit000023\" data-pack=\"l5r5e.core-techniques-rituals\" data-type=\"Item\" data-id=\"L5RCoreRit000023\">(ritual) Beseech Akodo's Judgment</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "36",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000038",
+      "name": "In Service to a Lord",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "185"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Social Skills</td><td>Skill Group</td></tr><tr><td>Culture</td><td>Skill</td></tr><tr><td>Government</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-kata\">(kata) Rank 1-2 Kata</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000009\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000009\">(shuji) Wolf’s Proposal</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000066\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000066\">(shuji) Fluent Bargaining</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "24",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000039",
+      "name": "Perfect Land Sect Member",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "186"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Scholar Skills</td><td>Skill Group</td></tr><tr><td>Courtesy</td><td>Skill</td></tr><tr><td>Fitness</td><td>Skill</td></tr><tr><td>Labor</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-shuji\">(shuji) Rank 1-2 Water Shuji</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000070\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000070\">(shuji) Roar of Encouragement</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000020\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000020\">(shuji) Rallying Cry</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "24",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000040",
+      "name": "Ghostlands Warrior",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "186"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Command</td><td>Skill</td></tr><tr><td>Medicine</td><td>Skill</td></tr><tr><td>Survival</td><td>Skill</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kiho.Item.L5RCoreKih000003\" data-pack=\"l5r5e.core-techniques-kiho\" data-type=\"Item\" data-id=\"L5RCoreKih000003\">(kiho) Earth Needs No Eyes</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kata.Item.L5RCoreKat000009\" data-pack=\"l5r5e.core-techniques-kata\" data-type=\"Item\" data-id=\"L5RCoreKat000009\">(kata) Soaring Slice</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-rituals.Item.L5RCoreRit000018\" data-pack=\"l5r5e.core-techniques-rituals\" data-type=\"Item\" data-id=\"L5RCoreRit000018\">(ritual) Cleansing of Coral and Gold (Ivory Kingdoms Region)</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "36",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000041",
+      "name": "Astradhari",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "187"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Scholar Skills</td><td>Skill Group</td></tr><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Command</td><td>Skill</td></tr><tr><td>Courtesy</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-rituals\">(ritual) Rank 1-3 Rituals</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-mantra.Item.L5RCoreMan000001\" data-pack=\"l5r5e.core-techniques-mantra\" data-type=\"Item\" data-id=\"L5RCoreMan000001\">(mantra) Summon Mantra : [One Implement]</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000011\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000011\">(shuji) Touchstone of Courage</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "36",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000042",
+      "name": "Awakened Soul",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "142"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Social Skills</td><td>Skill Group</td></tr><tr><td>Scholar Skills</td><td>Skill Group</td></tr><tr><td>Culture</td><td>Skill</td></tr><tr><td>Meditation</td><td>Skill</td></tr><tr><td>Survival</td><td>Skill</td></tr><tr><td>Theology</td><td>Skill</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kiho.Item.L5RCoreKih000038\" data-pack=\"l5r5e.core-techniques-kiho\" data-type=\"Item\" data-id=\"L5RCoreKih000038\">(kiho) Eternal Mind’s Gate</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-rituals.Item.L5RCoreRit000035\" data-pack=\"l5r5e.core-techniques-rituals\" data-type=\"Item\" data-id=\"L5RCoreRit000035\">(ritual) Trance of Lives Past</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "44",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000043",
+      "name": "Forester",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "142"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Social Skills</td><td>Skill Group</td></tr><tr><td>Scholar Skills</td><td>Skill Group</td></tr><tr><td>Courtesy</td><td>Skill</td></tr><tr><td>Sentiment</td><td>Skill</td></tr><tr><td>Survival</td><td>Skill</td></tr><tr><td>Theology</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-invocations\">(invocation) Rank 1-2 Earth & Water Invocations</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-shuji\">(shuji) Rank 1-3 Shūji</a> (prereq)</td><td>Tech. Grp.</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "24",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000044",
+      "name": "Temple Abbot",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "143"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Social Skills</td><td>Skill Group</td></tr><tr><td>Scholar Skills</td><td>Skill Group</td></tr><tr><td>Culture</td><td>Skill</td></tr><tr><td>Meditation</td><td>Skill</td></tr><tr><td>Theology</td><td>Skill</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-rituals.Item.L5RCoreRit000004\" data-pack=\"l5r5e.core-techniques-rituals\" data-type=\"Item\" data-id=\"L5RCoreRit000004\">(ritual) Cleansing Rite</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kiho.Item.L5RCoreKih000025\" data-pack=\"l5r5e.core-techniques-kiho\" data-type=\"Item\" data-id=\"L5RCoreKih000025\">(kiho) Rejuvenating Breath</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-shuji.Item.L5RCoreShu000011\" data-pack=\"l5r5e.core-techniques-shuji\" data-type=\"Item\" data-id=\"L5RCoreShu000011\">(shuji) Touchstone of Courage</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "36",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000045",
+      "name": "Yōkai Hunter",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "143"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Scholar Skills</td><td>Skill Group</td></tr><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Command</td><td>Skill</td></tr><tr><td>Courtesy</td><td>Skill</td></tr><tr><td>Survival</td><td>Skill</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kiho.Item.L5RCoreKih000030\" data-pack=\"l5r5e.core-techniques-kiho\" data-type=\"Item\" data-id=\"L5RCoreKih000030\">(kiho) Blistering Retribution</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kata.Item.L5RCoreKat000070\" data-pack=\"l5r5e.core-techniques-kata\" data-type=\"Item\" data-id=\"L5RCoreKat000070\">(kata) Swallow’s Dart Style</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-kata.Item.L5RCoreKat000071\" data-pack=\"l5r5e.core-techniques-kata\" data-type=\"Item\" data-id=\"L5RCoreKat000071\">(kata) Tiger’s Lunge Style</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "36",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000046",
+      "name": "Bond with a spirit",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "140"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Scholar Skills</td><td>Skill Group</td></tr><tr><td>Aesthetics</td><td>Skill</td></tr><tr><td>Games</td><td>Skill</td></tr><tr><td>Meditation</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-invocations\">(invocation) Rank 1 Spirit's Elements Invocations</a> (prereq)</td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-rituals.Item.L5RCoreRit000002\" data-pack=\"l5r5e.core-techniques-rituals\" data-type=\"Item\" data-id=\"L5RCoreRit000002\">(ritual) Commune with the Spirits</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-rituals.Item.L5RCoreRit000022\" data-pack=\"l5r5e.core-techniques-rituals\" data-type=\"Item\" data-id=\"L5RCoreRit000022\">(ritual) Blessing of Fertile Fields</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "25",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000047",
+      "name": "Moon cultist",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "140"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Scholar Skills</td><td>Skill Group</td></tr><tr><td>Composition</td><td>Skill</td></tr><tr><td>Courtesy</td><td>Skill</td></tr><tr><td>Fitness</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-invocations\">(invocation) Rank 1-2 Water Invocations</a></td><td>Tech. Grp.</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-invocations.Item.L5RCoreInv000052\" data-pack=\"l5r5e.core-techniques-invocations\" data-type=\"Item\" data-id=\"L5RCoreInv000052\">(invocation) Hands of the Tides</a> (prereq)</td><td>Technique</td></tr><tr><td><a class=\"entity-link content-link\" draggable=\"true\" data-link=\"\" data-uuid=\"Compendium.l5r5e.core-techniques-rituals.Item.L5RCoreRit000010\" data-pack=\"l5r5e.core-techniques-rituals\" data-type=\"Item\" data-id=\"L5RCoreRit000010\">(ritual) Whispers to the Moon (Moon Cultist)</a> (prereq)</td><td>Technique</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "30",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreTit000048",
+      "name": "Spirits hunter",
+      "type": "title",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/title.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "deathly_turns",
+          "page": "21"
+        },
+        "description": "<h2>Curriculum</h2><table><tr><td>Martial Skills</td><td>Skill Group</td></tr><tr><td>Social Skills</td><td>Skill Group</td></tr><tr><td>Government</td><td>Skill</td></tr><tr><td>Theology</td><td>Skill</td></tr><tr><td><a class=\"compendium-link\" data-pack=\"l5r5e.core-techniques-rituals\">(ritual) Rank 1 Rituals</a> (prereq)</td><td>Tech. Grp.</td></tr></table>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "12",
+        "rank": 1,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "advancements": [],
+        "xp_used_total": 0
+      },
+      "folder": null
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "exportedAt": "2025-10-16T22:34:08.939Z",
+  "foundryVersion": "12.331",
+  "systemId": "l5r5e",
+  "pack": {
+    "label": "Techniques Mantra",
+    "collection": "l5r5e.core-techniques-mantra",
+    "type": "Item",
+    "system": "l5r5e"
+  },
+  "count": 2,
+  "documents": [
+    {
+      "_id": "L5RCoreMan000001",
+      "name": "Summon Mantra : [One Implement]",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/mantra.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "99"
+        },
+        "description": "<h2>Summoning Mantra: [Implement Name]</h2>\n<ul>\n<li>Rank 1: As a Support action, you may make a TN 3 Theology check to call forth one celestial implement. The ring of the check is determined by the divinity whose implement you are summoning. If you succeed, you summon and augment one readied item that becomes the celestial implement. Then, you must stake honor equal to two times your honor rank on upholding the implement’s restriction while you have the implement (see page 99). The implement persists until the end of the scene or until it is dispelled, at which point the blessing ends. If you break the implement’s restriction during this time, you lose your staked honor and the implement is dispelled. You cannot summon this implement again this scene.</li>\n<li>Rank 4: When a character you can perceive makes a check to use a celestial implement, if you have a readied celestial implement of your own, you may immediately make a TN 5 Theology check targeting that character to attempt to counter their implement’s effects. If your celestial implement’s element matches the counter element of the target’s implement, the TN is 2 instead. If you succeed, your target’s implement is dispelled. Your target counts as having failed the check to use it, with a shortfall equal to your ranks in Theology, and they do not apply any of its boons to the check.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "4",
+        "technique_type": "mantra"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMan000002",
+      "name": "Countering Mantra",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/mantra.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "99"
+        },
+        "description": "<h2>Countering Mantra</h2>\n<ul>\n<li>Activation: When a character you can perceive makes a check to use a celestial implement, if you have a readied celestial implement of your own, you may immediately make a TN 5 Theology check targeting that character to attempt to counter their implement’s effects. If your celestial implement’s element matches the counter element of the target’s implement, the TN is 2 instead.</li>\n<li>Effects: If you succeed, your target’s implement is dispelled. Your target counts as having failed the check to use it, with a shortfall equal to your ranks in Theology, and they do not apply any of its boons to the check.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "5",
+        "technique_type": "mantra"
+      },
+      "folder": null
+    }
+  ]
+}

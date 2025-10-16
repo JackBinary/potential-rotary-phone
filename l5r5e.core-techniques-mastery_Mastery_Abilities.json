@@ -1,0 +1,4114 @@
+{
+  "exportedAt": "2025-10-16T22:34:09.529Z",
+  "foundryVersion": "12.331",
+  "systemId": "l5r5e",
+  "pack": {
+    "label": "Mastery Abilities",
+    "collection": "l5r5e.core-techniques-mastery",
+    "type": "Item",
+    "system": "l5r5e"
+  },
+  "count": 100,
+  "documents": [
+    {
+      "_id": "L5RCoreMas000001",
+      "name": "The Mountain Does Not Fall",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crab.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "57"
+        },
+        "description": "<h2>The Mountain Does Not Fall (Mastery Ability):</h2>\n<ul>\n<li>At the beginning of your turn, you may spend 1 Void point. If you do, ignore all of your conditions, terrain, and negative persistent effects of techniques and abilities. Do not apply your disadvantages to checks. If you would die, you cling to life for a few moments longer instead (but still die when the effect ends). This effect persists until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000002",
+      "name": "Slayer’s Slash",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crab.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "58"
+        },
+        "description": "<h2>Slayer’s Slash (Mastery Ability):</h2>\n<ul>\n<li>Increase the severity of critical strikes you inflict on targets of silhouette 3 or larger by your ranks in Survival.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000003",
+      "name": "Ingenious Design",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crab.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "59"
+        },
+        "description": "<h2>Ingenious Design (Mastery Ability):</h2>\n<ul>\n<li>When you construct an item, you may add or remove one quality from the item. You must describe to the GM how the item possesses (or lacks) the usual quality, and the GM is the final arbiter of whether an addition (or subtraction) is appropriate.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000004",
+      "name": "Purge the Wicked",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crab.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "60"
+        },
+        "description": "<h2>Purge the Wicked (Mastery Ability)</h2>\n<ul>\n<li>Once per game session, you may spend 1 Void point to wield an invocation against all the wicked in your sight. Instead of affecting its usual targets, the next invocation technique you perform targets each Tainted being in range.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000005",
+      "name": "Treasures of the Carp",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crab.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "61"
+        },
+        "description": "<h2>Treasures of the Carp (Mastery Ability):</h2>\n<ul>\n<li>Once per game session, you may give away one item in your possession to reduce the TN of the next Social skill check you make targeting the recipient by an amount equal to the rarity of the item. For each point by which this would reduce the TN below 1, add a kept  set to an (op) result to your check.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000006",
+      "name": "Stir the Slumbering Spirit",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crane.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "62"
+        },
+        "description": "<h2>Stir the Slumbering Spirit (Mastery Ability)</h2>\n<ul>\n<li>Once per game session as a downtime activity, you may make a TN 4 Artisan (Void) check to awaken an item’s spirit. If you succeed, until the end of the game session, it becomes a nemuranai (see page 307) with a sealed invocation of your choice based on the item’s history. The GM is the final arbiter of the appropriateness of any invocation selected this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000007",
+      "name": "To Tread the Sword",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crane.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "63"
+        },
+        "description": "<h2>To Tread the Sword (Mastery Ability):</h2>\n<ul>\n<li>When you use the Guard action, instead of guarding one character, you may choose to guard a number of other characters in range up to your ranks in Martial Arts [Melee].</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000008",
+      "name": "The Lady’s Grace",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crane.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "64"
+        },
+        "description": "<h2>The Lady’s Grace (Mastery Ability)</h2>\n<ul>\n<li>Once per scene, you may spend 1 Void point to reduce your strife to 0. When you do, each friendly character in the scene may reduce their strife by your honor rank.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000009",
+      "name": "Strike with No Thought",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crane.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "65"
+        },
+        "description": "<h2>Strike with No Thought (Mastery Ability, Action):</h2>\n<ul>\n<li>Once per scene, as an Attack and Movement action, you may make a Martial Arts [Melee] (Void) check targeting one character at range 2–3 using a sheathed katana or wakizashi. The TN of this check is equal to your target’s vigilance.</li>\n<li>You immediately move to range 1 of your target and draw the weapon you used. If you succeed, your target suffers a critical strike with severity equal to the deadliness of your weapon plus your bonus successes.</li>\n<li>(op)+: One character of your choice at range 0–2 of your target per (op) spent this way suffers the Dazed and Disoriented conditions.</li>\n<li>(op) (op)+: Treat the maximum range of this technique as 1 higher per (op) (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000010",
+      "name": "Experiment and Adapt",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/dragon.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "66"
+        },
+        "description": "<h2>Experiment and Adapt (Mastery Ability):</h2>\n<ul>\n<li>Increase your supernatural resistance against Air, Earth, Fire, and Water invocations by your ranks in Theology. After another character performs an Air, Earth, Fire, or Water invocation targeting you, you may spend 1 Void Point to immediately perform that invocation, even if you have not learned it.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000011",
+      "name": "The Eyes Betray the Heart",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/dragon.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "67"
+        },
+        "description": "<h2>The Eyes Betray the Heart (Mastery Ability):</h2>\n<ul>\n<li>Once per scene when performing a skill check to investigate, you may spend (op) as follows:</li>\n<li>(op)+: You may reserve up to one dropped die per (op) spent this way. The next time you perform a check to interact with the person or thing you were investigating (such as a check targeting that person or a check to use that object), you may add any number of these reserved dice as kept dice. Then, remove any unused reserved dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000012",
+      "name": "Heart of the Dragon",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/dragon.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "68"
+        },
+        "description": "<h2>Heart of the Dragon (Mastery Ability):</h2>\n<ul>\n<li>Once per round, when performing an Attack action check, you may spend (op) as follows:</li>\n<li>(op): Perform a Strike action with a readied weapon you have not used for an Attack action this turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000013",
+      "name": "Blood of the Dragon",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/dragon.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "69"
+        },
+        "description": "<h2>Blood of the Dragon (Mastery Ability)</h2>\n<ul>\n<li>Once per scene, while you are benefiting from the enhancement effect of a kihō linked to one of your tattoos, when you activate a different kihō, you may spend 1 Void point. If you do, you may maintain both enhancement effects until the end of the scene or until you activate another kihō.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000014",
+      "name": "Akodo’s Final Lesson",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/lion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "70"
+        },
+        "description": "<h2>Akodo’s Final Lesson (Mastery Ability):</h2>\n<ul>\n<li>Once per game session during a skirmish or mass battle, after you fail a check, you may attempt the check again, treating the TN as 1.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000015",
+      "name": "Lion’s Pride",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/lion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "71"
+        },
+        "description": "<h2>Lion’s Pride (Mastery Ability, Action):</h2>\n<ul>\n<li>Once per game session as a Support action, you may attempt to convince everyone in the scene of the glorious reputation of one character, embellishing the truth as needed, by making a TN 5 Performance (Fire) check targeting one character. The TN of this check is 6 if you target yourself, and 4 if you target another Lion Clan character.</li>\n<li>If you succeed, reduce the TN of all of the character’s Social skill checks by 3 until the end of the scene, and the TN of all of the character’s other checks by 1.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000016",
+      "name": "Strength of a Thousand Ancestors",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/lion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "72"
+        },
+        "description": "<h2>Strength of a Thousand Ancestors (Mastery Ability, Action):</h2>\n<ul>\n<li>Once per game session, as a Support action, you may summon the spirit of an ancestor to possess you until the end of the scene. While possessed, you count as an Otherworldly being and use the profile of the ancestor (a non-specific human NPC profile such as the Venerable Provincial Daimyō on page 315, or, at the GM’s discretion, a PC with up to 180 XP that you have created in advance). Your character does not remember any time they spend possessed.</li>\n</ul>\n<h3>HONORED ANCESTORS</h3>\n<ul>\n<li>Your character has countless ancestors, and there are thus any number of individuals whose spirits they could summon. However, to be considerate of your group’s time, you should prepare the profile and a brief overview personality of any ancestor you wish to summon in advance.</li>\n<li>While roleplaying an ancestor, remember that you are portraying that individual (rather than your usual character) and they might have a different agenda and desires!</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000017",
+      "name": "Rending Jaws of the Lion",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/lion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "73"
+        },
+        "description": "<h2>Rending Jaws of the Lion (Mastery Ability)</h2>\n<ul>\n<li>Once per round, when performing an Attack action check while Enraged, you may spend 1 Void point to alter each kept die containing (su) to a result containing (ex).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000018",
+      "name": "Insufferable Genius",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/phoenix.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "74"
+        },
+        "description": "<h2>Insufferable Genius (Mastery Ability):</h2>\n<ul>\n<li>After you succeed at a check to acquire or remember information, you may spend 1 Void point and choose any number of characters with whom you can communicate. You must describe how the knowledge you acquired helps each character you choose. Each of those characters reduces the TN of their next check by 1 (to a minimum of 1) and suffers 1 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000019",
+      "name": "Master of Elements",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/phoenix.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "75"
+        },
+        "description": "<h2>Master of Elements (Mastery Ability):</h2>\n<ul>\n<li>Once per round, after you perform an invocation, you may spend 1 Void point to switch to any other stance and perform another invocation that shares no action types with the first invocation (Attack, Support, etc.).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000020",
+      "name": "Stand of Honor",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/phoenix.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "76"
+        },
+        "description": "<h2>Stand of Honor (Mastery Ability)</h2>\n<ul>\n<li>At the end of your turn, you may spend 1 Void point to prepare to fend off advancing foes; this effect persists until the start of your next turn. When an enemy enters the range of one of your readied weapons, you may immediately make a Strike action using that weapon and targeting that enemy; if you succeed, the target suffers the Immobilized condition in addition to any other effects.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000021",
+      "name": "Demon, Begone!",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/phoenix.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "77"
+        },
+        "description": "<h2>Demon, Begone! (Mastery Ability, Action):</h2>\n<ul>\n<li>As an action, you may make a TN 3 Meditation (Void) check by plucking the string of a bow you are wielding, targeting each Otherworldly being within a number of range bands equal to your ranks in Meditation.</li>\n<li>If you succeed, each target suffers strife equal to your ranks in Meditation plus your bonus successes.</li>\n<li>(op): Each target must resist with a TN 3 Meditation (Void) check or treat its physical and supernatural resistances as 0. This effect persists until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000022",
+      "name": "Little Truths",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/scorpion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "78"
+        },
+        "description": "<h2>Little Truths (Mastery Ability)</h2>\n<ul>\n<li>When you perform a check targeting another character to which one of your advantages or disadvantages applies, you may choose another advantage or disadvantage that shares a type with it (see Advantages and Disadvantages, on page 99). Unless they have clear evidence to the contrary, the target comes to believe that you have the advantage or disadvantage you chose instead of the one you actually have.</li>\n<li>If the target attempts to seize or exploit this false advantage or disadvantage (see page 101), their check automatically counts as failing with a shortfall of 3. They suffer 3 strife and the Disoriented condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000023",
+      "name": "The Final Silence",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/scorpion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "79"
+        },
+        "description": "<h2>The Final Silence (Mastery Ability, Action):</h2>\n<ul>\n<li>As an Attack and Movement action, you may make a TN 4 Martial Arts [Unarmed] (Air) check targeting any number of minion NPCs at range 0–4.</li>\n<li>If you succeed during a narrative scene, you silently kill all targets over the course of a few minutes.</li>\n<li>If you succeed during a conflict scene, at the end of each of your turns, you may silently kill one of these targets at range 0–2 (in addition to your other actions).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000024",
+      "name": "World of Shadows",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/scorpion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "80"
+        },
+        "description": "<h2>World of Shadows (Mastery Ability):</h2>\n<ul>\n<li>You may spend 1 Void point to attempt to establish that something in the scene has been an illusion all along. This could be an object, image of a person, or other illusory phenomenon you could summon with an invocation. You must make the check to summon this illusion using an invocation, with adjustments to the TN for plausibility determined by the GM. If you succeed, you reveal that the thing you chose is in fact an illusion you wove, and has been for at least a few moments. If you fail, your character clearly did not think to set up an illusion—the object is as it appears. As with all matters, the GM has final say over acceptable uses of this ability.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000025",
+      "name": "Bound in Ink",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/scorpion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "81"
+        },
+        "description": "<h2>Bound in Ink (Mastery Ability):</h2>\n<ul>\n<li>Once per scene, when you are targeted by an invocation or mahō technique, you may resist with a TN 4 Composition check. If you succeed, you absorb the invocation or mahō, nullifying all of its effects and creating a ward containing it (see page 190).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000026",
+      "name": "A Friend in Every City",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/unicorn.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "82"
+        },
+        "description": "<h2>A Friend in Every City (Mastery Ability):</h2>\n<ul>\n<li>As a downtime activity in any place of human habitation, you may make a TN 4 Commerce (Water) check to find a merchant with whom you (or your relatives) have done business.</li>\n<li>If you succeed, you find this individual and gain the Ally advantage for them (see page 101), which predisposes them to assist you in various ways.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000027",
+      "name": "The Spirits Unbound",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/unicorn.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "83"
+        },
+        "description": "<h2>The Spirits Unbound (Mastery Ability)</h2>\n<ul>\n<li>At the end of your turn, you may spend 1 or more Void points to unleash the powers within an equal number of your meishōdō talismans, destroying these talismans and freeing the entities within. You may immediately perform each of the invocations for which the talismans were created, reducing the TN by 3.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000028",
+      "name": "Scouring Sirocco",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/unicorn.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "84"
+        },
+        "description": "<h2>Scouring Sirocco (Mastery Ability)</h2>\n<ul>\n<li>Once per round, after you inflict the Incapacitated condition on a target (or defeat a minion NPC), you may perform a Strike action against a different target.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000029",
+      "name": "I Will Always Return",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/unicorn.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "85"
+        },
+        "description": "<h2>I Will Always Return (Mastery Ability):</h2>\n<ul>\n<li>Once per game session, you may call out for your steed. At the beginning of the following round, your horse arrives, regardless of any barriers that might normally have prevented it from reaching your location. If your steed has recently been slain, its spirit will possess the closest horse to you and come to your aid regardless, such is its loyalty to you.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000030",
+      "name": "Sensing the Breeze",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/unicorn.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "86"
+        },
+        "description": "<h2>Sensing the Breeze (Mastery Ability):</h2>\n<ul>\n<li>Once per round, after you defend against damage, you may move 1 range band and you may switch to a different stance.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000031",
+      "name": "A Bottomless Ocean",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "87"
+        },
+        "description": "<h2>A Bottomless Ocean (Mastery Ability)</h2>\n<p>You can increase your bonus curriculum skills to rank 6 (paying 12 XP per skill raised from rank 5 to rank 6 this way).</p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000032",
+      "name": "Experimental Concotion",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/dragon.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "80"
+        },
+        "description": "<h2>Experimental Concoction (Mastery Ability, Action)</h2>\n<ul>\n<li>Once per game session as a Support action, you may make a TN 4 Medicine (Water) check to combine two of your potions that share at least one invocation effect keyword (mend, purify, smite, etc.). If you succeed, the two potions become a single concoction with all properties; when this concoction is used, resolve the effects of both of the prepared invocations that are part of it.</li>\n<li>A concoction cannot be combined with another potion or concoction.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000033",
+      "name": "Favored Counselor",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crane.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "81"
+        },
+        "description": "<h2>Favored Counselor (Mastery Ability):</h2>\n<ul>\n<li>When making a check to perform a ritual, you may spend ~&gt; as follows:</li>\n<li>~&gt;+ : One participant in the ritual with vigilance lower than or equal to ~&gt; spent this way feels especially indebted to you. You gain the Ally [that character] advantage (see page 101 of the core rulebook).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000034",
+      "name": "Essence of Emptiness",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/mastery_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "82"
+        },
+        "description": "<h2>Essence of Emptiness (Mastery Ability):</h2>\n<ul>\n<li>Once per scene, after a character rolls dice, you may receive 3 fatigue to alter any number of their rolled dice to blank results.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000035",
+      "name": "Temple of the Heart",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/phoenix.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "83"
+        },
+        "description": "<h2>Temple of the Heart (Mastery Ability)</h2>\n<ul>\n<li>You may keep two kami within you at once instead of one. All effects of The Body Is a Shrine still apply. If two kami share an element, the effects do not stack for that element.</li>\n</ul>\n\n<h2>Kaito Spirit Seeker School [Bushi, Shugenja]</h2>\n<p>Within the Phoenix Clan's Kaito family is a small group of spiritual diplomats known as Spirit Seekers. These individuals spend much of their adult lives traveling in the Phoenix lands and beyond, carefully and patiently relocating spirits from places of abundance to places in need of a kami's presence to mend a disparity. Acting as safe vessels, these spirit seekers invite the kami to dwell within their bodies until the kami can be released into a new area.</p>\n\n<ul>\n<li>Rings: +1 Earth, +1 Water</li>\n<li>Starting Skills (choose five): +1 Composition, +1 Courtesy, +1 Games, +1 Martial Arts [Ranged], +1 Performance, +1 Sentiment, +1 Theology</li>\n<li>Honor: 4S</li>\n<li>Techniques Available: Invocations (\"), Kata (~)</li>\n</ul>\n\n<h3>Starting Techniques:</h3>\n<ul>\n<li>Invocations (choose two): Armor of Earth, Extinguish, Dominion of Suijin, Tempest of Air</li>\n<li>Kata (choose two): Striking as Air, Striking as Earth, Striking as Fire, Striking as Water</li>\n</ul>\n\n<h3>The Body Is a Shrine (School Ability)</h3>\n<p>When you are in the presence of a kami (such as an elemental kami or other Supernatural being the GM deems appropriate), you may make a TN 4 Courtesy check using a ring associated with the kami's element (its highest ring) or one of its elements (if it has multiple highest rings). If you fail, you suffer 3 fatigue and 3 strife and cannot attempt to act as a vessel again this session.</p>\n<p>If you succeed, you convince the kami to use your body as a vessel. This grants you the following:</p>\n<ul>\n<li>Any time you make a check using one of the kami's elements, you may reroll a number of dice up to your school rank.</li>\n<li>Any time you make a check using one of the kami's opposing elements, increase the TN by 1 and add one kept • set to :;, Q .</li>\n<li>If you unmask, the kami is released (see Releasing Kami).</li>\n</ul>\n\n<h3>Starting Outfit:</h3>\n<ul>\n<li>Traveling clothes, sanctified robes, yumi (bow), quiver of arrows, wakizashi (short sword), knife, bowyer's kit or divination kit.</li>\n</ul>\n\n<h3>OPPOSING ELEMENTS</h3>\n<ul>\n<li>Air is opposed by Fire.</li>\n<li>Earth is opposed by Air.</li>\n<li>Fire is opposed by Water.</li>\n<li>Water is opposed by Earth.</li>\n</ul>\n\n<h3>PROPER OFFERINGS</h3>\n<p>Proper gifts and reverence, as discussed on page 189 of the core rulebook, can reduce TN of The Body Is a Shrine ability as if it were an invocation.</p>\n\n<h3>RELEASING KAMI</h3>\n<p>As a downtime activity, you may peacefully release one or more kami you are housing. If there is a nearby shrine or other appropriately spiritual place, the kami likely settles there. Alternately, if you unmask or if the GM deems it narratively appropriate, the spirits within you can become irate and escape, manifesting using their standard profiles (such as the manifest kami found on pages 322-324 of the core rulebook).</p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000036",
+      "name": "The Flower Binds the Room",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crab.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "84"
+        },
+        "description": "<h2>The Flower Binds the Room (Mastery Ability):</h2>\n<ul>\n<li>Once per game session, you can use your school ability on any check (action or downtime activity) to alter your environment (such as a check to reposition a painting to change the atmosphere of a room or a check to obscure a trap with sand). When you do, you may also add or remove one supernatural terrain quality from the area you affect.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000037",
+      "name": "Walk the Hidden Ways",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/lion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "85"
+        },
+        "description": "<h2>Walk the Hidden Ways (Mastery Ability):</h2>\n<ul>\n<li>When a Kitsu Realm Wanderer uses their Walk the Hidden Ways mastery ability to transport one or more characters to another realm, they always appear in a place that is not immediately physically hazardous (for example, they would not appear directly in the middle of a pit of magma).</li>\n<li>When the Kitsu Realm Wanderer returns one or more characters to the Mortal Realm, they may return to any known place of power for the realm they are leaving (including any they previously created), subject to GM discretion.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000038",
+      "name": "Rippling Flame",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/technique.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "86"
+        },
+        "description": "<h2>Rippling Flame (Mastery Ability)</h2>\n<ul>\n<li>While performing a Fire invocation, you may spend a Void point to target additional characters equal to your ranks in Theology or to increase the maximum range of the technique by 1 range band.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000039",
+      "name": "Shadow Assassin",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/scorpion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "87"
+        },
+        "description": "<h2>Shadow Assassin (Mastery Ability, Action)</h2>\n<ul>\n<li>Once per scene as an Attack and Movement action, you may summon a shadow assassin. The shadow has no corporeal form and cannot be harmed.</li>\n<li>At the end of each of your turns, you may perform a Strike action using one of your readied weapons targeting any character in the scene who is in Obscuring terrain (or other darkness, at the GM's discretion), regardless of range. Damage dealt this way is supernatural. This effect persists until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000040",
+      "name": "Master of Beasts",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/unicorn.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "88"
+        },
+        "description": "<h2>Master of Beasts (Mastery Ability, Action):</h2>\n<ul>\n<li>Once per game as a Support action, you may summon a number of animals equal to your Water Ring that are combat (f.l) conflict rank 3 or lower. These animals appear from the local environment. They are friendly to you and do their best to fulfill your commands. These animals stay to assist you until the end of the scene. If an animal becomes Compromised or incapacitated, it flees back into the wilds.</li>\n<li>The GM is the final arbiter over what types of animals, if any, are available in a given environment, as well as whether animals remain after the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000041",
+      "name": "Strike First, Strike Last",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/scorpion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "89"
+        },
+        "description": "<h2>Strike First, Strike Last (Mastery Ability):</h2>\n<ul>\n<li>When you inflict a critical strike during a duel or skirmish, treat the deadliness of your weapon as increased by the difference between your initiative and your target's initiative (subtracting the lower of the two initiative values from the higher).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000042",
+      "name": "Spy Network",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crane.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "90"
+        },
+        "description": "<h2>Spy Network (Mastery Ability)</h2>\n<ul>\n<li>As a downtime activity in any place of human habitation, you may make a TN 4 Skulduggery check to find an agent of the Daidoji spy network. If you succeed, you find this individual among the inhabitants of the city and gain the Ally advantage for them (see page 101 of the core rulebook). If you succeed with 2 or more bonus successes, the individual may occupy a low-to-mid-level position in a household or organization of your choosing.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000043",
+      "name": "Post Facto",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crane.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "91"
+        },
+        "description": "<h2>Post Facto (Mastery Ability):</h2>\n<ul>\n<li>Once per game session as a Scheme and Support action, you may make a TN 3 Government (Earth) check. If you succeed, you reveal a huge legal loophole or arcane precedent that legally justifies the actions of you and your allies during the scene. Others can refuse to accept your logic, but must forfeit honor equal to your ranks in Government plus your bonus successes to do so.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000044",
+      "name": "Victory is the Greatest Honor",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/lion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "92"
+        },
+        "description": "<h2>Victory Is the Greatest Honor (Mastery Ability):</h2>\n<ul>\n<li>Once per session after failing a Martial or Social check, you may stake up to your school rank in honor to re-roll the check. When you re-roll, you may add a number of dice equal to the honor staked to the total of the re-rolled dice.</li>\n<li>If you fail the check after re-rolling, you forfeit all honor staked.</li>\n<li>If you succeed, you instead gain 1 honor and 1 glory.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000045",
+      "name": "One With the Shadows",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/technique.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "93"
+        },
+        "description": "<h2>One with the Shadows (Mastery Ability):</h2>\n<ul>\n<li>When you perform a check involving stealth, deception, or concealment, you may add two kept dice to your result. You may do this up to three times per session.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000046",
+      "name": "Sudden Clarity",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/phoenix.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "94"
+        },
+        "description": "<h2>Sudden Clarity (Mastery Ability)</h2>\n<ul>\n<li>When you use your school ability, you may remove one or more of the following conditions from each chosen character: Dazed, Disoriented, Enraged, Exhausted, Intoxicated. Additionally, each chosen character removes 3 fatigue.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000047",
+      "name": "Curse of Musubi-no-Kami",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/technique.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "95"
+        },
+        "description": "<h2>Curse of Musubi-no-Kami (Mastery Ability):</h2>\n<ul>\n<li>Once per scene, after successfully performing the Ties that Bind ritual, you may spend 1 Void point to catch a glimpse of all major future consequences of the relationship identified by the ritual. You also learn of one other relationship between your target and another character that will guarantee that the consequences you predict will not come to pass.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000048",
+      "name": "The Lowest Bow",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/technique.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "96"
+        },
+        "description": "<h2>The Lowest Bow (Mastery Ability):</h2>\n<ul>\n<li>When performing an Attack action using Martial Arts [Melee], you may spend (op) as follows:</li>\n<li>(op)+: Choose one character other than your target at range 2 with vigilance lower than or equal to (op) spent this way. That character suffers a critical strike with severity equal to your weapon's deadliness plus your ranks in Martial Arts [Melee].</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000049",
+      "name": "Echoes of Ancient Days",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/dragon.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "97"
+        },
+        "description": "<h2>Echoes of Ancient Days (Mastery Ability)</h2>\n<ul>\n<li>When you use your school ability, you may choose a number of characters up to your ranks in Performance who can hear you. Each chosen character also gains the benefits of the kihō's enhancement effect as long as it persists on you.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000050",
+      "name": "The Standing Death",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crab.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "98"
+        },
+        "description": "<h2>The Standing Death (Mastery Ability):</h2>\n<ul>\n<li>Once per game session, when you perform the Challenge action (see page 263 of the core rulebook), you may choose up to 6 additional characters who can hear you as targets. These targets must have status lower than or equal to your original target's. If you succeed, each target must fight you in a clash one at a time in an order of their choosing (or flee the battle). Each clash lasts one round. After each clash, you regain fatigue equal to your Earth Ring. Until all of these clashes have concluded (or you have been killed), none of your targets can perform Attack or Scheme actions outside of their individual clashes.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000051",
+      "name": "Emerald Explorer",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/imperial.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "232"
+        },
+        "description": "<h2>Emerald Explorer</h2>\n<ul>\n<li>The Emerald Explorer is a skilled navigator and naturalist, trained in the art of observing and understanding the natural world. They are adept at reading environmental cues, tracking animal movements, and identifying plant life, making them invaluable in wilderness exploration and survival scenarios.</li>\n<li>When performing a check that involves natural observation, such as a Survival (Nature) check to locate a hidden trail or a Sentiment (Nature) check to understand an animal's behavior, the Emerald Explorer may reroll one die.</li>\n<li>They possess a deep understanding of the balance of nature and are often able to detect subtle changes in the environment that others might miss. This makes them particularly effective in identifying threats or opportunities in the wild.</li>\n<li>Starting Skills (choose five): +1 Fitness, +1 Survival, +1 Composition, +1 Seafaring, +1 Sentiment, +1 Courtesy, +1 Command</li>\n<li>Rings: +1 Earth, +1 Water</li>\n<li>Honor: 50</li>\n<li>Techniques Available: Kata (), Rituals (), Shūji ()</li>\n<li>Starting Techniques: Shūji (choose one): Shallow Waters, Weight of Duty</li>\n<li>Vision of the Wild (School Ability): Once per round, after a character at range 0–4 succeeds on a Survival or Observation action check, you may cause them to receive a +1 bonus to their next Survival or Observation check.</li>\n<li>Starting Outfit: Traveling clothes, field journal, compass, map, satchel of supplies, field kit, personal chop, an attendant (see page 64 of the core rulebook), or Rokugani pony (see page 326 of the core rulebook).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000052",
+      "name": "Blessings of the Emperor",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/imperial.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "233"
+        },
+        "description": "<h2>Blessings of the Emperor</h2>\n<ul>\n<li>Rings: +1 Air, +1 Fire</li>\n<li>Starting Skills (choose five): +1 Command, +1 Composition, +1 Courtesy, +1 Culture, +1 Design, +1 Government, +1 Sentiment</li>\n<li>Honor: 45</li>\n<li>Techniques Available: Kata (), Rituals (), Shūji ()</li>\n<li>Starting Techniques: Shūji (choose one): Courtier’s Resolve, Stirring the Embers; Shūji: Slippery Maneuvers</li>\n<li>Necessary Actions (School Ability): You never forfeit honor or glory in order to lie or deceive for the good of the Emperor and Empire (in your opinion). However, you must forfeit twice as much honor or glory to lie for your personal gain (again, in your opinion). When a character stakes or forfeits an amount of honor or glory in order to act against your desires, you may force them to increase that amount by your school rank.</li>\n<li>Starting Outfit: Ceremonial clothes, wakizashi (short sword), any one weapon of rarity 6 or lower, calligraphy set, traveling pack, a trustworthy attendant (see page 64 of the core rulebook).</li>\n<li>RANK 1: Social Skills — Composition, Culture, Government — Rank 1 Air Shūji (); Tech. Grp. = Civility Foremost (); Technique = Tea Ceremony ()</li>\n<li>RANK 2: Scholar Skills — Command, Courtesy, Martial Arts [Melee] — Rank 1–2 Water Shūji (); Tech. Grp. = Awe of Heaven (); Technique = Prey on the Weak ()</li>\n<li>RANK 3: Artisan Skills — Commerce, Courtesy, Sentiment — Rank 1–3 Fire Shūji (); Tech. Grp. = Regal Bearing (); Technique = The Wind Blows Both Ways ()</li>\n<li>RANK 4: Scholar Skills — Aesthetics, Command, Skulduggery — Rank 1–4 Fire Shūji (); Tech. Grp. = Buoyant Arrival (); Technique = Wolf's Proposal ()</li>\n<li>RANK 5: Social Skills — Composition, Culture, Design — Rank 1–5 Air Shūji (); Tech. Grp. = Sear the Wound (); Technique = The Immovable Hand of Peace ()</li>\n<li>RANK 6: Majesty of the Throne (Mastery Ability, Action): Once per scene, as a Scheme action, you may make a Command (Water) check targeting any number of characters at range 0–5 of you. The TN of this check is equal to the highest status rank among your targets. If you succeed, all targets suffer the Dazed and Disoriented conditions.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000053",
+      "name": "Majesty of the Throne",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/imperial.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "234"
+        },
+        "description": "<h2>Majesty of the Throne</h2>\n<p>Not found in the provided text.</p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000054",
+      "name": "Foreseen in the Stars",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/imperial.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "235"
+        },
+        "description": "<h2>Foreseen in the Stars</h2>\n<ul>\n<li>When a character is born under a specific alignment or fate, their destiny is foreseen in the stars. This alignment is revealed through a celestial event, often during a significant moment in their early life.</li>\n<li>The character gains a unique destiny trait that reflects their fate, such as being destined for greatness, marked by tragedy, or chosen by a higher power.</li>\n<li>When making a check to determine the outcome of a major event in their life (such as a political decision, a battle, or a personal revelation), the character may reroll once and use the result as a guide.</li>\n<li>If the character's fate is revealed through a celestial alignment, they may gain a bonus success on any check related to fate, destiny, or prophecy, equal to their honor rank.</li>\n<li>At rank 3, the character may choose one of the following: a celestial omen, a prophetic dream, or a vision of the future that grants them a one-time advantage in a critical moment.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000055",
+      "name": "The Clouds Part",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/imperial.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "236"
+        },
+        "description": "<h2>The Clouds Part</h2>\n<ul>\n<li>When you spend a Void point to Seize the Moment (see page 36 of the core rulebook), you may also treat your ranks in the skill you are using as being equal to your school rank. If your ranks in the skill are equal to or higher than your school rank, or if you have 5 ranks in the skill, you may add one kept  set to an (op) result instead.</li>\n<li>Once per scene, you may use one kihō technique you do not know. You may use the Meditation skill in place of the skill check normally required to use the kihō (you must still use the ring required for the kihō).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000056",
+      "name": "Favor of the Fortunes",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/technique.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "237"
+        },
+        "description": "<h2>Favor of the Fortunes</h2>\n<ul>\n<li>When you spend a Void point to Seize the Moment (see page 36 of the core rulebook), you may also treat your ranks in the skill you are using as being equal to your school rank. If your ranks in the skill are equal to or higher than your school rank, or if you have 5 ranks in the skill, you may add one kept  set to an (op) result instead.</li>\n<li>Once per scene, you may use one kihō technique you do not know. You may use the Meditation skill in place of the skill check normally required to use the kihō (you must still use the ring required for the kihō).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000057",
+      "name": "One with the Void",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/technique.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "238"
+        },
+        "description": "<h2>One with the Void</h2>\n<ul>\n<li>As a Scheme and Support action, you may transform between your human and true forms, or into another silhouette 1 or 2 natural creature at the GM’s discretion (you cannot mimic specific individuals). Observers with vigilance lower than or equal to your school rank plus your ranks in Performance do not detect any flaws in your façade. However, certain key features persist across all of your forms. If you become Compromised, your disguise slips, subtly revealing your true tails, ears, feet, or shadow.</li>\n<li>While in your true form, your supernatural resistance and physical resistance each increase by 2, and when you make a skill check, you may alter the result of one die containing (su) to a result containing (ex). While in your true form, your Attack action checks gain the following new opportunity: (op) (op): After resolving this action, if your target is Incapacitated or Unconscious, you devour or banish their body or soul, instantly killing them.</li>\n<li>Starting Skills (choose three): +1 Courtesy, +1 Games, +1 Performance, +1 Martial Arts [Unarmed], +1 Survival, +1 Theology</li>\n<li>Rings: +1 Air, +1 Fire</li>\n<li>Honor: 30</li>\n<li>Techniques Available: Invocations (), Rituals (), Shūji ()</li>\n<li>Disadvantage: False Identity (see page 247)</li>\n<li>Starting Techniques: Invocations: Nature’s Touch, Token of Memory; Ritual: Commune with the Spirits</li>\n<li>Fox Spirit (School Ability): Your true form is that of a large fox with up to eight tails if you are a full-blooded kitsune, or a human with certain vulpine traits if you possess human ancestry as well. As a Scheme and Support action, you may transform between your human and true forms, or into another silhouette 1 or 2 natural creature at the GM’s discretion (you cannot mimic specific individuals). Observers with vigilance lower than or equal to your school rank plus your ranks in Performance do not detect any flaws in your façade. However, certain key features persist across all of your forms. If you become Compromised, your disguise slips, subtly revealing your true tails, ears, feet, or shadow.</li>\n<li>Starting Outfit: Take the starting outfit of any one other school, as appropriate to your false identity.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000058",
+      "name": "Ninth Tail Ascension",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/technique.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "239"
+        },
+        "description": "<h2>The following apply to a character with the Kolat Saboteur Conspiracy distinction:</h2>\n<ul>\n<li>You are a member of the Kolat, a secretive and subversive affiliation of sects devoted to ending Rokugani reverence of the Celestial Heavens and establishing humanity as its own ruler. Your primary purpose is to undertake missions for the Kolat as instructed by your handler—an individual within your branch of the conspiracy whose identity may or may not be known to you. Many members live under a cover identity.</li>\n<li>You have the following Rings: +1 Air, +1 Water.</li>\n<li>Starting Skills (choose five): +1 Commerce, +1 Fitness, +1 Martial Arts [Melee], +1 Martial Arts [Ranged], +1 Medicine, +1 Meditation, +1 Skulduggery.</li>\n<li>Honor: 20.</li>\n<li>Disadvantage: False Identity (see page 247).</li>\n<li>Techniques Available: Kata (), Shūji ().</li>\n<li>Starting Techniques: Kata: Veiled Menace Style; Ninjutsu: Skulk; Shūji: Cadence.</li>\n<li>Professional Saboteur (School Ability): Once per game session at the beginning of a scene, you may reveal that an NPC in that scene is the target of your current assignment. The GM then decides what your assignment entails, such as sabotaging the target’s current activities, framing them for a crime, killing them, or even making sure they survive to play their part in a long and sinister plot. Until the end of the session, when you make a skill check targeting the chosen NPC, you may reroll a number of dice up to your school rank.</li>\n<li>Starting Outfit: Ceremonial clothes, common clothes, traveling clothes, daishō (katana and wakizashi), knife, five shuriken, one vial of poison, traveling pack.</li>\n</ul>\n<h3>Advancement Progression:</h3>\n<ul>\n<li><strong>RANK 1:</strong> Rank 1 Kata (), Technique: Deadly Sting (), Technique: Shallow Waters ()</li>\n<li><strong>RANK 2:</strong> Rank 1–2 Kata (), Technique: Noxious Cloud (), Technique: Tributaries of Trade ()</li>\n<li><strong>RANK 3:</strong> Rank 1–3 Kata (), Technique: Ebb and Flow (), Technique: Spin the Web ()</li>\n<li><strong>RANK 4:</strong> Rank 1–4 Kata (), Technique: Silencing Stroke (), Technique: Wolf’s Proposal ()</li>\n<li><strong>RANK 5:</strong> Rank 1–5 Kata (), Rank 1–5 Ninjutsu (), Technique: Buoyant Arrival ()</li>\n<li><strong>RANK 6:</strong> Usher In the New Age (Mastery Ability): As a downtime activity, you may overcome or bypass an NPC's guards or other security measures in order to gain access to them. Make a Skulduggery (Air) check targeting the NPC, with a TN equal to their highest conflict rank. If you succeed and the chosen NPC is a minion or an adversary the GM deems non-essential to the campaign plot, you accomplish your goal, such as assassinating the NPC or delivering an effective threat, in a method of your choosing (subject to the GM’s approval). If the NPC is an important adversary, you confront the NPC alone, likely beginning a conflict scene. (op) (op): Your efforts go completely unnoticed by anyone except possibly the target. (op) (op): If you kill the target, their death appears to be the result of an accident or natural causes (although a skilled investigator may still uncover the truth).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000059",
+      "name": "Usher in the New Age",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/technique.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "240"
+        },
+        "description": "<h2>Usher in the New Age</h2>\n<ul>\n<li>You are a key figure in the transition of power or ideology, recognized by influential figures as a harbinger of change. You are seen as someone who can help shape the future of Rokugan through your actions and influence.</li>\n<li>When performing a check that benefits from your role as a catalyst for change (such as a Politics [Water] check to influence a council decision or a Leadership [Water] check to inspire a movement), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000060",
+      "name": "Unseen Blade",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "48"
+        },
+        "description": "<h2>Unseen Blade (Mastery Ability)</h2>\n<ul>\n<li>When you perform an Attack action, you may spend \u0002 as follows: \u0002 \u0002+: Choose a character in range of the weapon you used with vigilance lower than your original target. If you succeed, that character suffers physical damage equal to your weapon’s base damage plus your ranks in Fitness.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000061",
+      "name": "Lesson of the Hawk",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "49"
+        },
+        "description": "<h2>Lesson of the Hawk (Mastery Ability)</h2>\n<ul>\n<li>Once per scene, when performing an Attack action check, you may spend 1 Void Point to have your target treat their physical resistance as 0.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000062",
+      "name": "All Part of the Plan",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "50"
+        },
+        "description": "<h2>All Part of the Plan (Mastery Ability):</h2>\n<ul>\n<li>Once per scene when you make a check to resist (see page 26 of the core rulebook), you may spend 1 Void Point to automatically succeed. If you do, you may immediately perform an action.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000063",
+      "name": "Crack Not a Single Twig",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "51"
+        },
+        "description": "<h2>Crack Not a Single Twig (Mastery Ability):</h2>\n<ul>\n<li>You have mastered the ability to adapt to your environment. At the start of a scene, you may choose any number of mundane terrain effects. You ignore the effects of these terrain qualities. (Other characters do not ignore them when making checks against you.) This effect persists until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000064",
+      "name": "Elemental Charmer",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "52"
+        },
+        "description": "<h2>Elemental Charmer (Mastery Ability): You may importune invocations without making an offering.</h2>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000065",
+      "name": "Surge of Brilliance",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "53"
+        },
+        "description": "<h2>Surge of Brilliance (Mastery Ability):</h2>\n<ul>\n<li>When you craft an item, you may increase or decrease its rarity by up to your ranks in the skill you used to craft it.</li>\n<li>Once per game session when you make a check to create, refine, adapt, restore, or attune to an item, the check takes an action rather than a downtime activity.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000066",
+      "name": "Stories as Tall as the Mountain",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "54"
+        },
+        "description": "<h2>Stories as Tall as the Mountain (Mastery Ability):</h2>\n<ul>\n<li>Once per scene as a Scheme action, you may make a TN 4 Performance (Air or Earth) check targeting a number of minion NPCs up to your ranks in Performance. If you succeed, each target decides that their actions really are unwise and leaves the scene, if able.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000067",
+      "name": "A Gift of Fate",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "55"
+        },
+        "description": "<h2>A Gift of Fate (Mastery Ability):</h2>\n<ul>\n<li>The Lords of Death have seen fit to bestow upon you knowledge of the possible future and the power to shape it. Once per game session on your turn, you may choose one ritual for which you meet the prerequisites. This does not need to be a ritual you have purchased. You are immediately able to perform that ritual as a single action instead of a downtime activity.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000068",
+      "name": "Fortitude of the Cradle",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "56"
+        },
+        "description": "<h2>Fortitude of the Cradle (Mastery Ability):</h2>\n<ul>\n<li>You may shield bash after you defend against damage, even if the check was successful. After you shield bash, your target must resist with a TN 4 Fitness (Air 3, Water 5) check or suffer the Disoriented and Prone conditions.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000069",
+      "name": "Swift Creation",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "57"
+        },
+        "description": "<h2>Swift Creation (Mastery Ability):</h2>\n<ul>\n<li>Once per scene you may perform a ritual that uses the Medicine skill as an action as if it were a downtime activity.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000070",
+      "name": "Divine Protection",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "58"
+        },
+        "description": "<h2>Divine Protection (Mastery Ability):</h2>\n<ul>\n<li>You can perform the Threshold Barrier ritual as an action. When a Tainted being enters an area you have warded against it with this ritual, it suffers supernatural damage equal to your ranks in Meditation and the Prone condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000071",
+      "name": "Tower of Ivory",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/ronin.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "59"
+        },
+        "description": "<h2>Tower of Ivory (Mastery Ability):</h2>\n<ul>\n<li>After you defend against damage, increase your physical resistance by 1. This effect can stack a number of times equal to your ranks in Meditation and persists until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000072",
+      "name": "Resilient Readiness",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/phoenix.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "88"
+        },
+        "description": "<h2>Resilient Readiness</h2>\n<ul>\n<li>You have developed a strong mental and physical resilience through years of disciplined training and exposure to adversity. When performing a check that involves physical or mental strain (such as a Fitness, Sentiment, or Martial Arts [Melee] check under stressful conditions), you may reroll one die.</li>\n<li>When you take damage from an attack, you may spend one point of resilience to reduce the damage by one point per point of resilience spent (up to your current resilience level).</li>\n<li>At the start of your turn, you may choose to apply a +1 bonus to one skill check of your choice, provided it is related to endurance, focus, or recovery.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000073",
+      "name": "Ashidaka's Method",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crane.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "89"
+        },
+        "description": "<h2>Ashidaka's Method</h2>\n<p>Entry not found in the provided text.</p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000074",
+      "name": "Healer's Hands",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/lion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "90"
+        },
+        "description": "<h2>Healer's Hands</h2>\n<ul>\n<li>Healers are trained in the tradition of the Kuni War-dens, maintaining the Barracks of the Damned—a massive hospital, laboratory, and prison that also serves as their temple. They are experts at subduing Tainted humans and overcoming sorcery, even without weapons.</li>\n<li>Some Kuni War-dens serve at or near the Wall, but others occasionally venture into the wider world to \"tend to the spiritual needs\" of those exposed to the corruption of Fu Leng, including offering the mercy of death if their charge is fully consumed by the Taint.</li>\n<li>Rings: +1 Fire, +1 Void</li>\n<li>Starting Skills (choose four): +1 Command, +1 Martial Arts [Melee], +1 Martial Arts [Unarmed], +1 Meditation, +1 Performance, +1 Theology</li>\n<li>Honor: 34</li>\n<li>Techniques Available: Kihō (), Rituals (), Shūji ()</li>\n<li>Starting Techniques: \n<ul>\n<li>Kihō (choose one): Cleansing Spirit, Flame Fist</li>\n<li>Rituals (choose one): Cleansing Rite, Threshold Barrier</li>\n<li>Shūji: Truth Burns through Lies</li>\n</ul>\n</li>\n<li>Suppressing Blows (School Ability): When you perform an Attack action check using Martial Arts [Melee] or Martial Arts [Unarmed], you may spend (op) as follows: (op)+: One character per (op) spent this way who is in range of the weapon you used suffers the Silenced condition. You can spend a maximum number of (op) this way up to your school rank.</li>\n<li>Starting Outfit: Sanctified robes, concealed armor, daishō (kabutowari and wakizashi), calligraphy kit, traveling pack.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000075",
+      "name": "Sacred Fist",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crab.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "91"
+        },
+        "description": "<h2>Sacred Fist</h2>\n<ul>\n<li>When performing a check to activate a kihō that affects your unarmed attack profiles or a weapon you wield in a one-handed grip, add bonus successes equal to your school rank.</li>\n<li>When making a check to activate a kihō, you may spend (op) as follows: (op): If you succeed on this check, after you activate the kihō, you may perform a Strike action with a weapon you have readied in a one-handed grip.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000076",
+      "name": "The Effortless Path",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/dragon.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "92"
+        },
+        "description": "<h2>The Effortless Path</h2>\n<ul>\n<li>Rings: +1 Air, +1 Earth</li>\n<li>Starting Skills (choose three): +1 Courtesy, +1 Culture, +1 Martial Arts [Melee], +1 Sentiment, +1 Survival, +1 Theology</li>\n<li>Honor: 44</li>\n<li>Techniques Available: Air and Earth Invocations (), Rituals (), Shūji ()</li>\n<li>Starting Techniques: Grasp of Earth, Tempest of Air, Ancestry Unearthed, Honest Assessment</li>\n<li>Hands of Earth and Sky (School Ability): When you perform an invocation that targets at least one other character, if you succeed, you may nourish or drain: If you nourish, you may receive fatigue up to your school rank. One target removes fatigue equal to the amount you received. If you drain, you may remove an amount of fatigue from yourself up to your school rank. One target receives fatigue equal to the amount you removed.</li>\n<li>Starting Outfit: Traveling clothes, ashigaru armor, wakizashi, scroll satchel, finger of jade, traveling pack.</li>\n<li>RANK 1: Scholar Skills — Command, Martial Arts [Melee], Survival; Rank 1 Rituals (); Technique: Bind the Shadow (), Caress of Earth ()</li>\n<li>RANK 2: Martial Skills — Culture, Medicine, Theology; Rank 1–2 Air Invocations (); Technique: Essence of Jade (), Touchstone of Courage ()</li>\n<li>RANK 3: Trade Skills — Courtesy, Martial Arts [Melee], Tactics; Rank 1–3 Earth Shūji (); Technique: Earthquake (), Earth Becomes Sky ()</li>\n<li>RANK 4: Social Skills — Medicine, Sentiment, Theology; Rank 1–4 Earth Invocations (); Technique: Rise, Air (), Wolf’s Proposal ()</li>\n<li>RANK 5: Scholar Skills — Martial Arts [Melee], Performance, Survival; Rank 1–5 Air Invocations (); Technique: Rouse the Soul (), Tomb of Jade ()</li>\n<li>RANK 6: Empathic Transfer (Mastery Ability): When you nourish, you may remove one condition the target is suffering by transferring it to yourself. When you drain, you may remove one condition you are suffering by transferring it to one of your targets.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000077",
+      "name": "Empathic Transfer",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/unicorn.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "93"
+        },
+        "description": "<h2>Empathic Transfer</h2>\n<ul>\n<li>When you perform a check that involves emotional resonance or shared feelings with another character, you may reroll one die.</li>\n<li>You gain a +1 bonus to Sentiment checks when interacting with characters who are emotionally unstable or in distress.</li>\n<li>When a character you are emotionally connected to is affected by a supernatural event, you may use your Empathic Transfer to gain insight into their emotional state, allowing you to make a Sentiment check with a +2 bonus.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000078",
+      "name": "Yotogi's Piercing Gaze",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/technique.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "94"
+        },
+        "description": "<h2>Yotogi's Piercing Gaze</h2>\n<ul>\n<li>The following apply to a character with the Yotogi's Piercing Gaze distinction:</li>\n<li>When performing a check that relies on observation, perception, or detecting deception (such as a Perception [Void] check to spot a hidden enemy or a Sentiment [Void] check to detect hidden emotions), you may reroll up to two dice.</li>\n<li>You gain a +1 bonus to all checks involving observation, detection, or insight, including checks related to identifying hidden threats or detecting lies.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000079",
+      "name": "Kingdom of Paper and Ink",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/scorpion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "95"
+        },
+        "description": "<h2>Kingship of Paper and Ink</h2>\n<p>Entry not found in the provided text.</p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000080",
+      "name": "Storm Lord’s Gambit",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/mantis.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "the_mantis_clan",
+          "page": "5"
+        },
+        "description": "<h2>Storm Lord’s Gambit</h2>\n<ul>\n<li>When performing a check that involves taking a great risk (such as a Games [Fire] check to wager the game on a single gambit or a Seafaring [Fire] check to chart a route through a deadly region), you may reroll up to two dice.</li>\n<li>When performing a check that requires staying balanced on a shifting surface (such as a Martial Arts [Ranged] [Water] check to make a bow shot during a boarding attack or a Seafaring [Water] check to adjust the sails during a storm), you may reroll up to two dice.</li>\n<li>After performing a check to interact with a knot (such as a Design [Air] check to add a decorative knot to your garb or a Seafaring [Air] check to secure your vessel’s rigging), you remove 3 strife.</li>\n<li>When performing a check to speak politely (such as a Courtesy [Air] check to pay a compliment at court or a Culture [Air] check to know if something is rude to discuss), you must choose and reroll two dice containing (su) or (ex). After resolving the check, if you fail, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000081",
+      "name": "Shell of the Tortoise [Tortoise]",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/mastery_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "gm_kit",
+          "page": "9"
+        },
+        "description": "<h2>Shell of the Tortoise [Tortoise]</h2>\n<ul>\n<li>The shell provides a +2 bonus to AC when worn as armor, and grants resistance to bludgeoning damage.</li>\n<li>When threatened by an enemy, the shell can be used to create a temporary barrier, allowing the wearer to make a DC 12 Wisdom saving throw to avoid being surprised or to reduce damage by half.</li>\n<li>Once per long rest, the wearer may use the shell to absorb a single instance of damage, reducing it to 0 and gaining a temporary hit point equal to the amount of damage absorbed.</li>\n<li>When the shell is used to absorb damage, the wearer gains a +1 bonus to all saving throws until the end of their next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000082",
+      "name": "Soul of Deepest Stones",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/dragon.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "72"
+        },
+        "description": "<h2>Soul of Deepest Stones (Mastery Ability):</h2>\n<ul>\n<li>When you successfully make a check to augment or mend a target, add a number of bonus successes equal to your ranks in Fitness.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000083",
+      "name": "Strike Without Shadow",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/lion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "73"
+        },
+        "description": "<h2>Strike Without Shadow (Mastery Ability):</h2>\n<ul>\n<li>When you succeed at an Attack or Movement action check, you may spend 1 Void point to add bonus successes equal to your ranks in Fitness.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000084",
+      "name": "Spreading Chaos",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crane.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "74"
+        },
+        "description": "<h2>Spreading Chaos (Mastery Ability):</h2>\n<ul>\n<li>After you use your school ability during a duel or skirmish, your target and each other character friendly to them at range 0-3 suffers the Dazed condition.</li>\n<li>If your target is an enemy leader's cohort in a mass battle, the enemy army also receives that much panic.</li>\n<li>After you use your school ability in a mass battle, the leader of the cohort you targeted suffers the Dazed condition.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000085",
+      "name": "Unbreakable Resolve",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/crab.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "75"
+        },
+        "description": "<h2>Unbreakable Resolve (Mastery Ability):</h2>\n<ul>\n<li>Compromised characters affected by your school ability can keep a number of dice containing w up to your ranks in Command.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000086",
+      "name": "Killing Grip",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/mastery_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "76"
+        },
+        "description": "<h2>Killing Grip (Mastery Ability):</h2>\n<ul>\n<li>When you inflict a critical strike on a target, if the target is Immobilized or Prone, you may receive 3 fatigue to increase the severity of the critical strike by two times your ranks in Fitness.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000087",
+      "name": "Tenacity of the Forge",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/mastery_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "77"
+        },
+        "description": "<h2>Tenacity of the Forge (Mastery Ability):</h2>\n<ul>\n<li>When you create a new set of armor, you may apply two different patterns you know to it (instead of one).</li>\n</ul>\n<h2>Hide of Iron (School Ability):</h2>\n<ul>\n<li>Once per game session when you make a check to craft, improve, or maintain a weapon or set of armor, you may receive an amount of fatigue up to your school rank to re-roll that many dice.</li>\n</ul>\n<h2>Starting Skills (choose five):</h2>\n<ul>\n<li>+1 Commerce</li>\n<li>+1 Courtesy</li>\n<li>+1 Fitness</li>\n<li>+1 Labor</li>\n<li>+1 Martial Arts [Melee]</li>\n<li>+1 Martial Arts [Unarmed]</li>\n<li>+1 Smithing</li>\n</ul>\n<h2>Rings:</h2>\n<ul>\n<li>+1 Water</li>\n<li>+1 Void</li>\n</ul>\n<h2>Starting Techniques (choose two):</h2>\n<ul>\n<li>Coursing March Chant</li>\n<li>Courtier's Resolve</li>\n<li>Honest Assessment</li>\n<li>Stirring the Embers</li>\n</ul>\n<h2>Starting Patterns:</h2>\n<ul>\n<li>Ichiro Pattern. You can apply this pattern (see page 94) to any weapon or armor you craft.</li>\n</ul>\n<h2>Starting Outfit:</h2>\n<ul>\n<li>Traveling clothes</li>\n<li>Common clothes</li>\n<li>Wakizashi (short sword)</li>\n<li>Any one weapon of rarity 6 or lower</li>\n<li>Smithing hammer</li>\n<li>Ichiro sapper axe (see page 88)</li>\n<li>Traveling pack</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000088",
+      "name": "The Herd Flourishes Together",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/unicorn.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "78"
+        },
+        "description": "<h2>The Herd Flourishes Together (Mastery Ability):</h2>\n<ul>\n<li>When you make a Social skill check, you may spend ⟗⟘ as follows:</li>\n<li>Choose another character's social objective that you know. You may transfer any number of momentum points you have accrued to the completion of their objective.</li>\n<li>After that character completes their objective, you gain the Support of [That Character's Group] advantage (see page 110 of the core rulebook) if you do not already have it.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000089",
+      "name": "Attuned Invocation",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/phoenix.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "79"
+        },
+        "description": "<h2>Attuned Invocation (Mastery Ability):</h2>\n<ul>\n<li>Once per scene, when making a check to activate an invocation of your inspired element, you may spend 1 Void point. If you do, you may keep any number of your rolled dice (instead of a number up to your ring value).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000090",
+      "name": "With the Soul of a Lion",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/lion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "80"
+        },
+        "description": "<h2>With the Soul of a Lion (Mastery Ability):</h2>\n<ul>\n<li>After you perform an Attack action, each of your bonded animals may perform an Attack action against the same target, if able. If your attack action did not succeed, reduce the TN of each of your bonded animals' Attack action check by 2.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000091",
+      "name": "Empty Soul Ki",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/scorpion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "81"
+        },
+        "description": "<h2>Empty Soul Ki (Mastery Ability):</h2>\n<ul>\n<li>When you defend against damage, if all your Void Points are spent, treat your physical and supernatural resistances as being equal to your Void ring.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000092",
+      "name": "Storm Surge",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/clans/mantis.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "the_mantis_clan",
+          "page": "6"
+        },
+        "description": "<h2>Storm Surge</h2>\n<ul>\n<li>The following apply to you:</li>\n<li>When performing a check that involves navigating or surviving in a storm (such as a Seafaring [Water] check to sail through a storm or a Survival [Water] check to endure extreme weather), you may reroll up to two dice.</li>\n<li>You gain +1 composure when exposed to a storm, and you are not affected by wind-related damage from storms (such as being blown off course or knocked down).</li>\n<li>If you are caught in a storm and would suffer a critical failure on a relevant check, you instead suffer only 1 fatigue and 1 strife instead of the full consequences.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000093",
+      "name": "Whispers of the Kami",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/mastery_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "96"
+        },
+        "description": "<h2>Whispers of the Kami: You may spend 1 Void point to use your school ability an additional time this scene. You may do this multiple times.</h2>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000094",
+      "name": "Smiling Mountain Tradition",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/mastery_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "97"
+        },
+        "description": "<h2>Smiling Mountain Tradition</h2>\n<p>You may train Social skills up to rank 6 (paying 12 XP per skill raised from rank 5 to rank 6 in this way).</p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000095",
+      "name": "Scaled Hide",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/mastery_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "98"
+        },
+        "description": "<h2>Scaled Hide</h2>\n<ul>\n<li>When you defend against damage, you may treat your physical resistance and supernatural resistance as equal to your ranks in Fitness.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000096",
+      "name": "Reflexive Strike",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/mastery_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "99"
+        },
+        "description": "<h2>Reflexive Strike</h2>\n<ul>\n<li>During a skirmish, if an opponent within range 0-1 of you attempts to move away from you, you may spend 1 Void point to immediately make two Strike actions against that opponent. Each action is resolved separately.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000097",
+      "name": "A Master of Study",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/mastery_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "100"
+        },
+        "description": "<h2>A Master of Study</h2>\n<ul>\n<li>Choose one technique category your school does not already have available to it. That technique type is now available to you.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000098",
+      "name": "Born to Survive",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/mastery_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "101"
+        },
+        "description": "<h2>Born to Survive</h2>\n<ul>\n<li>Once per scene, when you would suffer an amount of damage that would cause you to exceed your endurance threshold, you may instead suffer that amount of strife instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000099",
+      "name": "Hunter of the Supernatural",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/mastery_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "deathly_turns",
+          "page": "24"
+        },
+        "description": "",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreMas000100",
+      "name": "An Arrow Loosed",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/mastery_ability.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "deathly_turns",
+          "page": "25"
+        },
+        "description": "",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "0",
+        "rank": "6",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "mastery_ability"
+      },
+      "folder": null
+    }
+  ]
+}

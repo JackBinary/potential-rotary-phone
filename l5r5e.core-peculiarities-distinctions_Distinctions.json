@@ -1,0 +1,2854 @@
+{
+  "exportedAt": "2025-10-16T22:23:59.107Z",
+  "foundryVersion": "12.331",
+  "systemId": "l5r5e",
+  "pack": {
+    "label": "Distinctions",
+    "collection": "l5r5e.core-peculiarities-distinctions",
+    "type": "Item",
+    "system": "l5r5e"
+  },
+  "count": 71,
+  "documents": [
+    {
+      "_id": "L5RCoreDis000001",
+      "name": "Ally [Name]",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "101"
+        },
+        "description": "<h2>Ally [Name] (Water)</h2>\n<ul>\n<li>You have proven yourself to a someone, who is willing to help you (within reason). They are open to sharing what they know about most topics, whether via a face-to-face meeting or written correspondence. They are also willing to arrange introductions for you with people they know.</li>\n<li>When performing a check that benefits from your close relationship with the character (such as a Courtesy [Water] check to requisition an item through them or a Sentiment [Water] check to read their emotions), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000002",
+      "name": "Ambidexterity",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "102"
+        },
+        "description": "<h2>Ambidexterity (Air)</h2>\n<ul>\n<li>As you have no dominant hand, you can compensate if your right hand is injured or lost.</li>\n<li>When making a check for which your equal skill with both hands is a benefit (such as a Martial Arts [Melee] [Air] check to strike an unexpected blow with a weapon in your left hand or a Skulduggery [Air] check to stealthily pick someone’s pocket), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "distinction",
+        "types": "Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000003",
+      "name": "Benten’s Blessing",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "102"
+        },
+        "description": "<h2>Benten’s Blessing (Air)</h2>\n<h3>Types: Interpersonal, Spiritual</h3>\n<ul>\n<li>After interacting with a character for one or more scenes, you know with certainty whether they are open to your romantic aspirations or if they are categorically uninterested.</li>\n<li>When performing a check for which the favor of the Fortune Benten is a benefit (such as an Aesthetics [Air] check to say something insightful about a piece of art or a Courtesy [Air] check to convince someone of your positive qualities), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000004",
+      "name": "Bishamon’s Blessing",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "102"
+        },
+        "description": "<h2>Bishamon’s Blessing (Water)</h2>\n<p>The walls of many an inn in Rokugan ring with a well-known song, “The Badger and the Stone,” a ballad that tells the tale of an ancient battle far in the Great Wall of the North Mountains. The story goes that a vicious tribe of Yobanjin were surging through a mountain pass, only to be stopped by a single nameless samurai of the Badger Clan, who called upon the Fortune Bishamon for aid and lifted an immense stone, hurling it down the walls of the pass. The mighty stone triggered an avalanche, which crushed the foreign invaders and sealed the pass forever.</p>\n<p>Types: Physical, Spiritual</p>\n<ul>\n<li>You recover from physical exhaustion twice as quickly as others.</li>\n<li>When performing a check for which the favor of this Fortune is a benefit (such as a Fitness [Water] check to recover from exhaustion or a Martial Arts [Unarmed] [Water] check to subdue a foe), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "distinction",
+        "types": "Physical, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000005",
+      "name": "Blackmail on [Name]",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "102"
+        },
+        "description": "<h2>Blackmail on [Name] (Fire)</h2>\n<ul>\n<li>You have incriminating information on an individual, which you use to force them to help you even when doing so may damage their reputation. They will share what knowledge they have about a given person, item, location, or situation, whether through a face-to-face meeting or through written correspondence. They will also arrange for introductions with exclusive members of society or places of business. Confer with the GM to select a campaign-appropriate NPC when choosing this advantage.</li>\n<li>When performing a check to demand favors of the chosen individual (such as a Courtesy [Fire] check to remind them of the consequences of their disobeying you or a Command [Fire] check to order them to risk themselves on your behalf), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000006",
+      "name": "Blessed Lineage",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "103"
+        },
+        "description": "<h2>Blessed Lineage (Void)</h2>\n<ul>\n<li>Characters with status of 50 or higher understand that they might suffer a loss of prestige if they harm you, and thus do not choose to kill you as their first option, even if you are a political obstacle they would otherwise eliminate without hesitation.</li>\n<li>When performing a check for which your esteemed lineage is a benefit (such as a Command [Void] check to challenge someone’s perception of a situation or a Government [Void] check to know the likelihood of a political eventuality), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000007",
+      "name": "Blissful Betrothal",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "103"
+        },
+        "description": "<h2>Blissful Betrothal (Water)</h2>\n<ul>\n<li>Your spouse fulfills certain social duties in your name when you are absent (such as attending events or caring for family members), provides assistance in their areas of expertise, and offers counsel when you face a difficult decision.</li>\n<li>When performing a check for which your good relationship with your betrothed or spouse is a benefit (such as a Courtesy [Water] check to persuade someone from their family or clan to assist you), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000008",
+      "name": "Daikoku’s Blessing",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "103"
+        },
+        "description": "<h2>Daikoku’s Blessing (Water)</h2>\n<ul>\n<li>After spending one or more scenes in a relevant market, you can always discern whether a given commodity or service’s value is going to rise or fall in the next month.</li>\n<li>When performing a check for which your strong financial knowledge benefits (such as a Government [Water] check to know where to acquire goods), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000009",
+      "name": "Dangerous Allure",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "103"
+        },
+        "description": "<h2>The following apply to a character with the Dangerous Allure distinction:</h2>\n<ul>\n<li>You always make an impression, and NPCs remember your name and face after interacting with you for one or more scenes (unless you take pains to disguise yourself).</li>\n<li>When performing a check for which your good looks are a benefit (such as a Command [Fire] check to get someone to act in spite of the possible consequences or a Performance [Fire] check to incite emotion in someone), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000010",
+      "name": "Ebisu’s Blessing",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "104"
+        },
+        "description": "<h2>Ebisu’s Blessing (Earth)</h2>\n<ul>\n<li>Laborers recognize you as a kindred spirit, and characters with status 30 or lower are innately trusting of you unless you give them reason not to be.</li>\n<li>When performing a check for which the blessing of this Fortune is useful (such as a Commerce [Earth] check to safely transport goods or a Labor [Earth] check to plow a field), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "distinction",
+        "types": "Physical, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000011",
+      "name": "Famously Honest",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "104"
+        },
+        "description": "<h2>Famously Honest (Air)</h2>\n<ul>\n<li>Other people have heard of you for your honesty, and they believe you by default unless given evidence to the contrary.</li>\n<li>When performing a check for which you can leverage your reputation for telling the truth (such as a Command [Air] check to convince someone of a statement’s veracity, or a Commerce [Air] check to sell an item at an inflated price), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "distinction",
+        "types": "Fame, Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000012",
+      "name": "Famously Lucky",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "104"
+        },
+        "description": "<h2>Famously Lucky (Void)</h2>\n<p>“A master is one who leaves their mark upon the world through their endeavors. In such undertakings, four great influences may affect the outcome: Proficiency, Preparedness, Destiny, and Luck. Despite humanity’s beliefs, the greatest of these is Luck.” – Tao of Shinsei</p>\n<ul>\n<li>Other people have heard of you for your good fortune, and they believe it by default unless given evidence to the contrary.</li>\n<li>When performing a check for which you need to leverage your reputation for having things turn out your way (such as a Command [Void] check to get your troops to put their faith in you utterly or a Games [Void] check to let fate decide the match), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "distinction",
+        "types": "Fame, Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000013",
+      "name": "Famously Reliable",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "104"
+        },
+        "description": "<h2>Famously Reliable (Earth)</h2>\n<ul>\n<li>Other people have heard of you for your remarkable adherence to your oaths and responsibilities, even over and above most samurai, and they believe it by default unless given evidence to the contrary.</li>\n<li>When performing a check for which you need to leverage your reputation for keeping your oaths and bargains (such as a Command [Earth] check to calm a panicked soldier or a Performance [Earth] check to relate a tale that inspires patience), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "distinction",
+        "types": "Fame, Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000014",
+      "name": "Famously Successful",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "105"
+        },
+        "description": "<h2>Famously Successful (Fire)</h2>\n<h3>Types:</h3>\n<ul>\n<li>Fame</li>\n<li>Interpersonal</li>\n</ul>\n<h3>Effects:</h3>\n<ul>\n<li>Other people have heard of you for your ability to get results at any cost, and they believe it by default unless given evidence to the contrary.</li>\n<li>When performing a check for which you need to leverage your reputation for efficiency (such as a Courtesy [Fire] check to convince your lord to give you a position or a Tactics [Fire] check to get enemy troops to withdraw in the face of a show of force), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "distinction",
+        "types": "Fame, Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000015",
+      "name": "Famously Wealthy",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "105"
+        },
+        "description": "<h2>The following apply to a character with the Famously Wealthy distinction:</h2>\n<ul>\n<li>Other people have heard of you for your riches or ability to procure wealth, and they believe it by default unless given evidence to the contrary.</li>\n<li>When performing a check for which you need to leverage your reputation for access to resources (such as a Commerce [Water] check to buy goods on credit or a Courtesy [Water] check to win over a group of people), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "distinction",
+        "types": "Fame, Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000016",
+      "name": "Flexibility",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "105"
+        },
+        "description": "<h2>The following apply to a character with the Flexibility distinction:</h2>\n<ul>\n<li>You can fit through spaces too tight for most people, allowing you access to places others cannot reach.</li>\n<li>When performing a check for which your physical flexibility is a benefit (such as a Performance [Water] check to perform a dance or a Martial Arts [Unarmed] [Water] check to grapple another person), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "distinction",
+        "types": "Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000017",
+      "name": "Fukurokujin’s Blessing",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "105"
+        },
+        "description": "<h2>Fukurokujin’s Blessing (Fire)</h2>\n<h3>Types: Mental, Spiritual</h3>\n<ul>\n<li>You always know the nearest location where you can undertake research on a given subject, and can complete research in half the time it would take another character.</li>\n<li>When performing a check for which the blessing of this Fortune is a benefit (such as a Medicine [Fire] check to experiment with a cure for a strange new malady or a Survival [Fire] check to speculate on a creature’s possible qualities based on its physiology), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "distinction",
+        "types": "Mental, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000018",
+      "name": "Indomitable Will",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "106"
+        },
+        "description": "<h2>Indomitable Will (Earth)</h2>\n<ul>\n<li>You can always choose to stand your ground, even when faced with untenable odds, supernatural terrors, or sorcerous powers that bend the minds of lesser souls.</li>\n<li>When performing a check for which you need to keep your cool when dealing with danger (such as a Command [Earth] check to give orders under pressure or a Meditation [Earth] check to resist the effects of fear), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000019",
+      "name": "Jurojin’s Blessing",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "106"
+        },
+        "description": "<h2>Jurojin’s Blessing (Void)</h2>\n<ul>\n<li>You do not contract mundane diseases, and you recover from poisons and supernatural maladies in half the time it would take someone else.</li>\n<li>When performing a check for which you need to survive and remain vital (such as a Fitness [Void] check to resist spiritual contamination or a Survival [Void] check to get by on bare minimum supplies), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "distinction",
+        "types": "Physical, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000020",
+      "name": "Keen Balance",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "106"
+        },
+        "description": "<h2>Keen Balance (Earth)</h2>\n<ul>\n<li>When moving across treacherous terrain (such as rooftops or the rigging of a ship), as long as nobody is hindering you, you do not fall.</li>\n<li>When performing a check for which your balance is a benefit (such as a Fitness [Earth] check to resist being knocked down or moved or a Sea-faring [Earth] check to withstand getting seasick during a storm), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "distinction",
+        "types": "Mental, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000021",
+      "name": "Keen Hearing",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "107"
+        },
+        "description": "<h2>Keen Hearing (Air)</h2>\n<ul>\n<li>You can hear noises that others do not detect, and you can assess your environment by sound alone. Even in darkness, you can accurately pinpoint the location of people and other moving objects in your immediate vicinity.</li>\n<li>When performing a check for which you need to hear soft, distant, or subtle noises (such as a Courtesy [Air] check to eavesdrop at a distance where you are not noticed or a Survival [Air] check to listen to an animal’s movement before springing a trap), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "distinction",
+        "types": "Mental, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000022",
+      "name": "Keen Sight",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "107"
+        },
+        "description": "<h2>Keen Sight (Water)</h2>\n<ul>\n<li>You can spot details of objects at a much greater distance than others can, and you pick up on small visual details that others might overlook.</li>\n<li>When performing a check for which you need to spot details or see things at a distance (such as an Aesthetics [Water] check to spot minor details in an art piece or a Martial Arts [Ranged] [Water] check to hit a faraway target), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "distinction",
+        "types": "Mental, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000023",
+      "name": "Keen Smell",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "107"
+        },
+        "description": "<h2>The following apply to a character with the Keen Smell distinction:</h2>\n<ul>\n<li>You always remember scents you have experienced before, and you can identify by smell things that others would certainly overlook.</li>\n<li>When performing a check for which you need to use your sense of smell (such as a Labor [Fire] check to experiment with a new recipe or a Survival [Fire] check to determine if a plant is poisonous based on its smell), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "distinction",
+        "types": "Mental, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000024",
+      "name": "Karmic Tie",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "108"
+        },
+        "description": "<h2>Karmic Tie (Void)</h2>\n<ul>\n<li>You have a supernatural tie with another character of your choosing, and as if you had a sixth sense, you can tell when the character to whom you are karmically tied is in danger or has died. You always know the general direction they are located in, even if they are separated from you by thousands of li.</li>\n<li>When performing a check to act on behalf of the one with whom you share a bond (such as a Composition [Void] check to express your truest feelings in a poem or a Martial Arts [Melee] [Void] check to fight on their behalf), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000025",
+      "name": "Kisshōten’s Blessing",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "108"
+        },
+        "description": "<h2>Kisshōten’s Blessing (Water)</h2>\n<ul>\n<li>Children enjoy being around you and are much more receptive to your demands. Your own children (if you have any) are particularly blessed with health, beauty, happiness, and luck.</li>\n<li>When performing a check for which you need to communicate with children (such as a Command [Water] check to order them around or a Performance [Water] check to entertain them), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "distinction",
+        "types": "Physical, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000026",
+      "name": "Large Stature",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "108"
+        },
+        "description": "<h2>Large Stature (Earth)</h2>\n<ul>\n<li>You can easily reach objects on high shelves, are easy to spot in a crowd, can see over other people, and tend to hit your head on doorways.</li>\n<li>When performing a check for which you can take advantage of your size (such as a Fitness [Earth] check to hold up a heavy object or a Labor [Earth] check to build the frame of a house), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "distinction",
+        "types": "Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000027",
+      "name": "Paragon of Compassion",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "108"
+        },
+        "description": "<h2>Paragon of Compassion (Water)</h2>\n<ul>\n<li>You believe utterly in the chosen Bushidō tenet, and others instinctively discern that your actions are genuine when you act in accordance with it.</li>\n<li>When performing a check for which you need to convince others of, or leverage your faith in, the Bushidō tenet (such as a Performance check to recount a tale that impresses its importance upon others or a Martial Arts [Melee] check to take up arms for this cause), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "distinction",
+        "types": "Mental, Virtue"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000028",
+      "name": "Paragon of Courage",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "108"
+        },
+        "description": "<h2>Paragon of Courage</h2>\n<ul>\n<li>You believe utterly in the chosen Bushidō tenet, and others instinctively discern that your actions are genuine when you act in accordance with it.</li>\n<li>When performing a check for which you need to convince others of, or leverage your faith in, the Bushidō tenet (such as a Performance check to recount a tale that impresses its importance upon others or a Martial Arts [Melee] check to take up arms for this cause), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "distinction",
+        "types": "Mental, Virtue"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000029",
+      "name": "Paragon of Courtesy",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "108"
+        },
+        "description": "<h2>Paragon of a Bushidō Tenet (Courtesy)</h2>\n<ul>\n<li>You believe utterly in the chosen Bushidō tenet, and others instinctively discern that your actions are genuine when you act in accordance with it.</li>\n<li>When performing a check for which you need to convince others of, or leverage your faith in, the Bushidō tenet (such as a Performance check to recount a tale that impresses its importance upon others or a Martial Arts [Melee] check to take up arms for this cause), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "distinction",
+        "types": "Mental, Virtue"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000030",
+      "name": "Paragon of Duty and Loyalty",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "108"
+        },
+        "description": "<h2>Paragon of Duty and Loyalty (Earth)</h2>\n<ul>\n<li>You believe utterly in the chosen Bushidō tenet, and others instinctively discern that your actions are genuine when you act in accordance with it.</li>\n<li>When performing a check for which you need to convince others of, or leverage your faith in, the Bushidō tenet (such as a Performance check to recount a tale that impresses its importance upon others or a Martial Arts [Melee] check to take up arms for this cause), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "distinction",
+        "types": "Mental, Virtue"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000031",
+      "name": "Paragon of Honor",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "108"
+        },
+        "description": "<h2>Paragon of a Bushidō Tenet (Various)</h2>\n<ul>\n<li>You believe utterly in the chosen Bushidō tenet, and others instinctively discern that your actions are genuine when you act in accordance with it.</li>\n<li>When performing a check for which you need to convince others of, or leverage your faith in, the Bushidō tenet (such as a Performance check to recount a tale that impresses its importance upon others or a Martial Arts [Melee] check to take up arms for this cause), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "distinction",
+        "types": "Mental, Virtue"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000032",
+      "name": "Paragon of Righteousness",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "108"
+        },
+        "description": "<h2>Paragon of Righteousness (Void)</h2>\n<ul>\n<li>You believe utterly in the chosen Bushidō tenet, and others instinctively discern that your actions are genuine when you act in accordance with it.</li>\n<li>When performing a check for which you need to convince others of, or leverage your faith in, the Bushidō tenet (such as a Performance check to recount a tale that impresses its importance upon others or a Martial Arts [Melee] check to take up arms for this cause), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "distinction",
+        "types": "Mental, Virtue"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000033",
+      "name": "Paragon of Sincerity",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "108"
+        },
+        "description": "<h2>Paragon of Sincerity (Void)</h2>\n<ul>\n<li>You believe utterly in the chosen Bushidō tenet, and others instinctively discern that your actions are genuine when you act in accordance with it.</li>\n<li>When performing a check for which you need to convince others of, or leverage your faith in, the Bushidō tenet (such as a Performance check to recount a tale that impresses its importance upon others or a Martial Arts [Melee] check to take up arms for this cause), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "distinction",
+        "types": "Mental, Virtue"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000034",
+      "name": "Precise Memory",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "109"
+        },
+        "description": "<h2>Precise Memory (Earth)</h2>\n<ul>\n<li>You can recall anything you have read or heard within the current game session exactly, and you often dredge up older facts with much greater ease than others.</li>\n<li>When performing a check for which you must recall details precisely (such as a Games [Earth] check to recall the opening moves of a classic defensive strategy in shōgi or a Government [Earth] check to remember the specifics of a historical event), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "distinction",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000035",
+      "name": "Quick Reflexes",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "109"
+        },
+        "description": "<h2>Quick Reflexes (Fire)</h2>\n<ul>\n<li>At the start of each scene, you can always grab an item within reach or reposition it a few paces within your environment. The GM is the final arbiter of how much you can prepare or how much distance you can achieve before the rest of the scene begins.</li>\n<li>When performing a check for which you must act swiftly (such as a Meditation [Fire] check to generate initiative during a duel or a Survival [Fire] check to put together a makeshift weapon), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000036",
+      "name": "Seasoned",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "109"
+        },
+        "description": "<h2>Seasoned (Void)</h2>\n<ul>\n<li>You are older and more worldly than most of your fellows and have learned a few things along the way. While you do not start with additional experience, your experience expenditures might reflect “revealing” aspects of yourself you have held back to avoid overshadowing your younger companions. You have met members of many cultures and organizations, and you know how to properly behave in almost any city in Rokugan—and perhaps even beyond. You also know many other older people, and the number and variety of your acquaintances often surprises your younger companions.</li>\n<li>When performing a check for which your hard-earned wisdom is an advantage (such as a Courtesy [Void] check to impart wisdom to an impetuous comrade or a Theology [Void] check to intuit whether a spirit will appreciate your offering), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000037",
+      "name": "Sixth Sense",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "110"
+        },
+        "description": "<h2>Sixth Sense (Void)</h2>\n<ul>\n<li>You have an instinctive sense of supernatural beings, and you can feel the presence of spirits and similar entities even when they have not chosen to reveal themselves. This feeling is ominous in the presence of beings with evil intentions and neutral when the beings are simply going about their business as usual.</li>\n<li>When performing a check for which you need to follow your hunches (such as a Meditation [Void] check to generate initiative during a duel or a Theology [Void] check to detect a snarl in the invisible threads of the universe), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "distinction",
+        "types": "Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000038",
+      "name": "Small Stature",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "110"
+        },
+        "description": "<h2>Small Stature (Air)</h2>\n<ul>\n<li>You can fit into small spaces, can hide behind other people, are hard to spot in a crowd, and sometimes need assistance reaching objects on high shelves.</li>\n<li>When performing a check for which being small is helpful (such as a Fitness [Air] check to resist a critical strike by evading or a Skulduggery [Air] check to pick someone’s pocket), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "distinction",
+        "types": "Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000039",
+      "name": "Subtle Observer",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "110"
+        },
+        "description": "<h2>Subtle Observer (Air)</h2>\n<ul>\n<li>You can understand the cues that people give off while speaking, and you can read people’s lips and facial expressions to understand what they are saying, even if you cannot hear them.</li>\n<li>When performing a check for which you need to spot or use small details of other people nearby (such as a Courtesy [Air] check to reveal an unpleasant truth pleasantly or a Sentiment [Air] check to detect someone else’s weaknesses), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000040",
+      "name": "Support of [One Group]",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "110"
+        },
+        "description": "<h2>Support of [One Group] (Water)</h2>\n<ul>\n<li>You have proven yourself to a particular group, which is willing to help you when doing so will not damage its reputation. Its members will offer you their hospitality, including meals, a place to rest, and medical attention if they have a healer. They will also grant you access to their other facilities, such as libraries, smithies, or stables. Confer with the GM to select a campaign-appropriate group when choosing this advantage.</li>\n<li>When performing a check to interact with the members of the chosen group that relies on your rapport (such as a Command [Water] check to issue them orders or a Performance [Water] check to cause an audience of them to desire something), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000041",
+      "name": "Talented Herbalist",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "89"
+        },
+        "description": "<h2>Talented Herbalist (EARTH)</h2>\n<ul>\n<li>You are always able to identify the properties of natural flora (including edibility, poisonousness, and basic uses) even if you have never seen it before.</li>\n<li>When performing a check for which your talents in herbalism are useful (such as a Medicine [Earth] check to make a quick poultice or an Aesthetics [Earth] check to maintain a garden), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "distinction",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000042",
+      "name": "Famously Kind",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "89"
+        },
+        "description": "<h2>The following apply to a character with the Famously Kind distinction:</h2>\n<ul>\n<li>Other people have heard of you for your exceptional kindness, and they believe it unless given evidence to the contrary.</li>\n<li>When performing a check for which you need to leverage your reputation for being well-intentioned (such as a Courtesy [Water] check to convince an authority to give you access to a restricted area or a Survival [Water] check to befriend a woodland creature), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "distinction",
+        "types": "Fame, Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000043",
+      "name": "Portentous Birth",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "89"
+        },
+        "description": "<h2>Portentous Birth (FIRE)</h2>\n<ul>\n<li>You are known among your clan or family group to have been born under blessed circumstances or have had some sort of mark or other indication of greatness bestowed upon you by the Heavens. When you interact with someone who knows of your portentous birth and believes in its power, they treat you favorably and may be inclined to give you special privileges as long as you do not give them a reason to treat you otherwise.</li>\n<li>When performing a check for which your fortuitous birth is an asset (such as a Composition [Fire] check to craft a clever request to someone who believes in the legacy of your birth or a Theology [Fire] check to theorize about an omen), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000044",
+      "name": "Affect of Harmlessness",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "99"
+        },
+        "description": "<h2>Affect of Harmlessness (Air)</h2>\n<ul>\n<li>You appear earnest and perhaps a bit hapless, and your flaws generally come off as charming, at least at first glance. Additionally, people tend to underestimate you, and this works to your benefit.</li>\n<li>When performing a check to ingratiate yourself with a stranger (such as a Courtesy [Air] check to be pleasant to someone of higher social status or a Performance [Air] check to conceal your true intentions toward a social equal), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000045",
+      "name": "Famously Neutral",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "99"
+        },
+        "description": "<h2>Famously Neutral (Earth)</h2>\n<ul>\n<li>You are trusted to be unbiased and are therefore consulted by people looking for a fair perspective.</li>\n<li>When performing a check to convince others of your trustworthiness or provide unbiased advice (such as a Command [Earth] check to reason with two feuding subordinates or a Sentiment [Earth] check to determine how to set someone else at ease), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "distinction",
+        "types": "Fame, Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000046",
+      "name": "Well Connected in {City}",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "99"
+        },
+        "description": "<h2>Well Connected in [City] (Water)</h2>\n<ul>\n<li>Your lifestyle or upbringing introduced you to a multitude of diverse people at all levels of society in a particular city (such as Friendly Traveler Village or the City of Lies), and you know how to find people who can get you the resources you need in that place. While they do not provide those resources free of charge, they are happy to give you information and can sometimes broker deals. Additionally, you occasionally meet people from this city during your travels, and when you do, you can strike up a friendly rapport to get similar benefits in other places.</li>\n<li>When performing a check to gather information, find items for sale or loan, or interact with people from the city you have chosen (such as a Commerce [Water] check to buy or sell something in that city or a Culture [Water] check to learn what current events in the city are generating gossip), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000047",
+      "name": "Animal Trainer",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "241"
+        },
+        "description": "<h2>Animal Trainer (Earth)</h2>\n<ul>\n<li>You have developed a deep understanding of animals and their behaviors, allowing you to communicate with and train them effectively. You can understand animal signals, interpret their moods, and guide them in tasks such as hunting, guarding, or transportation.</li>\n<li>When performing a check that involves working with animals (such as a Command [Earth] check to direct a pack of wolves or a Survival [Earth] check to navigate through a forest using animal tracks), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000048",
+      "name": "Expert Tracker",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "241"
+        },
+        "description": "<h2>Expert Tracker</h2>\n<ul>\n<li>You are exceptionally skilled at tracking and identifying movement, locations, and hidden paths. You can detect subtle signs of passage, such as footprints, animal trails, or disturbances in the environment.</li>\n<li>When performing a check related to tracking, surveillance, or navigation (such as a Perception [Earth] check to spot a hidden path or a Survival [Earth] check to follow a trail through the wilderness), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "distinction",
+        "types": "Mental, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000049",
+      "name": "Criminal Connections",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "241"
+        },
+        "description": "<h2>Criminal Connections (Water)</h2>\n<ul>\n<li>You have a network of criminal contacts within Rokugan’s underbelly, including thieves, smugglers, and rogue enforcers. These connections allow you to operate in the shadows and access information or resources that would otherwise be unavailable.</li>\n<li>When performing a check that benefits from your illicit connections (such as a Courtesy [Water] check to negotiate with a smuggler or a Stealth [Water] check to move undetected through a criminal district), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000050",
+      "name": "Friend of the brotherhood",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "241"
+        },
+        "description": "<h2>The following apply to a character with the Friend of the Brotherhood distinction:</h2>\n<ul>\n<li>You are known as a benefactor and ally of the Brotherhood of Shinsei, and others believe you to be a pious and generous person unless given evidence to the contrary.</li>\n<li>When performing a check for which you need to leverage your reputation for Shinseist piety (such as a Courtesy [Void] check to establish a spiritual connection with a monk or a Theology [Void] check to glean deeper wisdom from the Tao of Shinsei), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000051",
+      "name": "Well Connected",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "242"
+        },
+        "description": "<h2>The following apply to a character with the Well Connected distinction:</h2>\n<ul>\n<li>You have a number of influential connections among the courts and leadership of Rokugan, whose names you can subtly invoke to establish your own importance.</li>\n<li>When performing a check for which your connections are a benefit (such as a Courtesy [Water] check to impress someone at court or a Government [Water] check to identify a useful contact among the local aristocracy), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000052",
+      "name": "Kuge Lineage",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "242"
+        },
+        "description": "<h2>Kuge Lineage</h2>\n<ul>\n<li>You have proven yourself to a someone, who is willing to help you (within reason). They are open to sharing what they know about most topics, whether via a face-to-face meeting or written correspondence. They are also willing to arrange introductions for you with people they know.</li>\n<li>When performing a check that benefits from your close relationship with the character (such as a Courtesy [Water] check to requisition an item through them or a Sentiment [Water] check to read their emotions), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000053",
+      "name": "Hero of [Village]",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "242"
+        },
+        "description": "<h2>The following apply to a character with the Hero of [Village] distinction:</h2>\n<ul>\n<li>You have earned the respect and loyalty of the people in your village, and they will stand by you in times of need. They trust you to act in their best interests and will provide you with information, resources, or support when you are in a position to serve them.</li>\n<li>When performing a check that benefits from your connection to the village (such as a Courtesy [Earth] check to gain the favor of a village elder or a Sentiment [Earth] check to understand the emotional state of the villagers), you may reroll up to two dice.</li>\n<li>You are known as a protector and a voice for justice within the community. Villagers will often come to you with problems or concerns, knowing that you will act fairly and with integrity.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "distinction",
+        "types": "Fame, Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000054",
+      "name": "Spiritual Protector",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "242"
+        },
+        "description": "<h2>Spiritual Protector</h2>\n<ul>\n<li>You believe that good principles require a guiding presence to protect and support you, much like a parent does for a child.</li>\n<li>When performing a check that benefits from your spiritual protection (such as a Sentiment [Earth] check to gain comfort from a trusted mentor or a Loyalty [Earth] check to remain steadfast in difficult times), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "distinction",
+        "types": "Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000055",
+      "name": "Ardent Leader",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "68"
+        },
+        "description": "<h2>Ardent Leader (Fire)</h2>\n<ul>\n<li>You speak with a confidence that most find hard to ignore, and people are more likely to hear what you have to say, even if they are of a higher status than you. This does not mean that those who hear you will heed you, however, and your words may still have undesired consequences.</li>\n<li>When you make a check for which your ardent leadership applies (such as a Tactics [Fire] check to deploy a group of peasants or a Courtesy [Fire] check to excite someone into believing in your plan), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000056",
+      "name": "Dashing Scar",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "69"
+        },
+        "description": "<h2>Dashing Scar (Air)</h2>\n<ul>\n<li>You have a scar or other visible mark of an injury that adds to your heroic reputation. People who see your scar nearly always remember you and think of you positively unless given a reason not to.</li>\n<li>When performing a check for which your scar could act as an asset (such as a Command [Air] check to speak with an authority you do not have or a Skulduggery [Air] check to use your scar to accentuate your roguish charm), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000057",
+      "name": "Lucky Hunter",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "69"
+        },
+        "description": "<h2>Lucky Hunter (Void)</h2>\n<ul>\n<li>You are exceptionally fortunate in hunting or fishing and are always able to identify the best spots for doing so.</li>\n<li>When performing a check that relates to your luck in hunting animals, trapping animals, or fishing (such as a Survival [Void] check to locate where a vanished target is hiding in the brush or a Seafaring [Void] check to determine the best time to go fishing), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "distinction",
+        "types": "Physical, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000058",
+      "name": "Scrounger",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "69"
+        },
+        "description": "<h2>The following apply to a character with the Scrounger distinction:</h2>\n<ul>\n<li>You are always able to find something to fill your belly and sustain you, though sometimes the only option is repulsive.</li>\n<li>When performing a check for which your resourceful nature applies (such as a Labor [Water] check to find useful items for a task or an Aesthetics [Water] check to find inspiration for an art piece), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000059",
+      "name": "Scrappy",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "69"
+        },
+        "description": "<h2>The following apply to a character with the Scrappy distinction:</h2>\n<ul>\n<li>You have experience street fighting and brawling either outdoors or in organized settings. When you fight, you know how to employ dishonorable tactics slyly, such as by stealthily throwing dirt into your opponent’s eyes or “accidentally” landing a kick in a sensitive area.</li>\n<li>When performing a check during combat to use dishonorable tactics (such as a Sentiment [Fire] check to determine how to offend someone or a Martial Arts [Fire] check to unnerve your foe), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "distinction",
+        "types": "Mental, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000060",
+      "name": "Urbane and Worldly",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "70"
+        },
+        "description": "<h2>Urbane and Worldly (Void)</h2>\n<ul>\n<li>Your experience traveling abroad has prepared you to expertly emulate and adapt to unfamiliar customs in foreign lands.</li>\n<li>When observing an unfamiliar cultural practice or ritual (such as a Performance [Void] check to showcase your ability to appropriately emulate local customs in a land foreign to you or a Commerce [Void] check to feign awareness of local customs during a trade negotiation), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000061",
+      "name": "Dead Eyes",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "96"
+        },
+        "description": "<h2>Dead Eyes</h2>\n<ul>\n<li>When performing a check that calls on rapidly recovering from sleep (such as a Survival [Water] check to detect a threatening sound while dozing or a Fitness [Water] check to react even when someone else is standing watch), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "distinction",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000062",
+      "name": "Light Sleeper",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "96"
+        },
+        "description": "<h2>Light Sleeper</h2>\n<ul>\n<li>When performing a check that calls on rapidly recovering from sleep (such as a Survival [Water] check to detect a threatening sound while dozing or a Fitness [Water] check to react even when someone else is standing watch), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "distinction",
+        "types": "Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000063",
+      "name": "Friend of the Nezumi",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "96"
+        },
+        "description": "<h2>Friend of the Nezumi</h2>\n<ul>\n<li>When performing a check that calls on rapidly recovering from sleep (such as a Survival [Water] check to detect a threatening sound while dozing or a Fitness [Water] check to react even when someone else is standing watch), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000064",
+      "name": "Blood of Osano-Wo",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "the_mantis_clan",
+          "page": "7"
+        },
+        "description": "<h2>Blood of Osano-Wo</h2>\n<ul>\n<li>When a character has the Blood of Osano-Wo distinction, they gain a unique connection to the ancient warrior spirit of Osano-Wo, the first of the Mantis Clan.</li>\n<li>As a bonus action, the character may perform a ritual of remembrance, which allows them to reroll one die on a check involving combat, strategy, or leadership, if the check is made against an enemy who has previously been defeated in battle.</li>\n<li>When performing a check that involves a personal or ancestral memory (such as a Sentiment [Memory] check or a Knowledge [History] check related to the Mantis Clan), the character gains a +2 bonus to the check.</li>\n<li>The character gains immunity to the effects of fear when the target of their action is a warrior who has been defeated in battle and is now in retreat.</li>\n<li>When a character with the Blood of Osano-Wo distinction is part of a group that has suffered a major loss, they may use their action to inspire the group with a brief speech, which grants a +1 bonus to all morale checks made by the group until the end of the next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "distinction",
+        "types": "Mental, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000065",
+      "name": "Sea Legs",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "the_mantis_clan",
+          "page": "7"
+        },
+        "description": "<h2>Sea Legs</h2>\n<ul>\n<li>When performing a check to navigate or operate a vessel in rough seas, you may reroll one die.</li>\n<li>You gain a +1 bonus to checks involving balance, coordination, or movement on a ship’s deck.</li>\n<li>When you successfully perform a check to avoid being knocked over or thrown from a vessel, you may use the result to reduce the TN of the next Attack action check made against you by 1.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "distinction",
+        "types": "Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000066",
+      "name": "Guiding Ancestor",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "82"
+        },
+        "description": "<h2>The following apply to a character with the Guiding Ancestor distinction:</h2>\n<ul>\n<li>You are watched over by a benevolent ancestor spirit, or sorei, who has high hopes for you and your deeds. The spirit cannot communicate directly but may send cryptic omens in dreams and strange phenomena to help you achieve a great destiny.</li>\n<li>When you make a check to interpret omens or to intuit a course of action (such as a Theology [Void] check to understand your dreams or a Tactics [Void] check to guess the plans of an unknown enemy general), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "distinction",
+        "types": "Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000067",
+      "name": "Traditional Adherent",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "82"
+        },
+        "description": "<h2>The following apply to a character with the Traditional Adherent distinction:</h2>\n<ul>\n<li>You have a mastery of tradition and routine, and are able to perform ceremonies and social functions exactly as you were taught without variation, even under trying circumstances.</li>\n<li>When you make a check to maintain the traditions of the past (such as a Performance [Earth] check to recite a poem in a style long-since out of fashion in the courts, or a Composition [Earth] check to examine a historical account for inconsistencies), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "distinction",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000068",
+      "name": "Passion for [Foreign Performing Art Form]",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "71"
+        },
+        "description": "<h2>Passion for [Foreign Performing Art Form] (Air)</h2>\n<ul>\n<li>You are skilled in some foreign artistry, such as puppetry, miming, a foreign dance or theater form, or the playing of a foreign instrument; you can also recognize all common forms of the art and know intricate details about its history. Confer with the GM to select a campaign-appropriate art form when choosing this passion.</li>\n<li>After performing a check that relates to your talent (such as a Performance [Air] check to impress a stranger or a Design [Air] check to refine your craft or method), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "distinction",
+        "types": "Fame, Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000069",
+      "name": "Knowledgeable Wilderness Guide",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "102"
+        },
+        "description": "<h2>Knowledgeable Wilderness Guide (Void)</h2>\n<ul>\n<li>You are very comfortable in a particular wilderness environment. When you choose this distinction, pick one of the following wilderness types: Mountain, Forest, Plains, or Coastal. When you are in your selected environment you always know which way is north and you can identify the signs of creatures that tend to dwell in those areas.</li>\n<li>When performing a check for which your experience as a wilderness guide in your selected environment is a benefit (such as a Survival [Void] check to determine whether a plant is safe to eat or a Sentiment [Void] check to sense the best way to fend off a hostile creature), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000070",
+      "name": "Skilled Midwife",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "102"
+        },
+        "description": "<h2>Skilled Midwife (Fire)</h2>\n<ul>\n<li>You are exceptionally skilled in most aspects of pregnancy, childbirth, common illnesses children are prone to, and child-rearing and others are more likely to take your advice regarding such matters.</li>\n<li>When performing a check for which your midwife skills are a benefit (such as a Culture [Fire] check to theorize why a particular village is experiencing a rash of illnesses in their youth or a Fitness [Fire] check to act quickly enough to save a child), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreDis000071",
+      "name": "Thoughtful Arbiter",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "102"
+        },
+        "description": "<h2>The following apply to a character with the Thoughtful Arbiter distinction:</h2>\n<ul>\n<li>Others are more likely to willingly tell you their grievances and hear your thoughts regarding disputes.</li>\n<li>When performing a check to arbitrate between two or more parties (such as a Government [Water] check to gather all of the nuances of the situation or a Commerce [Water] check to organize a trade which will benefit all parties), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "distinction",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    }
+  ]
+}

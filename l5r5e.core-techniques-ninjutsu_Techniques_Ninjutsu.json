@@ -1,0 +1,752 @@
+{
+  "exportedAt": "2025-10-16T22:34:08.665Z",
+  "foundryVersion": "12.331",
+  "systemId": "l5r5e",
+  "pack": {
+    "label": "Techniques Ninjutsu",
+    "collection": "l5r5e.core-techniques-ninjutsu",
+    "type": "Item",
+    "system": "l5r5e"
+  },
+  "count": 18,
+  "documents": [
+    {
+      "_id": "L5RCoreNin000001",
+      "name": "Deadly Sting",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ninjutsu.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "226"
+        },
+        "description": "<h2>Deadly Sting</h2>\n<ul>\n<li>Rank 2</li>\n<li>Poison is not a weapon an honorable samurai would choose, but it is tremendously effective, and like its namesake, the Scorpion Clan is not above envenoming its weapons to defeat foes it otherwise could not best.</li>\n<li>Activation: As an Attack action, you may use one dose of a poison and make a TN 3 Martial Arts (Air) check using a readied Concealable weapon targeting one character within the weapon’s range.</li>\n<li>Effects: If you succeed, apply the chosen poison to your weapon (see page 244). Then, the target suffers physical damage equal to the deadliness of your weapon plus your bonus successes.</li>\n<li>New Opportunities</li>\n<li>Air (op): Move 1 range band.</li>\n<li>Air (op)+: If you succeed, the target suffers a critical strike with severity 2, plus 1 per (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "melee,ranged,unarmed",
+        "difficulty": "3",
+        "technique_type": "ninjutsu"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreNin000002",
+      "name": "Skulk",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ninjutsu.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "226"
+        },
+        "description": "<h2>Skulk</h2>\n<ul>\n<li>Rank 1: Shinobi are known for walking silently from shadow to shadow, moving like phantoms. Some of this relies upon agility and speed, of course, but veterans in the art of stealth know that using a crowd or another visual distraction to walk unnoticed can be as effective as the most complex acrobatics.</li>\n<li>Activation: When you perform an Initiative or Attack check using Air, you may spend (op) as follows: (op): If you are in Obscuring terrain, a crowd, or otherwise concealed from sight, one character with vigilance lower than or equal to your ranks in Skulduggery loses sight of you.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "ninjutsu"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreNin000003",
+      "name": "Silencing Stroke",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ninjutsu.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "227"
+        },
+        "description": "<h2>Silencing Stroke</h2>\n<h3>Rank 4</h3>\n<p>Shinobi must often eliminate targets without raising an alarm, and so they often train in the art of disabling with a single strike. A shuriken to the trachea or a swift blow to occlude the carotid artery can leave a target unable to scream while the shinobi finishes their unsavory work.</p>\n<ul>\n<li><strong>Activation:</strong> As an Attack action, you may make a TN 4 Martial Arts (Air) check using a readied weapon targeting one character within the weapon’s range.</li>\n<li><strong>Effects:</strong> If you succeed, the target suffers physical damage equal to your weapon’s base damage and suffers the Silenced condition. If you succeed, other characters beyond range 0–2 of the target do not notice that they have been struck for 1 round, plus additional rounds equal to your bonus successes.</li>\n</ul>\n<ul>\n<li><strong>Air (op)+:</strong> If you succeed, the target suffers a critical strike with severity equal to the deadliness of your weapon plus 1 per (op) spent this way beyond the first.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "melee,ranged,unarmed",
+        "difficulty": "4",
+        "technique_type": "ninjutsu"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreNin000004",
+      "name": "Noxious Cloud",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ninjutsu.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "227"
+        },
+        "description": "<h2>Noxious Cloud</h2>\n<ul>\n<li>Rank 3</li>\n<li>Volatile concoctions are an important weapon in many shinobi’s arsenals, allowing them to create choking smoke into which they can escape or even poison unprepared foes to weaken them for a killing blow.</li>\n<li>Activation: As an Attack action, you may use two doses of any single poison and make a TN 2 Medicine (Air) check targeting each other character at range 0–2.</li>\n<li>Effects: If you succeed, each target suffers 3 physical damage, ignoring their resistance. This damage counts as being inflicted by a weapon envenomed with the poison you chose (see page 244).</li>\n<li>New Opportunities<br />\nAir (op): Move 1 range band.<br />\nAir (op)+: Until the end of the scene, the area at range 0–2 becomes Obscuring and Dangerous terrain.<br />\nAir (op) (op)+: If you succeed, one target per (op) (op) spent this way suffers a critical strike with severity 2.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "medicine",
+        "difficulty": "2",
+        "technique_type": "ninjutsu"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreNin000005",
+      "name": "Artful Alibi",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ninjutsu.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "114"
+        },
+        "description": "<h2>Artful Alibi</h2>\n<h3>Rank 3</h3>\n<p>A cunning shinobi is always prepared with an alibi, whether it is a love letter to be sheepishly delivered in the dead of night or a work of art that surely must have taken all day to create.</p>\n<ul>\n<li><strong>Activation:</strong> When you make a Skulduggery check to surveil or engage in other clandestine activities during downtime, you can spend (op) in the following way:</li>\n<li><strong>Air or Water (op)+:</strong> If you succeed, you also count as having made a successful downtime Composition or Design check to refine (Air) or adapt (Water) an item, with one bonus success per (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "ninjutsu"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreNin000006",
+      "name": "Cunning Distraction",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ninjutsu.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "114"
+        },
+        "description": "<h2>Cunning Distraction</h2>\n<h3>Rank 2</h3>\n<p>During a duel, the contestants are completely focused on each other’s smallest moves, waiting for the slightest signal that their opponent is going to strike. This gives unscrupulous duelists a chance to distract by reflecting the sun off a piece of jewelry or their weapon into their opponent’s eyes, flapping their kimono to simulate a sudden movement, or even kicking a small stone at their opponent’s feet. Particularly devious individuals can perform these distractions from the sidelines to aid an ally. All such actions are considered cheating… but only if someone notices.</p>\n<ul>\n<li>Activation: As a Scheme action during a duel or clash, you may make a TN 2 Skulduggery check targeting one character engaged in the duel or clash.</li>\n<li>Effects: Performing this action is cheating. Any character observing or engaging in the duel or clash with a vigilance of 2 or higher spots the cheating. If you succeed, during the next round of the duel or clash, both characters engaged in the duel or clash swap their initiative order.</li>\n<li>New Opportunities: (op)+: The vigilance required to spot the cheating is increased by 1 per (op) spent this way.</li>\n</ul>\n<p>Cheating directly violates the code of bushidō, and your GM can require you to forfeit honor to perform techniques such as Cunning Distraction. If you are found out, you (or your ally) probably lose the duel, and could suffer even greater penalties for your deviousness.</p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "skulduggery",
+        "difficulty": "2",
+        "technique_type": "ninjutsu"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreNin000007",
+      "name": "Deceitful Strike",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ninjutsu.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "114"
+        },
+        "description": "<h2>Deceitful Strike</h2>\n<h3>Rank 1</h3>\n<p>Knowledge of when and how to strike is not just mastered by the bushi, and assassinations can be made to look like accidents.</p>\n<ul>\n<li>Activation: When you make a Martial Arts check during a duel or clash, you can spend (op) in the following way:</li>\n<li>(op)+: Each observer with vigilance equal to or less than one plus the amount of (op) you spend this way believes your attack was not meant to be lethal.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "ninjutsu"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreNin000008",
+      "name": "Like a Ghost",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ninjutsu.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "114"
+        },
+        "description": "<h2>Like a Ghost</h2>\n<h3>Rank 2</h3>\n<p>Shinobi must move quickly and quietly, avoiding notice while scaling walls and obstacles, climbing over roofs, and hopping across gaps between buildings. The very best can seem to be in one location, only to “vanish” and reappear elsewhere a few moments later.</p>\n<ul>\n<li><strong>Activation:</strong> As a Movement and Scheme action, you may make a TN 2 Fitness (Air or Water) check.</li>\n<li><strong>Effect:</strong> If you succeed, you may move one range band, plus one additional range band per two bonus successes. This movement ignores the effects of any terrain you pass through. You may also move up or down vertical surfaces or across gaps that could conceivably be jumped if your GM permits.</li>\n<li><strong>New Opportunities</strong></li>\n<li>(op) (op): Your footfalls are so light as to be completely silent.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "fitness",
+        "difficulty": "2",
+        "technique_type": "ninjutsu"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreNin000009",
+      "name": "Silent Elimination",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ninjutsu.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "115"
+        },
+        "description": "<h2>Silent Elimination</h2>\n<h3>Rank 3</h3>\n<p>Although shinobi have a reputation as ruthless and vicious killers, not all default to murdering everyone who stands in their way. Some shinobi prefer using a martial arts hold or ensnaring chain to choke their targets into unconsciousness, making these techniques perfect for subduing unwary guards and potential kidnap victims.</p>\n<ul>\n<li><strong>Activation:</strong> As an Attack and Movement action using one readied melee or unarmed weapon with the Snarling quality, you may make a TN 3 Martial Arts [Melee or Unarmed] check targeting one living character of silhouette 0–2 in range of the weapon. If you successfully performed this action against the same target during the previous round, reduce the TN of the check by 2, to a minimum of 1.</li>\n<li><strong>Effects:</strong> If you succeed, the target suffers the Immobilized and Silenced condition, and is pulled to range 0 of you. If the target chooses to perform Attack actions, they are limited to making Martial Arts [Unarmed] checks targeting you, and they must increase the TN of these checks by 1.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities:</strong></li>\n<li>(op): If you succeed and the target is a minion, they suffer the Unconscious condition.</li>\n<li>(op)+: If you succeed, the target suffers 2 fatigue and 2 strife per (op) spent in this way. If the target suffers fatigue exceeding their endurance as a result of this, they suffer the Unconscious condition in addition to the Incapacitated condition.</li>\n<li>(op) (op): If you succeed, you and your target move one range band, ending at range 0 of each other.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "melee,unarmed",
+        "difficulty": "3",
+        "technique_type": "ninjutsu"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreNin000010",
+      "name": "Slicing Wind Kick",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ninjutsu.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "115"
+        },
+        "description": "<h2>Slicing Wind Kick</h2>\n<ul>\n<li><strong>Rank 3</strong>: The Shika of the Deer Clan have perfected the art of impairing their targets by using their momentum to launch themselves with their spears. Shinobi who make use of this technique can make precise attacks with their feet to knock the wind out of their opponents.</li>\n<li><strong>Activation</strong>: As an Attack and Movement action, using one readied polearm, you may make a TN 3 Martial Arts [Unarmed] (Air) check with your unarmed kick profile (see page 237 of the core rulebook) targeting one character at range 1–2.</li>\n<li><strong>Effects</strong>: If you succeed, the target suffers physical damage equal to your unarmed kick profile’s base damage plus your bonus successes. If you succeed, the target suffers the Disoriented condition.</li>\n<li><strong>New Opportunities</strong>:</li>\n<ul>\n<li>Air (op): Before or after resolving success or failure, move 1 range band.</li>\n<li>Air (op) (op): One target suffers the Prone condition.</li>\n<li>Air (op) (op)+: Choose one additional target per (op) (op) spent this way.</li>\n</ul>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "unarmed",
+        "difficulty": "3",
+        "technique_type": "ninjutsu"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreNin000011",
+      "name": "Stillness of Death",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ninjutsu.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "115"
+        },
+        "description": "<h2>Stillness of Death</h2>\n<h3>Rank 5</h3>\n<p>A favorite theme of stories featuring ninja involves an unaware character waking up in a house or castle keep. It is utterly still, no servants or hosts bustling around. As they move from room to room, they find the inhabitants—all dead. Each was killed so quickly and suddenly that they had no time to raise the alarm.</p>\n<ul>\n<li><strong>Activation:</strong> When you perform a check to use a Ninjutsu technique, you may spend (op) in the following way:</li>\n<li>(op)+: Increase the TN of the next check a character makes to resist a critical strike you inflict by 1 per (op) spent this way. This effect persists until the end of your next turn.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "ninjutsu"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreNin000012",
+      "name": "To Float or Sink",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ninjutsu.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "115"
+        },
+        "description": "<h2>To Float or Sink</h2>\n<h3>Rank 2</h3>\n<p>Shinobi are never knocked down for long. A trained assassin can bounce back from being prone in a moment, or with a quick roll and acrobatics, always manage to land on their feet.</p>\n<ul>\n<li><strong>Activation:</strong> When you make a Martial skill (Water or Earth) check, you may spend (op) in the following way:</li>\n<li>Water or Earth (op)+: Remove one existing Disoriented or Prone condition from yourself.</li>\n<li>Water or Earth (op): Do not suffer the Disoriented and Prone conditions if the check would cause you to suffer them.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "ninjutsu"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreNin000013",
+      "name": "What's Yours is Mine",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ninjutsu.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "116"
+        },
+        "description": "<h2>What’s Yours Is Mine</h2>\n<h3>Rank 2</h3>\n<p>Shinobi are adept at moving and striking swiftly in combat, and they often use the slow reactions and confusion of their opponents to steal from their targets and make their escape.</p>\n<ul>\n<li><strong>Activation:</strong> As an Attack and Movement action using one readied weapon without the Cumbersome quality, you may make a TN 3 Martial Arts [Melee] (Fire) check targeting one character at range 0–1.</li>\n<li><strong>Effects:</strong> If you succeed, your target suffers physical damage equal to your weapon’s base damage. If you succeed and your target is Dazed, you may steal one item that your target has on their person; the size and location of an object should be narratively reasonable and is subject to the GM’s approval. If you choose to steal a readied weapon, the target may resist with a TN 3 Fitness check (Air 5, Water 2).</li>\n</ul>\n<h3>New Opportunities:</h3>\n<ul>\n<li><strong>Fire (op):</strong> The target suffers the Dazed condition.</li>\n<li><strong>Fire (op)+:</strong> Move 1 range band plus one additional band per (op) beyond the first.</li>\n<li><strong>Fire (op) (op)+:</strong> If you succeed, you may steal one additional item per (op) (op) spent this way.</li>\n</ul>\n<h3>Rituals</h3>\n<h4>Formal Tea Ceremony</h4>\n<h5>Rank 5</h5>\n<p>The chaji (formal tea ceremony) shares some similarities with the chakai (informal) tea ceremony, but the chaji is two to three hours long and includes a full meal. The process has been passed down over generations as tea masters have infused meaning into every movement and word used in the ceremony. If one can truly attune oneself to the ritual, which takes many years of practice, it is said that the chaji can help participants reach Enlightenment.</p>\n<ul>\n<li><strong>Activation:</strong> Once per game session, as a downtime activity using a ceremonial tea set (see page 248 of the core rulebook), you may make a TN 5 Performance (Void) check targeting yourself and a number of other characters up to your ranks in Culture, who are also participants. Up to one other participant may assist, providing the usual benefits (see Assistance on page 26 of the core rulebook).</li>\n<li><strong>Effects:</strong> Each participant removes 6 strife plus additional strife equal to your bonus successes. If you succeed, each participant also gains 1 Void point.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities:</strong></li>\n<li><em>(op) (op):</em> If you succeed, reduce the TN of each participant’s next check by 2.</li>\n<li><em>(op)+:</em> Each participant removes 2 fatigue, plus 1 fatigue per (op) spent this way.</li>\n<li><em>(op) (op):</em> If you succeed, you gain 1 glory per participant of higher status than yourself.</li>\n</ul>\n<h4>Treaty Signing</h4>\n<h5>Rank 2</h5>\n<p>Entering into treaties and other formal agreements between clans and families has become something of a ritual over the centuries. The particulars vary from clan to clan (Unicorn treaties are often accompanied by the exchange of horses, while the Dragon generally ask for an hour of meditative contemplation beforehand), but generally such agreements involve both parties signing a document that contains the terms of the agreement and making pledges to uphold the agreement in front of an audience. The audience ensures the agreement is widely publicized, making it that much harder for either side to back down without losing face. However, inventing a document that both sides are willing to agree to is a true creative challenge. Such treaties become legendary amongst Rokugani diplomats.</p>\n<ul>\n<li><strong>Activation:</strong> Once per game session as a downtime activity (see page 248 of the core rulebook), you may make a TN 2",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "melee",
+        "difficulty": "3",
+        "technique_type": "ninjutsu"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreNin000014",
+      "name": "Employ Terrible Thunder",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ninjutsu.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "105"
+        },
+        "description": "<h2>Employ Terrible Thunder</h2>\n<h3>Rank 2</h3>\n<p>For some samurai, there is something they prize above honor: victory. For them, honor is meaningless if their lord is dead or their family lost. Any method that achieves victory is worthy, even if the Emperor themselves has outlawed it.</p>\n<ul>\n<li><strong>Activation:</strong> As a Movement and Support action, you may make a TN 4 Skulduggery check and expend 1 charge of blasting powder (see page 90) to place it in your environment at a target position at range 0-1 of you. You must forfeit honor equal to half your honor rank (rounded up) to use this technique.</li>\n</ul>\n<h4>Effects:</h4>\n<ul>\n<li>If you succeed, you set the blasting powder to explode at the end of the next round. Some or all of the following occur based on the scene type:</li>\n<li><strong>(Mass Battle)</strong> Any nearby cohort (such as those in the same zone, if using the rules for zones on page 118) is caught by the blast, and that army receives Strain and 5 panic, plus 1 per bonus success.</li>\n<li><strong>(Mass Battle)</strong> If you placed the blasting powder inside of a fortification (see the Fortifications sidebar on page 276 of the core rulebook), reduce its difficulty value by 1, plus 1 per bonus success.</li>\n<li><strong>(Mass Battle)</strong> One cohort leader affected by the explosion suffers the Immobilized and Lightly Wounded conditions.</li>\n<li><strong>(Other Scene)</strong> Each character at range 0-2 of the target position suffers 10 physical damage plus 1 per bonus success, suffers the Dazed condition, and receives 5 strife.</li>\n<li><strong>(Other Scene)</strong> Items at range 0-2 of the target position gain the Damaged item quality.</li>\n<li><strong>(Other Scene)</strong> Any structure (such as a bridge, house, or wall) at range 0-1 of the target position gains the Damaged quality.</li>\n</ul>\n<h4>New Opportunities:</h4>\n<ul>\n<li>Any item or structure damaged by this effect gains the Destroyed quality instead.</li>\n<li>The area at range 0-2 of the position of the explosion gains the Dangerous and Obscuring terrain qualities, and flammable objects in the area are set ablaze.</li>\n<li>The blasting powder does not detonate for one additional round per * spent this way.</li>\n</ul>\n<p><em>Blasting powder is usually viewed as intrinsically dishonorable, and some samurai would never deign to use it as a weapon of war. However, honor does not generally extend to the minions of Fu Leng, for they have none to spare for the foes they slaughter. If the targets are Tainted creatures, or the blasting powder is being used in the Shadowlands, at the GM's discretion, the honor forfeit needed to use blasting powder may be reduced or eliminated.</em></p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "skulduggery",
+        "difficulty": "4",
+        "technique_type": "ninjutsu"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreNin000015",
+      "name": "Swift Scouting",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ninjutsu.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "105"
+        },
+        "description": "<h2>Swift Scouting</h2>\n<ul>\n<li>Activation: As a downtime activity, or once per scene as a Movement and Support action, you may make a TN 3 Survival (Water) check to scout the terrain around you. If you activate this technique in an urban environment or on the ocean, use Skulduggery or Sea-faring instead, respectively.</li>\n<li>Effects: If you succeed, you discover all terrain qualities of the area around you (several miles in all direction during downtime, or the entire area in which the scene is occurring), as well as any fortifications in the area. Characters with vigilance lower than your Air Ring plus your bonus successes do not detect you during this time.</li>\n<li>New Opportunities</li>\n<li>Water * (Downtime or Mass Battle): If you succeed, you may choose one part of the area (a single battle zone, if using the rules for battle zones) and add one of the following terrain qualities to that area: Confining, Dangerous, Entangling, Obscuring.</li>\n<li>Water * (Other Scene): If you succeed, you may choose a position in the area you scouted. Up to three range bands surrounding that position gain one of the following terrain qualities: Confining, Dangerous, Entangling, Obscuring.</li>\n<li>Water *+: You discover the location and composition of any enemy forces in the area led by characters with Air Ring lower than your vigilance plus * spent this way.</li>\n<li>Water *++: During your next turn, if you perform an action targeting an enemy cohort, ignore any fortification it is occupying. You may resolve effects as if you were inside that fortification.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "survival",
+        "difficulty": "3",
+        "technique_type": "ninjutsu"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreNin000016",
+      "name": "The Patient Viper",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ninjutsu.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "106"
+        },
+        "description": "<h2>The Patient Viper</h2>\n<h3>Rank 2</h3>\n<p>Sometimes, the best way to approach a target is to stand stiff. Shinobi often lie in wait for hours or even days, patiently maintaining their position to ensure that they strike well when their foe arrives.</p>\n<ul>\n<li><strong>Activation:</strong> As a downtime activity, you may make a TN 4 Fitness (Earth) check targeting your cohort (if you are currently the leader of a cohort) or yourself and a number of other characters up to your ranks in Command (in any other scene) who are within Dangerous, Entangling, or Obscuring terrain.</li>\n<li><strong>Effects:</strong> If you succeed, all targets become hidden and are not noticed by characters with vigilance lower than or equal to your Earth Ring plus your bonus successes. These hidden characters cannot be the target of Attack actions. This effect persists until the end of your next turn, or until any target you have hidden performs an Attack or Movement action.</li>\n</ul>\n<h4>New Opportunities</h4>\n<ul>\n<li><strong>Earth *+:</strong> This effect persists for one additional round per * spent this way.</li>\n<li><strong>Earth *+:</strong> Reduce the TN of the first Attack action check one of your targets makes against another character in the terrain in which your forces are hidden by 1 per * spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "fitness",
+        "difficulty": "4",
+        "technique_type": "ninjutsu"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreNin000017",
+      "name": "Vanish in the Shadows",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ninjutsu.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "106"
+        },
+        "description": "<h2>Vanish in the Shadows</h2>\n<h3>Rank 3</h3>\n<p>Shaking a pursuing cohort of soldiers is far more difficult than simply hiding and requires intimate knowledge of the terrain and a willingness to exploit this for every advantage.</p>\n<ul>\n<li><strong>Activation:</strong> As a downtime activity or once per scene as a Movement and Support action, you may make a TN 5 Survival (Air) check targeting your cohort (in a mass battle) or yourself and a number of characters up to your ranks in Command (in any other scene) who are within Confining, Entangling, or Obscuring terrain. If you activate this technique in an urban environment or on the ocean, use Skulduggery or Seafaring instead, respectively.</li>\n<li><strong>Effects:</strong> If you succeed, all targets become hidden and are not noticed by characters with vigilance lower than or equal to your Air Ring plus your bonus successes. These hidden characters cannot be the target of Attack actions and cannot perform Attack actions. This effect persists until the end of your next turn, or until any target performs an Attack action.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities:</strong></li>\n<li>Air *+ (Mass Battle): If you succeed, if an enemy army has one or more cohorts within the terrain, it receives 1 panic per * spent this way.</li>\n<li>Air *+ (Other Scene): If you succeed, each character you did not target who is within the terrain receives 1 strife per * spent this way.</li>\n<li>Air \\. \\. *= If you failed, increase the TN of Attack action checks targeting each of your targets by 2. This effect persists until any of your targets performs an Attack action or leaves the terrain.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "survival",
+        "difficulty": "5",
+        "technique_type": "ninjutsu"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreNin000018",
+      "name": "Wreak Havoc",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ninjutsu.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "107"
+        },
+        "description": "<h2>Wreak Havoc</h2>\n<p>Rank 4</p>\n<p>While Leadership counsels against the needlessly destruction of the enemy's assets—for these can become one's own assets if seized—sometimes fire provides an avenue that subtler means could not. Baggage trains, fortifications, or even the tents of the wounded—for dishonorable commanders, any of these can make tempting targets for the flame.</p>\n<ul>\n<li><strong>Activation:</strong> Once per game session as an Attack and Movement action during a mass battle, you may make a Skulduggery (Fire) check targeting one enemy leader's cohort. The TN is equal to the vigilance of that cohort's leader. You may expend 1 charge of blasting powder and forfeit honor equal to half your honor rank (rounded up) to reduce the TN by 2 (to a minimum of 1).</li>\n</ul>\n<ul>\n<li><strong>Effects:</strong> If you succeed, you achieve one of the following:</li>\n</ul>\n<ul>\n<li>Reduce the difficulty value of a fortification the target is occupying by 4 plus your bonus successes. If this reduces the difficulty value to 0 or lower, the fortification is destroyed; any army with a cohort occupying it receives attrition equal to your bonus successes, and any leader or commander inside suffers a critical strike severity equal to 6 plus your bonus successes.</li>\n<li>Remove the Confining and Entangling terrain quality from a fortification the target cohort occupies, but add the Dangerous and Obscuring terrain qualities to that area as it catches ablaze.</li>\n<li>Remove one cohort ability from the target cohort. This ability is restored when the army resupplies (such as when making a maintenance check, as described on page 115).</li>\n</ul>\n<ul>\n<li>Additionally, if you succeed, the target leader must resist with a TN 5 Command check (Air 6, Water 3) or their army suffers panic equal to your ranks in Performance plus their shortfall.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities:</strong></li>\n</ul>\n<ul>\n<li>Fire ⟛: If you succeed, the target cohort's leader suffers a critical strike with severity equal to 6 plus your bonus successes.</li>\n<li>Fire ⟜'> ⟝: The target cohort's leader suffers the Dazed condition.</li>\n<li>Fire ⟝H: If you succeed, you may expend a number of additional charges of blasting powder up to spent this way to add two bonus successes.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "skulduggery",
+        "difficulty": "@T:vigilance|max",
+        "technique_type": "ninjutsu"
+      },
+      "folder": null
+    }
+  ]
+}

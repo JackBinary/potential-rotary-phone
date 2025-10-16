@@ -1,0 +1,1694 @@
+{
+  "exportedAt": "2025-10-16T22:29:31.968Z",
+  "foundryVersion": "12.331",
+  "systemId": "l5r5e",
+  "pack": {
+    "label": "Anxieties",
+    "collection": "l5r5e.core-peculiarities-anxieties",
+    "type": "Item",
+    "system": "l5r5e"
+  },
+  "count": 42,
+  "documents": [
+    {
+      "_id": "L5RCoreAnx000001",
+      "name": "Addiction",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "131"
+        },
+        "description": "<h2>Addiction (Earth)</h2>\n<ul>\n<li>Types: Mental, Physical</li>\n<li>Effects: The following apply to a character with the Addiction anxiety:</li>\n<li>Choose an addictive substance or experience; deprivation from this substance or experience for more than three days causes shakes, chills, distraction, or even more violent physical symptoms that become increasingly difficult to conceal.</li>\n<li>After performing a check to resist the substance or experience (such as a Fitness [Earth] check to suppress signs of your addiction during long absences of the substance (or experience) or a Meditation [Earth] check to resist pursuing the experience or substance), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "anxiety",
+        "types": "Mental, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000002",
+      "name": "Battle Trauma",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "131"
+        },
+        "description": "<h2>Battle Trauma (Fire)</h2>\n<ul>\n<li>At the start of a duel, skirmish, or mass battle, your hands shake, your body tenses up, or your mind might even lock down. You can act normally, but your unsettled state is obvious to everyone around you, and others may try to exploit it.</li>\n<li>After performing a check related to battle (such as a Martial Arts [Melee] [Fire] check to strike down a foe or a Tactics [Fire] check to generate initiative), you receive 3 strife. (Your GM can choose not to inflict this strife after you have taken a few turns and thematically overcome your trauma.) If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "anxiety",
+        "types": "Mental, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000003",
+      "name": "Cynicism",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "131"
+        },
+        "description": "<h2>Cynicism (Fire)</h2>\n<ul>\n<li>When faced with a truly novel or unconventional idea, you always look for ways it can fail, and others must persuade you that it could work before you will try it (even if it is your idea).</li>\n<li>After performing a check to think unconventionally (such as a Performance [Fire] check to improvise during a performance or a Tactics [Fire] check to develop a new strategy on the fly), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000004",
+      "name": "Dark Secret",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "132"
+        },
+        "description": "<h2>Dark Secret (Void)</h2>\n<ul>\n<li>You have a dark secret that, if exposed, could bring ruin upon your house and disgrace your ancestors and descendants alike. If the details of this secret become public, your glory value decreases dramatically, as if you had lost staked glory (by 10 to 20). Depending on the secret, your status value might also decrease considerably (by 5 to 10), as if you had lost staked status.</li>\n<li>After performing a check to assert your will over yourself or others (such as a Command [Void] check to order troops to fight to the bitter end or a Meditation [Void] check to find inner peace), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000005",
+      "name": "Delusions of Grandeur",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "132"
+        },
+        "description": "<h2>Delusions of Grandeur (Void)</h2>\n<ul>\n<li>You believe yourself destined for greatness, and nothing will dissuade you from your fixation upon this goal. When you are presented with a chance to advance your glory, you must attempt to pursue it.</li>\n<li>After performing a check that requires facing your humble place in an uncaring universe (such as a Labor [Void] check to eke out a living in the fields or a Meditation [Void] check to contemplate your place in the cosmos), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000006",
+      "name": "Fear of Death",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "132"
+        },
+        "description": "<h2>Fear of Death (Earth)</h2>\n<ul>\n<li>You cannot voluntarily choose to die or sacrifice your life (including committing seppuku when honor demands it), and if there is a chance you could live, you must always pursue it.</li>\n<li>After performing a check to risk your life or accept your mortality (such as a Meditation [Earth] check to find inner tranquility before battle or a Tactics [Earth] check to hold a position against long odds), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "anxiety",
+        "types": "Mental, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000007",
+      "name": "Ferocity",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "132"
+        },
+        "description": "<h2>The following apply to a character with the Ferocity anxiety:</h2>\n<ul>\n<li>When you strike, you have trouble holding back your power, and you tend to lash out even when a subtler approach would be more appropriate. When you defeat a minion NPC, the minion is always killed, even if you would prefer to incapacitate them.</li>\n<li>After performing a check to intentionally hold back or apply force subtly (such as a Games [Air] check to manipulate your opponent or a Martial Arts [Melee] [Air] check to strike a precise blow), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "anxiety",
+        "types": "Mental, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000008",
+      "name": "Impatience",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "133"
+        },
+        "description": "<h2>Impatience (Earth)</h2>\n<ul>\n<li>Historians tell the story of the Battle of Thunder Plain in 1005, when the Iuchi family daimyō, in his impatience to attack a Kaiu village of the Crab Clan, brought his cavalry across the plain held sacred by the Order of Osano-wo. The order, the most martial order of the Brotherhood of Shinsei, attacked the Unicorn cavalry with polearms. When the Iuchi daimyō called upon the Fortunes for defense, the kami showed their disfavor by refusing to respond. The cavalry were soundly defeated, and they were forced to retreat back to Unicorn lands.</li>\n<li>Types: Mental</li>\n<li>Effects: The following apply to a character with the Impatience anxiety:</li>\n<li>You find it difficult to repress yourself, and when you are forced to wait, it causes you palpable discomfort. If given the choice between seizing an opportunity and waiting for a better moment, you strive to seize the opportunity despite risks that might be mitigated if you act later.</li>\n<li>After performing a check to strategically weigh your options (such as a Government [Earth] check to think of a historical anecdote related to your situation or a Tactics [Earth] check to identify the right moment to strike), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "anxiety",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000009",
+      "name": "Intolerance",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "133"
+        },
+        "description": "<h2>Intolerance (Water)</h2>\n<ul>\n<li>A particular hate festers within you for a group of people (or even supernatural beings), and it overwhelms your better judgment when you are faced with members or representatives of this group. Choose one group of people or supernatural beings to be your hated enemies. When you are in the presence of these beings (and even when they are mentioned), your enmity is evident to all who observe you.</li>\n<li>After performing a check to interact with a member of the chosen group (such as a Commerce [Water] check to bargain with someone from a family that once wronged your own or a Composition [Water] check to translate from the language of a group of foreigners you dislike due to a battle you fought against their people), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000010",
+      "name": "Irrepressible Flirtation",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "134"
+        },
+        "description": "<h2>Irrepressible Flirtation (Earth)</h2>\n<ul>\n<li>You find it difficult to pass up the chance to flirt with people you find attractive, and when someone you find attractive flirts with you, you cannot help but return their advances with your own flirtation. Your interest is obvious to all onlookers.</li>\n<li>After performing a check to interact with (or ignore) someone you are interested in without exceeding propriety (such as a Courtesy [Earth] check to make appropriate small talk or a Sentiment [Earth] check to know how to tread cautiously in a social scene), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000011",
+      "name": "Jealousy",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "134"
+        },
+        "description": "<h2>Jealousy (Air)</h2>\n<p>The story is told of Shiba Shikitora, a Phoenix Clan courtier in Otosan Uchi during the reign of Hantei XXXI, who was so incensed by her rival, a court poet named Kakita Sanuki, that she would try to outdo her in all things. If Sanuki presented a poem, Shikitora would present one on the following night in an effort to be the most praiseworthy. If Sanuki wore a beautiful kimono, then the one worn by Shikitora must be ten times as lovely. Sanuki’s heart was broken due to an ill-fated love, and she threw herself from the roof of the Imperial Palace. Everyone was saddened by this and spoke admiringly of the late poet who had died for love. Shiba Shikitora threw herself from a roof twice as high on the next day.</p>\n<ul>\n<li>You cannot voluntarily pass up an opportunity to one-up a rival or demonstrate your superiority over someone in the eyes of others.</li>\n<li>After performing a check to compete with someone to demonstrate your excellence (such as a Performance [Air] check to convince an audience of something before a rival can or a Smithing [Air] check to refine a weapon to perfection before presenting it as a gift to your lord), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "anxiety",
+        "types": "Mental, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000012",
+      "name": "Materialism",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "134"
+        },
+        "description": "<h2>Materialism (Void)</h2>\n<p>“All lust is grief, and born of too great an attachment to this world, even as the shadow follows the shape. We grasp at it like monkeys trying to snatch at the moon’s reflection on the surface of water.”</p>\n<p>– Tao of Shinsei</p>\n<ul>\n<li>You are obsessed with physical possessions and objects, despite what the Tao of Shinsei says about such material earthly bonds. You cannot refuse gifts of rarity 3 or higher.</li>\n<li>After performing a check to give up a physical object in your possession or other thing of value (such as a Government [Void] check to find a way to sacrifice a holding to gain a political advantage over a rival), you suffer 3 strife. If this is the first time this has occurred this scene, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "anxiety",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000013",
+      "name": "Meekness",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "134"
+        },
+        "description": "<h2>Meekness (Fire)</h2>\n<p>“Do you have something to add, Takeshiro?” Abbot Kenzo looked up from the scrolls he was transcribing to where the young initiate was sweeping the floor.<br>Takeshiro became focused upon a particularly dirty section of the chamber. He tried to respond, yet all that came out was a strangled mumble. He had wanted to point out the rainwater that had begun to drip from the patchy roof and was in danger of wetting the ancient scrolls, but he could not work up the courage.<br>“Hmm,” the abbot nodded. “I thought not.”</p>\n<ul>\n<li>You are extremely shy, and you struggle to stand up for yourself. You cannot interrupt people of higher status, and you find it very hard to assert yourself over anyone, including people of lower status.</li>\n<li>After performing a check to stand out or get what you need (such as a Command [Fire] check to inspire troops under your command or a Government [Fire] check to assess your rights on a matter), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>\n<p>Topics of romance or sexuality can sometimes make people uncomfortable. If your character is an irrepressible flirt, you should still make sure your fellow players are comfortable before roleplaying any flirtation or romantic overtures between your character and theirs. (This also applies if you’re the GM!)</p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000014",
+      "name": "Painful Honesty",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "135"
+        },
+        "description": "<h2>Painful Honesty (Air)</h2>\n<ul>\n<li>You are tormented by internal conflict when you lie or allow a lie to pass. You cannot make claims you know to be false, although you can say technically truthful things that imply untruths, if politeness or circumstances demand it.</li>\n<li>After you make a check to mislead someone else (such as a Courtesy [Air] check to falsely besmirch someone’s reputation or a Command [Air] check to manipulate an underling), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000015",
+      "name": "Paranoia",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "135"
+        },
+        "description": "<h2>Paranoia (Water)</h2>\n<p>“A person who sees enemies everywhere is always blind to their truest enemy, for that enemy is behind their eyes.” –Tao of Shinsei</p>\n<ul>\n<li>In every shadow, you see assassins, and in every smile, you see a rival in pursuit of your undoing. This fear makes it very hard for you to rely upon others, and it might distract you from real threats. You cannot relax unless you have confirmed vital information (such as your current safety) for yourself.</li>\n<li>After performing a check to identify danger in your environment (such as a Government [Water] check to know the political currents in a court or a Sentiment [Water] check to sense if someone’s intentions toward you are hostile), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "anxiety",
+        "types": "Mental, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000016",
+      "name": "Perfectionism",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "135"
+        },
+        "description": "<h2>Perfectionism (Water)</h2>\n<ul>\n<li>Anything short of perfection in your work is unacceptable to you, and you have been known to create works of beauty only to cast them aside over some perceived flaw. You cannot help but try to improve any work in which you identify a flaw, even if it means informing someone of higher status of an error they have made.</li>\n<li>After performing a check in which you must interact with an imperfect or unfinished work (such as an Aesthetics [Water] check to improve an existing piece of art or a Composition [Water] check to translate a work without losing any of the nuance present in the original language), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "anxiety",
+        "types": "Mental, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000017",
+      "name": "Phobia",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "136"
+        },
+        "description": "<h2>Phobia (Water)</h2>\n<ul>\n<li>Choose something mundane. You have a debilitating fear of this thing. You cannot speak its name. In its presence, you cannot hide your fear, and you attempt to flee if at all possible.</li>\n<li>After performing a check to deal with your phobia (such as a Courtesy [Water] check to talk pleasantly about the subject or a Survival [Water] check to identify it as the thing you fear), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "anxiety",
+        "types": "Mental, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000018",
+      "name": "Softheartedness",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "136"
+        },
+        "description": "<h2>Softheartedness (Fire)</h2>\n<ul>\n<li>If given the choice to kill someone or show mercy, you always spare their life, even if it is not in your interest to let them live.</li>\n<li>After performing a check that addresses or involves killing others or letting them die (such as a Government [Fire] check to estimate the burden a war would place on the common people or a Martial Arts [Ranged] [Fire] check to shoot to kill), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000019",
+      "name": "Superstition",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "136"
+        },
+        "description": "<h2>Superstition (Void)</h2>\n<ul>\n<li>When faced with signs of the supernatural, you become visibly agitated, and you attempt to leave the scene, appease the being or phenomenon in question, or acquire supernatural protection of some kind.</li>\n<li>After performing a check to interact with or learn about a supernatural being or phenomenon (such as a Meditation [Void] check to perceive the presence of a supernatural being or a Theology [Void] check to know a supernatural being’s designs or desires), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "anxiety",
+        "types": "Mental, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000020",
+      "name": "Conspiracy",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "91"
+        },
+        "description": "<h2>CONSPIRACY (EARTH)</h2>\n<ul>\n<li>You are plagued by the knowledge that there are greater plots in the world than what most others can see. Everywhere, treacherous schemes wait to ruin the lives of good people, and you cannot help but warn others of these awful machinations.</li>\n<li>After performing a check to interact with an unfamiliar authority figure (such as a Courtesy [Earth] check to be properly deferential or a Government [Earth] check to remember an authority figure's specific role), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000021",
+      "name": "Omen of Bad Luck",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "92"
+        },
+        "description": "<h2>OMEN OF BAD LUCK (WATER)</h2>\n<ul>\n<li>Omens of bad luck seem to follow you wherever you go. Even if bad luck rarely befalls you, others see these signs and tend to respond negatively to them (and to you).</li>\n<li>After performing a check to interact with someone (such as a Commerce [Water] check to trade for goods with a superstitious merchant or a Government [Water] check to gather information from people who have witnessed one of your bad omens), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000022",
+      "name": "Uncleanliness",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "92"
+        },
+        "description": "<h2>UNCLEANLINESS (AIR)</h2>\n<p>The two samurai argued over tea. \"Rie-san, we must press onward.\" \"This is a journey. We should enjoy the simple pleasures, Etsuko-san.\" The bathhouse attendant, Sumiye, smiled as she poured tea. Inwardly, she seethed at the dust covering the samurai's kimono. No wonder I can't keep this place clean. \"I will prepare the onsen, samurai-sama,\" she said. \"Yes!\" the one called Rie shouted, slamming their hand on the table. The dust exploded off their kimono and drifted onto the once-pristine floor. Sumiye smiled, bowed, and shuffled off to keep herself from screaming.</p>\n<h3>Types:</h3>\n<p>Mental</p>\n<h3>Effects: The following apply to a character with the Uncleanliness anxiety:</h3>\n<ul>\n<li>Uncleanliness in places and on things that could be clean causes you physical and mental distress. Though the forest is meant to be dirty because it is natural, your kimono is meant to be pristine and clean.</li>\n<li>After performing a check to interact with a person, place, or thing that is unclean (such as a Skulduggery [Air] check to sneak down a filthy alleyway or a Sentiment [Air] check to focus on learning something from a dirt-covered peasant), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "anxiety",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000023",
+      "name": "Vanity",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "92"
+        },
+        "description": "<h2>Vanity (Void)</h2>\n<ul>\n<li>You are hyperfocused on your physical appearance, and you truly believe you should be adored for your beauty.</li>\n<li>After performing a check in which your physical appearance is in jeopardy or is being challenged (such as a Courtesy [Void] check to explain your plan to someone you perceive as more beautiful than you or a Survival [Void] check to perform sweat-inducing labor in order to make camp), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000024",
+      "name": "Isolation",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "103"
+        },
+        "description": "<h2>Isolation (Earth)</h2>\n<ul>\n<li>To best serve your clan’s interests, you must ignore your own needs. You cannot sympathize with the people you intend to bring harm. Likewise, you cannot help people for selfish reasons. Your clan requires you to focus on the larger picture and to remove your individual wants from the equation. You are a tool for a greater purpose. The temptation to form genuine human connections is strong, and it can pull you away from your life’s mission.</li>\n<li>After performing a check related to interacting with people you care for (such as a Command [Earth] check to issue orders to family members or a Sentiment [Earth] check to recall the feelings of your friends concerning a particular subject), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000025",
+      "name": "Web of Lies",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "103"
+        },
+        "description": "<h2>The following apply to a character with the Web of Lies anxiety:</h2>\n<ul>\n<li>You must be ever mindful of your elaborate, deceitful plots. You must know who was told what lie, which lies contradict each other, and what people are likely to say to one another. The more lies, the more intricate the web grows. One slip of the tongue could cause it all to implode, as you face a constant risk of contradicting yourself.</li>\n<li>After performing a check to deceive someone you have deceived before (such as a Courtesy [Air] check to convince someone that you are a member of a clan when other clan members have never heard of you or a Skulduggery [Air] check to convince the victim of one of your previous cons that you didn’t mean to steal their money), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000026",
+      "name": "Accustomed to Luxury",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "246"
+        },
+        "description": "<h2>Accustomed to Luxury</h2>\n<ul>\n<li>After performing a check that requires you to remain in unacceptable accommodations for an extended period (such as a Survival [Earth] check to set up a campsite or a Commerce [Earth] check to make arrangements to stay at a rural inn), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "anxiety",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000027",
+      "name": "Claustrophobia",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "247"
+        },
+        "description": "<h2>Claustrophobia</h2>\n<ul>\n<li>You suffer discomfort and anxiety when confined in small spaces. When performing a check that requires you to be in a confined or enclosed environment (such as a Stealth [Void] check to hide in a narrow passage or a Perception [Void] check to detect a hidden presence in a small room), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "anxiety",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000028",
+      "name": "False Identity",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "247"
+        },
+        "description": "<h2>False Identity</h2>\n<ul>\n<li>After performing a check that requires you to interact with peasants (such as a Culture [Water] check to observe the customs of farmers or a Courtesy [Water] check to question a village leader), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000029",
+      "name": "Loathing for Peasants",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "247"
+        },
+        "description": "<h2>Loathing for Peasants</h2>\n<ul>\n<li>After performing a check that requires you to interact with peasants (such as a Culture [Water] check to observe the customs of farmers or a Courtesy [Water] check to question a village leader), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000030",
+      "name": "Loneliness",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "248"
+        },
+        "description": "<h2>Loneliness</h2>\n<ul>\n<li>You have experienced a profound sense of isolation, often feeling disconnected from others despite being surrounded by people. This emotional state may manifest as a persistent feeling of emptiness or a lack of meaningful connection.</li>\n<li>When performing a check that involves emotional vulnerability or interpersonal trust (such as a Sentiment [Water] check to assess someone’s true feelings or a Social [Emotion] check to express your own emotions), you may reroll one die.</li>\n<li>When interacting with others, you may take a -1 penalty to all Social skill checks due to your difficulty in forming genuine connections.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000031",
+      "name": "Eyes of Many",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "73"
+        },
+        "description": "<h2>Eyes of Many (Air)</h2>\n<p>“If you live worrying about the eyes and thoughts of others, your life is no longer your own.” – Youta, Mystic of the Mountain</p>\n<ul>\n<li>You are constantly worried that others are watching and judging you, whether maliciously or not. You are unable to relax in crowded places, and you tend to worry about your impressions on strangers more than most other people would.</li>\n</ul>\n<ul>\n<li>After performing a check in a crowded place or where two or more strangers are actively listening to you (such as a Courtesy [Air] check to tell your employer your mission went very well when it did not in front of their other retainers or a Fitness [Air] check to avoid notice), you suffer 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "anxiety",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000032",
+      "name": "Coming Storm",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "73"
+        },
+        "description": "<h2>Coming Storm (Void)</h2>\n<h3>Types: Mental</h3>\n<ul>\n<li>Your family has endured some great hardship, such as a natural disaster, mistreatment by occupying forces, high susceptibility to illness, or recurring bad luck. As a result, you and your family are constantly vigilant for this same type of hardship and are wary of the bad fortune that will inevitably befall you.</li>\n<li>When performing a check that involves planning or preparation for securing your or your family’s well-being (such as a Medicine [Void] check to sense a specific ailment or a Command [Void] check to warn others of the risk that your family hardship may occur again soon), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "anxiety",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000033",
+      "name": "Fear of Stagnation",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "74"
+        },
+        "description": "<h2>Fear of Stagnation (Earth)</h2>\n<ul>\n<li>Stillness is for the dead.</li>\n<li>Staying in one place for too long frustrates and unsettles you. You also have a fear of relational commitments that tie you to one place, and you much prefer to keep moving forward. You find it difficult to have work that requires you to stay in one location for an extended period of time, and doing so causes you to become irritable.</li>\n<li>After performing a check to continue a task you have spent a lot of time on (such as a Labor [Earth] check to work on the same project for more than two days or a Courtesy [Earth] check to make arrangements to stay yet another night in the same city), you receive 3 strife and gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "anxiety",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000034",
+      "name": "Failure",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "74"
+        },
+        "description": "<h2>Failure (Water)</h2>\n<ul>\n<li>Rina couldn’t handle letting her mothers down again. She scaled the cliffside, the blood from her scraped-up hands smearing over the rock. She could see the top now, only a hundred feet above her. She could taste sadness in her mouth. A handhold crumbled under her grip, and she began plummeting to the ground. Rina woke with a start, her body covered in a thin sheen of sweat. I can’t fail, I can’t, I can’t, she thought to herself as she shook away the dream.</li>\n<li>You are constantly worried about failing those to whom you have a commitment, such as family, friends, allies, a mentor, or a master. The thought of letting someone down when you have made a promise induces panic in you that manifests physically and can only be soothed by taking a step closer to accomplishing your goals.</li>\n<li>After performing a check that shirks your obligations or works against keeping a promise you made (such as a Courtesy [Water] check to socialize pleasantly with no purpose when you have a duty to uphold or a Games [Water] check to gamble needlessly), you suffer 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "anxiety",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000035",
+      "name": "Fallen Ancestor",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "98"
+        },
+        "description": "<h2>Reformed Mahō-Tsukai</h2>\n<ul>\n<li>Once you were a mahō-tsukai who wielded dreadful blood magics under the tutelage of the Bloodspeakers or your own occult study. But that was then. You have since seen the error of your ways and live a life of atonement. You’ve done everything you can to bury your past, but a bell cannot be unrung, and now and again it still catches up with you. The consequences of the atrocities you committed still find you out, oni you summoned still seek you, and the tsukai with whom you once consorted will stop at nothing to silence you. We cannot outrun our shadows; sooner or later, you know that yours will claim their due. If the details of this your terrible past life become public, your glory value decreases dramatically, as if you had lost staked glory (by 30 to 40). Your status value also decreases considerably by the same amount, as if you had lost staked status.</li>\n<li>After performing a check that reminds you of your former life (such as a Courtesy [Water] check to speak pleasantly with a priest or religious scholar or a Meditation [Water] check to calm yourself when witnessing the aftermath of a blood magic sacrifice), you receive 3 strife. If this is the first time this has occurred in this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000036",
+      "name": "Obtuse",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "98"
+        },
+        "description": "<h2>Reformed Mahō-Tsukai</h2>\n<ul>\n<li>Once you were a mahō-tsukai who wielded dreadful blood magics under the tutelage of the Bloodspeakers or your own occult study. But that was then. You have since seen the error of your ways and live a life of atonement. You’ve done everything you can to bury your past, but a bell cannot be unrung, and now and again it still catches up with you. The consequences of the atrocities you committed still find you out, oni you summoned still seek you, and the tsukai with whom you once consorted will stop at nothing to silence you. We cannot outrun our shadows; sooner or later, you know that yours will claim their due. If the details of this your terrible past life become public, your glory value decreases dramatically, as if you had lost staked glory (by 30 to 40). Your status value also decreases considerably by the same amount, as if you had lost staked status.</li>\n<li>After performing a check that reminds you of your former life (such as a Courtesy [Water] check to speak pleasantly with a priest or religious scholar or a Meditation [Water] check to calm yourself when witnessing the aftermath of a blood magic sacrifice), you receive 3 strife. If this is the first time this has occurred in this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "anxiety",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000037",
+      "name": "Reformed Maho-Tsukai",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "99"
+        },
+        "description": "<h2>Reformed Maho-Tsukai</h2>\n<ul>\n<li>You are a Tainted being. One or more of your limbs or digits grew longer but became less powerful. You are able to reach things in narrow gaps and can climb faster than normal.</li>\n<li>When you make a check that calls on your physical prowess (such as a Fitness [Earth] check to survive a fall or a Labor [Earth] check to exert yourself in the field), you must choose and reroll two dice showing (su) or (ex) results. After resolving the check, if you failed, you gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000038",
+      "name": "Belligerent",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "85"
+        },
+        "description": "<h2>Belligerent (EARTH)</h2>\n<ul>\n<li>You find it nearly impossible to keep your cool when provoked, and may even look for an excuse to fight with people you consider deserving of a good thrashing. Delicate social situations can easily spiral out of control when you suspect the other party of giving offense.</li>\n<li>After performing a check to respond to provocation without resorting to violence or threats (such as a Performance [Earth] check to calmly sing a song that was originally composed to paint your lineage in an unflattering light or a Meditation [Earth] check to stay in formation when you spot a rival across the battlefield), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000039",
+      "name": "Braggart",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "85"
+        },
+        "description": "<h2>The following apply to a character with the Braggart anxiety:</h2>\n<ul>\n<li>You can't resist an opportunity to share your great deeds with others, and you grow distressed when your audience isn't impressed by your accomplishments.</li>\n<li>After performing a check to share your past deeds with others without emphasizing your own accomplishments or trying to impress your audience with your story (such as a Courtesy [Water] check to allow a superior to take credit for your deeds or a Performance [Water] check when recounting a tale in which you played a part), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000040",
+      "name": "Fear of [Common Creature]",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "105"
+        },
+        "description": "<h2>Fear of [Common Creature] (Earth)</h2>\n<ul>\n<li>You have an irrational fear of a creature that is commonly found in Rokugan. When you perceive such a creature, whether or not it is actually there, you become unnerved and your decision-making suffers.</li>\n<li>After performing a check to make choices while in the presence of your feared creature (such as a Medicine [Earth] check to recall how to treat a particular type of wound or a Courtesy [Earth] check to act reasonably during a negotiation), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "anxiety",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000041",
+      "name": "Fear of Mediocrity",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "106"
+        },
+        "description": "<h2>Fear of Mediocrity (Fire)</h2>\n<ul>\n<li>Your fear of amounting to nothing causes you to seize up when faced with the need to innovate on the fly.</li>\n<li>After performing a check to adapt to an unexpected situation (such as a Survival [Fire] check to find shelter when your tent is destroyed or a Culture [Fire] check to unexpectedly interact in an appropriate manner with someone of a higher status), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>\n<p>“I have climbed the highest peaks in my quest: the Wrath of the Kami, Tenkenniyoru Yama, the Iron Mountain, the Northern Wall Mountains… Nothing! Each tincture from a flower. Each tea from an herb. Each poultice from bark. Nothing. The answer must be out there.” - letters from Agasha AriNaga regarding an elixir of immortality</p>\n<p>“Falling up a mountain like AriNaga, to be immortalized as a fool.” - old Agasha saying</p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "anxiety",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreAnx000042",
+      "name": "Fear of Poison",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "106"
+        },
+        "description": "<h2>The following apply to a character with the Fear of Poison anxiety:</h2>\n<ul>\n<li>You have a fear of being poisoned by others. You would rather go hungry than accept food or drink from anyone you do not trust completely, unless you witness that food being consumed by someone else first. When you are offered food or drink by others you do not trust, you cannot help but wonder if they are secretly plotting your demise.</li>\n<li>After performing a check to interact with someone you do not completely trust who has offered you food or drink (such as a Sentiment [Air] check to try to determine someone else’s intentions or a Games [Air] check to play a game well against someone who has offered you food), you receive 3 strife. If this is the first time this has occurred this scene, gain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "anxiety",
+        "types": "Mental"
+      },
+      "folder": null
+    }
+  ]
+}

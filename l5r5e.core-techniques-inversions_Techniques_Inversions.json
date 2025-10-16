@@ -1,0 +1,670 @@
+{
+  "exportedAt": "2025-10-16T22:34:07.271Z",
+  "foundryVersion": "12.331",
+  "systemId": "l5r5e",
+  "pack": {
+    "label": "Techniques Inversions",
+    "collection": "l5r5e.core-techniques-inversions",
+    "type": "Item",
+    "system": "l5r5e"
+  },
+  "count": 16,
+  "documents": [
+    {
+      "_id": "L5RCoreIns000001",
+      "name": "One Within the Void",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/inversion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "114"
+        },
+        "description": "<h2>One within the Void</h2>\n<ul>\n<li>Within the emptiness of the Void, the divisions between \"self\" and \"other\" become as mutable as any other barriers that seem absolute within reality. Those trained to wield the Void can share their expertise, tendencies, and even emotional states with other beings, allowing them to act with uncanny coordination.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "6",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "sentiment",
+        "difficulty": "2",
+        "technique_type": "inversion"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreIns000002",
+      "name": "Sight beyond Existence",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/inversion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "115"
+        },
+        "description": "<h2>Sight beyond Existence</h2>\n<ul>\n<li>The Void is nonexistence; therefore, within it, all possibilities exist. One who attunes their senses to nonexistence can perceive the other possible realities that ripple outward from each moment of action. The signs often do not come as complete visions, but as brief flashes: hazy vignettes of a world that never was. The rustling of leaves from a tree that has not yet grown, the first laugh shared with a new friend, the scent of blood and burning flesh. However, these rippling potential truths can become intoxicating, drawing an undisciplined mind deeper and deeper into twisted realms of refracted possibility until there is no escape. This is what those who study the Void call the \"Lying Darkness\": the trap that awaits all who let their worldly desires guide their ventures into the Void.</li>\n<li>Activation: Once per session, immediately after you or another character at range 0-3 performs an action or makes a choice of great consequence in a narrative scene, you may make a TN 2 Theology (Void) check targeting that character to peer beyond the lie of time and find another outcome.</li>\n<li>Effects: If you succeed, you scry for another outcome and return to the moment before the action was performed. All effects and outcomes stemming from the action are undone, but only you and the target are aware of the reality that no longer is. If you are the target, you may choose the same or a different action or decision. If another character is the target, you may say up to five words to the target before they act or make a decision.</li>\n</ul>\n<ul>\n<li>New Opportunities: If you target another character and you succeed, you may perform an action immediately before the target performs their new action.</li>\n<li>Magnitude: Magnitude 1+: You see one possible consequence of the original action or decision that would occur before the end of the scene.</li>\n<li>Magnitude 2+: You see one additional possible consequence of the original action or decision that would occur in the next year.</li>\n<li>Magnitude 3+: You see one additional possible consequence of the original action or decision that would occur in the next decades, or even further in the future.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "6",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "inversion"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreIns000003",
+      "name": "Whispered Blade",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/inversion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "115"
+        },
+        "description": "<h2>Whispered Blade</h2>\n<ul>\n<li>An ishiken cuts not with a blade, but with the essence of severing itself. While some who have seen this technique describe it as the swinging of an invisible sword, the truth is that the stroke is not truly to attack the foe. With each gesture, the Void wielder breaks a hairline crack in reality, and everything the crack passes through is rent apart as the world restores itself to order.</li>\n<li>Activation: As a Support action, you may make a TN 2 Theology (Void) check.</li>\n<li>Effects: If you succeed, you summon a rift in reality that extends from your hand and can be used as a knife (see page 231 of the core rulebook) that ignores all resistances. This effect persists until the end of the scene or until you dismiss it as a Support action.</li>\n<li>New Opportunities</li>\n<li>~>: You may summon a rift that acts as a different one-handed melee weapon instead of a knife.</li>\n<li>~>: You may summon a second rift in your other hand that acts as a weapon identical to the one you have in your other hand.</li>\n<li>Magnitude</li>\n<li>Magnitude 1 +: After you perform an Attack action using a rift weapon, a rift echo is summoned at range 0 of your target. Any summoned echoes that are created this way persist for a number of rounds equal to the magnitude. In a skirmish, when this magnitude effect ends, each character, besides yourself, at range 0-1 of one or more echoes suffers a critical strike with severity equal to your weapon's deadliness times the number of echoes at range 0-1 of them. In any other conflict, rift echoes may be used to \"undo\" an action that had disastrous consequences, or to force an enemy to attempt an action against the Void wielder again, effectively creating a second chance.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "6",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "inversion"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreIns000004",
+      "name": "Witness the End",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/inversion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "116"
+        },
+        "description": "<h2>Witness the End</h2>\n<ul>\n<li>Activation: As a Scheme and Support action, you may make a TN 2 Theology (Void) check targeting one character or one mundane, physical object at range 0-1. The TN of this check is equal to the character's vigilance, or 2 if you are targeting an object.</li>\n<li>Effects: If you succeed and your target is an object, you scry for the ways the target can be undone. The TN of your next check to damage, sabotage, or otherwise disable it is 1 (and cannot be increased). This effect persists until the end of your next turn. If you succeed and your target is a character, you scry for the moves that will lead to their downfall. The TN of your next Attack or Scheme action targeting that character is 1 (and cannot be increased). This effect persists until the end of your next turn.</li>\n<li>New Opportunities: Choose one additional target per :£> spent this way.</li>\n<li>Magnitude: Magnitude 1-3: This effect persists for a number of additional rounds equal to the magnitude. Magnitude 2+: In addition to physical objects, you can choose metaphysical objects, such as the ongoing effects of invocations, mah6, kiho, or rituals (or other persistent mystical phenomena, at the GM's discretion). Magnitude 4+: This effect persists until the end of the scene instead.</li>\n<li>WITNESS THE END USES: Witness the End is potentially very powerful, but remember that the GM is the final arbiter of what a character can attempt in the first place. If a character uses Witness the End to see how to undo something beyond a single human's scope, such as destroying a mountain or ending the Yogo bloodline curse, they cannot turn around and make a check to undo it without undertaking the narrative preparations such an effort would require (vast earthworks or a spiritual quest that would likely take many encounters to complete, for instance). At the GM's discretion, Witness the End can be used in such cases to get a hint of where to start on one's quest, but it provides no direct benefit to related checks until various narrative goals have been completed.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "6",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "@T:vigilance",
+        "technique_type": "inversion"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreIns000005",
+      "name": "Distance Distorted",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/inversion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "116"
+        },
+        "description": "<h2>Distance Distorted</h2>\n<ul>\n<li>Activation: As a Scheme and Support action during a skirmish, intrigue, or narrative scene, you may make a TN 3 Theology (Void) check targeting two objects and/or characters at range 0-3 of you.</li>\n<li>Effects: If you succeed, you augment and curse the targets and choose one of the following numbers: 0, 1, 2, or 3. No matter where the targets move, each target treats the other as being at the chosen number of range bands from itself for the purposes of determining distance between the two, targeting, and effects. This effect persists until the end of your next turn. If you succeed, each target that is a character receives 2 fatigue.</li>\n<li>Magnitude: Magnitude 1-2: This effect persists for a number of additional rounds equal to the magnitude. Magnitude 3+: This effect persists until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "6",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "inversion"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreIns000006",
+      "name": "Ethereal Flicker",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/inversion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "116"
+        },
+        "description": "<h2>Ethereal Flicker</h2>\n<ul>\n<li>Activation: As a Scheme and Support action, you may make a TN 3 Theology (Void) check targeting yourself.</li>\n<li>Effects: If you succeed, you augment and curse yourself to be slightly out of phase with reality. Each time a strike or projectile is made against you, it misses by a random amount (as if the target were slightly out of alignment). From the perspective of anyone else, strikes and projectiles fruitlessly chase the Void wielder's ghostly afterimage, never quite catching up with their true location.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "6",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "inversion"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreIns000007",
+      "name": "The Lotus Bloom",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/inversion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "117"
+        },
+        "description": "<h2>The Lotus Blooms</h2>\n<ul>\n<li>The Lotus Blooms is a powerful ability that an ishiken can use against an opponent or to aid an ally, but it is also a strong boost to the ishiken.</li>\n<li>Activation: As a Scheme and Support action, you may make a TN 3 Theology (Void) check targeting one character at range 0-1.</li>\n<li>Effects: If you succeed, you augment and curse your target. When your target makes a check, instead of keeping a number of dice up to the ring they used, they keep a number of dice up to their Void Ring (and must keep as many dice as possible within this limit). Your target does not receive strife for kept w results, but for each kept w result, your target receives 1 fatigue. If they become Incapacitated this way, your target also gains the Exhausted condition. This effect persists until the end of your target's next turn.</li>\n<li>Magnitude<br>Magnitude 1-2: This effect persists for a number of additional rounds equal to the magnitude.<br>Magnitude 3+: This effect persists until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "6",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "inversion"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreIns000008",
+      "name": "Hurl from the Stream",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/inversion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "117"
+        },
+        "description": "<h2>Hurl from the Stream</h2>\n<ul>\n<li>All things that exist are found within the river called space, pulled ever forth inexorably by the current called time. Yet, neither space nor time exist within the Void. From the perspective of a fish, when a heron alights upon the river, it seems to have come from nowhere, and when it pulls another fish to its doom, it seems to have erased it from existence. By ripping free the gossamer strands that bind an object to time and space, the Void wielder casts it into nothingness for a short time.</li>\n<li>Activation: Once per scene as a Scheme action, you may make a Theology (Void) check targeting one character or object at range 0-3. The TN is equal to your target's vigilance plus its silhouette (or only its silhouette if it is an object).</li>\n<li>Effects: If you succeed, you bind your target to a space outside of reality. As your target is no longer present in reality, it is unaffected by anything that would otherwise affect it and does not affect anything. This effect persists for one round, after which your target returns to reality at its original position.</li>\n<li>New Opportunities: If you succeed, your target returns to reality at an unobstructed position of your choice a number of range bands away from its original position equal to ~ spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "6",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "@T:vigilance",
+        "technique_type": "inversion"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreIns000009",
+      "name": "Moon on the Shifting Sea",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/inversion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "118"
+        },
+        "description": "<h2>Moon on the Shifting Sea</h2>\n<ul>\n<li>Reflecting off the sea, the moon looks as if it were within arm's reach. A child might believe the reflection to be the moon; an adult knows that they will grasp only water if they try to reach it. But the light that falls upon the eye is no more the moon itself than the light that falls upon the water. Grasping that the moon exists in both places and neither, the ishiken can twist space in a similar way to exist as a sole entity in multiple places at once.</li>\n<li>Activation: Once per scene as a Scheme and Support action, you may make a TN 3 Theology (Void) check targeting one position at range 0-2. This position must be one you could reach via your normal means of movement.</li>\n<li>Effects: If you succeed, you augment yourself, twisting the space around you so that you simultaneously exist at your current position and at the target position. You remain a single entity for the purposes of strife, fatigue, conditions, and effects, and other characters can target you by targeting you at any position you occupy. If an effect reaches you at multiple locations, it affects you multiple times. When you choose targets for an action you perform, you may receive 2 fatigue to choose one additional target that is within range of at least one position you occupy, or to choose the same target multiple times if that target is within range for the action from multiple positions you occupy. If you choose the same target multiple times this way, resolve the effect against them once for each time you chose them. This effect persists until the end of your next turn. When this effect ends, choose one of the positions you occupy: you cease to occupy all of your other positions. This effect persists a number of rounds equal to your ranks in Meditation.</li>\n<li>Magnitude 1-2: This effect persists for a number of additional rounds equal to the magnitude.</li>\n<li>Magnitude 1+: Choose one additional target position per magnitude. You exist at each of those positions as well.</li>\n<li>Magnitude 3+: This effect persists until the end of the scene. At the end of each round, receive 1 fatigue for each position you occupy.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "6",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "inversion"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreIns000010",
+      "name": "Shroud in Solitude",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/inversion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "118"
+        },
+        "description": "<h2>Shroud in Solitude</h2>\n<p>Within the Void, a being can only exist by their own will—if one who walks in the shadows loses themself, they are lost forever, for there is nobody else to find them. By shrouding a target in the essence of isolation, an ishiken can cut them off from the sustaining bond of reality, freeing them from the normal bonds of cause and effect. While this means that their will alone can sustain their form and flashing steel passes harmlessly through them, it also means that if their concentration slips, they could be lost forever.</p>\n<ul>\n<li><strong>Activation:</strong> As a Support action, you may make a TN 3 Theology (Void) check targeting one character at range 0.</li>\n<li><strong>Effects:</strong> If you succeed, you augment and curse your target. When defending against any type of damage, your target uses their Void Ring to reduce damage instead of the resistance value they would normally use, and whenever they would be dealt fatigue they receive that much strife instead. This effect persists until the end of your next turn.</li>\n</ul>\n<ul>\n<li><strong>Magnitude 1-2:</strong> This effect persists for a number of additional rounds equal to the magnitude.</li>\n<li><strong>Magnitude 3+:</strong> This effect persists until the end of the scene instead. If the target becomes Compromised while this effect persists, they must resist with a TN 5 Meditation check (Void 3); if they fail, their body is pulled into the Void and permanently ceases to exist.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "6",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "inversion"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreIns000011",
+      "name": "Reality Stitch",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/inversion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "119"
+        },
+        "description": "<h2>Reality Stitch</h2>\n<p>A skilled Void wielder can twist the rope of fate into a snare, and even thread together the fates of multiple foes to drag them toward the same doom.</p>\n<ul>\n<li><strong>Activation:</strong> As a Scheme action, you may make a Theology (Void) check targeting a number of characters up to your ranks in Meditation at range 0-2. The TN of this check is equal to the highest vigilance among your targets.</li>\n<li><strong>Effects:</strong> If you succeed, you curse your targets. Whenever one receives strife or fatigue, all of your targets receive the same amount of strife or fatigue instead. This effect persists until the end of the scene.</li>\n<li><strong>New Opportunities:</strong> Choose one additional target per !C> spent this way.</li>\n<li><strong>Magnitude</strong></li>\n<li>Magnitude 1+: Whenever one of your targets suffers a condition, all of them suffer the same condition instead.</li>\n<li>Magnitude 2+: Whenever one of your targets suffers a critical strike, all of them suffer a critical strike with the same severity instead.</li>\n<li>Magnitude 3+: Whenever one of your targets is affected by a persistent effect, all of them are affected by that effect. When the persistent effect is removed from any target, it is removed from all targets instead.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "6",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "@T:vigilance|max",
+        "technique_type": "inversion"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreIns000012",
+      "name": "Shattering Caress",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/inversion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "119"
+        },
+        "description": "<h2>Shattering Caress</h2>\n<ul>\n<li>The flaws in creation are laid bare to an ishiken who approaches mastery. By driving their will into the nexus of these cracks like a spike, the Void wielder can accelerate a target's fate, causing an object to shatter, rust, or wear away—or causing a living being to perish.</li>\n<li>Activation: As an Attack action using a readied melee weapon, you may make a TN 3 Martial Arts (Void) [Melee or Unarmed] check targeting one character or mundane, physical object in range of your weapon.</li>\n<li>If you succeed and your target is a mundane object, you smite it, and it gains the Destroyed item quality as it falls to pieces.</li>\n<li>If you succeed and your target is a character, you smite your target, inflicting supernatural damage equal to your weapon's base damage. If this damage causes your target to become Incapacitated, they suffer the Dying [three rounds] condition.</li>\n<li>Magnitude<br>Magnitude 1-2: Reduce the duration of the Dying condition the target character suffers by the magnitude.</li>\n<li>Magnitude 3+: Instead of suffering the Dying condition, the target character is killed outright.</li>\n</ul>\n<p>A mundane object may include, at the GM's discretion, a small segment of a wall.</p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "6",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "unarmed,melee",
+        "difficulty": "3",
+        "technique_type": "inversion"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreIns000013",
+      "name": "Three Heartbeats",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/inversion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "119"
+        },
+        "description": "<h2>Three Heartbeats</h2>\n<ul>\n<li>Even though an ishiken cannot truly stop the flow of time, by creating twists and turns in its course, they can delay it for others while accelerating it for themselves.</li>\n<li>Activation: As a Support action, you may make a TN 4 Theology (Void) check targeting yourself.</li>\n<li>If you succeed, you receive 3 fatigue. Then, after your turn, you may immediately take another turn. During this additional turn, other characters count as being unaware of you and cannot react to things you do (such as act on a preset condition for the Wait action or perform a finishing blow, as described on page 2S9 of the core rulebook). They still make checks to resist effects as usual and defend against damage.</li>\n<li>Magnitude<br>Magnitude 1+: After you take your first additional turn, you take additional turns equal to magnitude. After you take each additional turn beyond the first, you receive an additional 3 fatigue. If you become Incapacitated this way, you suffer the Dying [three rounds] and Exhausted conditions.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "6",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "4",
+        "technique_type": "inversion"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreIns000014",
+      "name": "Essence Eternal",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/inversion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "119"
+        },
+        "description": "<h2>Essence Eternal</h2>\n<p>Though each life is forgotten in the trials of reincarnation, it is said that each being's first incarnation marks its soul still. Looking deep within a being, an ishiken can affix its eternal essence to its current state, snapping it back to this state some time later.</p>\n<ul>\n<li>Activation: As a Scheme action, you may make a TN 3 Theology (Void) check targeting one character or mundane object at range 0.</li>\n<li>If you succeed, you affix your eternal essence to the target. After a number of rounds equal to your ranks in Meditation, the target is instantly returned to its current state as if it had never left. This effect persists until the end of the scene.</li>\n<li>Magnitude 1-2: The target is returned to its current state after a number of rounds equal to the magnitude.</li>\n<li>Magnitude 3+: The target is returned to its current state immediately, and the effect persists until the end of the scene.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "6",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "4",
+        "technique_type": "inversion"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreIns000015",
+      "name": "Slip the Cycle",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/inversion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "120"
+        },
+        "description": "<h2>Slip the Cycle</h2>\n<ul>\n<li>The Void is filled with primal uncreation: that from which creation spews forth and that to which it returns. Yet so long as their mind moves free, an ishiken cannot be trapped by bonds, by walls, or even by the jaws of inevitability.</li>\n<li>Activation: Once per game session as a Movement and Support action, you may make a TN 3 Theology (Void) check. You can make this check even if you would normally be unable to make such checks, such as if you are physically restrained, Incapacitated, Unconscious, or have died or ceased to exist within the current scene.</li>\n<li>Effects: If you succeed, you purify yourself and remove all conditions or persistent effects currently affecting you. Your fatigue and strife become 0. You may move to a position at range 0-2 of your current (or last) location, ignoring intervening obstacles. If you were dead or did not exist, you also return to life or return to existence for one round.</li>\n<li>New Opportunities</li>\n<li>✓ You may choose a character other than yourself as the target.</li>\n<li>Magnitude</li>\n<li>Magnitude 1: If you were dead or did not exist, you return until the end of the scene, at which point you revert to your prior state (dead or nonexistent).</li>\n<li>Magnitude 2-3: If you returned from death or nonexistence this way, you return until the end of the game session instead.</li>\n<li>Magnitude 4+: If you returned from death or nonexistence this way, you return permanently instead. Permanently increase the TN of the check for you to activate this technique by 1.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "6",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "inversion"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreIns000016",
+      "name": "Unweave",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/inversion.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "120"
+        },
+        "description": "<h2>Unweave</h2>\n<ul>\n<li>Activation: As an Attack and Scheme action, you may make a TN 4 Theology (Void) check targeting one character or object of silhouette 0-3 at range 0-2.</li>\n<li>Effects: If you succeed and the target is a mundane object or Minion NPC, you bind it to unreality and it ceases to exist. You receive fatigue equal to its silhouette plus its conflict rank (or just its silhouette, if it is an object). If you succeed and the target is an object with mystical properties, it gains the Damaged item quality, or the Destroyed item quality if it already has the Damaged item quality. If you succeed and the target is an Adversary NPC or PC, they suffer supernatural damage equal to your ranks in Theology that ignores all resistances.</li>\n<li>Magnitude 1+: Each target suffers additional damage equal to the magnitude.</li>\n<li>Magnitude 2+: The terrain within a number of range bands equal to the magnitude loses all terrain qualities.</li>\n<li>Magnitude 2+: If a target suffers a critical strike as a result of this damage (or the Destroyed item quality, if it is an object), it ceases to exist.</li>\n<li>Magnitude 3+: Each character in the scene with vigilance lower than or equal to the magnitude becomes a target.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "6",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "4",
+        "technique_type": "inversion"
+      },
+      "folder": null
+    }
+  ]
+}

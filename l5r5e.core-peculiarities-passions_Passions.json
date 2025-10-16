@@ -1,0 +1,1734 @@
+{
+  "exportedAt": "2025-10-16T22:28:55.897Z",
+  "foundryVersion": "12.331",
+  "systemId": "l5r5e",
+  "pack": {
+    "label": "Passions",
+    "collection": "l5r5e.core-peculiarities-passions",
+    "type": "Item",
+    "system": "l5r5e"
+  },
+  "count": 43,
+  "documents": [
+    {
+      "_id": "L5RCorePas000001",
+      "name": "Animal Bond",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "111"
+        },
+        "description": "<h2>Animal Bond (Earth)</h2>\n<ul>\n<li>Reciprocating your interest, a small, mundane animal of some kind has attached itself to you. Choose one silhouette 0 or 1 animal; it follows you around wherever you go and generally acts as your companion. It can be cajoled to do what you want, but it might need incentives (usually food) to perform difficult tasks on demand. If you are granted an animal as part of your starting outfit, that animal can be your companion (regardless of the usual size restrictions).</li>\n<li>After performing a check to interact with an animal (such as a Medicine [Earth] check to mend its injuries or a Survival [Earth] check to calm it), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "passion",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000002",
+      "name": "Armament",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "111"
+        },
+        "description": "<h2>Armament (Earth)</h2>\n<ul>\n<li>Unless the piece comes from outside of the Emerald Empire, you know the name of any weapon or piece of armor you encounter, are aware of its function, and have a rudimentary understanding of how to equip and wield it.</li>\n<li>After performing a check to make or study arms or armor (such as a Smithing [Earth] check to polish a suit of armor or a Tactics [Earth] check to know how to arrange a proper spear formation), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "passion",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000003",
+      "name": "Brushwork",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "111"
+        },
+        "description": "<h2>Brushwork (Air)</h2>\n<ul>\n<li>You can identify the signature styles of numerous different schools and individual artists, as well as common motifs and techniques.</li>\n<li>After performing a check to study or practice brushwork (such as an Aesthetics [Air] check to assess a painting’s qualities and artist or a Composition [Air] check to add the finishing touches to a letter written in calligraphy), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "passion",
+        "types": "Mental, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000004",
+      "name": "Curiosity",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "112"
+        },
+        "description": "<h2>Curiosity (Fire)</h2>\n<p>“A curious mind is a blessing. Yet, one should be careful, when following the object of one’s whims of the moment, that the object does not become like the shining lure used to catch fish in a river. The fish who chases the lure ends up over rice.” – Analects of Nabeshima</p>\n<ul>\n<li>The first time you attempt a new task and fail, you always think of another route you could take to try to overcome or learn more about the problem.</li>\n<li>After performing a check to seek answers to an intriguing question (such as a Medicine [Fire] check to create a new chemical concoction or a Theology [Fire] check to try to determine the metaphysical underpinnings of a particular kami’s behavior), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "passion",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000005",
+      "name": "Daredevil",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "112"
+        },
+        "description": "<h2>Daredevil (Fire)</h2>\n<p>“Those who fear to act have already failed. Lose your fear, and gain the world.” – Tao of Shinsei</p>\n<ul>\n<li>You can risk your life without consideration or hesitation, even if the potential consequences are obvious and dire.</li>\n<li>After performing a check to risk your life (such as a Fitness [Fire] check to resist a critical strike or a Games [Fire] check to win a contest in a flashy and physically risky way), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "passion",
+        "types": "Mental, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000006",
+      "name": "Enlightenment",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "112"
+        },
+        "description": "<h2>Enlightenment (Void)</h2>\n<ul>\n<li>You feel no attachment to mundane items and earthly titles; you cannot be tempted with material wealth or the promise of power.</li>\n<li>After performing a check to detach yourself from material concerns (such as a Meditation [Void] check to contemplate your place in the universe or a Survival [Void] check to exist in harmony with your environment), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "passion",
+        "types": "Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000007",
+      "name": "Fashion",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "112"
+        },
+        "description": "<h2>Fashion (Fire)</h2>\n<ul>\n<li>You always know the current trends in your home region, and you can identify what is in vogue (and how to take advantage of that fact) in a new place after spending one or more scenes there.</li>\n<li>After performing a check to interact with clothes, jewelry, or other worn works of art (such as a Culture [Fire] check to theorize about what others might wear at the next Winter Court or a Design [Fire] check to create a stunning work), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "passion",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000008",
+      "name": "Fortune-Telling",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "112"
+        },
+        "description": "<h2>Fortune-Telling (Void)</h2>\n<p>“For the second time this month, the constellation of the Flying Carp was obscured by a darkness without apparent source, and the moon appeared to have a golden cast to its light, with the Five Sisters glowing brightly directly above. This portends misfortune. Any child born under this inauspicious sign will surely come to a sad end.” – From the diary of Imperial Astrologer Seppun Seimei</p>\n<ul>\n<li>You can identify any common portents (such as constellations and other stellar phenomena, the cracks in oracle bones, the appearance of certain animals, and various other signs of things to come), along with their implications for the future.</li>\n<li>After performing a check to discern the future (such as a Survival [Void] check to look for small omens in your earthly environs or a Theology [Void] check to perform a divination by reading the stars), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "passion",
+        "types": "Mental, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000009",
+      "name": "Generosity",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "113"
+        },
+        "description": "<h2>Generosity (Water)</h2>\n<ul>\n<li>You can always identify a proper gift for a particular person that does not risk giving offense or slighting them publicly.</li>\n<li>After performing a check to acquire or give a gift (such as a Design [Water] check to select an item that complements someone’s wardrobe or a Commerce [Water] check to find and select a gift at a market), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "passion",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000010",
+      "name": "Gossip",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "113"
+        },
+        "description": "<h2>Gossip (Air)</h2>\n<p>The courts of Rokugan are a battlefield as deadly as any in war. The weapons are rumor, and innuendo, and sharpened tongues. The wrong word in the right ear can spell the end of a career, a loss of standing, or even a loss of life.</p>\n<ul>\n<li>At the start of each scene, you can always identify the character present who will know the juiciest rumors (besides yourself, obviously).</li>\n<li>After performing a check to spread or receive rumors (such as a Courtesy [Air] check to cast someone in a certain light when telling a story about them or a Culture [Air] check to read people’s current anxieties from the subtle ways they obey or break etiquette), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "passion",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000011",
+      "name": "History",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "113"
+        },
+        "description": "<h2>History (Earth)</h2>\n<ul>\n<li>After a short time spent studying it, you can discern the era and context of any object, structure, or text you encounter—or else you know for certain that no chronicler of the Emerald Empire has encountered this thing before.</li>\n<li>After performing a check to remember a historical anecdote (such as a Government [Earth] check to draw parallels to past events or a Smithing [Earth] check to know about past uses of and trends in the creation of tools and artifacts), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "passion",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000012",
+      "name": "Ikebana",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "113"
+        },
+        "description": "<h2>Ikebana (Water)</h2>\n<p>The art of flower arranging is practiced by many nobles of Rokugan. It is considered a subtle and beautiful form of expression, one that follows traditions and methods that go back centuries. The art reaches its zenith in the creation of a story garden, in which an ikebana master carefully arranges flowers to relate a particular tale, which unfolds for the visitor as they wander the garden paths.</p>\n<ul>\n<li>You can always identify a plant by any of its parts, and you know its physical properties and its hanakotoba (\"language of flowers\") meaning.</li>\n<li>After performing a check related to flower arrangement (such as an Aesthetics [Water] check to rearrange or improve an ikebana piece or a Survival [Water] check to acquire flowers from a marketplace), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "passion",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000013",
+      "name": "Playfulness",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "114"
+        },
+        "description": "<h2>Playfulness (Air)</h2>\n<ul>\n<li>When you say something untoward to someone of lower or equal status, they write it off as your playful nature instead of being significantly angered or saddened by it.</li>\n<li>After performing a check to gently mock or chide someone (such as a Composition [Air] check to find the parts of a rival’s poem that you can echo with parody in your next piece or a Courtesy [Air] check to tease someone with a clever pun on their name), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "passion",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000014",
+      "name": "Provocation",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "114"
+        },
+        "description": "<h2>Provocation (Fire)</h2>\n<ul>\n<li>You can always identify a point of sensitivity that you can push upon in another person—though not whether they will take your comment as slightly aggressive banter or a grave insult.</li>\n<li>After performing a check to get a rise out of someone (such as a Courtesy [Fire] check to call someone by an aggravating nickname or a Command [Fire] check to get a group of soldiers passionate and angry enough to storm an enemy position), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "passion",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000015",
+      "name": "Sake",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "114"
+        },
+        "description": "<h2>Sake (Water)</h2>\n<ul>\n<li>You can identify regional variations in sake and other alcohol, and you know a great deal about the various processes involved in making sake. It takes you twice as much alcohol as it does anyone else to become intoxicated.</li>\n<li>After performing a check to interact with the fine art of fermented beverages (such as a Courtesy [Water] check to serve alcohol according to proper procedure in a social setting or a Labor [Water] check to ferment rice), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "passion",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000016",
+      "name": "Secrets",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "115"
+        },
+        "description": "<h2>Secrets (Void)</h2>\n<ul>\n<li>You never forget a secret you have heard, and you instinctively know if something you have heard is common knowledge or information someone wants concealed (even if you do not know who or why).</li>\n<li>After performing a check to acquire or preserve a secret (such as a Meditation [Void] check to resist efforts to pry a secret from you or a Sentiment [Void] check to have a hunch about whether someone is concealing a dreadful secret), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "passion",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000017",
+      "name": "Stories",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "115"
+        },
+        "description": "<h2>Stories (Earth)</h2>\n<ul>\n<li>You can recall any story you have been told, including the details that others would gloss over or forget.</li>\n<li>After performing a check to recall or tell a story (such as a Performance [Earth] check to spin a tale to hearten comrades or a Theology [Earth] check to recite a passage from the Tao of Shin-sei or Akodo’s Leadership that is applicable to your situation), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "passion",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000018",
+      "name": "Tea",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "115"
+        },
+        "description": "<h2>Tea (Void)</h2>\n<p>“Without the bastions of civility that are teahouses, the Empire would surely collapse into chaos.”</p>\n<p>– Kakita Yoshi, Daimyō of the Kakita Family</p>\n<h3>Types:</h3>\n<p>Physical, Spiritual</p>\n<h3>Effects: The following apply to a character with the Tea passion:</h3>\n<ul>\n<li>You can identify regional variations in tea, and you know a great deal about the process of preparing and drying leaves. In the wilderness, you can acquire the natural ingredients required to make rustic teas of various sorts with relative ease.</li>\n<li>After performing a check to interact with tea (such as a Medicine [Void] check to brew a tea with ingredients that help the body recover from illness or a Performance [Void] check to perform a tea ceremony that helps the recipients contemplate their state in life), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "passion",
+        "types": "Physical, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000019",
+      "name": "Travel",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "115"
+        },
+        "description": "<h2>Travel (Water)</h2>\n<ul>\n<li>You are not unsettled by foreign customs, and you can comfortably fit in even in strange environments.</li>\n<li>After performing a check to travel to a new location or interact with a novel thing (such as a Survival [Water] check to try to identify a new plant, animal, or phenomenon, or a Seafaring [Water] check to travel by boat), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "passion",
+        "types": "Mental, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000020",
+      "name": "Wordplay",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "116"
+        },
+        "description": "<h2>Wordplay (Air)</h2>\n<ul>\n<li>You can always identify rhetorical and literary patterns in the works of others when reading or listening to them.</li>\n<li>After performing a check to interpret or create a play on words (such as a Composition [Air] check to write a poem with a perfectly executed poetic pun or a Performance [Air] check to subtly imply something to your audience via a double meaning), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "passion",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000021",
+      "name": "Bathing",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "90"
+        },
+        "description": "<h2>Bathing (WATER)</h2>\n<ul>\n<li>You are familiar with all of the nuances of bathhouses and the traditions of bathing, and are talented at overhearing gossip in such places.</li>\n<li>After performing a check while bathing (such as a Sentiment [Water] check to eavesdrop on a conversation or a Composition [Water] check to ponder how to improve a poem), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "passion",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000022",
+      "name": "Kyudo",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "90"
+        },
+        "description": "<h2>The following apply to a character with the Kyudo passion:</h2>\n<ul>\n<li>You are familiar with most forms of archery and are able to identify the relative skill of anyone who wields a bow simply by how they hold it.</li>\n<li>After performing a check to participate in the art of kyudo (such as a Smithing [Void] check to examine and attune to a bow or a Games [Void] check to enlighten another on a particular technique), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "passion",
+        "types": "Mental, Physical"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000023",
+      "name": "Kabuki",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "90"
+        },
+        "description": "<h2>Kabuki (Am)</h2>\n<ul>\n<li>You are a seasoned viewer of (or participant in) Kabuki, and you have many connections in the world of theater.</li>\n<li>After performing a check to engage with Kabuki (such as a Culture [Air] check to make an insightful comment about a performance or a Performance [Air] check to put on an impromptu show to distract someone), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "passion",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000024",
+      "name": "Festivals",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "90"
+        },
+        "description": "<h2>Festivals (Fire)</h2>\n<ul>\n<li>You can always find the best activities at festivals, and you never have an issue finding someone in a crowded place.</li>\n<li>After performing a check to interact at a festival (such as a Skulduggery [Fire] check to determine where clandestine dealings are happening or a Courtesy [Fire] check to ensure a guest has a good time), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "passion",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000025",
+      "name": "Religious Study",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "91"
+        },
+        "description": "<h2>RELIGIOUS STUDY (VOM)</h2>\n<ul>\n<li>After you spend a short time studying a religious object, text, ritual, or other observance, you are able to discern its purpose and determine what religion it belongs to (unless the religion has not been chronicled by anyone in the Emerald Empire).</li>\n<li>After performing a check to contemplate an aspect of religion (such as a Meditation [Void] check to ponder the meaning of a particular passage of the Tao of Shinsei or a Composition [Void] check to write down your thoughts about a religious ritual you witnessed), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "passion",
+        "types": "Mental, Spiritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000026",
+      "name": "Local Flare for {Region}",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "100"
+        },
+        "description": "<h2>Local Flare for [Region] (Earth)</h2>\n<ul>\n<li>Your knowledge extends beyond the court to the surrounding lands. You are familiar with secret scenic hideaways, undiscovered talent, and intriguing local customs within the region. Every clan boasts incredible palaces, but such settings can grow tiresome. A change of scenery works wonders for one’s spirit.</li>\n<li>After performing a check to remember information about the specific region you have chosen (such as a Culture [Earth] check to know what is currently going on in the region or a Sentiment [Earth] check to recall the attitudes and opinions of local inhabitants), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "passion",
+        "types": "Interpersonal"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000027",
+      "name": "Decorum",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "100"
+        },
+        "description": "<h2>Decorum (Water)</h2>\n<ul>\n<li>Polite society is your natural habitat. Etiquette, traditions, and all of the subtle courtly minutiae are second nature to you.</li>\n<li>After performing a check to ensure that you or your allies adhere to all the strictures of courtly etiquette (such as a Command [Water] check to be formally polite to your guests or a Culture [Water] check to ascertain who is adhering to court etiquette during an audience and who is making a fool of themselves), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "passion",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000028",
+      "name": "Pot Stirrer",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "101"
+        },
+        "description": "<h2>Pot Stirrer (Fire)</h2>\n<ul>\n<li>After spending a few minutes studying a room, you can extrapolate who might have a grudge against whom, which two people are on edge around each other, and other social pressure points you could exploit.</li>\n<li>After performing a check to stir up social chaos (such as a Courtesy [Fire] check to incite anger in someone about a perceived insult or a Theology [Fire] check to encourage two people to argue about the finer points of their religious beliefs), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "passion",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000029",
+      "name": "City [Choose One]",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "243"
+        },
+        "description": "<h2>City [Choose One]</h2>\n<ul>\n<li>When performing a check related to a specific city (such as a Culture [Earth] check to understand the customs of a city or a Politics [Earth] check to navigate local governance), you may reroll one die.</li>\n<li>You have a deep, personal connection to the city, allowing you to quickly identify key locations, historical events, and social dynamics unique to that place.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "passion",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000030",
+      "name": "Bonsai",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "243"
+        },
+        "description": "<h2>Bonsai</h2>\n<ul>\n<li>You know the proper methods of cultivating and arranging bonsai trees according to traditional practices, and you can explain the symbolism and significance of different styles, forms, and features.</li>\n<li>After performing a check related to bonsai (such as an Aesthetics [Earth] check to detect a hidden meaning in a bonsai’s form or a Meditation [Earth] check to reflect on the passage of time through observing a tree’s growth), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "passion",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000031",
+      "name": "Gourmet",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "243"
+        },
+        "description": "<h2>Gourmet (Earth)</h2>\n<ul>\n<li>You have a deep understanding of culinary traditions and can quickly identify the origin, ingredients, and cultural significance of any dish. You are able to prepare or describe meals with a high degree of authenticity, often evoking strong emotional or sensory responses in others.</li>\n<li>After performing a check related to food or cooking (such as a Cuisine [Earth] check to prepare a traditional meal or a Sensory [Earth] check to detect the flavor of a rare ingredient), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "passion",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000032",
+      "name": "Rock Gardening",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "244"
+        },
+        "description": "<h2>Rock Gardening (Earth)</h2>\n<ul>\n<li>You have a deep connection to the natural world, particularly to the cultivation and care of plants. You are skilled in tending to gardens and understanding the rhythms of plant growth.</li>\n<li>When performing a check that involves gardening or plant care (such as a Fitness [Earth] check to tend to a garden or a Culture [Earth] check to understand traditional gardening practices), you may reroll up to two dice showing (su) or (ex) results. After resolving the check, if you failed, you regain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "void",
+        "peculiarity_type": "passion",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000033",
+      "name": "Military History",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "244"
+        },
+        "description": "<h2>Military History</h2>\n<ul>\n<li>The following apply to a character with the Military History adversity:</li>\n<li>Due to your lack of formal military training or experience, you are viewed with suspicion by seasoned samurai and may be seen as untrustworthy in matters of combat or strategy.</li>\n<li>When making a check related to military operations, leadership, or combat tactics (such as a Command [Fire] check to direct troops or a Combat [Earth] check to assess battlefield conditions), you must choose and reroll two dice showing (su) or (ex) results. After resolving the check, if you failed, you regain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "passion",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000034",
+      "name": "Navigator",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "244"
+        },
+        "description": "<h2>Navigator (Earth)</h2>\n<ul>\n<li>You are a navigator, skilled in reading the land, sea, and sky to determine direction and movement. You are often trusted to guide others through unfamiliar terrain or weather.</li>\n<li>When performing a check that involves navigation (such as a Survival [Earth] check to find your way through a forest or a Commerce [Earth] check to determine trade routes), you may reroll one die showing (su) or (ex) results. After resolving the check, if you failed, you regain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "passion",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000035",
+      "name": "Researcher",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "emerald_empire",
+          "page": "244"
+        },
+        "description": "<h2>Researcher (Void)</h2>\n<ul>\n<li>You are a scholar or investigator, driven by a deep desire to uncover truths, often at great personal cost. Your work is respected by some, but viewed with suspicion by others who believe knowledge should be kept hidden or controlled.</li>\n<li>When making a check that involves seeking or revealing hidden information (such as a Culture [Void] check to uncover a secret family history or a Investigation [Void] check to detect a hidden message), you must choose and reroll two dice showing (su) or (ex) results. After resolving the check, if you failed, you regain 1 Void point.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "passion",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000036",
+      "name": "Honest Work",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "70"
+        },
+        "description": "<h2>Honest Work (Earth)</h2>\n<ul>\n<li>You are always able to determine how much work is needed to complete a physical, hands-on task, and your work on such tasks is always markedly better than that of others due to your eye for detail.</li>\n<li>After performing a check that requires physical labor (such as a Labor [Earth] check to till a field or a Smithing [Earth] check to fix a damaged tool), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "passion",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000037",
+      "name": "Attention",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "70"
+        },
+        "description": "<h2>Attention (Fire)</h2>\n<ul>\n<li>The thrill of having all eyes turn to you is like lightning in the veins. In those moments, the rush of exhilaration is all that matters.</li>\n<li>Types: Mental</li>\n<li>Effects: The following apply to a character with the Attention passion:</li>\n<li>At the start of each scene, you can always determine the most effective way to gain the attention of those around you.</li>\n<li>After performing a check to capture someone’s attention (such as a Performance [Fire] check to entice a wealthy merchant with hints of future riches or a Games [Fire] check to draw a crowd with a daring move), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "passion",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000039",
+      "name": "Creatures",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "97"
+        },
+        "description": "<h2>Creatures</h2>\n<ul>\n<li>Entry not found in the provided text.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "passion",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000040",
+      "name": "KnotWork",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "the_mantis_clan",
+          "page": "7"
+        },
+        "description": "<h2>KnotWork</h2>\n<ul>\n<li>When performing a check that benefits from your close relationship with the character (such as a Courtesy [Water] check to requisition an item through them or a Sentiment [Water] check to read their emotions), you may reroll up to two dice.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "air",
+        "peculiarity_type": "passion",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000041",
+      "name": "Ancestry",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "83"
+        },
+        "description": "<h2>Ancestry (Earth)</h2>\n<ul>\n<li>Types: Mental</li>\n<li>Effects: The following apply to a character with the Ancestry passion:</li>\n<li>0 The recollection of lineages comes easily to you. You know your own family history as far back as it has been recorded, and can swiftly recall the lineages of notable figures in Rokugan's history. With a few contextual cues, you can deduce the ancestry of those you meet and remember the great deeds of their forebears.</li>\n<li>0 After performing a check to recall or determine the family history of another character (such as a Government [Earth] check to remember a past daimyo of a family, or a Command [Earth] check to remind a subordinate of the expectations their ancestors would have of them), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "passion",
+        "types": "Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000042",
+      "name": "Glorious Deeds",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "83"
+        },
+        "description": "<h2>Glorious Deeds (Fire)</h2>\n<ul>\n<li>You find risking your life to be a simple matter, as long as there is a witness to remember your bravery. No threat or challenge deters you if you might be remembered for it, making even the most daunting tasks easy ones for which to prepare.</li>\n<li>After performing a check to improve your reputation or gain fame as a great samurai (such as a Performance [Fire] check to impress a court with your new melody, or a Tactics [Fire] check to execute a daring raid on the enemy), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "peculiarity_type": "passion",
+        "types": "Martial, Social"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000043",
+      "name": "Charity",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "103"
+        },
+        "description": "<h2>Charity (Water)</h2>\n<ul>\n<li>Your charitable nature makes those who have witnessed or heard of your generosity more likely to accept your reasonable requests for aid, even if giving you aid does not directly benefit the other party.</li>\n<li>After performing a check with which your charitable history is a benefit (such as a Courtesy [Water] check to convince a peasant that you’re on their side or a Labor [Water] check to determine the best way to benefit the most amount of people with your physical efforts), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "water",
+        "peculiarity_type": "passion",
+        "types": "Interpersonal, Mental"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCorePas000044",
+      "name": "Kintsugi",
+      "type": "peculiarity",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/items/peculiarity.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "104"
+        },
+        "description": "<h2>Kintsugi (Earth)</h2>\n<ul>\n<li>You have a particular fondness and skill for kintsugi, the art of mending broken pottery with gold or other similar substances.</li>\n<li>After performing a check to mend an object with kintsugi or interact with a piece of kintsugi-repaired pottery (such as a Culture [Earth] check to recall the name of a particular practitioner of kintsugi by their artist’s mark on a piece of pottery or a Labor [Earth] check to produce a breathtaking piece), you remove 3 strife.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": 3,
+        "rank": 0,
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "peculiarity_type": "passion",
+        "types": "Mental, Physical"
+      },
+      "folder": null
+    }
+  ]
+}

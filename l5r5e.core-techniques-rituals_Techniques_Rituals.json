@@ -1,0 +1,1449 @@
+{
+  "exportedAt": "2025-10-16T22:34:07.828Z",
+  "foundryVersion": "12.331",
+  "systemId": "l5r5e",
+  "pack": {
+    "label": "Techniques Rituals",
+    "collection": "l5r5e.core-techniques-rituals",
+    "type": "Item",
+    "system": "l5r5e"
+  },
+  "count": 35,
+  "documents": [
+    {
+      "_id": "L5RCoreRit000001",
+      "name": "Tea Ceremony",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "213"
+        },
+        "description": "<h2>Tea Ceremony</h2>\n<p>When Lady Doji served tea for the very first Emperor, the tea ceremony was born. Ceremony styles vary among the clans, from the gilded tea rooms of the Phoenix to the imperfect tea bowls of the Dragon, the early morning gatherings of the Crane to the snow- and moon-viewing ceremonies of the Scorpion. However, at its core the tea ceremony is fundamentally an appreciation of tea and, if done well, a spiritual moment for its participants. The tea represents all five elements: the fire used to heat the water, the earth from which the tea is grown, and the air that carries the aroma of the tea. Finally, void holds all four elements together, and brings in the mysterious fifth element, the moment of harmony and tranquility as one sips the tea.</p>\n<ul>\n<li><strong>Activation:</strong> Once per game session, as a downtime activity using a tea set, you may make a TN 2 Performance (Void) check targeting yourself and a number of other characters up to your ranks in Culture, who are also participants. Up to one other participant may assist, providing the usual benefits (see Assistance on page 26).</li>\n<li><strong>Effects:</strong> Each target removes 3 strife, plus additional strife equal to your bonus successes.</li>\n<li><strong>New Opportunities:</strong>\n<ul>\n<li>(op): Reduce the TN of each target’s next check by 1.</li>\n<li>(op)+: Each target removes 1 fatigue, plus 1 fatigue per (op) (op) spent this way.</li>\n<li>(op) (op): If you succeed, each target gains 1 Void point.</li>\n</ul>\n</li>\n</ul>\n<p>Guests are escorted to the site of the tea ceremony, ideally a tea house specially designed for this function or another place of elegant simplicity. There, they are asked to cleanse their mouths and hands—and also their souls—much in the same way purification is performed at shrines. The guests sit in a prescribed order and the host makes the tea in front of them in a series of elaborate, meticulous steps, each gesture or position passed down to them from tea masters through the ages. Finally, the host serves the tea to the guests, who partake of the same bowl one after another. After the tea has been finished, and the utensils cleaned and put away, the guests leave the tea house in the order they arrived, and the host’s final bow signifies the end of the ceremony.</p>\n<p><strong>Rank 2</strong></p>\n<ul>\n<li>If you succeed, choose one of the following omens that you see in the target’s near future:</li>\n<li>Omen of the Azure Dragon: The next time the target performs a check using a skill from the Artisan skill group this game session, the target adds a kept <span class=\"symbol\"></span> set to an (op) <span class=\"symbol\"></span> result.</li>\n<li>Omen of the Black Tortoise: The next time the target performs a check using a skill from the Scholar skill group this game session, the target adds a kept <span class=\"symbol\"></span> set to an (op) <span class=\"symbol\"></span> result.</li>\n<li>Omen of the White Tiger: The next time the target performs a check using a skill from the Martial skill group this game session, the target adds a kept <span class=\"symbol\"></span> set to an (op) <span class=\"symbol\"></span> result.</li>\n<li>Omen of the Vermilion Bird: The next time the target performs a check using a skill from the Social skill group this game session, the target adds a kept <span class=\"symbol\"></span> set to an (op) <span class=\"symbol\"></span> result.</li>\n<li>Omen of the Weaver and the Cowherd: The next time the target performs a check using a skill from the Trade skill group this game session, the target adds a kept <span class=\"symbol\"></span> set to an (op) <span class=\"symbol\">�",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "performance",
+        "difficulty": "2",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000002",
+      "name": "Commune with the Spirits",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "212"
+        },
+        "description": "<h2>Commune with the Spirits</h2>\n<ul>\n<li>Activation: As a downtime activity or Support action, you may make a TN 1 Theology check using Air, Earth, Fire, Water, or Void to appeal to nearby spirits of that Element (appeal to the departed, such as ancestor spirits, and other non-elemental supernatural presences, if using Void) for aid.</li>\n<li>Effects: If you succeed, choose and receive one of the following boons from the spirit or spirits you contacted:</li>\n<li>Sense the Kami: Detect all spirits and uses of their magic by shugenja within a number of range bands equal to the ring you used plus your bonus successes.</li>\n<li>Spiritual Knowledge: Learn one fact the spirits know about the area.</li>\n<li>Elemental Gift: The kami deliver a small amount of the Element in question to you. For instance, a prayer to a water kami might cause it to begin raining lightly, for a short time, but it might also cause you to run across a stream, or even find groundwater. In contrast, a prayer to fire kami might bring forth a small shower of sparks, while a prayer to an air kami might elicit a gust of wind. Praying to an earth kami might cause you to stumble across a large stone, or find a small patch of arable ground amid a wasteland. Prayers to the ancestors may allow the petitioner to find something that belonged to an ancestor in a time of need.</li>\n</ul>\n<ul>\n<li>New Opportunities</li>\n<li>(op): Reduce the TN of your next check to interact with or appeal to kami or supernatural presences of this Element by 1.</li>\n<li>(op)+: If you succeed, receive one additional boon per (op) spent this way. Each boon can only be received one time per activation.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "1",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000003",
+      "name": "Divination",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "212"
+        },
+        "description": "<h2>Divination</h2>\n<ul>\n<li>Activation: As a downtime activity, you may make a TN 2 Theology (Void) check targeting one character to see glimpses of their future.</li>\n<li>Effects: If you succeed, choose one of the following omens that you see in the target’s near future:</li>\n<li>Omen of the Azure Dragon: The next time the target performs a check using a skill from the Artisan skill group this game session, the target adds a kept  set to an (op)  result.</li>\n<li>Omen of the Black Tortoise: The next time the target performs a check using a skill from the Scholar skill group this game session, the target adds a kept  set to an (op)  result.</li>\n<li>Omen of the White Tiger: The next time the target performs a check using a skill from the Martial skill group this game session, the target adds a kept  set to an (op)  result.</li>\n<li>Omen of the Vermilion Bird: The next time the target performs a check using a skill from the Social skill group this game session, the target adds a kept  set to an (op)  result.</li>\n<li>Omen of the Weaver and the Cowherd: The next time the target performs a check using a skill from the Trade skill group this game session, the target adds a kept  set to an (op)  result.</li>\n<li>If you fail, the GM chooses one of the above omens instead. The target cannot receive another divination until the next game session.</li>\n<li>New Opportunities</li>\n<li>(op): If you fail, an additional omen appears to you after the first. Choose one of the above omens in addition to the one the GM chose.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000004",
+      "name": "Cleansing Rite",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "212"
+        },
+        "description": "<h2>Cleansing Rite</h2>\n<ul>\n<li>Activation: As a downtime activity, you may make a TN 3 Theology (Void) check targeting up to five characters to remove spiritual contaminants from the targets before they spread. Note that this cannot remove a Shadowlands Taint disadvantage once it has taken hold, but it can prevent this spiritual contamination from taking root after a character is exposed.</li>\n<li>Effects: If you succeed, remove the Afflicted condition from the target.</li>\n</ul>\n<ul>\n<li><strong>Void (op):</strong> If one or more targets is an Otherworldly being, you become aware of it after completing the ritual—but you do not know which target.</li>\n<li><strong>Void (op)+:</strong> Choose one additional target per (op) spent this way.</li>\n<li><strong>Void (op)+:</strong> Instead of targeting characters, you may target an area that encompasses a number of range bands around you equal to (op) spent this way. Remove the Defiled terrain quality from this area. If it is a deeply unhallowed place that has long been the domain of evil, the Defiled quality returns after one day, plus additional days equal to your bonus successes.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000005",
+      "name": "Threshold Barrier",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "core_rulebook",
+          "page": "213"
+        },
+        "description": "<h2>Threshold Barrier</h2>\n<h3>Rank 1</h3>\n<p>The ritualist wards an entryway against beings of a certain sort, causing them to fail to observe the entryway or making them mentally repulsed by their efforts to enter it.</p>\n<ul>\n<li><strong>Activation:</strong> As a downtime activity, you may make a TN 2 Theology check using Air, Earth, Fire, Water, or Void targeting a threshold, gate, or other entryway at range 0–1.</li>\n</ul>\n<p><strong>Effects:</strong> If you succeed, the threshold is barred against a particular type of entity, based on the ring you chose, for one hour, plus additional hours equal to your bonus successes. When an entity of this type attempts to enter, it must resist with a TN 3 Meditation (Void) check or be repelled by the spiritual barrier. Whether it succeeds or fails, you immediately become aware of its attempted entry. The particular type of being is based on the ring you chose, as follows:</p>\n<ul>\n<li>Air: Ethereal Otherworldly beings such as spirits and ghosts.</li>\n<li>Earth: Living Tainted beings.</li>\n<li>Fire: Undead beings with corporeal form.</li>\n<li>Water: Wild animals.</li>\n<li>Void: Humans.</li>\n</ul>\n<p><strong>New Opportunities</strong></p>\n<ul>\n<li>(op): Instead of protecting a threshold, you may protect the entirety of a sealed area that extends a number of range bands around you no greater than your bonus successes.</li>\n<li>(op): If any beings of the type you are attempting to seal the threshold against have passed through the threshold within the last twenty-four hours, you become aware of their passage.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000006",
+      "name": "Blessed Union",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "110"
+        },
+        "description": "<h2>Blessed Union</h2>\n<h3>Rank 3</h3>\n<p>\"Asako Emon disapproved of his son's wife-to-be, despite the support of both families for the marriage. He thought his son deserved a more prestigious and wealthy union. He schemed to stop the marriage by secretly swapping out the blessed sake with a spoiled batch. Surely all would see this as a bad omen. Yet, all partook of the sake and found it to be pure like water, perfect. The kami had blessed the union. Emon immediately repented his selfish ways and became a monk to atone.\" - Asako family parable</p>\n<ul>\n<li>Activation: As a downtime activity, you may make a TN 1 Theology (Air) check targeting a number of people who are about to enter into a union.</li>\n<li>Effects: If you succeed, you immediately determine whether each target has good intentions for the union. Then, you may choose to conduct a ritual to formalize the union, and they become legally tied to one another.</li>\n</ul>\n<h4>New Opportunities</h4>\n<ul>\n<li>Air ~H: One of the targets gains the Karmic Tie distinction, giving them a supernatural tie to another targeted participant per ~~ spent this way (see page 108 of the core rulebook).</li>\n<li>Air ~~~~: If one or more of the targets have ill intentions for the union, minor manifestations of ill omens plague those targets for a number of weeks equal to your Void Ring.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "theology",
+        "difficulty": "1",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000007",
+      "name": "Blessing of the Dance",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "110"
+        },
+        "description": "<h2>Blessing of the Dance</h2>\n<h3>Rank 3</h3>\n<p>The young girl ignored the music, the colorful banners, and all of the sights, smells, and sounds of food to pull the priest toward the central shintai. One of the good luck paper banners had torn, rending the character for \"blessings\" in half.</p>\n<p>\"Look, look,\" the girl said, breathless and panicky. \"The priest laughed. \"No, this is good. The blessing has eaten all the bad luck, and it's now full. It has saved the festival from disaster. Let us thank it.\" The priest and girl both clasped their hands together and bowed.</p>\n<ul>\n<li><strong>Activation:</strong> As a downtime activity, you may make a TN 2 Performance (Water) check targeting everyone in the scene.</li>\n<li><strong>Effects:</strong> If you succeed, each target removes 3 strife and 3 fatigue.</li>\n</ul>\n<ul>\n<li><strong>Water ~~~~:</strong> Select a number of participants up to your Water Ring. Each of those characters decreases the TN of their next Social skill check by 2 (to a minimum of 1).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "performance",
+        "difficulty": "2",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000008",
+      "name": "Prayer of Protection",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "110"
+        },
+        "description": "<h2>Prayer of Protection</h2>\n<h3>Rank 4</h3>\n<p>The ritualist blesses an infant by drawing a word on their forehead with soot from the family's irori, asking the kami to watch out for the child.</p>\n<ul>\n<li><strong>Activation:</strong> As a downtime activity, you may make a TN 3 Theology (Fire) check targeting one infant in the scene who has not been targeted by this ritual before.</li>\n<li><strong>Effects:</strong> If you succeed, you bless the child. Until they reach the age of four, the child decreases the TN of any checks to resist harmful effects they make (including checks to resist disease) by 4 (to a minimum of 1).</li>\n</ul>\n<ul>\n<li><strong>New Opportunities</strong>:</li>\n<li>If you succeed, the child automatically succeeds at any checks to resist mundane harmful effects with one bonus success as well.</li>\n<li>If you succeed, you bless the child with one of the following advantages permanently: Ambidexterity, Senten's Blessing, Bishamon's Blessing, Daikoku's Blessing, Ebisu's Blessing, Flexibility, Fukurokujin's Blessing, Indomitable Will, Jurojin's Blessing, Keen Balance, Keen Hearing, Keen Sight, Keen Smell, Kisshoten's Blessing, Precise Memory, Quick Reflexes, Subtle Observer (or another, as approved by your GM).</li>\n<li>You may select an additional advantage from the list to give to the child permanently.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000009",
+      "name": "Rite of the Wheel",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "111"
+        },
+        "description": "<h2>Rite of the Wheel</h2>\n<h3>Rank 2</h3>\n<ul>\n<li><strong>Activation:</strong> As a downtime activity, you may make a TN 1 Theology (Void) check targeting one corpse in the scene.</li>\n<li><strong>Effects:</strong> If you succeed, the corpse gains the Sacred item quality. If a Tainted being attempts to interact with the corpse, they receive 5 strife.</li>\n</ul>\n<h3>New Opportunities</h3>\n<ul>\n<li><strong>Void ~>: </strong>The corpse does not decay for a number of days equal to your Void Ring.</li>\n<li><strong>Void ~>: </strong>You manage to make the corpse as presentable as possible (by reattaching limbs, cleaning up blood, tending to its clothing, etc.).</li>\n<li><strong>Void ~> ~>: </strong>You instinctively learn of the last thoughts the corpse had up to ten minutes before they died. These thoughts may be cryptic or confused and are subject to GM discretion.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "1",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000010",
+      "name": "Whispers to the Moon (Moon Cultist)",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "111"
+        },
+        "description": "<h2>Whispers to the Moon (Moon Cultist)</h2>\n<h3>Rank 5</h3>\n<p>The ritualist communes with the inherent chaos of the moon and the tides, channeling the raw, unbound energy into their target's mind.</p>\n<ul>\n<li><strong>Activation:</strong> As a downtime activity or a Scheme action, you may target one character at range 0-4 and make a TN 2 Theology (Water) check.</li>\n<li><strong>Effects:</strong> If you succeed, you augment the target's mind and open it to the unbound chaos of Onnotangu. The target receives strife equal to your Water Ring and must succeed at a TN 4 Meditation check (Earth 5, Fire 2). If they fail, they suffer the Disoriented, Exhausted, and Silenced conditions, and they reduce the TN of their next Scholar skill check by an amount equal to your Water Ring (to a minimum of 1). If you fail, you receive strife equal to your Water Ring and become Silenced and Immobilized for a number of rounds equal to one plus your shortfall.</li>\n</ul>\n<ul>\n<li><strong>Water ~>+:</strong> Targets with vigilance equal to or less than the ~> spent this way do not realize you were the one who attempted to use this ritual and do not understand what happened.</li>\n<li><strong>Water ~> +:</strong> Increase the amount of strife the target receives by 1 per ~> spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000011",
+      "name": "Formal Tea Ceremony",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "116"
+        },
+        "description": "<h2>Formal Tea Ceremony</h2>\n<p>Rank 5</p>\n<ul>\n<li>The chaji (formal tea ceremony) shares some similarities with the chakai (informal) tea ceremony, but the chaji is two to three hours long and includes a full meal. The process has been passed down over generations as tea masters have infused meaning into every movement and word used in the ceremony. If one can truly attune oneself to the ritual, which takes many years of practice, it is said that the chaji can help participants reach Enlightenment.</li>\n<li>Activation: Once per game session, as a downtime activity using a ceremonial tea set (see page 248 of the core rulebook), you may make a TN 5 Performance (Void) check targeting yourself and a number of other characters up to your ranks in Culture, who are also participants. Up to one other participant may assist, providing the usual benefits (see Assistance on page 26 of the core rulebook).</li>\n<li>Effects: Each participant removes 6 strife plus additional strife equal to your bonus successes. If you succeed, each participant also gains 1 Void point.</li>\n<li>New Opportunities:</li>\n<ul>\n<li>(op) (op): If you succeed, reduce the TN of each participant’s next check by 2.</li>\n<li>(op)+: Each participant removes 2 fatigue, plus 1 fatigue per (op) spent this way.</li>\n<li>(op) (op): If you succeed, you gain 1 glory per participant of higher status than yourself.</li>\n</ul>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "performance",
+        "difficulty": "5",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000012",
+      "name": "Treaty Signing",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "116"
+        },
+        "description": "<h2>Treaty Signing</h2>\n<h3>Rank 2</h3>\n<p>Entering into treaties and other formal agreements between clans and families has become something of a ritual over the centuries. The particulars vary from clan to clan (Unicorn treaties are often accompanied by the exchange of horses, while the Dragon generally ask for an hour of meditative contemplation beforehand), but generally such agreements involve both parties signing a document that contains the terms of the agreement and making pledges to uphold the agreement in front of an audience. The audience ensures the agreement is widely publicized, making it that much harder for either side to back down without losing face. However, inventing a document that both sides are willing to agree to is a true creative challenge. Such treaties become legendary amongst Rokugani diplomats.</p>\n<ul>\n<li><strong>Activation:</strong> Once per game session as a downtime activity (see page 248 of the core rulebook), you may make a TN 2 Composition (Fire) check to write an agreement. If you succeed, you may make a TN 3 Government (Air) check targeting yourself and a number of other characters, who are also participants. Up to three other participants may assist, providing the usual benefits (see Assistance on page 26 of the core rulebook).</li>\n<li><strong>Effects:</strong> If you succeed, each participant is assured that there are no mistakes or objectionable loopholes to the agreement, and that the agreement is acceptable to all parties involved. Each participant stakes 10 honor on upholding the agreement. Anyone who later breaks the agreement loses the honor they staked, unless another participant broke the agreement first.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities (Both Checks):</strong></li>\n<li>(op)+: If you succeed, all participants stake 1 additional honor, plus 1 additional honor per (op) spent this way.</li>\n<li>(op) (op) (op): If you succeed, you need only stake half the honor that the other participants stake.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "composition",
+        "difficulty": "2",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000013",
+      "name": "The Ties that Bind",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "court_of_stones",
+          "page": "117"
+        },
+        "description": "<h2>The Ties that Bind</h2>\n<ul>\n<li>Rank 4: A ritualist who is properly trained can reach out with their minds to gain some sense of the threads of fate that link different people together.</li>\n<li>Activation: As a downtime activity, you may make a TN 3 Sentiment (Void) check targeting one character.</li>\n<li>Effects: If you succeed, you learn of a character who would be a particularly fortuitous match for your target (in potentially any sort of relationship, such as marriage, friendship, or a formal alliance). This does not provide the exact identity of said character, but should provide valuable clues about this person (where they live, what their social status is, what clan or family they belong to, etc). If you already have met this character, the clues should be enough to identify them.</li>\n<li>If you are using the Bond rules found on page 136, after performing this ritual the target and identified character may decrease the cost of forming a Bond to 1 XP.</li>\n<li>New Opportunities: Void (op) (op)+: You learn of one likely future consequence of a relationship between your target and the identified character per (op) (op) spent in this way. These consequences may affect the target, their family and clan, or you and your clan.</li>\n<li>Void (op) (op) (op) (op): You may learn of another character who would be a particularly inauspicious match for your target, and one likely future consequence of their relationship.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "sentiment",
+        "difficulty": "3",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000014",
+      "name": "Balancing Salve (Qamarist Region)",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "96"
+        },
+        "description": "<h2>Balancing Salve (Qamarist Region)</h2>\n<ul>\n<li><strong>Rank 1</strong></li>\n<li>Within the known world, al-Zawira in the Qamarist Caliphate is said to have reached the greatest height of the medical arts and sciences. Researchers there tirelessly experiment and meticulously record their results, seeking to understand life, death, the states of matter, and the transitions between them all. Due to the influence of the academies and numerous published texts on medicine and alchemy, many citizens of al-Zawira are learned in the basics.</li>\n<li>Members of the caliph’s Shieldbearers, for instance, learn as part of their training to use an admixture of herbs alongside targeted pressure to stabilize a wounded patient, keeping them alive until a skilled physician can arrive on the scene. The user must know how to apply the cure to the specific ailment, whether it be using hyssop oil to prevent disease from catching or balancing elemental influences to drive away hostile spirits with mercury and sulfur.</li>\n<li><strong>Activation:</strong> Once per scene as a Support action using an alchemy kit (see page 114), you may make a TN 2 Medicine (Air) check targeting one character with the Dying or Afflicted condition.</li>\n<li><strong>Effects:</strong> If you succeed, remove the Dying or Afflicted condition from that character. The target suffers the Unconscious condition and cannot be awakened until the end of the scene.</li>\n<li><strong>New Opportunities:</strong></li>\n<li>(op): If inspected by someone who does not know this ritual, the target appears to be dead.</li>\n<li>(op) (op)+: Choose one additional target per (op) (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "medicine",
+        "difficulty": "2",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000015",
+      "name": "Elixir of Recovery (Qamarist Region)",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "96"
+        },
+        "description": "<h2>Elixir of Recovery (Qamarist Region)</h2>\n<ul>\n<li><strong>Rank:</strong> 2</li>\n<li><strong>[Qamarist Region]</strong></li>\n<li>While certain herbs and materials can help to keep an injured patient alive, others can dramatically accelerate recovery times, reducing pain, increasing mobility, and driving off inflammation. Some alchemists base these formulations on alignment with the universe, such as by altering their ingredients’ ratios based on the phase of the moon or on the elemental balance within the patient’s body.</li>\n<li><strong>Activation:</strong> As a downtime activity using an alchemy kit (see page 114), you may make a TN 3 Medicine (Water) check targeting one character.</li>\n<li><strong>Effects:</strong> If you succeed, your target removes twice as much fatigue when they rest and reduces the TN of their checks to remove conditions by 2. This effect persists until the end of the game session.</li>\n<li><strong>New Opportunities</strong></li>\n<li>(op) (op)+: Choose one additional target per (op) (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "medicine",
+        "difficulty": "3",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000016",
+      "name": "Fortitude Draught (Qamarist Region)",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "96"
+        },
+        "description": "<h2>Fortitude Draught (Qamarist Region)</h2>\n<ul>\n<li>Activation: As a downtime activity using an alchemy kit (see page 114), you may make a TN 4 Medicine (Earth) check targeting one character.</li>\n<li>Effects: If you succeed, your target adds one bonus success to their successful checks to resist critical strikes, plus one for every two bonus successes on the Medicine check. This effect persists until the end of the next scene.</li>\n<li>New Opportunities</li>\n<li>(op)+: Choose one additional target per (op) spent this way.</li>\n<li>(op): If you succeed, your target also adds the same number of bonus successes to their successful checks to resist supernatural effects (such as the effect of an invocation or mahō technique).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "medicine",
+        "difficulty": "4",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000017",
+      "name": "Restorative Transmutation (Qamarist Region)",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "96"
+        },
+        "description": "<h2>Restorative Transmutation (Qamarist Region)</h2>\n<h3>Rank 5</h3>\n<ul>\n<li><strong>Activation:</strong> As a downtime activity using an alchemy kit (see page 114), you may make a TN 6 Medicine (Void) check targeting one character who suffered a critical strike of severity 7–8 Permanent Injury or severity 9–11 Maiming Blow in the previous scene. If a limb was detached, you must have that limb to attempt this ritual.</li>\n<li><strong>Effects:</strong> If you succeed, you remove any disadvantage the character received as a result of the critical strike, and they instead gain the Horrible Scar adversity (see page 72).</li>\n</ul>\n<ul>\n<li><strong>New Opportunities</strong></li>\n<li>\u0002 \u0002 \u0002+: If you succeed, instead of gaining the Horrible Scar adversity, the character gains the Dashing Scar distinction on page 69.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "5",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "medicine",
+        "difficulty": "6",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000018",
+      "name": "Cleansing of Coral and Gold (Ivory Kingdoms Region)",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "97"
+        },
+        "description": "<h2>Cleansing of Coral and Gold (Ivory Kingdoms Region)</h2>\n<ul>\n<li>Activation: As a downtime activity using a small piece of coral and one koku’s worth of gold, you may make a TN 3 Theology (Void) check targeting a quantity of food and water sufficient for one person for a day. This does not consume the coral or gold.</li>\n<li>Effects: If you succeed, the food and water are cleansed of the Unholy item quality if they had it, and they are spiritually safe to consume. They remain this way for twenty-four hours.</li>\n<li>New Opportunities</li>\n<li>\u0002+: If you succeed, you cleanse food and water sufficient for one additional person per \u0002 spent this way.</li>\n<li>\u0002 \u0002+: If you succeed, each character who partakes of this food and water reduces the TN of their next check to resist any effect from an Otherworldly or Tainted being, or from a mahō technique, by £ per \u0002 \u0002 spent this way. This effect persists until the end of the game session.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000019",
+      "name": "Wayfarer's Path",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "path_of_waves",
+          "page": "97"
+        },
+        "description": "<h2>Wayfarer’s Path</h2>\n<h3>Rank 2</h3>\n<ul>\n<li>Simple: dropping a leaf and letting the wind carry it, casting dice and reading their direction, or even letting a staff fall and walking the path it indicates. While these methods are not the courtly divinations of Great Clan samurai, many wandering warriors put a great deal of faith in them.</li>\n<li>Activation: Once per game session as a downtime activity while at a crossroads, in the wilderness, or in another place where your path is unclear, you may make a TN 3 Meditation check.</li>\n<li>Effects: If you succeed, you encounter a sign of one of the following based on the ring you used:</li>\n<ul>\n<li>Earth: Direction of someone with whom you share a bond.</li>\n<li>Water: Direction of an opportunity to make money.</li>\n<li>Fire: Direction of the nearest large-scale conflict.</li>\n<li>Air: Direction of a person related to your past or desire.</li>\n<li>Void: Direction in which you are needed most.</li>\n</ul>\n<li>New Opportunities</li>\n<ul>\n<li>\u0002 \u0002+: You see a sign revealing the same information for one additional person in the scene per \u0002 \u0002 spent this way.</li>\n</ul>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "meditation",
+        "difficulty": "3",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000020",
+      "name": "Blessing of Steel (Artisan)",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "114"
+        },
+        "description": "<h2>Blessing of Steel (Artisan)</h2>\n<ul>\n<li>The shikigami is intelligent, can communicate with you, and generally obeys your orders. It can perform any invocations you have sealed within it as an action, using your ranks in Composition and its ring value for the skill check.</li>\n<li>ADVANTAGES: Tireless ( Martial; Physical), Rebellious ( Martial; Mental)</li>\n<li>FAVORED WEAPONS & GEAR: Cutting Edges: Range 0, Damage 1, Deadliness 2; Gear (equipped): None</li>\n<li>ABILITIES:</li>\n<li>IMBUED WITH POWER: The more powerful the invocations invested into a shikigami, the higher its associated ring values become. If a shikigami is invested with one or more invocations of a particular element (Air, Earth, Fire, Water, or Void), it treats that ring value as equal to the highest among the school rank prerequisites of those invocations. Example: A shikigami invested with a rank 2 Air invocation, a rank 1 Earth invocation, and a rank 3 Water invocation would have ring values of Air 2, Earth 1, Fire 1, Water 3, Void 1.</li>\n<li>LIVING INVOCATION: Once per scene as an action, a shikigami may perform one invocation invested in it without making a check. It counts as having 2 bonus successes and (op) (op).</li>\n<li>RESTRICTED ACTION: During a conflict, if a shikigami and the ritualist who created it are both present, the shikigami does not take its own turn. During the shugenja’s turn, it can move up to 1 range band. As a Support action, the ritualist may have the shikigami perform an action with their assistance (see page 26 of the core rulebook).</li>\n<li>New Opportunities:</li>\n<li>(op): Choose one of your advantages and one of your disadvantages. Add these to the shikigami.</li>\n<li>(op): Instead of appearing as the item or material from which it was created, the shikigami has a different form of your choosing of the same silhouette.</li>\n<li>(op)+: Increase the silhouette of the shikigami by 1 per (op) spent this way.</li>\n<li>(op)+: Choose one skill. The shikigami possesses a number of ranks in this skill equal to the (op) spent this way. You may activate this multiple times for different skills.</li>\n<li>(op)+: Increase the shikigami’s endurance or composure by 2 per (op) spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "smithing",
+        "difficulty": "2",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000021",
+      "name": "Craft Shikigami (Shugenja)",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "shadowlands",
+          "page": "114"
+        },
+        "description": "<h2>Craft Shikigami (Shugenja)</h2>\n<ul>\n<li>The shikigami is intelligent, can communicate with you, and generally obeys your orders. It can perform any invocations you have sealed within it as an action, using your ranks in Composition and its ring value for the skill check.</li>\n<li>Shikigami are small creatures that can be created through relatively simple rituals that tie the newly constructed beings to their creator. Paper is commonly used, allowing them to be folded flat and rest inside books, or even flutter about on butterfly wings. Shikigami follow the directions of their creator (for the most part) and can perform simple tasks or remember conversations.</li>\n<li>CONFLICT RANK:  1,  1</li>\n<li>DEMEANOR - FIERCE</li>\n<li>ENDURANCE, COMPOSURE, FOCUS, VIGILANCE</li>\n<li>ARTISAN 1, ARTISAN 1, MARTIAL 1, MARTIAL 1, SCHOLAR 1, SCHOLAR 1, SOCIAL 1, SOCIAL 1, TRADE 1, TRADE 1</li>\n<li>ADVANTAGES: Tireless ( Martial; Physical), Rebellious ( Martial; Mental)</li>\n<li>DISADVANTAGES: Tireless ( Martial; Physical), Rebellious ( Martial; Mental)</li>\n<li>FAVORED WEAPONS & GEAR: Cutting Edges (Range 0, Damage 1, Deadliness 2), Gear (equipped): None</li>\n<li>ABILITIES:</li>\n<li>IMBUED WITH POWER: The more powerful the invocations invested into a shikigami, the higher its associated ring values become. If a shikigami is invested with one or more invocations of a particular element (Air, Earth, Fire, Water, or Void), it treats that ring value as equal to the highest among the school rank prerequisites of those invocations. Example: A shikigami invested with a rank 2 Air invocation, a rank 1 Earth invocation, and a rank 3 Water invocation would have ring values of Air 2, Earth 1, Fire 1, Water 3, Void 1.</li>\n<li>LIVING INVOCATION: Once per scene as an action, a shikigami may perform one invocation invested in it without making a check. It counts as having 2 bonus successes and (op) (op).</li>\n<li>RESTRICTED ACTION: During a conflict, if a shikigami and the ritualist who created it are both present, the shikigami does not take its own turn. During the shugenja’s turn, it can move up to 1 range band. As a Support action, the ritualist may have the shikigami perform an action with their assistance (see page 26 of the core rulebook).</li>\n<li>New Opportunities:</li>\n<li>(op): Choose one of your advantages and one of your disadvantages. Add these to the shikigami.</li>\n<li>(op): Instead of appearing as the item or material from which it was created, the shikigami has a different form of your choosing of the same silhouette.</li>\n<li>(op)+: Increase the silhouette of the shikigami by 1 per (op) spent this way.</li>\n<li>(op)+: Choose one skill. The shikigami possesses a number of ranks in this skill equal to the (op) spent this way. You may activate this multiple times for different skills.</li>\n<li>(op)+: Increase the shikigami’s endurance or composure by 2 per (op) spent this way.</li>\n<li>Animal Shikigami by Element: Air – Birds, butterflies, bats, moths; Water – Fish, frogs, salamanders; Fire – Dragonflies, fireflies, centipedes; Earth – Mice, rats, spiders.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "",
+        "difficulty": "",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000022",
+      "name": "Blessing of Fertile Fields",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "celestial_realms",
+          "page": "110"
+        },
+        "description": "<h2>Blessing of Fertile Fields</h2>\n<h3>Rank 2</h3>\n<p>The ritualist spends several hours praying to the local kami and spreading offerings around the perimeter of the fields, working to boost the harvests yield, protect it from pests, and ward off excessive flooding and heat.</p>\n<ul>\n<li><strong>Activation:</strong> As a downtime activity, you may make a TN 2 Theology (Earth) or Survival (Earth) check targeting the fields of a settlement.</li>\n<li><strong>Effects:</strong> If you succeed, all fields within the settlement are protected from pests and excessive flooding and heat until the next harvest.</li>\n</ul>\n<ul>\n<li><strong>Earth ~~ ~~:</strong> All affected fields will produce a more bountiful yield at the next harvest.</li>\n<li><strong>Earth ~~ ~~:</strong> All affected fields within range 6 gain the Hallowed (Earth) terrain quality until the end of the next harvest.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "earth",
+        "skill": "theology",
+        "difficulty": "2",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000023",
+      "name": "Beseech Akodo's Judgment",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "96"
+        },
+        "description": "<h2>Beseech Akodo's Judgment</h2>\n<h3>Rank 3</h3>\n<ul>\n<li>Activation: Once per game session as a Support action, you may make a TN 3 Tactics (Void) check targeting one terrain feature on the battlefield (or one battle zone, if using the rules for battle zones).</li>\n<li>Effect: If you succeed, increase your army's discipline by your glory rank plus your ranks in Command as long as your army has at least one cohort occupying the chosen terrain feature (or in that battle zone, if using the rules for battle zones). This effect persists until your army has no cohort occupying that feature (or zone), or until the end of the scene.</li>\n</ul>\n<h3>New Opportunities</h3>\n<ul>\n<li>*+: If you succeed and designate a fortification (or a battle zone with a fortification in it), while your army occupies that fortification, increase that fortification's difficulty level by 1 per * spent this way.</li>\n<li>l-£, *+: Each time your army suffers panic from battle fatigue during this scene, it suffers 1 less per ̂. spent this way (to a minimum of 1).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "tactics",
+        "difficulty": "3",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000024",
+      "name": "Beseech Bayushi's Absolution",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "96"
+        },
+        "description": "<h2>Beseech Bayushi's Absolution</h2>\n<h3>Rank 4</h3>\n<p>Bayushi never denied the ugly truth of war, nor did the Kami of the Scorpion Clan shy away from it. Instead, the self-proclaimed villain of the Emperor faced it with clear eyes and hidden emotions. When faced with an impossible task or the need to set their heart aside to carry out their lord's orders, many samurai across all the clans appeal to Bayushi and his unending loyalty, working to focus their entire being on their goal.</p>\n<ul>\n<li><strong>Activation:</strong> Once per game session as a downtime activity, you may make a TN 3 Sentiment (Air) check targeting yourself.</li>\n<li><strong>Effects:</strong> If you succeed, the next time you would receive strife or fatigue, reduce the amount you receive by your focus. This effect persists until the end of the next scene.</li>\n<li><strong>New Opportunities:</strong></li>\n<li>If you succeed, the next time you would forfeit honor, reduce the amount you forfeit by half (rounded up).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "sentiment",
+        "difficulty": "3",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000025",
+      "name": "Beseech Doji's Wisdom",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "96"
+        },
+        "description": "<h2>Beseech Doji's Wisdom</h2>\n<h3>Rank 2</h3>\n<p>Doji believed that war was a necessary evil, and hoped that each time Rokugan went to war, it might emerge more enlightened, so that future wars might prove unnecessary. As such, she took seriously the task of recording the wars she witnessed, for without a history to study, her descendants could never learn from these mistakes and aspire to transcend all such mortal strife.</p>\n<ul>\n<li><strong>Activation:</strong> Once per game session as a downtime activity, you may make a TN 3 Composition check to transcribe a historical event you witnessed to paper. The event must have transpired within the recent past, before it has become well-known across the Empire.</li>\n<li><strong>Effects:</strong> You write from the heart to create a record of the event that rings a genuine account and omits no details of significance. Readers with vigilance lower than your honor rank trust the events to be true, or at least recorded in good faith.</li>\n</ul>\n<h4>New Opportunities</h4>\n<ul>\n<li><strong>Fire</strong> (−): If you succeed, each character who is awarded one or more glory as a result of their involvement in this event receives that much glory plus your ranks in Culture instead.</li>\n<li><strong>Fire</strong> (1'C): If you succeed, choose one Great Clan or other major organization. The first time a character of that organization reads the text each scene, that character gains 2 strife.</li>\n<li><strong>Earth</strong> (=): If you succeed, the text gains the Durable quality.</li>\n<li><strong>Earth</strong> (¥−+): If you succeed, when referencing the text as part of a check concerning the recorded historical event, reduce the TN of the check by your ranks in Government (to a minimum of 1).</li>\n<li><strong>Air</strong> (¥, +): If you succeed, you may omit one detail of significance per * spent this way without creating contradictions or obvious gaps in the text.</li>\n<li><strong>Air</strong> (* =): If you succeed, choose one character. If that character is awarded one or more glory as a result of their involvement in this event, they receive double or half (your choice) that amount (rounded up) instead.</li>\n<li><strong>Water</strong> (¥−): If you succeed, reduce the TN of any check to copy the text by 2 (to a minimum of 1).</li>\n<li><strong>Water</strong> (1'C): If you succeed, choose one Great Clan or other major organization. The first time a character of that organization reads the text each scene, that character removes 2 strife.</li>\n<li><strong>Void</strong> (it> it>): The text becomes inhabited by a permanent blessing. It gains the Sacred item quality (see page 241 of the core rulebook).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "composition",
+        "difficulty": "3",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000026",
+      "name": "Beseech Hida's MIght",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "97"
+        },
+        "description": "<h2>Beseech Hida's Might</h2>\n<ul>\n<li><strong>Rank 2</strong> Contests of strength were a favorite of the Kami Hida, and even today, spiritualists in Rokugan call upon his blessing when sanctifying an area for ritualized battle. Whether the arena is a circle for sumai or a parting of the battle lines for a field duel, it is important that it be properly respected as a place for champions to take up arms.</li>\n<li><strong>Activation:</strong> Once per game session as a downtime activity or Support action, you may make a TN 2 Meditation (Fire) check targeting an area encompassing 3 range bands around yourself.</li>\n<li><strong>Effects:</strong> If you succeed, this area becomes an arena. When a character makes a Martial Arts check in the arena during the event and does not gain strife from the check, that character reduces the TN of their next check by 1 (to a minimum of 1 ). This effect persists until the end of the next scene.</li>\n<li><strong>New Opportunities</strong></li>\n<li>¥-: If you succeed, the arena gains the Halmed (Fire) terrain quality until the end of the scene.</li>\n<li>¥>+: If you succeed, increase the Endurance and Composure of each character fighting a duel in the arena by 1 per it> spent this way.</li>\n<li>¥,+: Reduce the TN of checks to remove the Bleeding and Dying conditions from characters within the arena by 1 per it> spent this way (to a minimum of 1 ).</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "fire",
+        "skill": "meditation",
+        "difficulty": "2",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000027",
+      "name": "Beseech Shiba's Calm",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "97"
+        },
+        "description": "<h2>Beseech Shiba's Calm</h2>\n<h3>Rank 3</h3>\n<p>Shiba was a warrior, but he did not love war—despite his vast might, he sought peace over conflict and compromise over bloodshed. Yet war was inescapable in his lifetime, and so he sought /sawa's spiritual expertise to learn methods for purifying battlefields after times of bloodshed profaned the land. As the War with Fu Leng dragged on, /sawa saw the wisdom in sharing this knowledge, and the rites he taught Shiba for stilling the unsettled spirits of the land after the shedding of blood are used in Rokugan even centuries later.</p>\n<h4>Activation:</h4>\n<p>Once per game session after participating in a Mass Battle or as a downtime activity, you may make a TN 3 Theology (Void) check targeting an area upon which a mass battle was fought earlier that day.</p>\n<h4>Effects:</h4>\n<p>If you succeed, remove the Defiled terrain quality from the area.</p>\n<h4>New Opportunities</h4>\n<ul>\n<li>If the area gained the Dangerous, Entangling, or Obscuring terrain quality during the battle through supernatural means, remove one or more of those terrain qualities of your choice.</li>\n<li>Remove the Imbalanced terrain quality from the area.</li>\n<li>Until the end of the game session, non-Tainted beings reduce the TN of Theology checks they make in this area by 1 (to a minimum of 1), and Tainted beings increase the TN of all checks they make in this area by 1.</li>\n<li>Reduce the TN of any Fitness or Meditation checks that characters in your army need to make at the end of a scene by 1 per * spent this way, to a minimum of 1.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "theology",
+        "difficulty": "3",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000028",
+      "name": "Beseech Shinjo's Empathy",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "97"
+        },
+        "description": "<h2>Beseech Shinjo's Empathy</h2>\n<h3>Rank 2</h3>\n<p>Shinjo's innate connection to the wilds of the world is carried on by many of her descendants. On their long journey across the wider world and back to Rokugan, Shinjo's heirs have kept her wisdom alive and flourishing as they raise and train animals from hounds and hunting hawks to mighty Utaku steeds. Their techniques have even been adopted by some stablemasters of other Great Clans after their return to Rokugan.</p>\n<p><strong>Activation:</strong> Once per session as a downtime activity or Support action, you may make a Survival (Water) check targeting a friendly animal at range 0-1. The TN is equal to the U conflict rank of the animal. If this is an animal you are bonded with (see page 111 of the core rulebook), reduce the TN of the check by 2 (to a minimum of 1).</p>\n<p><strong>Effects:</strong> If you succeed, your target removes 3 fatigue, plus 1 additional fatigue per bonus success on the check.</p>\n<ul>\n<li>Į-: You and the target each remove 1 strife per bonus success.</li>\n<li>Į-: If you succeed, your target removes additional fatigue equal to your ranks in Medicine.</li>\n<li>Į-: Remove the Bleeding condition from the target.</li>\n<li>* *= Remove the Lightly Wounded condition from the target, or reduce the Severely Wounded condition to the Lightly Wounded condition.</li>\n<li>* *= If you succeed, remove the Dying condition from the target.</li>\n<li>* Į.+: Choose one additional friendly animal of the same U conflict rank or lower in range as a target per * spent this way.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "water",
+        "skill": "survival",
+        "difficulty": "@T:martialRank",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000029",
+      "name": "Beseech Togashi's Vision",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "98"
+        },
+        "description": "<h2>Beseech Togashi's Vision</h2>\n<h3>Rank 3</h3>\n<ul>\n<li>Togashi always saw the bigger picture, especially in the War with Fu Leng. When he stood as Hantei's champion, set to face Fu Leng in a duel, Togashi named his weapon as no less than the entire Empire. And though Fu Leng was eventually defeated at the Day of Thunder, some say that Togashi's duel with his fallen brother rages to this day, each celestial power subtly moving pieces back and forth across a board no others can perceive. Strategists across the Great Clans often appeal to Togashi's enigmatic wisdom, even if they cannot claim to understand designs of such vast and cosmic complexity.</li>\n<li>Activation: Once per game session as a downtime activity or as a Scheme and Support action during a Mass Battle, you may make a TN 3 Meditation (Void) check targeting a character you can perceive (or a leader or commander of an enemy army in the scene).</li>\n<li>Effects: If you succeed, you assess another character's strategy. Once before the end of the next scene, after that character performs an action, you may reveal that you were prepared for this and immediately perform one action.</li>\n</ul>\n<ul>\n<li>New Opportunities</li>\n<li>Į-: If you succeed and you are the commander of an army, you may choose a leader in your army to perform the action instead.</li>\n<li>*= While you perform the prepared action, reduce the TN by your ranks in Tactics.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "meditation",
+        "difficulty": "3",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000030",
+      "name": "Imbue Thunder",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "fields_of_victory",
+          "page": "98"
+        },
+        "description": "<h2>Imbue Thunder</h2>\n<h3>Rank 4</h3>\n<p>Fireworks are the sacred domain of specifically trained priests and spiritual artisans, and many among the Agasha and Asahina specialize in creating beautiful alchemical displays for festivals and other cultural events. These same techniques could, of course, be used to create blasting powder, but meddling in the domain of priests for purposes of waging war would surely constitute some form of blasphemy.</p>\n<ul>\n<li>Activation: To perform this ritual, you must first assemble the proper ingredients (charred wood, salt of earth, pollen that burns) in the proper proportions. One full set of materials costs 10 koku and has a rarity of 6, and is consumed by the process. Once per session as a downtime activity, you may make a TN 4 Medicine check to properly mix the ingredients to create blasting powder.</li>\n</ul>\n<p>Effects: If you succeed, you create ten brilliant flares (see 90), plus ten per two bonus successes, or one blasting powder charge (see page 90), plus one per two bonus successes.</p>\n<ul>\n<li>When used in a skirmish, the charge inflicts the Dazed condition on all characters at range 0-4.</li>\n<li>When used in a skirmish, increase the charge's range band by 1.</li>\n<li>When used, the charge inflicts 2 additional damage (or attrition) per ൾ- ൿ- spent this way.</li>\n<li>When used, the charge inflicts 2 additional strife (or panic) per ඀- ඁ- spent this way.</li>\n<li>When used in a skirmish, the charge inflicts the Bleeding condition on all characters at range 0-2.</li>\n<li>When used, the charge frightens away all kami in the radius of effect (or across the entire battlefield, in a mass battle). The affected area becomes Imbalanced (All Elements) terrain. This effect persists for 1 day.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "medicine",
+        "difficulty": "4",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000031",
+      "name": "Chikushō-dō’s Guile",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "118"
+        },
+        "description": "<h2>Chikushō-dō’s Guile</h2>\n<h3>Rank 1 [Yōkai]</h3>\n<p>Yōkai who hail from the Realm of Animals are often tricksters, and even those who do not find deception of humans a pleasant pastime can still fool most mortals into seeing them as they choose to appear. By undertaking a ritual to temporarily shed their animal form, such a yōkai can become human for a time. However, the transformation is always imperfect, some aspects of their human form mirroring that of their spiritual form and breaking down under certain circumstances. Still, for a yōkai who wishes to pass among humans—for mischief or matters more benevolent—this ritual is an invaluable tool.</p>\n<p>The ritual generally requires acquiring an article of human clothing and can only be performed out of the sight of humans.</p>\n<ul>\n<li><strong>Activation:</strong> As a downtime activity, you may make a TN 1 Survival (Air) check to tap into the power of Chikushō-dō and Sakkaku, shrouding yourself in human form.</li>\n<li><strong>Effects:</strong> If you succeed, you transform into a human form that is derived from your true form. You are functionally human (and are unable to use techniques that require aspects of your true form). Observers with vigilance lower than or equal to your ranks in Performance do not detect any flaws in your façade. However, certain key features of your body persist across all of your forms, such as the color of your feathers or fur becoming part of your hair or clothes, or identifying scars remaining on your body. If you become Compromised, your disguise slips, subtly revealing your true form in your feathers or fur, feet, or shadow. As a Support action, you may transform back into your true form.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities:</strong></li>\n<li>(op): You may choose a form of another creature of silhouette 2.</li>\n<li>(op) (op): You may choose a form of a creature of silhouette 1 or 3.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "survival",
+        "difficulty": "1",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000032",
+      "name": "Guard Against the Elements",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "119"
+        },
+        "description": "<h2>Guard Against the Elements</h2>\n<h3>Rank 1 [Yobanjin Group]</h3>\n<p>The people of the Woolen Hooves tribe are natural born survivors and have honed their talents over their lives to accommodate the harshness of their environment.</p>\n<ul>\n<li><strong>Activation:</strong> As a downtime activity, you may make a TN 3 Survival check using Air, Earth, Fire, or Water and targeting a number of characters at range 0–3 up to your ranks in Survival.</li>\n<li><strong>Effects:</strong> If you succeed, the targets are prepared to deal with harsh weather and environments of a particular type. When making a check to resist these effects, each target reduces the TN of that check by 1. The first time a target would be affected by a terrain quality that pertains to that type of weather or environment each scene, the target ignores the effects of that terrain quality. The particular type of weather and/or environment are based on the ring you chose, as follows:</li>\n</ul>\n<ul>\n<li>Air: Pressure and noxious gasses</li>\n<li>Earth: Altitude and lack of oxygen</li>\n<li>Fire: Extreme cold</li>\n<li>Water: Extreme heat</li>\n</ul>\n<p>This effect persists until the end of the game session.</p>\n<ul>\n<li><strong>New Opportunities:</strong></li>\n<li>(op)+: Choose one additional target per (op) spent this way.</li>\n<li>(op) (op) (op): If you succeed, choose one additional type of weather; your targets are also protected against the effects of that weather.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "1",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "survival",
+        "difficulty": "3",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000033",
+      "name": "Cunning Snares",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "119"
+        },
+        "description": "<h2>Cunning Snares</h2>\n<h3>Rank 2</h3>\n<p>[Shinobi or Yobanjin Group]</p>\n<p>Those that live in the wilderness must learn to make due with what they have, and trap-making is one such strategy for both survivors and those participating in clandestine activities, like shinobi.</p>\n<ul>\n<li><strong>Activation:</strong> As a downtime activity, you may make a TN 1 Survival (Air) check to create and set a number of traps at range 0–5 of your current position.</li>\n<li><strong>Effects:</strong> If you succeed, you set one trap, plus one additional trap for every 2 bonus successes. Each trap occupies a position at range 0–5 of where you made the check, and triggers after a character moves to range 0 of it. After the trap triggers, the target must make a check to resist its effects. Choose each trap from the following list:</li>\n</ul>\n<ul>\n<li><strong>Deadfall Trap:</strong> A trap that drops stones, sharp objects, or other dangerous debris onto the target. The target must resist with a TN 5 Fitness check (Water 3, Fire 6) or suffer physical damage equal to two times their shortfall.</li>\n<li><strong>Pitfall Trap:</strong> A trap that causes the target to fall into a pit, and can include sharpened wood or bamboo spikes for extra harm. The target must resist with a TN 4 Fitness check (Earth 2, Water 5) or suffer 6 physical damage and the Dazed and Disoriented conditions.</li>\n<li><strong>Rope Snare:</strong> A counterweighted trap that snares the target, pulling them off their feet. The target must resist with a TN 5 (Fire 3, Earth 6) or suffer physical damage equal to their shortfall that ignores their physical resistance and the Immobilized condition.</li>\n</ul>\n<ul>\n<li><strong>New Opportunities:</strong></li>\n<li>(op)+: Increase the TN of the check to resist these traps by 1, plus 1 for every additional (op) (op) spent this way.</li>\n<li>(op): If the trap inflicts damage, increase that damage by your ranks in Skulduggery. If it inflicts a critical strike, increase the severity of the critical strike by your ranks in Skulduggery.</li>\n<li>(op): If the trap inflicts damage, the target also suffers the Bleeding condition.</li>\n<li>(op) (op): Use a number of doses of poison up to the number of traps you made, and choose that many traps you created to envenom. Each trap you envenom counts as being treated with this poison for the purposes of any damage it inflicts.</li>\n</ul>\n<p><em>THE DEADLINESS OF TRAPS: If a trap deals damage, treat its deadliness as 7.</em></p>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "2",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "survival",
+        "difficulty": "1",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000034",
+      "name": "Hunter’s Expertise",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "120"
+        },
+        "description": "<h2>Hunter’s Expertise</h2>\n<h3>Rank 3</h3>\n<p>[Yobanjin Group]</p>\n<p>The skill of a hunter is cherished in the often harsh conditions that many yobanjin groups live in. To know one’s quarry is paramount to ensuring a full belly and another day in the mortal realm.</p>\n<ul>\n<li><strong>Activation:</strong> As a downtime activity, you may make a TN 5 Survival check using Air, Earth, Fire, Water, or Void and targeting one character you have previously encountered. For each advantage or disadvantage of the target that you know, reduce the TN by 1.</li>\n<li><strong>Effects:</strong> If you succeed and the target is the sort of creature matching the ring you chose, you prepare one weapon to be especially deadly to it. Increase the weapons’ deadliness when used against the chosen target by 3, plus 1 for every 2 bonus successes. Each ring covers a number of types of creature, as described below:</li>\n</ul>\n<ul>\n<li><strong>Air:</strong> Ethereal Otherworldly beings such as spirits and ghosts.</li>\n<li><strong>Earth:</strong> Living Tainted beings.</li>\n<li><strong>Fire:</strong> Undead beings with corporeal form.</li>\n<li><strong>Water:</strong> Wild animals.</li>\n<li><strong>Void:</strong> Non-Tainted sentient beings such as humans.</li>\n<ul>\n<li><strong>New Opportunities:</strong></li>\n<li>(op): If you succeed, choose a number of additional weapons to prepare equal to your ranks in Smithing, to a minimum of 1 additional weapon.</li>\n<li>(op): If you succeed and the target is a minion NPC, the weapons’ increased deadliness applies to all minion NPCs with the same base profile.</li>\n<li>(op) (op): If you succeed, instead of increasing the weapon’s deadliness, you may choose to have the weapons ignore a number of points of the target’s physical resistance equal to your ranks in Survival.</li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "3",
+        "bought_at_rank": 0,
+        "ring": "air",
+        "skill": "survival",
+        "difficulty": "5",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    },
+    {
+      "_id": "L5RCoreRit000035",
+      "name": "Trance of Lives Past",
+      "type": "technique",
+      "sort": 100001,
+      "flags": {},
+      "img": "https://assets.forge-vtt.com/bazaar/systems/l5r5e/assets/assets/icons/techs/ritual.svg",
+      "effects": [],
+      "_stats": {
+        "coreVersion": "12.331",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null
+      },
+      "ownership": {
+        "default": 0
+      },
+      "system": {
+        "source_reference": {
+          "source": "writ_of_the_wild",
+          "page": "120"
+        },
+        "description": "<h2>Trance of Lives Past</h2>\n<h3>Rank 4 [Monk]</h3>\n<p>Time and death are boundaries that appear impermeable to most. However, some spiritualists and kihō practitioners can press up against these boundaries and bend them, if not break them fully, drawing forth knowledge and memories from lives past. The user can follow the spiritual energy they imprinted upon a person, place, or thing long ago, reconnecting to it and reawakening lost memories of that past existence. This may even cause the personality of the previous life to briefly resurface - for better or for worse, as that entity may have had its own goals and desires unrelated to the present character's, or even opposed to them.</p>\n<ul>\n<li><strong>Activation:</strong> As a downtime activity, you may make a TN 4 Meditation (Void) check targeting a place, object, or individual one of your past lives. Reduce the TN by 2 if all three of the following are true:<ul>\n<li>You have one or more items (other than your target) from your past life</li>\n<li>You are in a place (other than your target) important to your past life</li>\n<li>You have interacted with an individual from your past life (other than the target) within the last 24 hours</li>\n</ul></li>\n<li><strong>Effects:</strong> If you succeed, your GM reveals a specific memory you have related to your target. If your GM is unsure what the significance should be, they might ask you to help come up with the specifics of the memory, and then offer modifications to your proposed recollection based on the needs of the story.</li>\n<li><strong>New Opportunities:</strong><ul>\n<li>(op)+: Reduce the TN of your next check related to the target by 1.</li>\n<li>(op) (op) (op) (op): If you fail, you become possessed by your past self until the end of the scene. Use this character’s profile instead of your own (an NPC profile determined by your GM). You control your character’s actions while possessed (though the past life may have different goals and desires, as narratively appropriate), but your character has no memory of the events that transpire during this time.</li>\n</ul></li>\n</ul>",
+        "parent_id": null,
+        "items": [],
+        "in_curriculum": false,
+        "xp_used": 0,
+        "xp_cost": "3",
+        "rank": "4",
+        "bought_at_rank": 0,
+        "ring": "void",
+        "skill": "meditation",
+        "difficulty": "4",
+        "technique_type": "ritual"
+      },
+      "folder": null
+    }
+  ]
+}
