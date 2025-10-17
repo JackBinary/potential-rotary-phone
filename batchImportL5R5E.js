@@ -1,12 +1,25 @@
+// batchImportL5R5E.js
+// Legend of the Five Rings (L5R5e) compendium batch importer for Foundry VTT
+// v1.1 (2025-10-16)
+// - Safe IIFE wrapper
+// - Duplicate-run guard
+// - Exposes window.L5R5E.batchImport(opts)
+// - Defaults to your GitHub raw URLs & file list
+
 (() => {
-  if (window.__L5R5E_BATCH_RUNNING__) {
-    console.warn("[L5R5E] batch upsert already running");
+  const VERSION = "1.1";
+
+  // Prevent concurrent runs
+  if (window.__L5R5E_BATCH_IMPORT_RUNNING__) {
+    console.warn("[L5R5E] batch import already running; aborting new invocation.");
     return;
   }
-  window.__L5R5E_BATCH_RUNNING__ = true;
+  window.__L5R5E_BATCH_IMPORT_RUNNING__ = true;
 
+  // Namespace + public API
   window.L5R5E = window.L5R5E || {};
 
+  // ---------- Defaults (you can override via window.L5R5E.batchImport({...})) ----------
   const DEFAULTS = {
     BASE_URL: "https://raw.githubusercontent.com/JackBinary/potential-rotary-phone/refs/heads/main/",
     FILES: [
@@ -28,181 +41,167 @@
       "l5r5e.core-techniques-shuji_Techniques_Shuji.json",
       "l5r5e.core-titles_Titles.json",
     ],
-    // --- Upsert behavior ---
-    MATCH_BY_NAME_FIRST: true,       // <== key change: match by name+type before _id
-    NAME_COLLAPSE_WHITESPACE: true,
-    NAME_REMOVE_DIACRITICS: true,
-    PATCH_ONLY: true,                // only update selected fields below
-    PATCH_PATHS: ["system.description"],
-    // --- Runtime ---
-    CHUNK: 25,
-    UNLOCK_IF_LOCKED: true,
-    SHOW_TOASTS: true,
-    SLEEP_BETWEEN_FILES: 300
+    CHUNK: 20,                 // batch size for delete/import
+    SHOW_TOASTS: true,         // Foundry toasts
+    UNLOCK_IF_LOCKED: true,    // auto-unlock pack before writing
+    CREATE_IF_MISSING: false,  // require original packs to exist by collection id
+    SLEEP_MS_BETWEEN_FILES: 300
   };
 
-  const toast = (m,t="info",cfg=DEFAULTS)=>cfg.SHOW_TOASTS&&ui.notifications[t]?.(m);
-  const sleep = ms => new Promise(r=>setTimeout(r,ms));
+  const toast = (m, t="info", cfg=DEFAULTS) => cfg.SHOW_TOASTS && ui.notifications[t]?.(m);
+  const sleep = (ms) => new Promise(r => setTimeout(r, ms));
 
-  // ---------- Name normalization & keys ----------
-  const removeDiacritics = (s) => s.normalize("NFD").replace(/\p{Diacritic}/gu, "");
-  function normName(s, cfg) {
-    if (!s) return "";
-    let out = String(s);
-    if (cfg.NAME_REMOVE_DIACRITICS) out = removeDiacritics(out);
-    out = out.toLowerCase();
-    if (cfg.NAME_COLLAPSE_WHITESPACE) out = out.replace(/\s+/g, " ");
-    return out.trim();
-  }
-  const nameKey = (name, type, cfg, pack) => `${normName(name, cfg)}::${type || pack.documentName}`;
-
-  // ---------- Object path helpers ----------
-  const getByPath=(obj,p)=>p.split(".").reduce((a,c)=>a?.[c],obj);
-  const setByPath=(obj,p,v)=>p.split(".").reduce((a,c,i,arr)=>(i===arr.length-1?a[c]=v:(a[c]??={}),a[c]),obj);
-  const buildPatch=(src,paths)=>{const o={};for(const p of paths){const v=getByPath(src,p);if(v!==undefined)setByPath(o,p,v);}return o;};
-
-  async function buildPackIndexes(pack, cfg) {
-    const idx = await pack.getIndex();
-    // Build: id set, and name->id map (first seen wins)
-    const idSet = new Set(idx.map(e => e._id));
-    const nameMap = new Map(); // key: nameKey -> id
-    const dupNames = new Map(); // key -> array of ids (for info)
-    for (const e of idx) {
-      const key = nameKey(e.name, e.type, cfg, pack);
-      if (!nameMap.has(key)) {
-        nameMap.set(key, e._id);
-      } else {
-        // track duplicates for logging
-        const arr = dupNames.get(key) || [];
-        arr.push(e._id);
-        dupNames.set(key, arr);
+  async function wipePack(pack, cfg) {
+    const index = await pack.getIndex();
+    const ids = index.map(e => e._id);
+    for (let i = 0; i < ids.length; i += cfg.CHUNK) {
+      const slice = ids.slice(i, i + cfg.CHUNK);
+      try {
+        await pack.documentClass.deleteDocuments(slice, { pack: pack.collection });
+      } catch (err) {
+        console.warn("[L5R5E] Batch delete failed, falling back to per-id", err);
+        for (const id of slice) {
+          try { await pack.deleteDocument(id); } catch (e) { console.error("[L5R5E] Delete failed", id, e); }
+        }
       }
     }
-    if (dupNames.size) {
-      console.warn("[L5R5E] Duplicate names detected in pack:", pack.collection, dupNames);
-    }
-    return { idSet, nameMap };
   }
 
-  async function processFile(fname, cfg) {
-    const url = cfg.BASE_URL + fname;
-    toast(`Fetching ${fname}…`, "info", cfg);
+  async function importDocs(pack, docs, cfg) {
+    let imported = 0;
 
-    // Fetch JSON
-    let payload;
-    try {
-      const r = await fetch(url, { cache: "no-store" });
-      if (!r.ok) throw new Error(`${r.status} ${r.statusText}`);
-      payload = await r.json();
-    } catch (e) {
-      console.error("[L5R5E] Fetch fail", e);
-      toast(`Fetch failed: ${fname}`, "error", cfg);
-      return { file: fname, status: "fetch-failed" };
+    // Create temporary Item instances first so Foundry recognizes the document class (e.g., ItemL5r5e)
+    async function buildTemp(raw) {
+      const data = foundry.utils.duplicate(raw);
+      return await pack.documentClass.create(data, { temporary: true });
     }
 
-    if (!payload?.documents || !payload?.pack?.collection) {
-      toast(`Invalid JSON in ${fname}`, "error", cfg);
-      return { file: fname, status: "bad-json" };
-    }
+    for (let i = 0; i < docs.length; i += cfg.CHUNK) {
+      const slice = docs.slice(i, i + cfg.CHUNK);
 
-    const collection = payload.pack.collection;
-    const pack = game.packs.get(collection);
-    if (!pack) {
-      toast(`Pack missing: ${collection}`, "error", cfg);
-      return { file: fname, status: "no-pack", collection };
-    }
-
-    if (pack.locked && cfg.UNLOCK_IF_LOCKED) {
-      try { await pack.configure({ locked:false }); toast(`Unlocked ${pack.metadata.label}`,"info",cfg); }
-      catch(e){ console.warn("Unlock failed", e); }
-    }
-
-    // Build indexes
-    const { idSet, nameMap } = await buildPackIndexes(pack, cfg);
-
-    let updatedByName = 0, updatedById = 0, created = 0, failed = 0;
-
-    const buildTemp = async d => pack.documentClass.create(foundry.utils.duplicate(d), { temporary:true });
-
-    // Process in batches
-    for (let i = 0; i < payload.documents.length; i += cfg.CHUNK) {
-      const slice = payload.documents.slice(i, i + cfg.CHUNK);
-
+      // Build temp docs
+      const temps = [];
       for (const d of slice) {
         try {
-          const key = nameKey(d.name, d.type, cfg, pack);
-          let targetDoc = null;
-
-          // 1) Prefer matching by NAME+TYPE
-          if (cfg.MATCH_BY_NAME_FIRST && nameMap.has(key)) {
-            const targetId = nameMap.get(key);
-            targetDoc = await pack.getDocument(targetId);
-            if (targetDoc) {
-              if (cfg.PATCH_ONLY) {
-                const patch = buildPatch(d, cfg.PATCH_PATHS);
-                patch._id = targetDoc.id;
-                await targetDoc.update(patch, { pack: pack.collection });
-              } else {
-                await targetDoc.update(d, { pack: pack.collection });
-              }
-              updatedByName++;
-              continue;
-            }
-          }
-
-          // 2) Fallback: exact _id match
-          if (idSet.has(d._id)) {
-            const byId = await pack.getDocument(d._id);
-            if (byId) {
-              if (cfg.PATCH_ONLY) {
-                const patch = buildPatch(d, cfg.PATCH_PATHS);
-                patch._id = d._id;
-                await byId.update(patch, { pack: pack.collection });
-              } else {
-                await byId.update(d, { pack: pack.collection });
-              }
-              updatedById++;
-              continue;
-            }
-          }
-
-          // 3) Neither matched → create new (keepId)
-          const tmp = await buildTemp(d);
-          await pack.importDocument(tmp, { keepId:true });
-          created++;
-
-          // Update indexes so later items in this batch can match by name
-          const newId = tmp.id || d._id;
-          idSet.add(newId);
-          if (!nameMap.has(key)) nameMap.set(key, newId);
-
+          const t = await buildTemp(d);
+          temps.push(t);
         } catch (e) {
-          failed++;
-          console.error(`[L5R5E] Upsert fail for ${d?.name ?? d?._id}`, e);
-          toast(`Fail: ${d?.name ?? d?._id}`, "warn", cfg);
+          console.error(`[L5R5E] Temp create failed for "${d?.name ?? d?._id}"`, e, d);
+          toast(`Temp create failed: ${d?.name ?? d?._id}`, "warn", cfg);
+        }
+      }
+
+      // Import
+      for (const t of temps) {
+        try {
+          await pack.importDocument(t, { keepId: true });
+          imported++;
+        } catch (e) {
+          console.error(`[L5R5E] Import failed for "${t?.name ?? t?.id}"`, e, t);
+          toast(`Import error: ${t?.name ?? t?.id}`, "warn", cfg);
         }
       }
     }
 
-    await pack.getIndex({ reload:true });
-    toast(`${pack.metadata.label}: ${updatedByName} name-updated, ${updatedById} id-updated, ${created} created, ${failed} failed`, "info", cfg);
-    return { file: fname, updatedByName, updatedById, created, failed, collection };
+    await pack.getIndex({ reload: true });
+    return imported;
   }
 
-  async function main(opts={}) {
+  async function processOneFile(fname, cfg) {
+    const url = cfg.BASE_URL + fname;
+    toast(`Fetching ${fname}...`, "info", cfg);
+
+    // Fetch JSON
+    let payload;
+    try {
+      const resp = await fetch(url, { cache: "no-store" });
+      if (!resp.ok) throw new Error(`${resp.status} ${resp.statusText}`);
+      payload = await resp.json();
+    } catch (e) {
+      console.error(`[L5R5E] Fetch/parse failed for ${fname}`, e);
+      toast(`Failed to fetch/parse ${fname}: ${e.message}`, "error", cfg);
+      return { file: fname, status: "error", error: e.message };
+    }
+
+    if (!payload?.documents || !payload?.pack?.collection) {
+      toast(`Invalid JSON shape in ${fname}`, "error", cfg);
+      return { file: fname, status: "error", error: "invalid-json-shape" };
+    }
+
+    const collection = payload.pack.collection;
+    let pack = game.packs.get(collection);
+    if (!pack) {
+      if (!cfg.CREATE_IF_MISSING) {
+        toast(`Compendium missing: ${collection}`, "error", cfg);
+        return { file: fname, status: "missing-pack", collection };
+      }
+      try {
+        const created = await CompendiumCollection.createCompendium({
+          label: payload.pack.label ?? collection.split(".").pop(),
+          type: payload.pack.type ?? "Item",
+          package: "world",
+          system: payload.pack.system || game.system.id
+        });
+        pack = game.packs.get(created.collection);
+      } catch (e) {
+        toast(`Failed to create pack for ${collection}`, "error", cfg);
+        return { file: fname, status: "error", error: "create-pack-failed", collection };
+      }
+    }
+
+    // Warnings only
+    if (payload.pack.type && pack.documentName !== payload.pack.type) {
+      console.warn(`[L5R5E] Type mismatch for ${collection}: JSON=${payload.pack.type}, Pack=${pack.documentName}`);
+    }
+    if (payload.pack.system && pack.metadata.system !== payload.pack.system) {
+      console.warn(`[L5R5E] System mismatch for ${collection}: JSON=${payload.pack.system}, Pack=${pack.metadata.system}`);
+    }
+
+    // Unlock if needed
+    if (pack.locked && cfg.UNLOCK_IF_LOCKED) {
+      try {
+        await pack.configure({ locked: false });
+        toast(`Unlocked "${pack.metadata.label}"`, "info", cfg);
+      } catch (e) {
+        console.warn("[L5R5E] Could not unlock pack:", e);
+      }
+    }
+
+    // Wipe
+    toast(`Clearing "${pack.metadata.label}"...`, "info", cfg);
+    await wipePack(pack, cfg);
+
+    // Import
+    toast(`Importing ${payload.documents.length} into "${pack.metadata.label}"...`, "info", cfg);
+    const imported = await importDocs(pack, payload.documents, cfg);
+    toast(`Imported ${imported}/${payload.documents.length} into "${pack.metadata.label}".`, "info", cfg);
+
+    return { file: fname, status: "ok", imported, collection };
+  }
+
+  async function main(opts = {}) {
     const cfg = Object.assign({}, DEFAULTS, opts);
     const results = [];
-    console.info("[L5R5E] Batch UPSERT (name-first) starting…");
-    for (const f of cfg.FILES) {
-      results.push(await processFile(f, cfg));
-      await sleep(cfg.SLEEP_BETWEEN_FILES);
+
+    console.info(`[L5R5E] Batch importer v${VERSION} starting…`);
+    for (const fname of cfg.FILES) {
+      const res = await processOneFile(fname, cfg);
+      results.push(res);
+      await sleep(cfg.SLEEP_MS_BETWEEN_FILES);
     }
+
     console.table(results);
-    toast("Batch upsert complete — see console for summary", "info", cfg);
-    window.__L5R5E_BATCH_RUNNING__ = false;
+    console.log("[L5R5E] Batch complete:", results);
+    toast("Batch import complete. Check console for summary.", "info", cfg);
     return results;
   }
 
-  window.L5R5E.batchUpsert = main;
-  main();
+  // Expose API and auto-run once on load
+  window.L5R5E.batchImport = main;
+
+  // Auto-run with defaults
+  main().finally(() => {
+    window.__L5R5E_BATCH_IMPORT_RUNNING__ = false;
+  });
+
 })();
