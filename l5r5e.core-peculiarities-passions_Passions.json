@@ -1316,7 +1316,7 @@
           "source": "emerald_empire",
           "page": "244"
         },
-        "description": "<h2>Military History</h2>\n<ul>\n<li>The following apply to a character with the Military History adversity:</li>\n<li>Due to your lack of formal military training or experience, you are viewed with suspicion by seasoned samurai and may be seen as untrustworthy in matters of combat or strategy.</li>\n<li>When making a check related to military operations, leadership, or combat tactics (such as a Command [Fire] check to direct troops or a Combat [Earth] check to assess battlefield conditions), you must choose and reroll two dice showing (su) or (ex) results. After resolving the check, if you failed, you regain 1 Void point.</li>\n</ul>",
+        "description": "<h2>Military History</h2>\n<p>The following apply to a character with the Military History adversity:</p>\n<ul>\n\n<li>\n\n\n<p>You can quickly identify historical or traditional military ploys from memory and can</p>\n\n\n<p>almost always suggest an appropriate tactic for the situation at hand based on a similar historical situation.</p>\n\n</li>\n\n<li>\n\n\n<p>After performing a check related to your knowledge of military history (such as a Command [Earth] check to bolster troops’ resolve with a story of a similar historical battle or a Tactics [Earth] check to prepare a defense based on the attacker’s known strategies), you remove 3 strife.</p>\n\n</li>\n</ul>",
         "parent_id": null,
         "items": [],
         "in_curriculum": false,
