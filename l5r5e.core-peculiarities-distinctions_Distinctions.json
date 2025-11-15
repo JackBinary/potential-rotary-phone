@@ -2076,7 +2076,7 @@
           "source": "emerald_empire",
           "page": "242"
         },
-        "description": "<h2>Kuge Lineage</h2>\n<ul>\n<li>You have proven yourself to a someone, who is willing to help you (within reason). They are open to sharing what they know about most topics, whether via a face-to-face meeting or written correspondence. They are also willing to arrange introductions for you with people they know.</li>\n<li>When performing a check that benefits from your close relationship with the character (such as a Courtesy [Water] check to requisition an item through them or a Sentiment [Water] check to read their emotions), you may reroll up to two dice.</li>\n</ul>",
+        "description": "<h2>Kuge Lineage</h2>\n<ul>\n<li>\n<p>By dint of your birth, you are a member of the kuge, Rokugan’s nobility. Samurai of the buke caste must treat you with great respect</p>\n</li>\n<li>\n<p>When performing a check for which your hereditary authority is a benefit (such as a Command [Earth] check to silence a buke samurai or a Government [Earth] check to cite familiarity with the practices of the Imperial families), you may reroll up to two dice.</p>\n</li>\n</ul>",
         "parent_id": null,
         "items": [],
         "in_curriculum": false,
